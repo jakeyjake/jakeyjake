@@ -24,55 +24,55 @@
 </info>
 
 <item>
-<title>Sky Sports 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://37.220.32.44:443/liverepeater/stream22 playpath=stream22 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://37.220.32.36:443/liverepeater/23697 playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
 <thumbnail>http://aidymp.weebly.com/uploads/1/8/2/8/18284985/1395970073.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] 1</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=royalblue]Sky[/COLOR][COLOR=FFFF0000] Sports[/COLOR] News</title>
+<title>[B}Sky Sports News[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
 <thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/302121d1358595649-devlin-saga-everton-football-club-sky-sports-news-uk-logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR=royalblue]BT[/COLOR] Sport[COLOR=FFFF0000] 1[/COLOR]</title>
+<title>[B]BT Sport 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/Xn6ULsU.png</thumbnail>
 </item>
  
  <item>
-<title>[COLOR=royalblue]BT[/COLOR] Sport[COLOR orange] 2[/COLOR]</title>
+<title>[B]BT Sport 2[/B]</title>
 <link>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
