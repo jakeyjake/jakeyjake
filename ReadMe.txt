@@ -1,6 +1,6 @@
-Just a list of some enjoyable films along with some found live football streams for personal viewing.
+For personal viewing: A list of some enjoyable films, along with some live football streams. 
 
 These are all links found via a google search.
-None of these files have been uploaded by myself. Nor do I host the file/streams.
+None of these files have been uploaded by myself, nor do I host these files or streams.
 
 http://is.gd/jakes_list
