@@ -31,6 +31,13 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://94.242.228.201:80/liverepeater/151315 playpath=151315 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html</link>
+<thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
