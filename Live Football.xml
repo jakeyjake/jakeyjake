@@ -10,18 +10,13 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message></message>
-	<message></message>
+	<message>[COLOR royalblue]This will likely remain a small section consisting mainly of live UK football streams.[/COLOR]</message>
+	<message>[COLOR royalblue]I will endeavour to update the links as much as possible[/COLOR]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
-
-
-<info>
-<message>[COLOR royalblue]This will likely remain a small section consisting mainly of live UK football streams. I will endeavour to update the links as much as possible[/COLOR]</message>
-</info>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
@@ -130,6 +125,12 @@
 <link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/xyePBGz.jpg</thumbnail>
 </item>
+
+<item>
+ <title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://37.220.32.44:443/liverepeater/stream22 playpath=stream22 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html</link>
+<thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
+ 	</item>
 
 
 
