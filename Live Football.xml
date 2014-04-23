@@ -55,6 +55,12 @@
 </item>
 
 <item>
+<title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://31.220.0.86:1935/live/151315 playpath=151315 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
+<thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B]Sky Sports News[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
 <thumbnail>http://www.fm-base.co.uk/forum/attachments/football-manager-2013-manager-stories/302121d1358595649-devlin-saga-everton-football-club-sky-sports-news-uk-logo.png</thumbnail>
@@ -126,11 +132,6 @@
 <thumbnail>http://i.imgur.com/xyePBGz.jpg</thumbnail>
 </item>
 
-<item>
- <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.32.44:443/liverepeater/stream22 playpath=stream22 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html</link>
-<thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
- 	</item>
 
 
 
