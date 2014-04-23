@@ -31,7 +31,7 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://94.242.228.201:80/liverepeater/151315 playpath=151315 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html</link>
+<link>rtmp://94.242.228.201:80/liverepeater/151315 playpath=151315 swfUrl=http://cdn.goodcast.pw/players.swf live=1 pageUrl=http://goodcast.me/stream.php?id=151315&width=800&height=500&stretching=</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
