@@ -20,7 +20,7 @@
 
 
 <info>
-<message>[B]This will likely remain a small section consisting of live football streams. I will endeavour to update the links as much as possible.[/B]</message>
+<message>[COLOR royalblue]This will likely remain a small section consisting mainly of live UK football streams. I will endeavour to update the links as much as possible[/COLOR]</message>
 </info>
 
 <item>
@@ -96,8 +96,27 @@
 </item>
 
 <item>
+<title>[B]Sky Sports 2[/B]</title>
+<link>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html</link>
+<thumbnail>http://i.imgur.com/Pg9Dr07.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Sky Sports 3[/B]</title>
+<link>rtmp://37.220.32.43:443/liverepeater/23699 playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss3.html</link>
+<thumbnail>http://i.imgur.com/a6QixyX.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Sky Sports 4[/B]</title>
+<link>rtmp://37.220.32.55:443/liverepeater/23700 playpath=23700 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss4.html</link>
+<thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
+</item>
+
+<item>
 <title>[B]FilmOn Football[/B]</title>
-<link>rtmp://live305.edge.filmon.com/live/ playpath=374.low.stream swfUrl= http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf? live=1 pageUrl=http://www.filmon.com/tv/filmon-football</link>
+<link>rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbe1c07c9f1b63486bffad68ca28dfbc9c0048b6a45d9f62d2f9655028cc0e2958ba600e9aa2622fa96d7400847402057ac25b57ce5a9f88a727f60cc5c18d9576df6e74ee8b9834d1f6ebaf2eb270b1323eb7a14d401b424e3d71371710e90ca221791c7c3c21cee5e373e482e25fc069d90abf8f56d5bef8ae3ef911117b705a8c63c1b06cf499579a591ce3a3f65ffd5/374.low.stream playpath=374.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=54 live=1 pageUrl=http://www.filmon.com/tv/filmon-football?utm_source=jemaGermany_1003-2-&utm_medium=cpv&utm_campaign=jema#</link>
 <thumbnail>http://i.imgur.com/vez1Vsy.png</thumbnail>
 </item>
+
 
