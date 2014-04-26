@@ -27,7 +27,7 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.131.7.131:1900/streamer? playpath=afwawawmy_cz8438 swfUrl=http://castasap.com/uplayer/uppod.swf? live=1 pageUrl=http://castasap.com/embedhd.php?chname=afwawawmy&width=640&height=385</link>
+<link>rtmp://31.131.7.131:1900/streamer playpath=afwawawmy_cz8438 swfUrl=http://castasap.com/uplayer/uppod.swf? live=1 pageUrl=http://castasap.com/embedhd.php?chname=afwawawmy&width=640&height=385</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
 
