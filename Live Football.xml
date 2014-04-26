@@ -93,6 +93,12 @@
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
+<link>rtmp://174.36.251.135:443/liverepeater/stream21 playpath=stream21 swfUrl=rtmp://174.36.251.135:443/liverepeater/stream21 live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<thumbnail>http://a177.phobos.apple.com/us/r1000/108/Purple/v4/d1/51/bf/d151bfde-bb12-bb36-547e-dfa73c47f9b1/mzl.zrrrfudk.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
 <link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
 <thumbnail>http://a177.phobos.apple.com/us/r1000/108/Purple/v4/d1/51/bf/d151bfde-bb12-bb36-547e-dfa73c47f9b1/mzl.zrrrfudk.png</thumbnail>
 </item>
