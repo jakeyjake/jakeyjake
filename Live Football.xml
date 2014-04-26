@@ -11,11 +11,19 @@
 
 <info>
 	<message>[B][COLOR royalblue]This will likely remain a small list; mainly UK football streams for personal viewing.[/COLOR][/B]</message>
-	<message>[COLOR tan]Last updated: Wednesday 23rd April[/COLOR]</message>
+	<message>[COLOR tan]Last updated: Saturday 26th April[/COLOR]</message>
+	<message>[B][COLOR skyblue]NBC Sports 3pm GMT Stoke v Tottenham and 5.30pm GMT Crystal Palace vs Manchester City[/COLOR][/B]</message>
+	<message>[B][COLOR skyblue]NBC Sports 5.30pm GMT Man United v Norwich[/COLOR][/B]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
+
+<item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/B][/COLOR]</title>
+<link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<thumbnail>http://a177.phobos.apple.com/us/r1000/108/Purple/v4/d1/51/bf/d151bfde-bb12-bb36-547e-dfa73c47f9b1/mzl.zrrrfudk.png</thumbnail>
+</item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
@@ -58,6 +66,7 @@
 <link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de</link>
 <thumbnail>http://www.newstelevisions.com/wp-content/uploads/2012/09/Sky-Sports-1-HD.jpg</thumbnail>
 </item>
+
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
