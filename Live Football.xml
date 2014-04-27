@@ -158,30 +158,6 @@
 <thumbnail>http://i.imgur.com/ekESqQ7.png</thumbnail>
 </item>
 
-<item>
-<title>test</title>
-<link>$doregex[rtmp]$doregex[path]$doregex[end]
-<regex>
-<name>rtmp</name>
-<expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>end</name>
-<expres><hdcastend>(.+?)</hdcastend></expres>
-<page>http://goo.gl/Vq6n6x</page>
-<referer> </referer>
-</regex>
-<regex>
-<name>path</name>
-<expres>fid="([^'"]+)"</expres>
-<page>http://hdfoots.com/watch/skysports-1-live-streaming.php</page>
-<referer> </referer>
-</regex>
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
