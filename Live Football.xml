@@ -10,11 +10,11 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR royalblue]This will likely remain a small list; mainly UK football streams for personal viewing.[/COLOR][/B]</message>
+	<message>[B][COLOR royalblue]A small list for personal viewing; some back-up channels for UK football streams. Enjoy viewing.[/COLOR][/B]</message>
+	<message>[B][COLOR skyblue]C.Palace v Manchester City, 4.10pm Sky Sports 1 and NBC Sports Live Extra[/COLOR][/B]</message>
 	<message>[COLOR tan]Last updated: Sunday 27th April[/COLOR]</message>
-	<message>[B][COLOR skyblue]NBC Sports 4.10pm GMT C.Palace v Manchester City[/COLOR][/B]</message>
-	<message>Some channels do not broadcast 24/7. Check schedules online before clicking: BoxNation, ChelseaTV.</message>
-	<message>All season, every channel, 24/7, watch Man Utd v Man Utd</message>
+	<message>Some channels do not broadcast 24/7. To avoid loading issues, check schedules online before clicking BoxNation, ChelseaTV.</message>
+	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
