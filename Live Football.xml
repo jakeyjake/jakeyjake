@@ -11,9 +11,10 @@
 
 <info>
 	<message>[B][COLOR royalblue]This will likely remain a small list; mainly UK football streams for personal viewing.[/COLOR][/B]</message>
-	<message>[COLOR tan]Last updated: Saturday 26th April[/COLOR]</message>
-	<message>[B][COLOR skyblue]NBC Sports 3pm GMT Stoke v Tottenham[/COLOR][/B]</message>
-	<message>[B][COLOR skyblue]NBC Sports 5.30pm GMT Man United v Norwich[/COLOR][/B]</message>
+	<message>[COLOR tan]Last updated: Sunday 27th April[/COLOR]</message>
+	<message>[B][COLOR skyblue]NBC Sports 4.10pm GMT C.Palace v Manchester City[/COLOR][/B]</message>
+	<message>Some channels do not broadcast 24/7. Check schedules online before clicking: BoxNation, ChelseaTV.</message>
+	<message>All season, every channel, 24/7, watch Man Utd v Man Utd</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
@@ -62,6 +63,24 @@
 </item>
 
 <item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
+<link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
+<link>rtmp://174.36.251.135:443/liverepeater/stream21 playpath=stream21 swfUrl=rtmp://174.36.251.135:443/liverepeater/stream21 live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
+<link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
+</item>
+
+<item>
 <title>[B]Sky Sports News[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
@@ -80,24 +99,6 @@
 </item>
 
  <item>
-<title>[B]Wigan V Blackpool[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
-<link>rtmp://174.36.251.135:443/liverepeater/stream21 playpath=stream21 swfUrl=rtmp://174.36.251.135:443/liverepeater/stream21 live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
-<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
-<link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
-<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
-</item>
-
- <item>
 <title>[B]TSN 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
@@ -107,12 +108,6 @@
 <title>[B]TSN 2[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
-</item>
-
- <item>
-<title>[B]ESPN UK[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/espnk playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490</link>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
 <item>
@@ -133,6 +128,18 @@
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
+ <item>
+<title>[B]ESPN UK[/B]</title>
+<link>rtmp://31.220.0.195:1935/live/espnk playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490</link>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+ <item>
+<title>[B]BeIn 1[/B]</title>
+<link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490</link>
+<thumbnail></thumbnail>
+</item>
+
 <item>
 <title>[B]Chelsea TV[/B]</title>
 <link>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true live=1 pageUrl=http://coolsport.tv/chelseatv.html</link>
@@ -149,6 +156,31 @@
 <title>[B]BOXNATION[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/ekESqQ7.png</thumbnail>
+</item>
+
+<item>
+<title>test</title>
+<link>$doregex[rtmp]$doregex[path]$doregex[end]
+<regex>
+<name>rtmp</name>
+<expres><hdcastrtmp>(.+?)</hdcastrtmp></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>end</name>
+<expres><hdcastend>(.+?)</hdcastend></expres>
+<page>http://goo.gl/Vq6n6x</page>
+<referer> </referer>
+</regex>
+<regex>
+<name>path</name>
+<expres>fid="([^'"]+)"</expres>
+<page>http://hdfoots.com/watch/skysports-1-live-streaming.php</page>
+<referer> </referer>
+</regex>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 
