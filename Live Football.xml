@@ -19,6 +19,11 @@
 
 #PLAYLIST ITEMS#
 
+item>
+<title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://31.220.0.134:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
@@ -94,8 +99,20 @@
 
 <item>
 <title>[B]BT Sport 1[/B]</title>
+<link>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 timeout=10</link>
+<thumbnail>http://i.imgur.com/tjSHTsP.png</thumbnail>
+</item>
+
+<item>
+<title>[B]BT Sport 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/tjSHTsP.png</thumbnail>
+</item>
+
+ <item>
+<title>[B]BT Sport 2[/B]</title>
+<link>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 timeout=10</link>
+<thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
  
  <item>
