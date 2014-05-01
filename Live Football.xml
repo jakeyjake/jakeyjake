@@ -93,6 +93,12 @@ item>
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
+<link>rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Sky Sports News[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
