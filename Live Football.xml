@@ -131,7 +131,6 @@ item>
 <title>[B]TSN 1[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.196:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490 timeout=10</sublink>
-<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </item>
