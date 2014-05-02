@@ -129,7 +129,10 @@ item>
 
  <item>
 <title>[B]TSN 1[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490</link>
+<link>
+<sublink>rtmp://204.107.26.247/live/?id=0ad5aac39bb13fbe3754b50f4ad0bc7204359e134a5f90b63545cf4453f192b8e09bab53e296d794662b992ffe0a4975ad6ab08de067002ab0d3175375fa7497ea4f31189b258c41ceaf79b68a2417f34fa35b0a0aebe3eb364e37fc85e155ac1f844d7e67ae5a4f40006345fa38693718be6422c0c5bdc53cc5cd30586dcc18ed37e8e60a7494d4ae3d348de361be908d9e55eec3cca193/2053.low.stream playpath=2053.low.stream swfUrl=https://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=54 live=1 pageUrl=https://www.filmon.com/tv/channel/export?channel_id=2053&affid=39703Jc timeout=10</sublink>
+<sublink>rtmp://31.220.0.86:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490</sublink>
+</link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </item>
 
@@ -138,8 +141,8 @@ item>
 <link>
 <sublink>rtmp://31.220.0.86:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 timeout=10</sublink>
 <sublink>rtmp://31.220.0.134:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 timeout=10</sublink>
-<thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </link>
+<thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </item>
 
 <item>
