@@ -82,7 +82,7 @@ item>
 
 <item>
 <title>[B]Sky Sports 1 test[/B]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky1</link>
+<link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
@@ -206,7 +206,11 @@ item>
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
-
+<item>
+<title>[B]BOXNATION[/B]</title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/boxnation</link>
+<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
+</item>
 
 
 
