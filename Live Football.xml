@@ -106,13 +106,13 @@ item>
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 timeout=10</link>
-<thumbnail>http://i.imgur.com/tjSHTsP.png</thumbnail>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
 
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490</link>
-<thumbnail>http://i.imgur.com/tjSHTsP.png</thumbnail>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
 
  <item>
@@ -172,7 +172,7 @@ item>
 <item>
 <title>[B]Chelsea TV[/B]</title>
 <link>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true live=1 pageUrl=http://coolsport.tv/chelseatv.html</link>
-<thumbnail>http://i.imgur.com/QwHD763.png</thumbnail>
+<thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
 </item>
 
 <item>
@@ -184,7 +184,7 @@ item>
 <item>
 <title>[B]BOXNATION[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490</link>
-<thumbnail>http://i.imgur.com/ekESqQ7.png</thumbnail>
+<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
 
