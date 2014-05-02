@@ -69,9 +69,23 @@ item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
+
+<item>
+<title>[B]Sky Sports 1 test[/B]</title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/sky1</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
@@ -93,13 +107,13 @@ item>
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/</link>
+<link>rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/ timeout=10</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490</link>
+<link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
 
@@ -111,19 +125,19 @@ item>
 
 <item>
 <title>[B]BT Sport 1[/B]</title>
-<link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
 
  <item>
-<title>[B]BT Sport 2[/B]</title>
-<link>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 timeout=10</link>
+<title>[B]BT Sport 2 test[/B]</title>
+<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=1 timeout=10 swfVfy=1 token=WY846p1E1g15W7s</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
  
  <item>
 <title>[B]BT Sport 2[/B]</title>
-<link>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
 
@@ -146,37 +160,37 @@ item>
 
 <item>
 <title>[B]Sky Sports 2[/B]</title>
-<link>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html</link>
+<link>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</link>
 <thumbnail>http://i.imgur.com/Pg9Dr07.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 3[/B]</title>
-<link>rtmp://37.220.32.43:443/liverepeater/23699 playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss3.html</link>
+<link>rtmp://37.220.32.43:443/liverepeater/23699 playpath=23699 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss3.html timeout=10</link>
 <thumbnail>http://i.imgur.com/a6QixyX.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 4[/B]</title>
-<link>rtmp://37.220.32.55:443/liverepeater/23700 playpath=23700 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss4.html</link>
+<link>rtmp://37.220.32.55:443/liverepeater/23700 playpath=23700 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss4.html timeout=10</link>
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
  <item>
 <title>[B]ESPN UK[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/espnk playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490</link>
+<link>rtmp://31.220.0.195:1935/live/espnk playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
  <item>
 <title>[B]BeIn 1[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490</link>
+<link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/8He1Kms.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Chelsea TV[/B]</title>
-<link>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true live=1 pageUrl=http://coolsport.tv/chelseatv.html</link>
+<link>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true live=1 pageUrl=http://coolsport.tv/chelseatv.html timeout=10</link>
 <thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
 </item>
 
@@ -188,7 +202,7 @@ item>
 
 <item>
 <title>[B]BOXNATION[/B]</title>
-<link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490</link>
+<link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
