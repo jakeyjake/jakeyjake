@@ -202,13 +202,13 @@ item>
 
 <item>
 <title>[B]BOXNATION[/B]</title>
-<link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490 timeout=10</link>
+<link>rtmp://198.50.226.53:1935/send/_definst_/boxnation</link>
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
 <item>
 <title>[B]BOXNATION[/B]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/boxnation</link>
+<link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
