@@ -113,7 +113,7 @@
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/ssnewsrx playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ssnewsrx&vw=620&vh=490 timeout=10</link>
+<link>rtmp://198.50.226.53:1935/send/_definst_/skynews timeout=10</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
 
