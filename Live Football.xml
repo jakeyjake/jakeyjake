@@ -51,7 +51,7 @@ item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH</link>
+<link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
@@ -73,7 +73,6 @@ item>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
-
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de</link>
@@ -81,19 +80,16 @@ item>
 </item>
 
 <item>
-<title>[B]Sky Sports 1 test[/B]</title>
+<title>[B]Sky Sports 1 test I[/B]</title>
 <link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
-<title>[B]Sky Sports 1 test2[/B]</title>
-<link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+<title>[B]Sky Sports 1 test II[/B]</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.36.65:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH live=N.SAT timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
-
-rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
-
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
@@ -137,6 +133,12 @@ rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/j
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
 
+<item>
+<title>[B]BT Sport 1[/B]</title>
+<link>http://62.253.4.103:8001/1:0:1:C4BD:819:2:11A0000:0:0:0</link>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
+</item>
+
  <item>
 <title>[B]BT Sport 2 test[/B]</title>
 <link>rtmp://server3.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=1 timeout=10 swfVfy=1 token=WY846p1E1g15W7s</link>
@@ -146,6 +148,12 @@ rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/j
  <item>
 <title>[B]BT Sport 2[/B]</title>
 <link>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
+</item>
+
+<item>
+<title>[B]BT Sport 2[/B]</title>
+<link>http://62.253.4.103:8001/1:0:1:C4C7:819:2:11A0000:0:0:0</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
 
@@ -184,9 +192,27 @@ rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/j
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>[B]ESPN UK[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/espnk playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+<item>
+<title>[B]ESPN UK[/B]</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490</link>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+<item>
+<title>[B]ESPN US[/B]</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnus&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+<item>
+<title>[B]ESPN 2[/B]</title>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
@@ -220,9 +246,17 @@ rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/j
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
+<item>
+<title>[B]BOXNATION[/B]</title>
+<link>rtmp://31.220.0.133:1935/live/c7 playpath=c7 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=c7&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
+</item>
 
-
-
+<item>
+<title>[B]FightBox test[/B]</title>
+<link>http://totiptv.duapp.com/live_proxy/totiptv/live?0d01fdc1362f427ca5527c645f5f908f timeout=10</link>
+<thumbnail></thumbnail>
+</item>
 
 
 
