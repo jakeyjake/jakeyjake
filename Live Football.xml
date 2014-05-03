@@ -37,19 +37,19 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.86:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.32.36:443/liverepeater/23697 playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html</link>
+<link>rtmp://37.220.32.36:443/liverepeater/23697 playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
@@ -61,25 +61,25 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html</link>
+<link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
+<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de</link>
+<link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
@@ -91,19 +91,19 @@
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
-<link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
-<link>rtmp://174.36.251.135:443/liverepeater/stream21 playpath=stream21 swfUrl=rtmp://174.36.251.135:443/liverepeater/stream21 live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<link>rtmp://174.36.251.135:443/liverepeater/stream21 playpath=stream21 swfUrl=rtmp://174.36.251.135:443/liverepeater/stream21 live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
-<link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html</link>
+<link>rtmp://74.86.84.216:443/liverepeater/stream21 playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
@@ -198,7 +198,7 @@
 
 <item>
 <title>[B]ESPN UK[/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490</link>
+<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
