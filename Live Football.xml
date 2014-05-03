@@ -11,15 +11,15 @@
 
 <info>
 	<message>[B][COLOR skyblue]A small list for personal viewing; some back-up channels for UK football streams. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B][COLOR skyblue]Some channels do not broadcast 24/7. To avoid loading issues, check schedules online before clicking: BoxNation, NBCSN live extra, ChelseaTV[/COLOR][/B]</message>
-	<message>[COLOR tan]All links last updated: Sunday 27th April[/COLOR]</message>
-	<message>[B]29th April 19.45GMT Bayern Munich v Real Madrid ITV 1, STV and repeated on SKY Sports 1[/B]</message>
+	<message>Mayweather v Maidana Live on BOXNATION - Show begins 2am gmt</message>
+	<message>[COLOR tan]All links last updated: Friday 2nd May[/COLOR]</message>
+	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
 
-item>
+<item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://31.220.0.134:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
@@ -82,12 +82,6 @@ item>
 <item>
 <title>[B]Sky Sports 1 test I[/B]</title>
 <link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
-
-<item>
-<title>[B]Sky Sports 1 test II[/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://37.220.36.65:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH live=N.SAT timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
