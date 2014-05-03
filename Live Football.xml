@@ -77,11 +77,9 @@
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
+#[B]Sky Sports 1[/B]#
+#rtmp://198.144.157.120:80/pub/Z4uvJiyRtf7x1gIgWvNt playpath=Z4uvJiyRtf7x1gIgWvNt swfUrl=http://www.icastlive.tv/_.swf live=1 pageUrl=http://static.icastlive.tv/embed.php?channel=1186648064&vw=640&vh=445&domain=uvue.de#
+#http://i.imgur.com/P0Omfdl.png#
 
 <item>
 <title>[B]Sky Sports 1 test I[/B]</title>
