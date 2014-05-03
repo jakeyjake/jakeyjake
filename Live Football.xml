@@ -135,11 +135,7 @@
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
 
- <item>
-<title>[B]BT Sport 2 test[/B]</title>
-<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=1 timeout=10 swfVfy=1 token=WY846p1E1g15W7s</link>
-<thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
-</item>
+
  
  <item>
 <title>[B]BT Sport 2[/B]</title>
