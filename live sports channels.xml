@@ -189,6 +189,12 @@
 </item>
 
 <item>
+<title>[B]ESPN US[/B]</title>
+<link>rtmp://server3.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=1 timeout=10 swfVfy=1 token=WY846p1E1g15W7s</link>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+<item>
 <title>[B]BeIn 1[/B]</title>
 <link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/8He1Kms.png</thumbnail>
