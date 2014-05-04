@@ -4,14 +4,14 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>Live Sport Channels</poster>
+<poster>Live Sports Channels</poster>
 <fanart>http://i.imgur.com/YlKeS9j.jpg</fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>Mayweather v Maidana Live on BOXNATION below - Show begins 2am gmt</message>
+	<message>[B]Mayweather v Maidana Live on BOXNATION below - Show begins 2am gmt[/B]</message>
 	<message>[COLOR tan]All links last updated: Saturday 3rd May[/COLOR]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
