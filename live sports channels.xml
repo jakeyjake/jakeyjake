@@ -21,6 +21,12 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://31.220.0.134:1935/live playpath=ss1x swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
@@ -82,7 +88,7 @@
 #http://i.imgur.com/P0Omfdl.png#
 
 <item>
-<title>[B]Sky Sports 1 test I[/B]</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
