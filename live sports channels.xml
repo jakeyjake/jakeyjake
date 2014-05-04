@@ -189,18 +189,6 @@
 </item>
 
 <item>
-<title>[B]ESPN US[/B]</title>
-<link>rtmp://31.220.0.134:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnus&vw=620&vh=490 timeout=10</link>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
-</item>
-
-<item>
-<title>[B]ESPN 2[/B]</title>
-<link>rtmp://31.220.0.133:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490 timeout=10</link>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
-</item>
-
- <item>
 <title>[B]BeIn 1[/B]</title>
 <link>rtmp://31.220.0.86:1935/live/b1r playPath=b1r swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=b1r&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/8He1Kms.png</thumbnail>
