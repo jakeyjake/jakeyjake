@@ -130,14 +130,6 @@
 </item>
 
 <item>
-<title>[B]BT Sport 1[/B]</title>
-<link>http://62.253.4.103:8001/1:0:1:C4BD:819:2:11A0000:0:0:0</link>
-<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
-</item>
-
-
- 
- <item>
 <title>[B]BT Sport 2[/B]</title>
 <link>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
@@ -145,11 +137,11 @@
 
 <item>
 <title>[B]BT Sport 2[/B]</title>
-<link>http://62.253.4.103:8001/1:0:1:C4C7:819:2:11A0000:0:0:0</link>
+<link>rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
 
- <item>
+<item>
 <title>[B]TSN 1[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.196:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490 timeout=10</sublink>
@@ -192,19 +184,19 @@
 
 <item>
 <title>[B]ESPN UK[/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 timeout=10</link>
+<link>rtmp://31.220.0.103:1935/live playpath=espnk swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf  live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnk&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
 <item>
 <title>[B]ESPN US[/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.134:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnus&vw=620&vh=490 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=espnus swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espnus&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
 <item>
 <title>[B]ESPN 2[/B]</title>
-<link>rtmp://$OPT:rtmp-raw=rtmp://31.220.0.133:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live playpath=espn2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=espn2x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
 
