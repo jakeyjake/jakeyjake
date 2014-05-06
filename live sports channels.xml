@@ -11,9 +11,9 @@
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B]Mayweather v Maidana Live on BOXNATION below - Show begins 2am gmt[/B]</message>
+	<message>[B][COLOR cornflowerblue]Manchester City v Aston Villa:[/COLOR] Wed 7th May 19.45GMT Sky Sports 1, NBCSN (for other countries see livesoccertv.com)[/B]</message>
+	<message>[B]Sunderland v West Brom Wed 7th May 19.45GMT on SFC v WBA below</message>
 	<message>[COLOR tan]All links last updated: Saturday 3rd May[/COLOR]</message>
-	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
@@ -236,7 +236,11 @@
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
-
+<item>
+<title>[B]SFC v WBA[/B]</title>
+<link></link>
+<thumbnail>https://s3.yimg.com/bt/api/res/1.2/TYHyrvgRws.cRqTdKP41BA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM2MDtweW9mZj0wO3E9NzU7dz02NDA-/http://media.zenfs.com/en_GB/Sports/Eurosport/1226564-25920417-640-360.jpg</thumbnail>
+</item>
 
 
 
