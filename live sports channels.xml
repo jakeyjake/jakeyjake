@@ -11,8 +11,8 @@
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B][COLOR cornflowerblue]Manchester City v Aston Villa:[/COLOR] Wed 7th May 19.45GMT Sky Sports 1, NBCSN (for other countries see livesoccertv.com)[/B]</message>
-	<message>[B]Sunderland v West Brom: Wed 7th May 19.45GMT on SAFC v WBA below[/B]</message>
+	<message>[B]Brighton v Derby-Championship Play-Offs[/COLOR]Thurs 8th May 19.45GMT Sky Sports 1</message>
+	<message>[B][/B]</message>
 	<message>[COLOR tan]All links last updated: Sunday 4th May[/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
@@ -125,6 +125,12 @@
 
 <item>
 <title>[B]BT Sport 1[/B]</title>
+<link>rtmp://46.246.124.22/private/_definst_/BT1HD</link>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
+</item>
+
+<item>
+<title>[B]BT Sport 1[/B]</title>
 <link>rtmpe://play.finecast.tv/live playpath=hqbt1 swfUrl=http://www.finecast.tv/player/player.swf live=1 pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 timeout=10</link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
@@ -133,6 +139,12 @@
 <title>[B]BT Sport 1[/B]</title>
 <link>rtmp://31.220.0.133:1935/live/bt1x playpath=bt1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt1x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
+</item>
+
+<item>
+<title>[B]BT Sport 2[/B]</title>
+<link>rtmp://46.246.124.22/private/_definst_/BT2HD</link>
+<thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
 
 <item>
@@ -146,6 +158,7 @@
 <link>rtmp://31.220.0.104:1935/live playpath=bt2rx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2rx&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
+
 
 <item>
 <title>[B]TSN 1[/B]</title>
@@ -237,10 +250,9 @@
 </item>
 
 <item>
-<title>[B]SAFC v WBA[/B]</title>
-<link>rtmp://198.105.217.100:443/liverepeater/stream23 playpath=stream23 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream23.html timeout=10</link>
-<thumbnail>https://s3.yimg.com/bt/api/res/1.2/TYHyrvgRws.cRqTdKP41BA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTM2MDtweW9mZj0wO3E9NzU7dz02NDA-/http://media.zenfs.com/en_GB/Sports/Eurosport/1226564-25920417-640-360.jpg</thumbnail>
+<title>[B]Soton v Man Utd[/B]</title>
+<link>rtmp://50.23.239.2:443/liverepeater/stream27 playpath=stream27 http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream27.html timeout=10</link>
+<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
-
 
 
