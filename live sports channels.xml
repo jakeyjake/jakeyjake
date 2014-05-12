@@ -11,9 +11,9 @@
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B][COLOR cornflowerblue]Yahooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo Well done City[/COLOR][/B]</message>
-	<message>[B][/B]</message>
-	<message>[COLOR tan]All links last updated: Sunday 4th May or somethin[/COLOR]</message>
+	<message>[B][COLOR cornflowerblue]York V Fleetwood Sky Sports 2, [/COLOR][/B]</message>
+	<message>[B]QPR v Wigan Sky Sports 1[/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
@@ -179,9 +179,21 @@
 
 <item>
 <title>[B]Sky Sports 2[/B]</title>
+<link>rtmp://174.36.55.76/liveall/ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 playpath=ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf live=1 pageUrl=http://liveall.tv/player.php?streampage=ookra78588ptotow&width=600&height=450 timeout=10</link>
+<link>rtmp://37.220.34.18:443/liverepeater/33698 playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</link>
 <link>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live/ss2x playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 timeout=10</link>
 <thumbnail>http://i.imgur.com/Pg9Dr07.png</thumbnail>
 </item>
+
+url: rtmp://174.36.55.76/liveall/ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
+app: liveall/
+flashVer: WIN 13,0,0,206
+pageUrl: http://liveall.tv/player.php?streampage=ookra78588ptotow&width=600&height=450
+swfUrl: http://wds.liveall.tv/jwplayer.flash.swf
+tcUrl: rtmp://174.36.55.76/liveall/
+playPath: ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
+
 
 <item>
 <title>[B]Sky Sports 3[/B]</title>
