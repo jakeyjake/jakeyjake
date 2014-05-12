@@ -179,10 +179,12 @@
 
 <item>
 <title>[B]Sky Sports 2[/B]</title>
-<link>rtmp://174.36.55.76/liveall/ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 playpath=ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf live=1 pageUrl=http://liveall.tv/player.php?streampage=ookra78588ptotow&width=600&height=450 timeout=10</link>
-<link>rtmp://37.220.34.18:443/liverepeater/33698 playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</link>
-<link>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</link>
-<link>rtmp://31.220.0.133:1935/live/ss2x playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 timeout=10</link>
+<link>
+<sublink>rtmp://174.36.55.76/liveall/ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 playpath=ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293 swfUrl=http://wds.liveall.tv/jwplayer.flash.swf live=1 pageUrl=http://liveall.tv/player.php?streampage=ookra78588ptotow&width=600&height=450 timeout=10</sublink>
+<sublink>rtmp://37.220.34.18:443/liverepeater/33698 playpath=33698 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</sublink>
+<sublink>rtmp://37.220.32.50:443/liverepeater/33698 playpath=33698 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss2.html timeout=10</sublink>
+<sublink>rtmp://31.220.0.133:1935/live/ss2x playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss2x&vw=620&vh=490 timeout=10</sublink>
+</link>
 <thumbnail>http://i.imgur.com/Pg9Dr07.png</thumbnail>
 </item>
 
