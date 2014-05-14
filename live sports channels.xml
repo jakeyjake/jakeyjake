@@ -12,7 +12,7 @@
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
 	<message>[B][COLOR cornflowerblue]Today Wed 15th May 19.45: Man U v Chelsea U21 PREMIER LEAGUE Final on MUTV, ChelseaTv & BTSport1 [/COLOR][/B]</message>
-	<message>[B][/B]</message>
+	<message>[B]Today Wed 15th May 19.45: Sevilla v Benfica Europa League Final on ITV 4 [/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
@@ -269,6 +269,11 @@ playPath: ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
 <thumbnail></thumbnail>
 </item>
 
-
+<item>
+<title>[B]ITV 4[/B]</title>
+<link>rtmp://31.220.0.195:1935/live/snwold playpath=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 timeout=10</link>
+<link> timeout=10</link>
+<thumbnail></thumbnail>
+</item>
 
 
