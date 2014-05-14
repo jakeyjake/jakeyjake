@@ -10,7 +10,7 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]Updated 5th May 2014[/B]</message>
+	<message>[B][/B]</message>
 	<message></message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
@@ -292,6 +292,18 @@
 </link>
 <thumbnail>http://i.imgur.com/iIykwJQ.jpg</thumbnail>
 </item>
+
+<item>
+<title>The Day the Earth Stood Still (Robert Wise 1951)</title>
+<link>
+<sublink>http://50.7.57.131//d/lfisbil7qm752xrl65zqhydqwwhycywp3eymrzpokgo2wdmevsfks7km/The.Day.the.Earth.Stood.Still.BluRay.1080p.x264.5.1.Judas.mp4</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/lrGv5LC.jpg</thumbnail>
+</item>
+
+
  
 <item>
 <title>The Departed (Martin Scorsese 2006)</title>
