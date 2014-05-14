@@ -188,14 +188,6 @@
 <thumbnail>http://i.imgur.com/Pg9Dr07.png</thumbnail>
 </item>
 
-url: rtmp://174.36.55.76/liveall/ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
-app: liveall/
-flashVer: WIN 13,0,0,206
-pageUrl: http://liveall.tv/player.php?streampage=ookra78588ptotow&width=600&height=450
-swfUrl: http://wds.liveall.tv/jwplayer.flash.swf
-tcUrl: rtmp://174.36.55.76/liveall/
-playPath: ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
-
 
 <item>
 <title>[B]Sky Sports 3[/B]</title>
@@ -266,14 +258,14 @@ playPath: ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
 <item>
 <title>[B]MUTV[/B]</title>
 <link>rtmp://174.36.251.132:443/liverepeater/stream27 playpath=stream27 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream27.html timeout=10</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
 </item>
 
 <item>
 <title>[B]ITV 4[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/snwold playpath=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 timeout=10</link>
-<link> timeout=10</link>
-<thumbnail></thumbnail>
+<link></link>
+<thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
 </item>
 
 
