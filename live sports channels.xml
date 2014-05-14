@@ -11,8 +11,8 @@
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B][COLOR cornflowerblue]York V Fleetwood Sky Sports 2, [/COLOR][/B]</message>
-	<message>[B]QPR v Wigan Sky Sports 1[/B]</message>
+	<message>[B][COLOR cornflowerblue]Today Wed 15th May 19.45: Man U v Chelsea U21 PREMIER LEAGUE Final on MUTV, ChelseaTv & BTSport1 [/COLOR][/B]</message>
+	<message>[B][/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
@@ -268,5 +268,7 @@ playPath: ookra78588ptotow?keys=N6DndO4Bb4wImLpgJFodQg&keyt=1399936293
 <link>rtmp://174.36.251.132:443/liverepeater/stream27 playpath=stream27 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream27.html timeout=10</link>
 <thumbnail></thumbnail>
 </item>
+
+
 
 
