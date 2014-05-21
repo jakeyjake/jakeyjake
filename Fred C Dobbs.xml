@@ -34,7 +34,7 @@
 <item>
 <title>Broken (Rufus Norris 2013)</title>
 <link>
-<sublink>http://is.gd/brokenNB</sublink>
+<sublink>http://xty.me/broken</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
@@ -44,8 +44,8 @@
 <item>
 <title>Billy Liar (John Schlesinger 1963)</title>
 <link>
-<sublink>http://is.gd/billyliar_pl</sublink>
-<sublink></sublink>
+<sublink>http://xty.me/billyliar</sublink>
+<sublink>http://xty.me/billyliar_fd </sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/nOk46f5.jpg</thumbnail>
@@ -244,8 +244,8 @@
 <item>
 <title>Prisoners (Denis Villeneuve 2013)</title>
 <link>
-<sublink>http://is.gd/prisonersNB1</sublink>
-<sublink>http://is.gd/prisonersNB2</sublink>
+<sublink> http://xty.me/prisoners</sublink>
+<sublink>http://xty.me/prisoners_mr </sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/99QgP31.png</thumbnail>
@@ -356,7 +356,7 @@
 <link>
 <sublink>http://198.7.62.200//d/nviymz36qm752xrl6nzv7z3evs4ttbq6a3g736iudwkuhmo4k2bguifc/The.Godfather.Part.2.1974.720p._.x264.BOKUTOX.YIFY.mp4?start=0</sublink>
 <sublink>http://159.253.131.93/index.php?file=1093&start=&hd=0&auth=67137545906c63f91e3bfac932&type=flv&tv=0</sublink>
-<sublink>http://is.gd/godfatherII720p</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Q3KMNBX.jpg</thumbnail>
 </item>
@@ -420,6 +420,18 @@
 </link>
 <thumbnail>http://i.imgur.com/AoUsOEh.jpg</thumbnail>
 </item>
+
+<item>
+<title>Shane (George Stevens 1953)</title>
+<link>
+<sublink>http://xty.me/shane_pl</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/vjTfTvM.jpg</thumbnail>
+</item>
+ 
+ 
  
 <title>The Sixth Sense (M. Night Shyamalan 1999)</title>
 <link>
