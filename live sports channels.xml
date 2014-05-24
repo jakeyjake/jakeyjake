@@ -261,12 +261,7 @@
 <thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
 </item>
 
-<item>
-<title>[B]UCL Final R.Madrid v A.Madrid[/B]</title>
-<link>http://totiptv.no-ip.org:8080/e36b99bcd26648af9db2261785c77b7a.m3u8 timeout=10</link>
-<link></link>
-<thumbnail></thumbnail>
-</item>
+
 
 
 <item>
@@ -276,4 +271,9 @@
 <thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
 </item>
 
-
+<item>
+<title>[B]UCL Final R.Madrid v A.Madrid[/B]</title>
+<link>http://totiptv.no-ip.org:8080/e36b99bcd26648af9db2261785c77b7a.m3u8</link>
+<link></link>
+<thumbnail></thumbnail>
+</item>
