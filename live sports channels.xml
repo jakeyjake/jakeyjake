@@ -262,6 +262,14 @@
 </item>
 
 <item>
+<title>[B]ITV 1[/B]</title>
+<link>rtmpe://cp274438.live.edgefcs.net:1935/live/itv1livefms_1200@s172940?auth=eaEaPa1dhbUdAbMcRbdcdcqdTd_ctd_dCdsa_bCawbgdWcFaFd4a3dXbsc5aBchdJd_-btGk6I-eS-bCHhJBtmBZIbrbxp&aifp=v001&slist=itv1livefms_1200@s172940?sessionId=BC284534-A19F-533D-59ED-00E902544327 playpath=itv1livefms_1200@s172940? swfUrl=https://www.itv.com/mediaplayer/releases/2.11.0/ITVMediaPlayer.swf?v=2.11.0 live=1 pageUrl=https://www.itv.com/itvplayer/itv timeout=10</link>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>[B]ITV 4[/B]</title>
 <link>rtmp://31.220.0.195:1935/live/snwold playpath=snwold swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=snwold&vw=620&vh=490 timeout=10</link>
 <link></link>
