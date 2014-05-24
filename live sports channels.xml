@@ -19,14 +19,6 @@
 
 #PLAYLIST ITEMS#
 
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
-
-
-
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
@@ -34,23 +26,6 @@
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
-
-
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.195:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
-
-#[B]Sky Sports 1[/B]#
-#rtmp://37.220.32.43:443/liverepeater/stream22 playpath=stream22 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/stream22.html timeout=10#
-#http://i.imgur.com/P0Omfdl.png#
-
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/ss1x playpath=ss1x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
