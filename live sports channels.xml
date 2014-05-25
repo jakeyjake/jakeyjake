@@ -29,7 +29,7 @@
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
+<link>rtmp://31.220.0.133:1935/live/ss1x playpath=ss1x swfURL=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
