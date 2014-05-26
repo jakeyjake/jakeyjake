@@ -18,10 +18,17 @@
 </info>
 
 #PLAYLIST ITEMS#
+#EXTINF:-1,SKY SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://37.220.32.52:443/liverepeater/23697 pageUrl=http://1cdn.filotv.pw/
 
 
 
 
+<item>
+<title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://37.220.32.52:443/liverepeater/23697 pageUrl=http://1cdn.filotv.pw/</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
