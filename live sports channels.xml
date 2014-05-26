@@ -18,11 +18,14 @@
 </info>
 
 #PLAYLIST ITEMS#
-#EXTINF:-1,SKY SPORT 1
-rtmp://$OPT:rtmp-raw=rtmp://37.220.32.52:443/liverepeater/23697 pageUrl=http://1cdn.filotv.pw/
+rtmp://ovh2.is-leet.com/ntv1/12_Sky_Sports_1.stream
 
 
-
+<item>
+<title>[B]Sky Sports 1[/B]</title>
+<link>rtmp://ovh2.is-leet.com/ntv1/12_Sky_Sports_1.stream</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
@@ -39,6 +42,12 @@ rtmp://$OPT:rtmp-raw=rtmp://37.220.32.52:443/liverepeater/23697 pageUrl=http://1
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH live=N.SAT</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+
+<item>
+<title>[B]SKY SPORTS 1[/B]</title>
+<link>rtmp://37.220.32.52:443/liverepeater/23697 swfUrl=http://rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
