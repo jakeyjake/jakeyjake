@@ -220,17 +220,6 @@
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
 </item>
 
-
-
-<item>
-<title>[B]MUTV[/B]</title>
-<link>rtmp://extondemand.livestream.com/ondemand/trans/dv03/mogulus-user-files/chmymutv/2009/08/15/b2fa7ebe-deff-45d4-98f5-1141294b5384 playpath=trans/dv03/mogulus-user-files/chmymutv/2009/08/15/b2fa7ebe-deff-45d4-98f5-1141294b5384 swfUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=481617 live=1 pageUrl=http://www.livestream.com/embed/mymutv?showMoreVideos=false&hideInfo=true&autoPlay=true&lschannel=true&browseMode=false&textLines=2&hideChannelBranding=true&mode=false&allowchat=false&layout=1&t=481617 timeout=10</link>
-<thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
-</item>
-
-
-
-
 <item>
 <title>[B]MUTV[/B]</title>
 <link>rtmp://173.192.81.180:443/liverepeater/stream27 playpath=stream27 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream27.html</link>
