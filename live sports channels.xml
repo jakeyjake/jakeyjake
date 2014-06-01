@@ -229,13 +229,7 @@
 </item>
 
 
-url: rtmp://173.192.81.180:443/liverepeater/stream27
-app: liverepeater
-flashVer: WIN 13,0,0,214
-pageUrl: http://cdn.kingofplayers.com/stream27.html
-swfUrl: http://static.surk.tv/player.swf
-tcUrl: rtmp://173.192.81.180:443/liverepeater
-playPath: stream27
+
 
 <item>
 <title>[B]MUTV[/B]</title>
