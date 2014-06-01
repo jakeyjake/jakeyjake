@@ -75,6 +75,12 @@
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
+<link>rtmp://89.248.160.252:1935/zmtvliveme/bczICjr3E0 playpath=bczICjr3E0 swfUrl=http://static.zoomtv.me/player/jwplayer.6.5.3.swf live=1 pageUrl=http://www.zoomtv.me/embed.php?v=1bbcnews&vw=650&vh=450</link>
+<thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Sky Sports News[/B]</title>
 <link>rtmp://31.220.0.104:1935/live playpath=ssnewsrx swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/ timeout=15</link>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
@@ -200,8 +206,6 @@
 </item>
 
 
-
-
 <item>
 <title>[B]BOXNATION[/B]</title>
 <link>rtmp://198.50.226.53:1935/send/_definst_/boxnation</link>
@@ -225,7 +229,6 @@
 <link>rtmp://173.192.81.180:443/liverepeater/stream27 playpath=stream27 swfUrl=http://static.surk.tv/player.swf live=1 pageUrl=http://cdn.kingofplayers.com/stream27.html</link>
 <thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
 </item>
-
 
 <item>
 <title>[B]ITV 4[/B]</title>
