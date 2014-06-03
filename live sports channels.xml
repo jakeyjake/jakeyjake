@@ -19,17 +19,9 @@
 
 #PLAYLIST ITEMS#
 
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.32.52:443/liverepeater/23697 pageUrl=http://1cdn.filotv.pw/</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
 
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.32.36:443/liverepeater/23697 playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
+
+
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
