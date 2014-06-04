@@ -11,31 +11,51 @@
 
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
-	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
-	<message>[B]Dead links will be updated after this weekend[/B]</message>
+	<message>[B][COLOR cornflowerblue]World Cup getting close now!....weeeeeeeeeeeeeeeeeeee!!![/COLOR][/B]</message>
+	<message>[B]SkySports1 and other dead links will be updated 4th June (all being well)[/B]</message>
 	<message>[COLOR tan]If there's a particular match you want to watch and cannot find elsewhere, let me know , I'll try to add it.[/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
 
+#PASTE SPACE#
+
+url: rtmp://37.220.36.69:443/liverepeater/11
+app: liverepeater
+flashVer: WIN 13,0,0,214
+pageUrl: http://filotv.pw/player2.php?id=11&width=640&height=460
+swfUrl: http://filotv.pw/atdedead.swf
+tcUrl: rtmp://37.220.36.69:443/liverepeater
+playPath: 11
+
+url: rtmp://31.220.0.86:1935/live/ss1x
+app: live
+flashVer: WIN 13,0,0,214
+pageUrl: http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
+swfUrl: http://www.eucast.tv/ePlayerr.swf
+tcUrl: rtmp://31.220.0.86:1935/live
+playPath: ss1x
 
 
 
+#PASTE SPACE#
 
+<item>
+<title>[B]Sky Sports 1[/B]</title>
+<link>url: rtmp://31.220.0.86:1935/live/ss1x playpath=ss1x swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
 
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=23697 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf live=1 pageUrl=http://1cdn.filotv.pw/ss1.html timeout=10</link>
+<link> playpath= swfUrl= live=1 pageUrl= timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
-<item>
-<title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://198.50.226.53:1935/send/_definst_/sky1 timeout=10</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
+
+
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
