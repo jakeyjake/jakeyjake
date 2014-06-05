@@ -43,7 +43,7 @@ playPath: ss1x
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://31.220.0.86:1935/live/ss1x playpath=ss1x swfUrl=http://www.eucast.tv/ePlayerr.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490 timeout=10</link>
+<link>rtmp://31.220.0.134:1935/live playpath=ss1x  pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=1 token=%ZZri(nKa@#Z timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
