@@ -21,21 +21,14 @@
 
 #PASTE SPACE#
 
-url: rtmp://37.220.36.69:443/liverepeater/11
+url: rtmp://37.220.32.44:443/liverepeater/11
 app: liverepeater
 flashVer: WIN 13,0,0,214
 pageUrl: http://filotv.pw/player2.php?id=11&width=640&height=460
 swfUrl: http://filotv.pw/atdedead.swf
-tcUrl: rtmp://37.220.36.69:443/liverepeater
+tcUrl: rtmp://37.220.32.44:443/liverepeater
 playPath: 11
 
-url: rtmp://31.220.0.86:1935/live/ss1x
-app: live
-flashVer: WIN 13,0,0,214
-pageUrl: http://www.eucast.tv/embed.php?live=ss1x&vw=620&vh=490
-swfUrl: http://www.eucast.tv/ePlayerr.swf
-tcUrl: rtmp://31.220.0.86:1935/live
-playPath: ss1x
 
 
 
@@ -50,7 +43,7 @@ playPath: ss1x
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
-<link>rtmp://37.220.32.52:443/liverepeater/23697 swfUrl=http://rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ token=#atd%#$ZH timeout=10</link>
+<link>rtmp://37.220.32.44:443/liverepeater/11 playpath=11 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=11&width=640&height=460 timeout=10</link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
