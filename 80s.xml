@@ -1,0 +1,45 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>80s</poster>
+<fanart></fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][COLOR cornflowerblue]Music Playlist[/COLOR][/B]</message>
+	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
+	<message>[B][/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+#PASTE SPACE#
+
+
+<item>
+<title>[B][/B]</title>
+<link>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+#PASTE SPACE#
+
+
+<item>
+<title>[B][/B]</title>
+<link>
+<sublink>http://www.youtube.com/watch?v=aX1PwkgwsG0&list=PL17E9BE435D07AEF0&feature=share&index=3</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
