@@ -10,7 +10,7 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR cornflowerblue]Music Playlist[/COLOR][/B]</message>
+	<message>[B][COLOR cornflowerblue]80s Music Test[/COLOR][/B]</message>
 	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
 	<message>[B][/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
@@ -38,8 +38,6 @@
 
 <item>
 <title>[B]80s Alternative[/B]</title>
-<link>
-<sublink>https://gdata.youtube.com/feeds/api/users/whensmokeysings85/playlists/PL17E9BE435D07AEF0</sublink>
-</link>
+<link>http://gdata.youtube.com/feeds/api/users/wss85/playlists/PL17E9BE435D07AEF0</link>
 <thumbnail></thumbnail>
 </item>
