@@ -17,14 +17,20 @@
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
-#PLAYLIST ITEMS#
+#DIRECTORIES#
 
+<directories>
 
-<item>
-<title>[B]80s Test[/B]</title>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</link>
+<name>[B]80s Alternative[/B]
 <thumbnail></thumbnail>
-</item>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</link>
+
+</directories>
+
+#
+#
+#END
+
 
 
 
