@@ -20,13 +20,9 @@
 #PLAYLIST ITEMS#
 
 
-
-
 <item>
 <title>[B]80s Test[/B]</title>
-<link>
-<sublink>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</sublink>
-</link>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</link>
 <thumbnail></thumbnail>
 </item>
 
