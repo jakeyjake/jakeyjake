@@ -4,13 +4,13 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>80s Alternative</poster>
+<poster>80s Music Test</poster>
 <fanart></fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR cornflowerblue]80s Music Test[/COLOR][/B]</message>
+	<message>[B][COLOR cornflowerblue]A work in progress....possibly[/COLOR][/B]</message>
 	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
 	<message>[B][/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
@@ -19,25 +19,16 @@
 
 #PLAYLIST ITEMS#
 
-#PASTE SPACE#
+
 
 
 <item>
-<title>[B][/B]</title>
+<title>[B]80s Test[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>https://gdata.youtube.com/feeds/api/users/whensmokeysings85/playlists/PL17E9BE435D07AEF0</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
 
 
-
-#PASTE SPACE#
-
-
-<item>
-<title>[B]80s Alternative[/B]</title>
-<link>http://gdata.youtube.com/feeds/api/users/wss85/playlists/PL17E9BE435D07AEF0</link>
-<thumbnail></thumbnail>
-</item>
