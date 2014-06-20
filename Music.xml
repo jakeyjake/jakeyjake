@@ -4,7 +4,7 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>Music Test</poster>
+<poster>80s Music Test</poster>
 <fanart></fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
@@ -23,9 +23,9 @@
 
 
 <item>
-<title>[B][/B]</title>
+<title>[B]80s Test[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
