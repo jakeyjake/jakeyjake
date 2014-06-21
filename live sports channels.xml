@@ -39,7 +39,7 @@
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>
-<sublink>rtmp://31.220.0.134:1935/live playpath=ss1x   swfUrl=http://www.eucast.tv/ePlayerr.swf pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmp://37.220.32.53:443/liverepeater playpath=42 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
