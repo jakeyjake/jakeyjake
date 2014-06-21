@@ -12,12 +12,15 @@
 <info>
 	<message>[B][COLOR cornflowerblue]A small list for personal viewing; some back-up sports channels. Enjoy viewing.[/COLOR][/B]</message>
 	<message>[B][COLOR cornflowerblue]If there's a particular match you want to watch and cannot find elsewhere, let me know , I'll try to add it.[/COLOR][/B]</message>
-	<message>[B]Contact:http://xty.me/jake[/B]</message>
+	<message>[COLOR cornflowerblue]Contact:[/COLOR] http://xty.me/jake</message>
 	<message>[COLOR tan][/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
+
+
+
 
 #PASTE SPACE#
 
@@ -37,16 +40,6 @@
 </link>
 <thumbnail></thumbnail>
 </item>
-url: rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbe411140fe8630f6cf21e7753b3d4063fd086e47471dff8ebe84751261bba4acef768c5700f0d905cb8bd4adeb6cb31a7fa9533c525ec5fb846ab5118874345ebb4ed03b27133b80856ca751dc9ca16a08c93f17f52490d4f76d61f0bed859473304a58203a2dcd37486f79167a1eef8da6a3f66584e3445050032935efb1009e4535bf23828d5d1d3c8b79059e37bea3c/374.low.stream
-app: live/?id=0ad5aac39bb13fbe411140fe8630f6cf21e7753b3d4063fd086e47471dff8ebe84751261bba4acef768c5700f0d905cb8bd4adeb6cb31a7fa9533c525ec5fb846ab5118874345ebb4ed03b27133b80856ca751dc9ca16a08c93f17f52490d4f76d61f0bed859473304a58203a2dcd37486f79167a1eef8da6a3f66584e3445050032935efb1009e4535bf23828d5d1d3c8b79059e37bea3c
-extra:
-flashVer: WIN 14,0,0,125
-pageUrl: http://www.filmon.com/channel/filmon-football
-swfUrl: http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55
-tcUrl: rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbe411140fe8630f6cf21e7753b3d4063fd086e47471dff8ebe84751261bba4acef768c5700f0d905cb8bd4adeb6cb31a7fa9533c525ec5fb846ab5118874345ebb4ed03b27133b80856ca751dc9ca16a08c93f17f52490d4f76d61f0bed859473304a58203a2dcd37486f79167a1eef8da6a3f66584e3445050032935efb1009e4535bf23828d5d1d3c8b79059e37bea3c
-playPath: 374.low.stream
-
-
 
 #PASTE SPACE#
 
@@ -60,11 +53,6 @@ playPath: 374.low.stream
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] (Back online when football season begins)</title>
-<link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
-<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
-</item>
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
@@ -89,6 +77,12 @@ playPath: 374.low.stream
 <sublink>rtmp://31.220.0.134:1935/live/bt2x playpath=bt2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=bt2x&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] (Back online when football season begins)</title>
+<link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
+<thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
 
@@ -173,8 +167,6 @@ playPath: 374.low.stream
 <thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
 </item>
 
-
-
 <item>
 <title>[B]BOXNATION[/B]</title>
 <link>
@@ -197,13 +189,6 @@ playPath: 374.low.stream
 <link></link>
 <thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
 </item>
-url: rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe4c04aaca0fb12a60f4c46c71a45d1a441f4f6a78d259fb7b5f3ba8fb08b01f06a56851aa1d55572c49102820ebd68141106564ede74746cee34be0838a75859b98832ec754a9b9e1ba6edbb0951f35c04ffef5eac600ceb542ea7d5f9644a70968874b133212c0101846cd36360e94f89cf9de75360c15ce0937c4aa464c4b0c57f85e0b123cac1f97ad1bd558b2a57c/101.low.stream
-app: live/?id=0ad5aac39bb13fbe4c04aaca0fb12a60f4c46c71a45d1a441f4f6a78d259fb7b5f3ba8fb08b01f06a56851aa1d55572c49102820ebd68141106564ede74746cee34be0838a75859b98832ec754a9b9e1ba6edbb0951f35c04ffef5eac600ceb542ea7d5f9644a70968874b133212c0101846cd36360e94f89cf9de75360c15ce0937c4aa464c4b0c57f85e0b123cac1f97ad1bd558b2a57c
-extra:
-flashVer: WIN 14,0,0,125
-pageUrl: http://www.filmon.com/tv/channel/export?channel_id=101&affid=8710Ai
-swfUrl: http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55
-tcUrl: rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe4c04aaca0fb12a60f4c46c71a45d1a441f4f6a78d259fb7b5f3ba8fb08b01f06a56851aa1d55572c49102820ebd68141106564ede74746cee34be0838a75859b98832ec754a9b9e1ba6edbb0951f35c04ffef5eac600ceb542ea7d5f9644a70968874b133212c0101846cd36360e94f89cf9de75360c15ce0937c4aa464c4b0c57f85e0b123cac1f97ad1bd558b2a57c
-playPath: 101.low.stream
+
 
 
