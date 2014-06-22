@@ -50,10 +50,9 @@
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>
-<sublink>rtmp://37.220.32.53:443/liverepeater playpath=42 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
 <sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315</sublink>
-<sublink>rtmp://$OPT:rtmp-raw=rtmpe://89.248.168.41/live/hqyks1 pageUrl=http://www.ukcast.tv/hpgdisco</sublink>
-<sublink>rtmp://46.246.124.22:1935/private/_definst_/sky1hqsport</sublink>
+<sublink>rtmp://37.220.32.53:443/liverepeater playpath=42 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
