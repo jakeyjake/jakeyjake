@@ -64,7 +64,7 @@
 </item>
 
 <item>
-<title>[B]Sky Sports News[/B][B][COLOR tan}~~RADIO~~[/COLOR][/B]</title>
+<title>[B]SkySportsNews[/B][B][COLOR tan}~~RADIO~~[/COLOR][/B]</title>
 <link> rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com</link>
 <thumbnail>http://www.skysports.com/Images/650392.jpg</thumbnail>
 </item>
