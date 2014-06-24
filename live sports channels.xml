@@ -31,7 +31,7 @@ playPath: mp4:netstorage/Doc_Zone_Generation_Boomerang_Thursday_08_10_2011-11-10
 
 #PASTE SPACE#
 
-
+rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10
 
 
 <item>
@@ -125,8 +125,8 @@ playPath: mp4:netstorage/Doc_Zone_Generation_Boomerang_Thursday_08_10_2011-11-10
 <item>
 <title>[B]BT Sport 2[/B]</title>
 <link>
-<sublink>rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10</sublink>
 <sublink></sublink>
+<sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151320</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
