@@ -1,0 +1,73 @@
+type=video
+name=HQzone Channel 1
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 2
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 3
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 4
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 5
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 6
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel6v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 7
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel7v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 8
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 9
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel9v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 10
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel10v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 11
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel11v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 12
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel12v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </#
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 13
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel13v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 14
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel14v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
+#
+type=video
+thumb=http://njmweb.we.bs/XBMC/thumbs/hqlogo.png
+name=HQzone Channel 15
+URL=rtmp://server.ppvmania.tv:1935/live playpath=channel15v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s </
