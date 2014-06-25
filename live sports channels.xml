@@ -127,26 +127,26 @@
 </item>
 
 <item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] (Back online when football season begins)</title>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] Back online when football season begins</title>
 <link>rtmp://50.23.239.2:443/liverepeater playpath=stream21 swfUrl=http://www.longtailvideo.com/content/ova/jwplayer/player.swf pageUrl=http://cdn.kingofplayers.com/stream21.html timeout=10</link>
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
 
 <item>
-<title>[B]TSN 1[/B]Back online when football season begins</title>
+<title>[B]TSN 1[/B] Back online when football season begins</title>
 <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=tsn1 token=%ZZri(nKa@#Z pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</sublink>
-<sublink>rtmp://31.220.0.196:1935/live/tsn1 playpath=tsn1 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn1&vw=620&vh=490 timeout=10</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </item>
 
 <item>
-<title>[B]TSN 2[/B]Back online when football season begins</title>
+<title>[B]TSN 2[/B] Back online when football season begins</title>
 <link>
 <sublink>rtmp://31.220.0.86:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 timeout=10</sublink>
-<sublink>rtmp://31.220.0.134:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 timeout=10</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/uxBldwT.png</thumbnail>
 </item>
