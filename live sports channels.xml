@@ -19,19 +19,13 @@
 
 #PLAYLIST ITEMS#
 
-url: rtmpt://cp37429.edgefcs.net:80/ondemand/?auth=daFcTa.b1dUdCbkbsa0dSd_cccUbUb9a9cm-btQAJG-c0-qkn_Ftt1CkCpFAx&aifp=v0001&slist=netstorage/mp4:netstorage/Doc_Zone_Generation_Boomerang_Thursday_08_10_2011-11-10__612303.mp4
-app: ondemand/?auth=daFcTa.b1dUdCbkbsa0dSd_cccUbUb9a9cm-btQAJG-c0-qkn_Ftt1CkCpFAx&aifp=v0001&slist=netstorage
-flashVer: WIN 14,0,0,125
-pageUrl: http://www.cbc.ca/doczone/episodes/generation-boomerang
-swfUrl: http://www.cbc.ca/[[IMPORT]]/livepassdl.conviva.com/hf/ver/2.82.0.19087/LivePassModuleMain.swf
-tcUrl: rtmpt://cp37429.edgefcs.net:80/ondemand/?auth=daFcTa.b1dUdCbkbsa0dSd_cccUbUb9a9cm-btQAJG-c0-qkn_Ftt1CkCpFAx&aifp=v0001&slist=netstorage
-playPath: mp4:netstorage/Doc_Zone_Generation_Boomerang_Thursday_08_10_2011-11-10__612303.mp4
+
 
 
 
 #PASTE SPACE#
 
-rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10
+
 
 
 <item>
@@ -43,13 +37,6 @@ rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://fi
 </item>
 
 #PASTE SPACE#
-
-<item>
-<title>Sky Sports 4 - Provided by Offsidestreams.com</title>
-<thumbnail>http://news.ucajournalism.com/wp-content/uploads/2012/03/sky.jpg</thumbnail>
-<fanart></fanart>
-<link>rtmp://198.50.226.53/rasp/sky4hs.stream</link>
-</item>
 
 
 <item>
@@ -101,6 +88,13 @@ rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://fi
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=44 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
 </link>
 <thumbnail>http://i.imgur.com/a6QixyX.png</thumbnail>
+</item>
+
+
+<item>
+<title>Sky Sports 4 - Provided by Offsidestreams.com</title>
+<link>rtmp://198.50.226.53/rasp/sky4hs.stream</link>
+<thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
 <item>
@@ -192,25 +186,6 @@ rtmp://37.220.32.53:443/liverepeater playpath=2 token=#atd%#$ZH swfUrl=http://fi
 <link> rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbec507c5b5548dc30ded432c6b7954762af5f40882074af62fa7775aae1a92b6d749aa4377b8a4a25769985883dcca3f8b119c7aa33d2713f5b9708bb122dfb359b67573123bf4c8375db9e0f515c412aee1aa82d04561d18396455495b14c750262fcba8066aa5c9153b2f28a9e26f07f36c34fadb9473033e87e809cc5a32ccf79d7e24310cf1dfe3fd5b6bdd5ccfd7e/374.low.stream playpath=374.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=374&affid=8710Ai</link>
 <thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
 </item>
-
-<item>
-<title>[B]FilmOn channel 5[/B]</title>
-<link>rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbe9b8ad93657a3af9793ea04fdcd8d68f67769e1d53effc3b229881d739ce239c8e5f88982902d8a3cde5a1e01dbeb01ca3d01af3895c441824ceda4f0ca55671cca841bde4d33111c329496ca20f47b72061f46759ba959c534ac0fed1c254417d8f5f06236ab662854540f090c1d8ec4d9d2047ac677e44386f463630f083cf69bb8830a6788f54ebd135ac84b6f377d/22.low.stream playpath=22.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=374&affid=8710Ai</link>
-<thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
-</item>
-
-
-<item>
-<title>Film on Channel 5 test bran</title>
-<link>rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbea698973d9ebf7757fcd51f1367ed2806dd8cdb8ed74739323dd718e974504b6dc8b583c190d9fe9542c5161804b7ee0fe1745081425cdfead4aef6bc28ab4fa00c379a4426706c345c21fee92f9451b51268abad2d926b8e461fe86eb6143b3b39588392aa91142c92f30e0a51be216c500bfda6ec9c59c043a126c14a675b78dd7ccf6d6bc940e8d50ab04d4bdfeb82 playpath=22.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/group/uk-live-tv live=1</link>
-</item>
-
-<item>
-<title>film on channel 5 test MB</title>
-<link>rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbea4b71db979c2c194e634c98b0f42229e8c414bae6d5edd8f28e4f50b81a3594694800cd9cc61d5d1b611df9341ab36714d6e887b91423bc0ec9cc351d3c3911ca2576716079c74a7cfe55e13aa189034544fb02905d05ad9968ccf11ffe4ecfef0357cee66203073540f068eea0ffbc705ea1bcdd45b8830186e9c0b5ae4caeef33ca01ef0f47a2b0959665c52f35846/22.low.stream playpath=22.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 pageUrl=http://www.filmon.com/group/uk-live-tv live=1</link>
-</item>
-
-
 
 <item>
 <title>[B]BOXNATION[/B]</title>
