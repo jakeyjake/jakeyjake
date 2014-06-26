@@ -49,10 +49,10 @@
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
 
+<item>
 <title>[B]Sky Sports 1[B]- Free Sample Stream Provided by the excellent [B]OffsideStreams.com:[/B]http://www.offsidestreams.com/site/</title]
-<thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
-<fanart></fanart>
 <link>rtmp://198.50.226.53/freeview/sky1hs.stream</link>
+<thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
 </item>
 
 <item>
@@ -101,7 +101,7 @@
 <item>
 <title>[B]Sky Sports 4 - Provided by Offsidestreams.com[/B]</title>
 <link>rtmp://198.50.226.53/rasp/sky4hs.stream</link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
 </item>
 
 <item>
