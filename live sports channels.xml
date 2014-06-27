@@ -25,8 +25,13 @@
 
 #PASTE SPACE#
 
-
-
+<item>
+<title>[B][/B]</title>
+<link>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[B][/B]</title>
