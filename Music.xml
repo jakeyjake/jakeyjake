@@ -21,9 +21,6 @@
 
 <directories>
 
-<name>[B]Test1[/B]</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</link>
-<thumbnail>http://kellsmurthwaite.files.wordpress.com/2007/11/dunce.jpg</thumbnail>
 
 <name>[B]test2[/B]</name>
 <link>http://gdata.youtube.com/feeds/api/users/UCoN1KvgNl-JCI0dlM56BVRA/playlists</link>
