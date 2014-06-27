@@ -4,13 +4,13 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>80s Music Test</poster>
+<poster>Music Test</poster>
 <fanart></fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
+	<message>[B][COLOR cornflowerblue]Work in Progress[/COLOR][/B]</message>
 	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
 	<message>[B][/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
@@ -21,10 +21,25 @@
 
 <directories>
 
-<name>[B]80s Alternative[/B]</name>
-<thumbnail></thumbnail>
+<name>[B]Test1[/B]</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/80s.xml</link>
-      
+<thumbnail>http://kellsmurthwaite.files.wordpress.com/2007/11/dunce.jpg</thumbnail>
+
+<name>[B]test2[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/users/UCoN1KvgNl-JCI0dlM56BVRA/playlists</link>
+<thumbnail>http://kellsmurthwaite.files.wordpress.com/2007/11/dunce.jpg</thumbnail>
+
+
+<name>[B]test3[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/users/boo max/playlists</link>
+<thumbnail>http://kellsmurthwaite.files.wordpress.com/2007/11/dunce.jpg</thumbnail>
+
+
+
+
+
+
+     
 </directories>
 
 #
@@ -33,4 +48,10 @@
 
 
 
+<directories>
 
+	<
+	
+	
+
+</directories>
