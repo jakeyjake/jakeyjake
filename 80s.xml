@@ -20,15 +20,14 @@
 #PLAYLIST ITEMS#
 
 
-<item>
-<title>[B]Tests[/B]</title>
-<link>
-<sublink>http://gdata.youtube.com/feeds/api/users/boo max/playlists</sublink>
-<sublink>http://gdata.youtube.com/feeds/api/users/boo max/playlists/PLcSG6iONPrifxK4FYAZbvDhEu08qqrQET</sublink>
-<sublink>http://gdata.youtube.com/feeds/api/users/oN1KvgNl-JCI0dlM56BVRA/playlists/PLcSG6iONPrifxK4FYAZbvDhEu08qqrQET</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+<directories>
+
+	<name>[B]test1[/B]</name>
+	<link>http://gdata.youtube.com/feeds/api/users/boo max/playlists</link>
+	<thumbnail>http://kellsmurthwaite.files.wordpress.com/2007/11/dunce.jpg</thumbnail>
+	
+	
+
+</directories>
 
 
