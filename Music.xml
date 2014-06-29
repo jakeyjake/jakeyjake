@@ -21,6 +21,10 @@
 
 <directories>
 
+<name>[B]Test Playlists[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/users/UCoN1KvgNl-JCI0dlM56BVRA/playlists</link>
+<thumbnail>http://i276.photobucket.com/albums/kk17/7letters_pb/Some%20Artwork%20by%207letters/john_lee_hooker.jpg</thumbnail>
+
 
 <name>[B]John Lee's Music Playlists[/B]</name>
 <link>http://gdata.youtube.com/feeds/api/users/boo max/playlists</link>
@@ -33,7 +37,6 @@
 #
 #
 #END
-
 
 
 
