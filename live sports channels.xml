@@ -49,13 +49,13 @@
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>
-<sublink>rtmp://37.220.32.50:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=47&width=640&height=460 token=#atd%#$ZH</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmp://37.220.32.50:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=47&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://46.246.124.22:1935/private/_definst_/sky1hqsport</sublink>
+<sublink>rtmp://31.220.0.82:1935/live playpath=sky1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=sky1x&vw=620&vh=490 live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmp://37.220.36.64:443/liverepeater playpath=66 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=66&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 <sublink>rtmp://37.220.32.52:443/liverepeater/23697 swfUrl=http://rackcdn.com/atdedead.swf live=1 pageUrl=http://1cdn.filotv.pw/ live=true timeout=10 token=#atd%#$ZH</sublink>
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=42 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
-<sublink>rtmpe://46.246.124.22:1935/redirect playpath=sskys1 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=true timeout=10 swfVfy=true token=Fo5_n0w?U.rA6l3-70w47c</sublink>
+<sublink>rtmpe://46.246.124.22:1935/redirect playpath=sskys1 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 timeout=10 swfVfy=1 token=Fo5_n0w?U.rA6l3-70w47c</sublink>
 </link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
