@@ -224,8 +224,8 @@
 
 <item>
 <title>[B]ITV 4[/B]</title>
-<link>rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe006a0d13d21b7ca5a31f579d20644a072008723909ced5d46c613794a19f50d682d544bcd95e4ebe71d8bbe6fab0f07ffd0222fa370ccdd0218e3a71d5d3aa8be237e1343752cdeadd902658fdadc9940192ac743c2c5a8a3fdcccdd082d1e23afb79a34b63b6d15509123106684c01c9fb9a413f27a57b645ac9e208f9aedb5f6cf06ccf2df8b7c45e55a195fefdc58/101.low.stream playpath=101.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=101&affid=8710Ai</link>
-<link></link>
+<sublink>rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe006a0d13d21b7ca5a31f579d20644a072008723909ced5d46c613794a19f50d682d544bcd95e4ebe71d8bbe6fab0f07ffd0222fa370ccdd0218e3a71d5d3aa8be237e1343752cdeadd902658fdadc9940192ac743c2c5a8a3fdcccdd082d1e23afb79a34b63b6d15509123106684c01c9fb9a413f27a57b645ac9e208f9aedb5f6cf06ccf2df8b7c45e55a195fefdc58/101.low.stream playpath=101.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=101&affid=8710Ai</sublink>
+<sublink>rtmpe://46.246.124.22:1935/redirect playpath=januitv4 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=januitv4&vw=640&vh=460&domain=streamking.org token=Fo5_n0w?U.rA6l3-70w47c live=1 timeout=10</sublink>
 <thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
 </item>
 
