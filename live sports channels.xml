@@ -26,9 +26,9 @@
 #PASTE SPACE#
 
 <item>
-<title>[B][/B]</title>
+<title>[B]tets[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://31.220.0.134:1935/live playpath=calcio swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -42,6 +42,15 @@
 </item>
 
 #PASTE SPACE#
+
+
+<item>
+<title>[B]tets[/B]</title>
+<link>
+<sublink>rtmp://31.220.0.134:1935/live playpath=calcio swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 
 <item>
