@@ -79,8 +79,8 @@
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
-<sublink> rtmp://37.220.32.53:443/liverepeater playpath=41 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
-</sublink></sublink>
+<sublink>rtmp://37.220.32.53:443/liverepeater playpath=41 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
+</sublink>rtmp://31.220.0.134:1935/live playpath=ssnx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ timeout=10</sublink>
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
 
