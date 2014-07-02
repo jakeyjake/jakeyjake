@@ -44,11 +44,10 @@
 #PLAYLIST ITEMS#
 
 
-
 <item>
 <title>[B]Sky Sports 1[/B]-[I]Click twice[/I]</title>
 <link>
-
+<sublink>rtmp://31.220.0.134:1935/live playpath=ss1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 <sublink>rtmpe://46.246.124.22:1935/redirect playpath=sskys1 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=Fo5_n0w?U.rA6l3-70w47c timeout=10</sublink>
 <sublink>rtmp://174.34.129.154/?rtmp://91.121.9.48 playpath=channel4 swfUrl=http://247hdsports.net/P/player.swf live=true app=?rtmp://91.121.9.48/live/ pageUrl=http://wrestle-zone.net.pk/PPV</sublink>
 </link>
@@ -57,6 +56,7 @@
 
 <item>
 <title>[B]Sky Sports News[/B]</title>
+<sublink>rtmp://37.220.36.64:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=23&width=640&height=460 token=#atd%#$ZH</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ssnx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ timeout=10</sublink>
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=41 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
 
@@ -99,27 +99,26 @@
 <thumbnail>http://i.imgur.com/a6QixyX.png</thumbnail>
 </item>
 
-
 <item>
-<title>[B]Sky Sports 4 [/B]Provided by [COLOR tan][B]Offsidestreams.com[/COLOR][/B]</title>
-<link>rtmp://198.50.226.53/rasp/sky4hs.stream</link>
-<thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
-</item>
+<title>[B]Sky Sports 4 [/B]</title>
+<link>
+<sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151326</sublink>
+<sublink>rtmp://37.220.32.53:443/liverepeater playpath=45 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
+</link>
 
-<item>
-<title>[B]Sky Sports 4[/B]</title>
-<link>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151326</link>
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
+
 
 
 
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>
+<sublink>rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=1 token=#atd%#$ZH swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10</sublink>
 <sublink></sublink>
-<sublink></sublink>
+
 </link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
@@ -129,11 +128,12 @@
 <title>[B]BT Sport 2[/B]</title>
 <link>
 <sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151320</sublink>
-<sublink>rtmp://31.220.0.195:1935/live playpath=bt2x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt2x&vw=620&vh=490 token=%ZZri(nKa@#Z</sublink>
-<sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=true timeout=10</sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=bt2x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
+<sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=1 timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] Back online when football season begins</title>
@@ -170,7 +170,10 @@
 
 <item>
 <title>[B]BeIn Sport 1[/B]</title>
-<link>rtmp://37.220.32.56:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=51&width=640&height=460 token=#atd%#$ZH timeout=10</link>
+<link>
+<sublink>http://202.75.23.37:8800/live/ch18/04.m3u8?sd=10&rebase=on</sublink>
+<sublink>rtmp://37.220.32.56:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=51&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+</link>
 <thumbnail>http://i.imgur.com/8He1Kms.png</thumbnail>
 </item>
 
