@@ -44,19 +44,12 @@
 #PASTE SPACE#
 
 
-<item>
-<title>[B]test[/B]</title>
-<link>
-<sublink>rtmp://31.220.0.134:1935/live playpath=sky1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>
-<sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151315</sublink>
+<sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
