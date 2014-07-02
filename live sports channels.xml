@@ -26,7 +26,7 @@
 #PASTE SPACE#
 
 <item>
-<title>[B]tets[/B]</title>
+<title>[B][/B]</title>
 <link>
 <sublink></sublink>
 </link>
@@ -45,7 +45,7 @@
 
 
 <item>
-<title>[B]tets[/B]</title>
+<title>[B]test[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=sky1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 </link>
