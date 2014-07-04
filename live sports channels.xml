@@ -33,7 +33,7 @@ playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386..
 <item>
 <title>[B]tester[/B]</title>
 <link>
-<sublink>rtmp://12445055.cast247.tv:443/live playpath=skysp1?ticket=d9a55588c5418c25b179f34b70a1d7bf swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net swfVfy=true live=1 timeout=10</sublink>
+<sublink>rtmp://12445055.cast247.tv:443/live playpath=skysp1?ticket=b0e3a162af51448561aae0f42d7e8d48 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net swfVfy=true live=1 timeout=10</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
