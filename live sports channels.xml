@@ -20,13 +20,20 @@
 
 #PASTE SPACE#
 
+url: rtmp://12445055.cast247.tv:443/live/skysp1?ticket=d4fcb51144887f077d9684a7d8768386
+app: live
+flashVer: WIN 14,0,0,125
+pageUrl: http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net
+swfUrl: http://www.cast247.tv/swf/player.swf
+tcUrl: rtmp://12445055.cast247.tv:443/live
+playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386
 
 
 
 <item>
 <title>[B]tester[/B]</title>
 <link>
-<sublink>http://vdn.sportingstreams.net/hls/channel3-sd.m3u8?s=MBXrf</sublink>
+<sublink>rtmp://12445055.cast247.tv:443/live/skysp1?ticket=d4fcb51144887f077d9684a7d8768386 playpath=skysp1?ticket=d4fcb51144887f077d9684a7d8768386 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net live=1</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
