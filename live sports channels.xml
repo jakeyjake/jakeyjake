@@ -41,7 +41,7 @@ playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386..
 <item>
 <title>[B]test2[/B]</title>
 <link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel8v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.phplive=true timeout=10 swfVfy=true</sublink>
+<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
