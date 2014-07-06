@@ -55,7 +55,11 @@ playPath: ss1ss
 #PASTE SPACE#
 
 #PLAYLIST ITEMS#
-
+<item>
+    <title>Sky Sports News HD - Free Streams Courtesy OF: http://www.offsidestreams.com/site/</title>
+    <link>rtmp://198.50.226.53/playlist/skynews.stream</link>
+    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_news_in_pubs.png</thumbnail>
+    </item>
 
 <item>
 <title>[B]Sky Sports 1[/B]-[I]Click twice[/I]</title>
@@ -68,8 +72,14 @@ playPath: ss1ss
 </item>
 
 <item>
+<title>Sky Sports News HD - Free Stream Courtesy OF: http://www.offsidestreams.com/site/</title>
+<link>rtmp://198.50.226.53/playlist/skynews.stream</link>
+<thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
+</item>
+
+<item>
 <title>[B]Sky Sports News[/B]</title>
-<sublink>http://37.187.133.146:1935/gtfo/prem52/playlist.m3u8</sublink>
+<sublink></sublink>
 <sublink>rtmp://37.220.36.64:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=23&width=640&height=460 token=#atd%#$ZH</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ssnx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ timeout=10</sublink>
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=41 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
