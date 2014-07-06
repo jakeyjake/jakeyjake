@@ -28,7 +28,7 @@ swfUrl: http://www.cast247.tv/swf/player.swf
 tcUrl: rtmp://12445055.cast247.tv:443/live
 playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386
 
-
+token=%ZZri(nKa@#Z
 
 
 
@@ -37,7 +37,7 @@ playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386
 #PLAYLIST ITEMS#
 
 <item>
-<title>[B]Sky Sports 1[/B]-[I]Click twice[/I]</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ss1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 <sublink>rtmpe://46.246.124.22:1935/redirect playpath=sskys1 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=Fo5_n0w?U.rA6l3-70w47c timeout=10</sublink>
@@ -52,15 +52,7 @@ playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386
 <thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
 </item>
 
-<item>
-<title>[B]Sky Sports News[/B]</title>
-<sublink></sublink>
-<sublink>rtmp://37.220.36.64:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=23&width=640&height=460 token=#atd%#$ZH</sublink>
-<sublink>rtmp://31.220.0.134:1935/live playpath=ssnx token=%ZZri(nKa@#Z swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ timeout=10</sublink>
-<sublink>rtmp://37.220.32.53:443/liverepeater playpath=41 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
 
-<thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
-</item>
 
 <item>
 <title>[B]Sky Sports News[COLOR tan]~RADIO~[/COLOR][/B]</title>
