@@ -47,7 +47,7 @@ playPath: ss1ss
 <item>
 <title>[B]test2[/B]</title>
 <link>
-<sublink>rtmp://31.220.0.133:1935/live/ss1ss playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ss1ss&vw=620&vh=490 live=1 timeout=10</sublink>
+<sublink>rtmp://31.220.0.133:1935/live/ss1ss playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ss1ss&vw=620&vh=490 live=1 token=#yw%tt#w@kku</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
