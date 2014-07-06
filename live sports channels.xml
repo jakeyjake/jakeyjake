@@ -30,27 +30,7 @@ playPath: skysp1?ticket=d4fcb51144887f077d9684a7d8768386
 
 
 
-<item>
-<title>[B]tester[/B]</title>
-<link>
-<sublink>rtmp://12445055.cast247.tv:443/live playpath=beeti1?ticket=67230710b5624fc2c3b679676fbf054e swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net swfVfy=true live=1 timeout=10</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-url: rtmp://31.220.0.133:1935/live/ss1ss
-app: live
-flashVer: WIN 14,0,0,125
-pageUrl: http://www.flashtv.co/embed.php?live=ss1ss&vw=620&vh=490
-swfUrl: http://www.flashtv.co/ePlayerr.swf
-tcUrl: rtmp://31.220.0.133:1935/live
-playPath: ss1ss
-<item>
-<title>[B]test2[/B]</title>
-<link>
-<sublink>rtmp://31.220.0.133:1935/live/ss1ss playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ss1ss&vw=620&vh=490 live=1 token=#yw%tt#w@kku</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
 
 #PASTE SPACE#
 
@@ -239,9 +219,17 @@ playPath: ss1ss
 
 
 <item>
-<title>[B]tester[/B]</title>
+<title>[B]test1[/B]</title>
 <link>
-<sublink>http://vdn.sportingstreams.net/hls/channel3-sd.m3u8?s=MBXrf</sublink>
+<sublink>rtmp://12445055.cast247.tv:443/live playpath=beeti1?ticket=67230710b5624fc2c3b679676fbf054e swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&width=600&height=430&domain=footyhd.net swfVfy=true live=1 timeout=10</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B]test2[/B]</title>
+<link>
+<sublink>rtmp://31.220.0.133:1935/live/ss1ss playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ss1ss&vw=620&vh=490 live=1 token=#yw%tt#w@kku</sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
