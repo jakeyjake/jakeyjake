@@ -39,7 +39,7 @@ token=%ZZri(nKa@#Z
 <item>
 <title>[B]Sky Sports 1[/B]</title>
 <link>
-<sublink>rtmp://31.220.0.134:1935/live playpath=ss1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
+<sublink>rtmp://31.220.0.134:1935/live playpath=ss1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmpe://46.246.124.31:1935/redirect playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 swfVfy=true token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
 <sublink>rtmp://37.220.36.68:443/liverepeater playpath=42 token=#atd%#$ZH swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10</sublink>
 </link>
@@ -56,7 +56,7 @@ token=%ZZri(nKa@#Z
 
 <item>
 <title>[B]Sky Sports News[COLOR tan]~RADIO~[/COLOR][/B]</title>
-<link> rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com</link>
+<link>rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com</link>
 <thumbnail>http://www.skysports.com/Images/650392.jpg</thumbnail>
 </item>
 
