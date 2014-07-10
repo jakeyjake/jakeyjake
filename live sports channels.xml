@@ -37,13 +37,13 @@ token=%ZZri(nKa@#Z
 #PLAYLIST ITEMS#
 
 
-rtmp://31.220.0.134:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
+
 
 <item>
-<title>[B]Sky Sports 1[/B]</title>
+<title>[B]Sky Sports 1.[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
-<sublink>rtmpe://46.246.124.31:1935/redirect playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 swfVfy=true</sublink>
+<sublink>rtmpe://46.246.124.30:1935/redirect playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 swfVfy=0 timeout=15</sublink>
 <sublink>rtmp://37.220.36.68:443/liverepeater playpath=42 token=#atd%#$ZH swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
@@ -109,8 +109,8 @@ rtmp://31.220.0.134:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlaye
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>
-<sublink>rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
-<sublink></sublink>
+<sublink>rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmp://31.220.0.138:1935/redirect playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt1x&vw=620&vh=490 swfVfy=1 timeout=10</sublink>
 <sublink></sublink>
 
 </link>
