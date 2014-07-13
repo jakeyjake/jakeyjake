@@ -11,7 +11,7 @@
 
 <info>
 	<message>[B]Green Acres (1965-1971)[/B]</message>
-	<message></message>
+	<message>More to follow..</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
@@ -90,5 +90,47 @@
 </link>
 <thumbnail>http://4.bp.blogspot.com/_hXv0e_ByoDs/Su5AQSByR5I/AAAAAAAACK4/hQ6PNdYqbHw/s1600-h/greenacres.jpg</thumbnail>
 </item>
+
+<item>
+<title>S1 Ep09 - You Can't Plug in a 2 with a 6</title>
+<link>
+<sublink>http://n80.stagevu.com/v/30a83c3081b11823b9229a5ed5cec45b/136018.avi</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://4.bp.blogspot.com/_hXv0e_ByoDs/Su5AQSByR5I/AAAAAAAACK4/hQ6PNdYqbHw/s1600-h/greenacres.jpg</thumbnail>
+</item>
+
+<item>
+<title>S1 Ep10 - Don't Call Us, We'll Call You</title>
+<link>
+<sublink>http://n80.stagevu.com/v/697693dceb6d3b5796b3f0734feeed96/136032.avi</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://4.bp.blogspot.com/_hXv0e_ByoDs/Su5AQSByR5I/AAAAAAAACK4/hQ6PNdYqbHw/s1600-h/greenacres.jpg</thumbnail>
+</item>
+
+<item>
+<title>S1 Ep11 - Parity Begins at Home</title>
+<link>
+<sublink>http://n80.stagevu.com/v/d22b701971dd293235f7a4babc98eafc/136046.avi</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://4.bp.blogspot.com/_hXv0e_ByoDs/Su5AQSByR5I/AAAAAAAACK4/hQ6PNdYqbHw/s1600-h/greenacres.jpg</thumbnail>
+</item>
+
+<item>
+<title>S1 Ep12 - Lisa Has a Calf</title>
+<link>
+<sublink>http://n80.stagevu.com/v/dd5cb8bbbd04c17d5bdfc7409e04c90c/136064.avi</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://4.bp.blogspot.com/_hXv0e_ByoDs/Su5AQSByR5I/AAAAAAAACK4/hQ6PNdYqbHw/s1600-h/greenacres.jpg</thumbnail>
+</item>
+
+
+
+
+
+
 
 
