@@ -20,19 +20,19 @@
 
 <directories>
 	
-	<name>[B]The Fred C Dobbs Film Awards[/B]</name>
+	<name>The Fred C Dobbs [B]Film Awards[/B]</name>
 	<thumbnail>http://i.imgur.com/WtghxQW.jpg</thumbnail>
 	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
 
-	<name>[B]Dickie Davies' Live Sports Channels[/B]</name>
+	<name>Dickie Davies' [B]Live Sports Channels[/B]</name>
 	<thumbnail>http://i.imgur.com/ikUA3wx.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/live%20sports%20channels.xml</link>
 
-	<name>[B]Andy Gill's Music Section[/B]</name>
+	<name>Andy Gill's [B]Music Section[/B]</name>
 	<thumbnail>http://i.imgur.com/vzAnOEL.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
 
-	<name>[B]Roger Mellie's Requests Section[/B]</name>
+	<name>Roger Mellie's [B]Requests Section[/B]</name>
 	<thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2009/11/5/1257408642262/Vizs-Roger-Mellie---the-m-001.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 
