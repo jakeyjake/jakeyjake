@@ -10,7 +10,7 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]Find your requested links here[/B]</message>
+	<message>[B]Find your requested links here:[/B]</message>
 	<message></message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
@@ -25,7 +25,7 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Green%20Acres.xml</link>
 
 	<name>[B]Hawaii Five-0[/B]</name>
-	<thumbnail>http://i.imgur.com/ikUA3wx.jpg</thumbnail>
+	<thumbnail>http://i.imgur.com/0QmWJQg.jpg</thumbnail>
 	<link></link>
 
 	<name>[B]Magnum, P.I.[/B]</name>
