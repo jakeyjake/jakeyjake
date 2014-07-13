@@ -1,0 +1,43 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>roger mellie</poster>
+<fanart>http://i.imgur.com/YlKeS9j.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Find your requested links here[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+</info>
+
+#DIRECTORIES#
+
+<directories>
+	
+	<name>[B]Green Acres[/B]</name>
+	<thumbnail>http://3.bp.blogspot.com/-16Y1ZSUHnO8/TeVIp0McjuI/AAAAAAAAArc/isbH53NEmK4/s1600/green%2Bacres.jpg</thumbnail>
+	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
+
+	<name>[B]Hawaii Five-0[/B]</name>
+	<thumbnail>http://i.imgur.com/ikUA3wx.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/live%20sports%20channels.xml</link>
+
+	<name>[B]Magnum, P.I.[/B]</name>
+	<thumbnail>http://www.crossfit858.com/wp-content/uploads/2013/11/magnum_pi.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
+
+	<name>Roger Mellie's Requests Section</name>
+	<thumbnail>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2009/11/5/1257408642262/Vizs-Roger-Mellie---the-m-001.jpg</thumbnail>
+	<link></link>
+
+	<name></name>
+	<thumbnail></thumbnail>
+	<link></link>
+
+</directories>
