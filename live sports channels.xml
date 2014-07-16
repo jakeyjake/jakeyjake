@@ -176,7 +176,7 @@ token=%ZZri(nKa@#Z
 <link>
 <sublink>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</sublink>
 <sublink>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf?file=ChelTV_Ch01_1000k@26291&streamer=rtmp://cp96798.live.edgefcs.net/live&autostart=true live=1 pageUrl=http://coolsport.tv/chelseatv.html timeout=10<sublink>
-<sublink>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</sublink>
+<sublink>rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291</sublink>
 </link>
 <thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
 </item>
