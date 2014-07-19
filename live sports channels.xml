@@ -40,7 +40,7 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 
 
 <item>
-<title>[B]Sky Sports 1.[/B]</title>
+<title>[B]Sky Sports 1[/B]</title>
 <link>
 <sublink>rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
