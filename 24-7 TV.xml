@@ -22,6 +22,15 @@
 <item>
 <title>Family Guy</title>
 <link>
+<sublink>rtmp://198.27.74.25/app playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Simpsons</title>
+<link>
 <sublink>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502</sublink>
 <sublink></sublink>
 </link>
@@ -78,7 +87,7 @@
 <item>
 <title>Frasier</title>
 <link>
-<sublink>rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf page=Urlhttp://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
+<sublink>rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -108,7 +117,7 @@
 <sublink>rtmp://198.27.74.25/app playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03</sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -117,7 +126,7 @@
 <sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 <item>
