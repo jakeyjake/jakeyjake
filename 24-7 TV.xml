@@ -1,0 +1,41 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>Kevin Turvey</poster>
+<fanart>http://i.imgur.com/YlKeS9j.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]TV Shows - 24 hours a day Streams[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+
+<item>
+<title>Seinfeld</title>
+<link>
+<sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+</item>
+
+<item>
+<title>Seinfeld</title>
+<link>
+<sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+</item>
+
+
+

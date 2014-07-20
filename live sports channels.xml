@@ -274,13 +274,7 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 </item>
 
 
-<item>
-<title>[B]test2[/B]</title>
-<link>
-<sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
 
 
  
