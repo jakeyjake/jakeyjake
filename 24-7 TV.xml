@@ -20,9 +20,92 @@
 
 
 <item>
-<title>Seinfeld</title>
+<title>Family Guy</title>
 <link>
-<sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
+<sublink>rtmp://198.27.75.99/app playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>American Dad</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=americandad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>King of the Hill</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>The Big Bang Theory</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Fresh Prince of Bel-Air</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The X-Files</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Frasier</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf page=Urlhttp://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>South Park</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Futurama</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=2501 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2501</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Curb Your Enthusiasm</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
@@ -35,6 +118,240 @@
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+</item>
+
+<item>
+<title>It's Always Sunny in Philadelphia</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Two and a Half Men</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?men02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Scrubs</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=scrubs02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?scrubs02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Everybody Loves Raymond</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Burn Notice</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=burnnotice03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>How I Met Your Mother</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=himym02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?himym02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>The Office (US)</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Friends</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>The King of Queens</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Trailer Park Boys</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=tpb02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Arrested Development</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=arrested01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Rules of Engagement</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=roe02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?roe02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 
