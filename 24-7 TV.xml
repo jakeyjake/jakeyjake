@@ -19,6 +19,10 @@
 #PLAYLIST ITEMS#
 
 
+
+
+
+
 <item>
 <title>Family Guy</title>
 <link>
@@ -85,6 +89,24 @@
 </item>
 
 <item>
+<title>Breaking Bad</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Cops</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Frasier</title>
 <link>
 <sublink>rtmp://198.27.74.25/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
@@ -121,6 +143,78 @@
 </item>
 
 <item>
+<title>Game of Thrones</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?got02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Vikings</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=vikings02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?vikings02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Trek</title>
+<link>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQwNTg3OTg2Mzs2ZDg4NTIwOTMwZWUxNGMxOTg3YjAwMDZmMGQyMDczZQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/f0b58d5681d0</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Trek • The Next Generation</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=tng02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Enterprise</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=trekent02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Deep Space Nine</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=ds902 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Voyager</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Cheers</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=cheers01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cheers01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>Seinfeld</title>
 <link>
 <sublink>rtmp://198.27.74.25/app/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
@@ -130,6 +224,35 @@
 </item>
 
 <item>
+<title>The Office (US)</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>I Love Lucy</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=lucy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lucy02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Friends</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
 <title>It's Always Sunny in Philadelphia</title>
 <link>
 <sublink>rtmp://198.27.74.25/app playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
@@ -137,6 +260,7 @@
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 <item>
 <title>Two and a Half Men</title>
@@ -185,28 +309,6 @@
 
 
 <item>
-<title>The Office (US)</title>
-<link>
-<sublink>rtmp://198.27.74.25/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
-<title>Friends</title>
-<link>
-<sublink>rtmp://198.27.74.25/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-<item>
 <title>The King of Queens</title>
 <link>
 <sublink>rtmp://198.27.74.25/app playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
@@ -246,63 +348,10 @@
 </item>
 
 
-
-
-
-
-
-
-
 <item>
-<title></title>
+<title>M*A*S*H (MASH)</title>
 <link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
+<sublink>rtmp://198.27.74.25/app playpath=mash02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mash02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -311,31 +360,269 @@
 
 
 <item>
-<title></title>
+<title>Married With Children</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://198.27.74.25/app playpath=mwc02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+<item>
+<title>Will and Grace</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=wag swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?wag</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Bones</title>
+<link>
+<sublink>rtmp://198.27.74.25/app playpath=bones02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bones02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Law and Order: Special Victims Unit</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=lawsuv02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lawsuv02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>That 70s Show</title>
+<link>
+<sublink>rtmp://198.27.75.99/app<playpath>that70sshow <swfUrl>http://www.tgun.tv/locked/player.swf <pageUrl>http://www.tgun.tv/menus/players/dlock/playerindextab2.php?that70sshow</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Home Improvement</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=home01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?home01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>The Sopranos</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=sopranos swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?sopranos</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Roseanne</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=roseanne01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?roseanne01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Modern Family</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=mfamily02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?mfamily02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>New Girl</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=ng swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ng</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>The Middle</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=middle swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?middle</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>2 Broke Girls</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=2bg01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?2bg01</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Anger Management</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=anger02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?anger02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Drew Carey Show</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=drewcarey swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Perfect Strangers</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=ps swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ps</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Night Court</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=nightcourt swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?nightcourt</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Becker</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpathbeck swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?beck</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>3rd Rock from the Sun</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath>rock swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?rock</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Just Shoot Me</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=shootme swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?shootme</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Full House</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=fullhouse swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?fullhouse</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Cosby Show</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=cosby swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cosby</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>NewsRadio</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=nradio swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?nradio</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Northern Exposure</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=northern swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?northern</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>All in the Family</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=aitf swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?aitf</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Hangin' with Mr Cooper</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=cooper swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cooper</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Oz</title>
+<link>
+<sublink>rtmp://198.27.75.99/app playpath=oz02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
 <item>
-<title></title>
+<title>The Oracle Channel</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtheoraclechannel/2014/03/14/ea784f0c-d94b-4037-ae3e-01ec6a4a68d0 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xcccccc&color=0x000000&autoPlay=true&time=&iconColorOver=0xe7e7e7&height=480&allowchat=true&mute=false&jsEnabled=false&width=640 pageUrl=http://cdn.livestream.com/embed/theoraclechannel?layout=4&color=0x000000&autoPlay=true&mute=false&iconColorOver=0xe7e7e7&iconColor=0xcccccc&allowchat=true&height=480&width=640</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
-
-
 
 <item>
-<title></title>
+<title>Growing Pains</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://198.27.75.99/app playpath=gpain swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?gpain</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -343,25 +630,30 @@
 
 
 
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
