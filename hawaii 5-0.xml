@@ -25,16 +25,23 @@
 
 #PLAYLIST ITEMS#
 
-<item>
 
-<item>
-<title>Hawaii Five-O</title>
-<link>
-<sublink>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrifpInHm3tsqYxaMD0DzzLnx</sublink>
-<sublink>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrieuLglvyQz3KT_iWLb1cUCv</sublink>
-</link>
-<thumbnail>http://i.imgur.com/7YzzDAP.jpg</thumbnail>
-</item>
+<directories>
+
+
+<name>Hawaii Five-O Season 1</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrifpInHm3tsqYxaMD0DzzLnx</link>
+<thumbnail></thumbnail>
+
+<name>Hawaii Five-O Season 2</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrieuLglvyQz3KT_iWLb1cUCv</link>
+<thumbnail></thumbnail>
+
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
+
+</directories>
 
 
 
