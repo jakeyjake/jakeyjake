@@ -216,54 +216,7 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 
 
 
-<item>
-<title>[B]Multi Channel HD[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true swfVfy=true token=WY846p1E1g15W7s timeout=11</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>[B]Multi Channel HD[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true swfVfy=true token=WY846p1E1g15W7s timeout=12</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title>[B]Multi Channel HD[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true swfVfy=true token=WY846p1E1g15W7s timeout=13</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B]Multi Channel HD-[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true swfVfy=true token=WY846p1E1g15W7s timeout=14</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B]Multi Channel HD-[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true swfVfy=true token=WY846p1E1g15W7s timeout=15</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[B]Multi Channel HD[/B]</title>
-<link>
-<sublink>rtmp://server.ppvmania.tv/live/ playpath=channel6v swfUrl=http://www.hqzone.tv/forums/jwplayer/jwplayer.flash.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=12 token=WY846p1E1g15W7s live=1 timeout=16</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[B]test2[/B]</title>
