@@ -608,17 +608,6 @@
 </item>
 
 
-
-
-<item>
-<title>The Oracle Channel</title>
-<link>
-<sublink>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtheoraclechannel/2014/03/14/ea784f0c-d94b-4037-ae3e-01ec6a4a68d0 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?iconColor=0xcccccc&color=0x000000&autoPlay=true&time=&iconColorOver=0xe7e7e7&height=480&allowchat=true&mute=false&jsEnabled=false&width=640 pageUrl=http://cdn.livestream.com/embed/theoraclechannel?layout=4&color=0x000000&autoPlay=true&mute=false&iconColorOver=0xe7e7e7&iconColor=0xcccccc&allowchat=true&height=480&width=640</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/ybSL1Zu.png</thumbnail>
-</item>
-
 <item>
 <title>Growing Pains</title>
 <link>
