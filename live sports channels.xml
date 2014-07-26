@@ -41,12 +41,11 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 <item>
 <title>[B][COLOR tan]Man United V Roma International Champions Cup 9-11pm GMT - in English or Portuguese[/COLOR][/B]</title>
 <link>
-<sublink>rtmp://80.82.64.105:1935/zmliveme playpath=HMOYmvD3xL swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf pageUrl=http://www.zoomtv.me/embed.php?v=2hdwoof724&vw=660&vh=450</sublink>
-<sublink>rtmp://149.255.37.23:80/pub playpath=k8oCNJjCBRwu31FkWRwE swfUrl=http://www.castto.me/_.swf pageUrl=http://static.castto.me/embedplayer.php?channel=489191067&vw=640&vh=445</sublink>
+
 <sublink>rtmp://46.246.29.140:1935/stream/ playpath=oookifhndk.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=s5g4x5s5q5o5c4h4m5p5n254s2a4u2u2542413y2m2w2z294&adx=&stream=44v2a4k5c48494v2o574t274r23413n2u5v5l4f494d4g4w5m5t5t234w2z234y2u2p2y2b4o224z203y3g4x5w5s5r5a4b4w5i5i2l5c4x5d484u546n2p2n4s2t23434j5b41494w2j5y2y2y2s274w254z2y2i5u2o564k5f4w2u2f434y284s234z2y2a414r2p2l2s2t2343434&sooor=Mjk=&str=is&ok=&idom=ifeed2all.eu</sublink>
 <sublink>rtmp://146.185.24.98:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=12&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 <sublink>rtmp://46.28.53.6:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=12&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
-<sublink>http://sjc-ucdn11-ntt-tcdn.ustream.tv/ams-uhs02/streams/httpflv/ustreamVideo/18512044/streams/live_1_1406404123_518869949.flv</sublink>
+
 </link>
 <thumbnail></thumbnail>
 </item>
