@@ -66,8 +66,11 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 </item>
 
 <item>
-<title>Sky Sports News</title>
-<link>rtmp://31.220.0.134:1935/live playpath=skyitalia2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</link>
+<title>[B]Sky Sports News[/B]</title>
+<link>
+<sublink>rtmp://31.220.0.134:1935/live playpath=skyitalia2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
+<sublink></sublink>
+</link>
 <thumbnail>http://i.imgur.com/8msqbr1.jpg</thumbnail>
 </item>
 
@@ -127,7 +130,7 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmp://31.220.0.138:1935/redirect playpath=bt1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/embed.php?live=bt1x&vw=620&vh=490 swfVfy=1 timeout=10</sublink>
-<sublink></sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z</sublink>
 </link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
