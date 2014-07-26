@@ -37,6 +37,16 @@ rtmpe://46.246.124.25:1935/redirect playpath=bch1 swfUrl=http://www.hdcast.org/p
 #PLAYLIST ITEMS#
 
 
+<item>
+<title>[B][COLOR tan]Man United V Roma International Champions Cup 9-11pm GMT[/COLOR][/B]</title>
+<link>
+<sublink>rtmp://46.28.53.6:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=12&width=640&height=460</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
 
 
 <item>
