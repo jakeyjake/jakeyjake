@@ -5,3 +5,47 @@ sky sports 1
 
 playpath changed?
 
+<sublink>rtmpe://play.finecast.tv/live playpath=hqbt2 swfUrl=http://www.finecast.tv/player/player.swf pageUrl=http://www.finecast.tv/embed.php?u=hqbt1&vw=600&vh=400 live=1 timeout=10</sublink>
+dunno where i got this- try again later
+
+Below need updating/checking
+
+<item>
+<title>[B]Chelsea TV[/B]</title>
+<link>
+<sublink>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</sublink>
+<sublink><sublink>
+<sublink>rtmp://46.23.67.12:443/liverepeater playpath=13 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=13&width=640&height=460 live=1 swfVfy=1 token=#atd%#$ZH</sublink>
+</link>
+<thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
+</item>
+
+<item>
+<title>[B]MUTV[/B]</title>
+<sublink>rtmp://89.248.174.51:443/liverepeater playpath=1 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=1&width=640&height=460 live=1 token=#atd%#$ZH</sublink>
+<sublink></sublink>
+<thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
+</item>
+
+<item>
+<title>[B]FilmOn Football[/B]</title>
+<link> rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbec507c5b5548dc30ded432c6b7954762af5f40882074af62fa7775aae1a92b6d749aa4377b8a4a25769985883dcca3f8b119c7aa33d2713f5b9708bb122dfb359b67573123bf4c8375db9e0f515c412aee1aa82d04561d18396455495b14c750262fcba8066aa5c9153b2f28a9e26f07f36c34fadb9473033e87e809cc5a32ccf79d7e24310cf1dfe3fd5b6bdd5ccfd7e/374.low.stream playpath=374.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=374&affid=8710Ai</link>
+<thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
+</item>
+
+<item>
+<title>[B]BOXNATION[/B]</title>
+<link>
+<sublink>rtmp://rtmp.bestcast.me:1935/liverepeater/_definst_/151324</sublink>
+<sublink>rtmpe://5.153.25.44:1935/redirect playpath=boxnathdfoot swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=boxnathdfoot&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
+</item>
+
+<item>
+<title>[B]ITV 4[/B]</title>
+<sublink>rtmp://live302.edge.filmon.com/live/?id=0ad5aac39bb13fbe006a0d13d21b7ca5a31f579d20644a072008723909ced5d46c613794a19f50d682d544bcd95e4ebe71d8bbe6fab0f07ffd0222fa370ccdd0218e3a71d5d3aa8be237e1343752cdeadd902658fdadc9940192ac743c2c5a8a3fdcccdd082d1e23afb79a34b63b6d15509123106684c01c9fb9a413f27a57b645ac9e208f9aedb5f6cf06ccf2df8b7c45e55a195fefdc58/101.low.stream playpath=101.low.stream swfUrl=http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=55 live=1 pageUrl=http://www.filmon.com/tv/channel/export?channel_id=101&affid=8710Ai</sublink>
+<sublink>rtmpe://46.246.124.22:1935/redirect playpath=januitv4 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=januitv4&vw=640&vh=460&domain=streamking.org token=Fo5_n0w?U.rA6l3-70w47c live=1 timeout=10</sublink>
+<thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
+</item>
