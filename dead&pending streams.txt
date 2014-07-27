@@ -33,15 +33,7 @@ Below need updating/checking
 <thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
 </item>
 
-<item>
-<title>[B]BOXNATION[/B]</title>
-<link>
-<sublink>rtmp://rtmp.bestcast.me:1935/liverepeater/_definst_/151324</sublink>
-<sublink>rtmpe://5.153.25.44:1935/redirect playpath=boxnathdfoot swfUrl=http://cdn.watchjsc.us/jwplayer.swf pageUrl=http://cdn.watchjsc.us/embed.php?u=boxnathdfoot&vw=640&vh=460&domain=funkeysports.com live=true timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
-</item>
+
 
 <item>
 <title>[B]ITV 4[/B]</title>
