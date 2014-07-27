@@ -1,0 +1,7 @@
+sky sports 1
+
+<sublink>rtmp://37.220.36.68:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://31.220.0.195:1935/live playpath=ss1ss swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
+
+playpath changed?
+
