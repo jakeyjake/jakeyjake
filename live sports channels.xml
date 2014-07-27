@@ -117,7 +117,7 @@ http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.or
 <item>
 <title>[B]Sky Sports 3[/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.25:1935/redirect playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.25:1935/redirect playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://37.220.32.53:443/liverepeater playpath=44 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
 <sublink></sublink>
 </link> 
