@@ -109,7 +109,7 @@ http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.or
 <item>
 <title>[B]Sky Sports 2[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.25:1935/redirect playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://turbocast.tv/jwplayer/jwplayer.flash.swf pageUrl=http://turbocast.tv/gen.php?ch=live5 live=1 timeout=10</sublink>
 <sublink>rtmp://80.82.65.237:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=43 token=#atd%#$ZH timeout=10</sublink>
 </link>
@@ -117,9 +117,9 @@ http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.or
 </item>
 
 <item>
-<title>[B]Sky Sports 3[/B]</title>
+<title>[B]Sky Sports 3[/B]</title>rtmpe://46.246.29.150:1935/redirect/sskys3
 <link>
-<sublink></sublink>
+<sublink>rtmpe://46.246.29.150:1935/redirect playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org"></sublink>
 <sublink>rtmp://80.82.65.237:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=44 token=#atd%#$ZH timeout=10</sublink>
 <sublink></sublink>
 </link> 
@@ -129,7 +129,7 @@ http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.or
 <item>
 <title>[B]Sky Sports 4[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>rtmpe://46.246.29.150:1935/redirect playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org</sublink>
 <sublink>rtmp://80.82.65.237:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=45 token=#atd%#$ZH timeout=10</sublink>
 </link>
 
