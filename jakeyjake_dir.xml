@@ -19,14 +19,18 @@
 #DIRECTORIES#
 
 <directories>
+
+    <name>Dickie Davies' [COLOR cornflowerblue][B]Live Sports Channels[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/dc1UbyX.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/live%20sports%20channels.xml</link>
+
+    <name>Kevin Turvey's [COLOR cornflowerblue][B]24 Hour TV Shows[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/rF4vw31.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/24-7%20TV.xml</link>
 	
 	<name>The Fred C Dobbs [COLOR cornflowerblue][B]Film Awards[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
 	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
-
-	<name>Dickie Davies' [COLOR cornflowerblue][B]Live Sports Channels[/B][/COLOR]</name>
-	<thumbnail>http://i.imgur.com/dc1UbyX.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/live%20sports%20channels.xml</link>
 
 	<name>Andy Gill's [COLOR cornflowerblue][B]Music Section[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
@@ -36,9 +40,7 @@
 	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 
-	<name>Kevin Turvey's [COLOR cornflowerblue][B]24 Hour TV Shows[/B][/COLOR]</name>
-	<thumbnail>http://i.imgur.com/rF4vw31.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/24-7%20TV.xml</link>
+	
 
 </directories>
 
