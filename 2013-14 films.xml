@@ -1,0 +1,33 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>2013-14 Films</poster>
+<fanart></fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Films released in 2013 and 2014[/B]</message>
+	<message></message>
+	<message>I'm afraid there a many dead links at the moment after a couple of sites went for a burden. Will update as soon as!</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+
+
+
+
+<item>
+<title>Starred Up (David Mackenzie)</title>
+<link>
+<sublink>http://www.nowvideo.sx/video/53ca70c9a4220</sublink>
+<sublink>http://billionuploads.com/bz0l8bh1z8wu</sublink>
+
+</link>
+<thumbnail>http://i.imgur.com/Gp2kYrk.jpg</thumbnail>
+</item>
