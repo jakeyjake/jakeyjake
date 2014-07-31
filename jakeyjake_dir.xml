@@ -50,6 +50,13 @@
 
 </directories>
 
+<info>
+	<message> ▲ = Films which are rated for viewers 18 or over</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+</info>
+
 #
 #
 #END
