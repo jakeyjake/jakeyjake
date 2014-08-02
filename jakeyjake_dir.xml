@@ -12,8 +12,8 @@
 <info>
 	
     <message>[CR]</message>
-	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = Films rated 85%+ on rottentomatoes.com[/B]</message>
-	<message>[B][COLOR lightslategray] ▲ [/COLOR] = Films rated suitable only for viewers of age 18+[/B]</message>
+	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = Rated 85%+ on rottentomatoes.com[/B]</message>
+	<message>[B][COLOR lightslategray] ▲ [/COLOR] = Rated suitable only for viewers of age 18+[/B]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
     
