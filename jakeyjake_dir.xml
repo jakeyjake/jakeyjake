@@ -10,10 +10,14 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message></message>
-	<message></message>
+	
+    <message>[CR]</message>
+	<message>[B] ▲[/B] = [COLOR tan]Films which are rated for viewers of age 18 and over[/COLOR]</message>
+	<message>[B] ▲▲▲[/B] = [COLOR tan]Films rated 85% or over on rottentomatoes.com[/COLOR]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+    
+	
 </info>
 
 #DIRECTORIES#
@@ -44,13 +48,7 @@
 	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 	
-	<info>
-    <message>[CR]</message>
-	<message>[B] ▲[/B] = [COLOR tan]Films which are rated for viewers 18 or over[/COLOR]</message>
-	<message>[B] ☼[/B] = [COLOR tan]Films rated 80% or over on rottentomatoes.com[/COLOR]</message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
-    </info>
+	
 
 	
 
