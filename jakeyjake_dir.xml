@@ -44,14 +44,13 @@
 	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 	
-	
-<info>
+	<info>
     <message>[CR]</message>
 	<message>[B] ▲[/B] = [COLOR tan]Films which are rated for viewers 18 or over[/COLOR]</message>
-	<message></message>
+	<message>[B] ☼[/B] = [COLOR tan]Films rated 80% or over on rottentomatoes.com[/COLOR]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
-</info>
+    </info>
 
 	
 
