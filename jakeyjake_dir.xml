@@ -12,8 +12,8 @@
 <info>
 	
     <message>[CR]</message>
-	<message>[B] ▲[/B] = [COLOR tan]Films which are rated for viewers of age 18 and over[/COLOR]</message>
-	<message>[B] ▲▲▲[/B] = [COLOR tan]Films rated 85% or over on rottentomatoes.com[/COLOR]</message>
+	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = Films rated 85%+ on rottentomatoes.com[/B]</message>
+	<message>[B][COLOR lightslategray] ▲ [/COLOR] = Films rated suitable only for viewers of age 18+[/B]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
     
@@ -24,27 +24,27 @@
 
 <directories>
 
-    <name>Dickie Davies' with his [COLOR cornflowerblue][B]Live Sports Channels[/B][/COLOR]</name>
+    <name>[I]Dickie Davies' with his[/I][COLOR cornflowerblue][B] ~Live Sports Channels[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/iwYGkx7.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/live%20sports%20channels.xml</link>
 
-    <name>Kevin Turvey Presents [COLOR cornflowerblue][B]24 Hour TV Shows[/B][/COLOR]</name>
+    <name>[I]Kevin Turvey Presents[/I] [COLOR cornflowerblue][B]~24 Hour TV Shows[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/rF4vw31.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/24-7%20TV.xml</link>
 	
-	<name>Gripper Stebson's favourite [COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I] work in progress[/I]</name>
+	<name>[I]Gripper Stebson's favourite[/I] [COLOR cornflowerblue][B]~Films of 2013-2014[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/14IYh3d.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2013-14%20films.xml</link>
 	
-	<name>The Fred C Dobbs [COLOR cornflowerblue][B]Film Awards[/B][/COLOR]</name>
+	<name>[I]The Fred C Dobbs [/I][COLOR cornflowerblue][B]~Film Awards[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
 	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
 
-	<name>Andy Gill's [COLOR cornflowerblue][B]Music Corner[/B][/COLOR]</name>
+	<name>[I]Andy Gill's [/I][COLOR cornflowerblue][B]~Music Corner[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
 
-	<name>Roger Mellie's Very Polite [COLOR cornflowerblue][B]Requests Section[/B][/COLOR]</name>
+	<name>[I]Roger Mellie's Very Polite [/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 	

@@ -10,8 +10,8 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]Films released in 2013 and 2014[/B]</message>
-	<message>Work in progress...</message>
+	<message>[B][COLOR firebrick]Films released in 2013 and 2014[/COLOR][/B]</message>
+	<message>[COLOR][I]Work in progress...[/COLOR][/I]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
@@ -21,7 +21,7 @@
 
 
 <item>
-<title>Starred Up ▲▲▲(David Mackenzie 2014) ▲</title>
+<title>[B]Starred Up [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://www.nowvideo.sx/video/53ca70c9a4220</sublink>
 <sublink>http://billionuploads.com/bz0l8bh1z8wu</sublink>
@@ -30,7 +30,7 @@
 </item>
 
 <item>
-<title>Calvary ▲▲▲(John Michael McDonagh 2014) ▲</title>
+<title>[B]Calvary [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://180upload.com/zesjnwn9wq3k</sublink>
 <sublink>http://movreel.com/wqgh18re7wsu</sublink>
@@ -40,7 +40,19 @@
 </item>
 
 <item>
-<title>Afflicted (Derek Lee, Clif Prowse 2014) ▲</title>
+<title>[B]Saving Mr. Banks [/B]</title>
+<link>
+<sublink>http://movreel.com/82k54tvhjzej#</sublink>
+<sublink>http://billionuploads.com/2s3o0bdtr5uw</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/GCIYMzL.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Afflicted [/B][COLOR lightslategray] ▲[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/1ez54wwhph0w</sublink>
 <sublink>http://180upload.com/yv3vwq8wooes</sublink>
@@ -50,7 +62,7 @@
 </item>
 
 <item>
-<title>Blue Ruin ▲▲▲(Jeremy Saulnier 2014) ▲</title>
+<title>[B]Blue Ruin [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 
 <sublink>http://hugefiles.net/815wt9y7qi1o</sublink>
@@ -63,7 +75,7 @@
 
 
 <item>
-<title>The Raid 2 (Gareth Evans 2014) ▲</title>
+<title>[B]The Raid 2 [/B][COLOR lightslategray] ▲[/COLOR]</title>
 <link>
 <sublink>http://popcornered.com/media/TheRaid2.mp4</sublink>
 <sublink>http://movreel.com/mav4qk3zr96j</sublink>
@@ -73,7 +85,7 @@
 
 
 <item>
-<title>The Expendables 3 (Patrick Hughes 2014)</title>
+<title>[B]The Expendables 3 [/B]</title>
 <link>
 <sublink></sublink>
 <sublink>http://movreel.com/vvpwy1gxo4vo</sublink>
@@ -83,7 +95,7 @@
 </item>
 
 <item>
-<title>Tammy (Ben Falcone 2014) ▲</title>
+<title>[B]Tammy [/B][COLOR lightslategray] ▲[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink></sublink>
@@ -95,7 +107,7 @@
 </item>
 
 <item>
-<title>Noah (Darren Aronofsky 2014)</title>
+<title>[B]Noah [/B]</title>
 <link>
 <sublink>http://180upload.com/8dg1yhx2q6tk</sublink>
 <sublink>http://movreel.com/phqxvjtsfzaj</sublink>
@@ -106,7 +118,7 @@
 </item>
 
 <item>
-<title>Borgman ▲▲▲(Alex van Warmerdam 2014) ▲</title>
+<title>[B]Borgman [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/u8gdtpfz6mvx</sublink>
 <sublink>http://popcornered.com/media/Borgman.mp4</sublink>
@@ -114,18 +126,9 @@
 <thumbnail>http://i.imgur.com/XICWy7i.png</thumbnail>
 </item>
 
-<item>
-<title>The Amazing Spider-Man 2 (Marc Webb 2014)</title>
-<link>
-<sublink>http://hugefiles.net/iw9xxizad9yj</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
 
 <item>
-<title>The Stag [I]a.k.a The Bachelor Weekend [/I](John Butler 2014) unrated</title>
+<title>[B]The Stag [/B]a.k.a The Bachelor Weekend[COLOR lightslategray]---unrated[/COLOR]</title>
 <link>
 <sublink>http://www.nowvideo.sx/video/30851d0a2ca48</sublink>
 <sublink>http://www.divxstage.eu/video/1bbf0ceafbfb1</sublink>
@@ -135,7 +138,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Rio 2(Carlos Saldanha 2014)</title>
+<title>[B]Rio 2 [/B]</title>
 <link>
 <sublink>http://billionuploads.com/buhb20kbubc1 </sublink>
 <sublink>http://180upload.com/cdgljta9qr8u</sublink>
@@ -145,45 +148,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>300: Rise of an Empire (Noam Murro 2014) ▲</title>
-<link>
-<sublink>http://movreel.com/bh5vthqfkypp</sublink>
-<sublink>http://hugefiles.net/qv64htulun2n</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Gravity ▲▲▲(Alfonso Cuarón 2013)</title>
-<link>
-<sublink>http://movreel.com/1el46gvf0meb.html</sublink>
-<sublink>http://movreel.com/hv4wimw1y5ev</sublink>
-<sublink>http://movreel.com/5kagvs4l4fd6.html</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>The World's End ▲▲▲(Edgar Wright 2013) ▲</title>
-<link>
-<sublink>http://movreel.com/5kagvs4l4fd6.html</sublink>
-<sublink>http://hugefiles.net/8de9wivn9yoj</sublink>
-<sublink>http://hugefiles.net/wvw6pksk0xpm</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>12 Years a Slave ▲▲▲(Steve McQueen 2013) ▲</title>
-<link>
-<sublink>http://movreel.com/7pfk2qhzee9z.html</sublink>
-<sublink>http://hugefiles.net/iltlg1hb95ox</sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>The Wolf of Wall Street(Martin Scorsese 2013) ▲</title>
+<title>[B]The Wolf of Wall Street [/B][COLOR lightslategray] ▲[/COLOR]</title>
 <link>
 <sublink>http://popcornered.com/media/WolfOfWallStreet.mp4</sublink>
 <sublink></sublink>
@@ -192,7 +157,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Grand Budapest Hotel ▲▲▲(Wes Anderson 2014) ▲</title>
+<title>[B]The Grand Budapest Hotel [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink>http://popcornered.com/media/TheGrandBudapestHotel.mp4</sublink>
@@ -202,7 +167,58 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>We Are What We Are ▲▲▲(Jim Mickle 2013) ▲</title>
+<title>[B]The Amazing Spider-Man 2 [/B]</title>
+<link>
+<sublink>http://hugefiles.net/iw9xxizad9yj</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B]300: Rise of an Empire [/B][COLOR lightslategray] ▲[/COLOR]</title>
+<link>
+<sublink>http://movreel.com/bh5vthqfkypp</sublink>
+<sublink>http://hugefiles.net/qv64htulun2n</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]Gravity [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
+<link>
+<sublink>http://movreel.com/1el46gvf0meb.html</sublink>
+<sublink>http://movreel.com/hv4wimw1y5ev</sublink>
+<sublink>http://movreel.com/5kagvs4l4fd6.html</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B]The World's End [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
+<link>
+<sublink>http://movreel.com/5kagvs4l4fd6.html</sublink>
+<sublink>http://hugefiles.net/8de9wivn9yoj</sublink>
+<sublink>http://hugefiles.net/wvw6pksk0xpm</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B]12 Years a Slave [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
+<link>
+<sublink>http://movreel.com/7pfk2qhzee9z.html</sublink>
+<sublink>http://hugefiles.net/iltlg1hb95ox</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]We Are What We Are [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://180upload.com/t1f45dsrp0us</sublink>
 <sublink>http://movreel.com/d5lah3o1g1o8</sublink>
@@ -214,20 +230,10 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 
-<item>
-<title>Saving Mr. Banks (John Lee Hancock 2013)</title>
-<link>
-<sublink>http://movreel.com/82k54tvhjzej#</sublink>
-<sublink>http://billionuploads.com/2s3o0bdtr5uw</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/GCIYMzL.png</thumbnail>
-</item>
 
 
 <item>
-<title>Short Term 12 ▲▲▲(Destin Cretton 2013) ▲</title>
+<title>[B]Short Term 12 [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://popcornered.com/media/ShortTerm12.mp4</sublink>
 <sublink>http://hugefiles.net/lbx53onerhan</sublink>
@@ -237,7 +243,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Sunshine on Leith ▲▲▲(Dexter Fletcher 2013)</title>
+<title>[B]Sunshine on Leith [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 <sublink>http://popcornered.com/films?films=1110</sublink>
 <sublink>http://billionuploads.com/wz01zgwqg5ur</sublink>
@@ -247,7 +253,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Turning ▲▲▲(Various 2013) Unrated</title>
+<title>[B]The Turning [/B][COLOR lightslategray] ▲▲▲---unrated[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/ow7kw38pq6ui</sublink>
 <sublink>http://180upload.com/c7ih2h9cdj34</sublink>
@@ -256,7 +262,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Mud ▲▲▲(Jeff Nichols 2013)</title>
+<title>[B]Mud [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <sublink>http://popcornered.com/films?films=337</sublink>
 <sublink>http://180upload.com/2zqc6rbxl4jj</sublink>
 
@@ -264,14 +270,14 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Iron Man 3 (Shane Black 2013)</title>
+<title>[B]Iron Man 3 [/B]</title>
 <sublink>http://popcornered.com/films?films=853</sublink>
 <sublink>http://180upload.com/btgp4kaqkopj</sublink>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Zero Dark Thirty ▲▲▲(Kathryn Bigelow 2013) ▲</title>
+<title>[B]Zero Dark Thirty [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/40f3sxja32m4</sublink>
 <sublink>http://billionuploads.com/q7hg1n8tert5</sublink>
@@ -283,7 +289,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>You're Next (Adam Wingard 2013) ▲</title>
+<title>[B]You're Next [/B][COLOR lightslategray] ▲[/COLOR]</title>
 <link>
 <sublink>http://hugefiles.net/rc5cv1l6c4no</sublink>
 <sublink>http://180upload.com/ythc6xtvviae</sublink>
@@ -292,12 +298,12 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Conjuring ▲▲▲(James Wan 2013) ▲</title> 
+<title>[B]The Conjuring [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title> 
 <link>
 <sublink>http://movreel.com/rh9v5k55maer.html</sublink>
 <sublink>http://hugefiles.net/gd69w5n2ey3m</sublink>
-<sublink>http://movreel.com/skibexgunju2</sublink>
-<sublink>http://180upload.com/cmqwkkduhzn2</sublink>
+http://movreel.com/skibexgunju2
+http://180upload.com/cmqwkkduhzn2
 <sublink>http://billionuploads.com/197xabzws6gg/The.Conjuring.2013.1080p.BluRay.x264.YIFY.mp4</sublink>
 </link>
 <thumbnail></thumbnail>
@@ -305,7 +311,7 @@ http://www.movshare.net/video/64a560b5411f8
 
 
 <item>
-<title>Her ▲▲▲(Spike Jonze 2013) ▲</title>
+<title>[B]Her[/B] [COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://popcornered.com/films?films=121</sublink>
 <sublink></sublink>
@@ -316,7 +322,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Hobbit: The Desolation of Smaug (Peter Piper and his Pickled Pamphlet 2013)</title>
+<title>[B]The Hobbit: The Desolation of Smaug [/B]</title>
 <link>
 <sublink>http://movreel.com/817itdq4oyas</sublink>
 <sublink>http://movreel.com/4c6u6bvsz1rb</sublink>
@@ -329,7 +335,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Enough Said ▲▲▲(Nicole Holofcener 2013)</title>
+<title>[B]Enough Said [/B] [COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/z4ztthj2wbaj </sublink>
 <sublink>http://movreel.com/bf14j6z4e6jv</sublink>
@@ -340,7 +346,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Captain Phillips ▲▲▲(Paul Greengrass 2013)</title>
+<title>[B]Captain Phillips [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 
 <sublink>http://180upload.com/djcfeychesy4</sublink>
@@ -351,7 +357,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Wolverine (James Mangold 2013)</title>
+<title>[B]The Wolverine [/B]</title>
 <link>
 <sublink>http://billionuploads.com/lisacklf0kff</sublink>
 <sublink>http://movreel.com/ev83s3n2jbvg</sublink>
@@ -360,7 +366,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Dallas Buyers Club ▲▲▲(Jean-Marc Vallée 2013) ▲</title>
+<title>[B]Dallas Buyers Club [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/g02m9efuuxee</sublink>
 <sublink>http://hugefiles.net/decxkds96i6y</sublink>
@@ -369,7 +375,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Hunger Games: Catching Fire ▲▲▲(Francis Lawrence 2013)</title>
+<title>[B]The Hunger Games: Catching Fire [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/s3s57y826mhh.html</sublink>
 <sublink>http://hugefiles.net/o7scyrfkbpem</sublink>
@@ -380,7 +386,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>All Is Lost ▲▲▲(J.C. Chandor  2013)</title>
+<title>[B]All Is Lost [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/7jbesktt6etg</sublink>
 <sublink>http://180upload.com/aqg237m5pq91</sublink>
@@ -391,7 +397,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Nebraska ▲▲▲(Alexander Payne 2013) ▲</title>
+<title>[B]Nebraska [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://mightyupload.com/fyy1f648t2x6</sublink>
 <sublink></sublink>
@@ -404,7 +410,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Fruitvale Station ▲▲▲(Ryan Coogler 2013) ▲</title>
+<title>[B]Fruitvale Station [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/2sa38a79bb2k</sublink>
 <sublink>http://hugefiles.net/engchw7d44t9</sublink>
@@ -416,7 +422,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>Blue Jasmine ▲▲▲(Woody Allen 2013)</title>
+<title>[B]Blue Jasmine [/B][COLOR lightslategray] ▲▲▲[/COLOR]</title>
 <link>
 <sublink>http://movreel.com/g492gvsbbce1</sublink>
 <sublink>http://hugefiles.net/ncnpuw0y5aej</sublink>
@@ -428,7 +434,7 @@ http://www.movshare.net/video/64a560b5411f8
 </item>
 
 <item>
-<title>The Spectacular Now ▲▲▲(James Ponsoldt 2013) ▲</title>
+<title>[B]The Spectacular Now [/B][COLOR lightslategray] ▲▲▲---▲[/COLOR]</title>
 <link>
 <sublink>http://billionuploads.com/1ryh1jckpdl2 </sublink>
 <sublink>http://hugefiles.net/j1ut315it02y</sublink>
@@ -437,7 +443,16 @@ http://www.movshare.net/video/64a560b5411f8
 <thumbnail></thumbnail>
 </item>
 
-
+<info>
+	<message>More Films to come.</message>
+    <message>[CR]</message>
+	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = Films rated 85%+ on rottentomatoes.com[/B]</message>
+	<message>[B][COLOR lightslategray] ▲ [/COLOR] = Films rated suitable only for viewers of age 18+[/B]</message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+    
+	
+</info>
 
 
 <sublink></sublink>
