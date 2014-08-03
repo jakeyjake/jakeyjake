@@ -41,3 +41,40 @@ Below need updating/checking
 <sublink>rtmpe://46.246.124.22:1935/redirect playpath=januitv4 swfUrl=http://www.hdcast.org/players.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=januitv4&vw=640&vh=460&domain=streamking.org token=Fo5_n0w?U.rA6l3-70w47c live=1 timeout=10</sublink>
 <thumbnail>http://i.imgur.com/GnaD69V.png</thumbnail>
 </item>
+
+
+<info>
+	<message>• • • • • • • • • [B][COLOR cornflowerblue]Pre Season Games[/COLOR][/B]• • • • • • • • •</message>
+	<message>[CR]</message>
+</info>
+
+
+<item>
+<title>26th July•[B][COLOR skyblue]Man United v Roma[/COLOR][/B] International Champions Cup 9pm GMT</title>
+<link>
+<sublink>rtmp://46.246.29.140:1935/stream/ playpath=oookifhndk.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=&width=600&height=460&st=s5g4x5s5q5o5c4h4m5p5n254s2a4u2u2542413y2m2w2z294&adx=&stream=44v2a4k5c48494v2o574t274r23413n2u5v5l4f494d4g4w5m5t5t234w2z234y2u2p2y2b4o224z203y3g4x5w5s5r5a4b4w5i5i2l5c4x5d484u546n2p2n4s2t23434j5b41494w2j5y2y2y2s274w254z2y2i5u2o564k5f4w2u2f434y284s234z2y2a414r2p2l2s2t2343434&sooor=Mjk=&str=is&ok=&idom=ifeed2all.eu</sublink>
+<sublink>rtmp://146.185.24.98:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=12&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://46.28.53.6:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=12&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>27th July•[B][COLOR skyblue]Manchester City v AC Milan[/COLOR][/B] International Champions Cup 9pm GMT(Fox Sports 1 / Sky Sports 1 UK / Bein 14)</title>
+<link>
+<sublink>rtmpe://46.246.124.25:1935/redirect playpath=llive1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=15</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>27th July•[B][COLOR skyblue]Liverpool v Olympiacos[/COLOR][/B] International Champions Cup 11pm GMT(Fox Sports 1 / Sky Sports 1 UK / Bein 14)</title>
+<link>
+<sublink>rtmpe://46.246.124.25:1935/redirect playpath=llive1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmpe://46.246.29.154:1935/redirect playpath=bch13 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=15</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
