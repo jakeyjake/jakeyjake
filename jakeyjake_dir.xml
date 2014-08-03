@@ -5,20 +5,11 @@
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
 <poster>jakeyjake</poster>
-<fanart>http://i.imgur.com/YlKeS9j.jpg</fanart>
+<fanart>http://i.imgur.com/bV4YAVu.jpg</fanart>  
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
-<info>
-	
-    <message>[CR]</message>
-	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = [COLOR cornflowerblue]Rated 85%+ on rottentomatoes.com[/COLOR][/B]</message>
-	<message>[B][COLOR lightslategray] ▲ [/COLOR] = [COLOR cornflowerblue]Rated suitable only for viewers of age 18+[/COLOR][/B]</message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
-    
-	
-</info>
+
 
 #DIRECTORIES#
 
@@ -49,7 +40,16 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
 	
 	
-
+<info>
+	
+    <message>[CR]</message>
+	<message>[B][COLOR lightslategray] ▲▲▲ [/COLOR] = [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
+	<message>[B][COLOR lightslategray] ▲ [/COLOR] = [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+    
+	
+</info>
 	
 
 </directories>
