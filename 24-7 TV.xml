@@ -64,7 +64,8 @@
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://198.27.74.25/app playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
+<sublink>rtmp://198.27.75.99/app playpath=tbbt01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
+<sublink>rtmp://192.99.38.122/app playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/N4xrkjX.png</thumbnail>
