@@ -29,9 +29,9 @@
 <item>
 <title>Sunday 10th Aug •[B][COLOR skyblue]Manchester City v Arsenal[/COLOR][/B] 2014 FA Community Shield 3pm GMT</title>
 <link>
-<sublink>rtmpe://46.246.124.25:1935/redirect playpath=llive1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive1&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink>rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
-<sublink>rtmpe://46.246.29.154:1935/redirect playpath=bch14 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=bes1ar&vw=800&vh=500&domain token=#yw%tt#w@kku timeout=15</sublink>
+<sublink><sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
