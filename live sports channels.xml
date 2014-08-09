@@ -25,9 +25,13 @@
 
 #PLAYLIST ITEMS#
 
+<info>
+<message>{B}2014 FA Community Shield[/B] Sunday 10th Aug 3pm GMT</message>
+<message>[CR]</message>
+</info>
 
 <item>
-<title>Sunday 10th Aug •[B][COLOR skyblue]Manchester City v Arsenal[/COLOR][/B] 2014 FA Community Shield 3pm GMT</title>
+<title>[COLOR skyblue]Manchester City v Arsenal[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
@@ -129,7 +133,7 @@
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink><sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink></sublink>
 <sublink>rtmp://31.220.0.195:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmp://195.154.220.115:1935/private/bt12014</sublink>
 </link>
