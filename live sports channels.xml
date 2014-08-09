@@ -26,12 +26,12 @@
 #PLAYLIST ITEMS#
 
 <info>
-<message>{B}2014 FA Community Shield[/B] Sunday 10th Aug 3pm GMT</message>
+<message>[B]2014 FA Community Shield[/B] Sunday 10th Aug 3pm GMT</message>
 <message>[CR]</message>
 </info>
 
 <item>
-<title>[COLOR skyblue]Manchester City v Arsenal[/COLOR][/B]</title>
+<title>[B][COLOR skyblue]Manchester City v Arsenal[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
