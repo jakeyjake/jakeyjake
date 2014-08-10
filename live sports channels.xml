@@ -41,7 +41,6 @@ rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://turbocast.tv/jwpl
 <title>[B][COLOR skyblue]Channel 1[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.26:1935/live/ playpath=llive1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -49,10 +48,7 @@ rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://turbocast.tv/jwpl
 <item>
 <title>[B][COLOR skyblue]Channel 2[/COLOR][/B]</title>
 <link>
-
 <sublink>rtmpe://46.246.124.25:1935/live/ playpath=llive2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive2&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-
-
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -60,9 +56,7 @@ rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://turbocast.tv/jwpl
 <item>
 <title>[B][COLOR skyblue]Channel 3[/COLOR][/B]</title>
 <link>
-
 <sublink>rtmpe://46.246.124.27:1935/live/ playpath=llive3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive3&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-
 </link>
 <thumbnail></thumbnail>
 </item>
@@ -72,8 +66,6 @@ rtmp://93.174.93.50:443/liveedge/ playpath=live5 swfUrl=http://turbocast.tv/jwpl
 <title>[B][COLOR skyblue]Channel 4[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.29.160:1935/live/ playpath=llive4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive4&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-
-
 </link>
 <thumbnail></thumbnail>
 </item>
