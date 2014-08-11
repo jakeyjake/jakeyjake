@@ -1,0 +1,34 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>Movie Requests</poster>
+<fanart>http://i.imgur.com/UwRTse8.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Requested Movies[/B]</message>
+	<message>List fixed and updated, Aug 5, 2014</message>
+	<message>1080P and 720P where possible.</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+
+
+
+
+<item>
+<title>Alvin and The Chipmunks(2007)</title>
+<link>
+<sublink>http://180upload.com/c7mdakkp8vwk</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+ 
