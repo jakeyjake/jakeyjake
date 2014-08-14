@@ -1,0 +1,38 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>JustinGuitar</poster>
+<fanart>http://i.imgur.com/jPriJ54.png</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][/B]</message>
+	<message>[B]A work in progress. To begin..a nostalgic look at what was the 80s. Terrible fashions, terrible haircuts ...but sometimes...great music![/B]</message>
+	<message>[B]If all else fails...grab some beers, grab some pals and enjoy a BBC Pop Quiz night with Mike 'rather irritating' Read. [/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#DIRECTORIES#
+
+<directories>
+
+<name>[B]Beginners Course - All Lessons in order[/B]</name>
+<link></link>
+<thumbnail></thumbnail>
+
+
+
+
+
+
+
+</directories>
+
+#
+#
+#END
