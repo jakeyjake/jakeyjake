@@ -152,7 +152,7 @@
 <title>[B]BOXNATION[/B]</title>
 <link>
 <sublink>rtmp://31.220.0.86:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
-<sublink>rtmp://89.248.171.97:443/liverepeater playpath=2 swfUrl>http://static.surk.tv/atdedead.swf pageUrl>http://filotv.pw/player2.php?id=2&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
+<sublink>rtmp://93.174.95.71:443/liverepeater playpath=2 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=2&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 <sublink>rtmp://31.220.0.195:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
 <sublink>rtmp://37.58.68.243:443/liverepeater playpath=35 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=35&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 </link>
@@ -175,7 +175,7 @@
 
 
 <item>
-<title>[B][COLOR skyblue]Chelsea TV[/COLOR][/B]</title>
+<title>[B]Chelsea TV[/B]</title>
 <sublink>rtmp://37.58.68.243:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=33&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 <sublink>rtmp://173.193.219.178:443/liverepeater playpath=33 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=33&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 <thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
