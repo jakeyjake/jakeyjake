@@ -78,3 +78,39 @@ Below need updating/checking
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+<sublink>rtmp://195.154.220.115:1935/private/boxnation swfUrl=http://www.hdcast.org/players.swf token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=1 pageUrl=http://www.hdcast.org timeout=15</sublink>
+<sublink>rtmp://195.154.220.115:1935/private/boxnation</sublink>
+<sublink>rtmpe://46.246.124.27:1935/live/sboxn swfUrl=http://www.hdcast.org/players.swf swfVfy=1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10</sublink>
+<sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151324</sublink>
+<sublink>rtmp://206.190.128.228:443/liverepeater playpath=13 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=13&width=640&height=460 token=#atd%#$ZH live=1 timeout10</sublink>
+
+
+
+
+<item>
+<title>[B]TSN 1[/B] Back online when football season begins</title>
+<link>
+<sublink>rtmp://31.220.0.134:1935/live playpath=tsn1 token=%ZZri(nKa@#Z pageUrl=http://www.eucast.tv/embed.php?live=ss4x&vw=620&vh=490 live=true timeout=10</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
+</item>
+
+<item>
+<title>[B]TSN 2[/B] Back online when football season begins</title>
+<link>
+<sublink>rtmp://31.220.0.86:1935/live/tsn2 playpath=tsn2 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=tsn2&vw=620&vh=490 timeout=10</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]ESPN UK[/B] Back online when football season begins</title>
+<sublink>rtmp://37.220.32.53:443/liverepeater playpath=38 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
+<sublink>rtmp://195.154.220.115:1935/private/espnuk</sublink>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>

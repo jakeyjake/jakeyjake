@@ -156,12 +156,14 @@
 </item>
 
 <item>
-<title>[B]BOXNATION-back asap..[/B]</title>
+<title>[B]BOXNATION[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://31.220.0.86:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
 <sublink>rtmp://195.154.220.115:1935/private/boxnation swfUrl=http://www.hdcast.org/players.swf token=Fo5_n0w?U.rA6l3-70w47ch swfVfy=1 pageUrl=http://www.hdcast.org timeout=15</sublink>
 <sublink>rtmp://195.154.220.115:1935/private/boxnation</sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.27:1935/live/sboxn swfUrl=http://www.hdcast.org/players.swf swfVfy=1 live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10</sublink>
+<sublink>rtmp://rtmp.goodcast.org:1935/liverepeater/_definst_/151324</sublink>
+<sublink>rtmp://206.190.128.228:443/liverepeater playpath=13 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=13&width=640&height=460 token=#atd%#$ZH live=1 timeout10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>ccc
 </item>
