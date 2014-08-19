@@ -105,14 +105,6 @@
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
-<item>
-<title>[B]Sky Sports 5 - Unstable[/B]</title>
-<link>
-<sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
-<sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
-</link>
-<thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
-</item>
 
 
 <item>
@@ -156,6 +148,16 @@
 <message>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </message>
 <message>[CR]</message>
 </info>
+
+<item>
+<title>[B]Sky Sports 5[/B]</title>
+<link>
+<sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
+</link>
+<thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
+</item>
+
 
 
 <item>
@@ -263,6 +265,7 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/t2 pageUrl=http://www.flashtv
 <item>
 <title>test</title>
 <link>
+<sublink>rtmp://46.246.124.22/private/_definst_/BT1HD</sublink>
 <sublink>rtmpe://89.248.168.205/live/ playpath=BEIN7HDHT swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/hd.php?u=BEIN7HDHT&vw=640&vh=460 live=1 timeout=10 swfVfy=1</sublink>
 <sublink>rtmpe://strm.ukcast.tv:1935/redirect playpath=FUNKTSN swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/ live=1 swfUrl=1 timeout=10</sublink>
 <sublink>rtmpe://178.18.31.66/live playpath=skyhq2 swfUrl=http://ukcast.tv/pvt/player//player.swf live=1 pageUrl=http://www.ukcast.tv/ timeout=10</sublink>
