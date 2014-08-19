@@ -171,6 +171,17 @@
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
 
+<info>
+<message>[CR]</message>
+</info>
+
+<info>
+<message>[COLOR tan][B]The Channels below may not be online all the time[/B][/COLOR]</message>
+<message>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </message>
+<message>[CR]</message>
+</info>
+
+
 <item>
 <title>[B]BOXNATION[/B]</title>
 <link>
@@ -183,7 +194,7 @@
 </item>
 
 <item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B] Online when matches start as much as possible</title>
+<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
 <link>rtmp://50.97.142.186:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player3.php?id=20&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</link>
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
@@ -204,6 +215,48 @@
 <thumbnail>http://i.imgur.com/9Fr2tCb.png</thumbnail>
 </item>
 
+<item>
+<title>[B]TSN 1[/B]</title>
+<sublink>rtmp://31.220.0.104:1935/live/ playpath=t1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]TSN 2[/B]</title>
+<sublink>rtmp://31.220.0.104:1935/live/ playpath=t2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]FOX Sport 1[/B]</title>
+<sublink>rtmp://31.220.0.104:1935/live/ playpath=f1 pageUrl=http://www.flashtv.co/hpg_disco live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]FOX Sport 2[/B]</title>
+<sublink>rtmp://31.220.0.104:1935/live/ playpath=f2 pageUrl=http://www.flashtv.co/hpg_disco live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+
+
+
 
 <item>
 <title>[B]ESPN UK[/B]</title>
@@ -217,27 +270,37 @@
 
 
 
-#EXTINF:-1,SKYSPORT 1
-rtmp://$OPT:rtmp-raw=rtmp://199.167.138.158:443/liverepeater playpath=10449 swfUrl=http://static.stream4.tv/playerg.swf live=1 pageUrl=http://stream4.tv/player3.php?id=10449&width=620&height=490
-
-#EXTINF:-1,SKYSPORT 2
-rtmp://$OPT:rtmp-raw=rtmp://198.144.158.146:443/liverepeater playpath=10454 swfUrl=http://static.stream4.tv/playerg.swf live=1 pageUrl=http://stream4.tv/player3.php?id=10454&width=620&height=490
-
-#EXTINF:-1,SKYSPORT 3
-rtmp://$OPT:rtmp-raw=rtmp://199.167.138.166:443/liverepeater playpath=10451 swfUrl=http://static.stream4.tv/playerg.swf live=1 pageUrl=http://stream4.tv/player3.php?id=10451&width=620&height=490
-
-#EXTINF:-1,SKYSPORT 4
-rtmp://$OPT:rtmp-raw=rtmp://199.19.95.39:443/liverepeater playpath=10453 swfUrl=http://static.stream4.tv/playerg.swf live=1 pageUrl=http://stream4.tv/player3.php?id=10453&width=620&height=490
-
-#EXTINF:-1,SKYSPORT NEWS
-rtmp://$OPT:rtmp-raw=rtmp://199.167.138.131:443/liverepeater playpath=10452 swfUrl=http://static.stream4.tv/playerg.swf live=1 pageUrl=http://stream4.tv/player3.php?id=10452&width=620&height=490
 
 
+FOX SPORT 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/f1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+
+FOX SPORT 2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/f2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+
+TSN 1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/t1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+
+TSN 2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/t2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+
+<item>
+<title>test</title>
+<link>
+<sublink>rtmpe://89.248.168.205/live/ playpath=BEIN7HDHT swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://www.ukcast.tv/hd.php?u=BEIN7HDHT&vw=640&vh=460 live=1 timeout=10 swfVfy=1</sublink>
+<sublink>rtmpe://strm.ukcast.tv:1935/redirect playpath=FUNKTSN swfUrl=http://ukcast.tv/player//player.swf pageUrl=http://ukcast.tv/ live=1 swfUrl=1 timeout=10</sublink>
+<sublink>rtmpe://178.18.31.66/live playpath=skyhq2 swfUrl=http://ukcast.tv/pvt/player//player.swf live=1 pageUrl=http://www.ukcast.tv/ timeout=10</sublink>
+<thumbnail></thumbnail>
+</link>
+</item>
+
+rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/ pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH"
+                },
+rtmpe://89.248.168.205/live/" -a "live/" -f "WIN 14,0,0,125" -W "http://ukcast.tv/player//player.swf" -p "http://www.ukcast.tv/hd.php?u=BEIN13HDHT&vw=640&vh=460" -y "BEIN13HDHT" | "C:\Program Files (x86)\VideoLAN\VLC\vlc.exe" -
 
 
 
 
-rtmp://89.248.174.51:443/liverepeater playpath=47 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player2.php?id=47&width=640&height=460 token=#atd%#$ZH
 
 
 
