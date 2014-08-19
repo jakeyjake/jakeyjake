@@ -109,8 +109,29 @@ Below need updating/checking
 
 
 <item>
-<title>[B]ESPN UK[/B] Back online when football season begins</title>
-<sublink>rtmp://37.220.32.53:443/liverepeater playpath=38 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH</sublink>
-<sublink>rtmp://195.154.220.115:1935/private/espnuk</sublink>
+<title>[B]ESPN UK[/B]</title>
+<sublink>rtmp://199.195.195.132:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://renatabenj.in/player2.php?id=11&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
+<sublink></sublink>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+</item>
+
+
+<item>
+<title>test items</title>
+<link>
+<sublink>rtmpe://46.246.29.160:1935/live/ playpath=llive2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive2&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmp://80.82.78.38:443/liverepeater playpath=1 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH</sublink>
+<sublink>rtmp://80.82.64.117:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=124&width=640&height=460</sublink>
+<sublink>rtmp://80.82.64.117:443/liverepeater playpath=124 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=124&width=640&height=460 token=#atd%#$ZH</sublink>
+<sublink>rtmpe://46.246.124.23:1935/live/ playpath=llive2 swfUrl=http://player.hdcast.org/player.swf live=1 pageUrl=http://www.hdcast.org/embedlive2.php?u=llive2&amp;vw=854&amp;vh=480&amp;domain=streamking.org token=#yw%tt#w@kku  timeout=15</sublink>
+<sublink>rtmpe://46.246.124.31:1935/live/ playpath=llive2  swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=llive2&amp;vw=854&amp;vh=480&amp;domain=streamking.org token=#yw%tt#w@kku live=1 timeout=15</sublink>
+
+<sublink>rtmp://12445055.cast247.tv:443/live playpath=footyhdlive1 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&amp;width=600&amp;height=430&amp;domain=footyhd.net</sublink>
+<sublink>rtmp://12445055.cast247.tv:443/live playpath=skysp1?ticket=9660f6380d7165d39857c5897374ad96  swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=footyhdlive1&amp;width=600&amp;height=430&amp;domain=footyhd.net live=1 timeout=10</sublink>
+<sublink>rtmpe://strm.dcast.tv/redirect/ playpath=dsvfefvew swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf pageUrl=http://www.dcast.tv/embed.php?u=dsvfefvew&amp;vw=650&amp;vh=450 token=#yw%tt#w@kku  live=1 timeout=10</sublink>
+
+<sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</sublink>
+<sublink>rtmp://31.220.0.86:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
