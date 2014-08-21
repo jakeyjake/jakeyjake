@@ -183,6 +183,16 @@
 <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
 </item>
 
+Liverpool TV
+
+<item>
+<title>[B]Liverpool TV[/B]</title>
+<sublink></sublink>
+<sublink>rtmp://50.97.142.190:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=31&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
+<thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
+</item>
+
+
 <item>
 <title>[B]MUTV[/B]</title>
 
@@ -190,7 +200,8 @@
 <sublink>rtmp://46.23.67.12:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 <thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
 </item>
-rtmp://46.23.67.12:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460
+rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.tv/atdedead.swf <pageUrl>http://thesun.pw/player2.php?id=30&width=640&height=460
+
 
 
 <item>
