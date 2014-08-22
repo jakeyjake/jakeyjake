@@ -11,7 +11,7 @@
 
 <info>
 	<message>[B][/B]</message>
-	<message>[COLOR darkred][B]Guitar Lessons, Pop Quiz and more[/COLOR].....a work in progress[/B]</message>
+	<message>[COLOR cornflowerblue][B]Guitar Lessons, Pop Quiz and more[/COLOR].....a work in progress[/B]</message>
 	<message>[B][/B]</message>
 	<message>[COLOR tan][/COLOR]</message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
@@ -21,35 +21,35 @@
 
 <directories>
 
-<name>[COLOR tan][B]Guitar Lessons for Free [/B]~ For beginners and beyond</name>
+<name>[COLOR burlywood][B]Guitar Lessons for Free [/B][/COLOR]~ For beginners and beyond</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Guitar%20Lessons.xml</link>
 <thumbnail></thumbnail>
 
-<name>[COLOR tan][B]Pop Quiz [/B][/COLOR] ~Mike Read's BBC Pop Quiz</name>
+<name>[COLOR burlywood][B]Pop Quiz [/B][/COLOR] ~Mike Read's BBC Pop Quiz</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrifxK4FYAZbvDhEu08qqrQET</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]Sounds of the 80s[/B][/COLOR]</name>
+<name>[COLOR burlywood][B]Sounds of the 80s[/B][/COLOR]</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPridaRk1azTd8ZPCrRw66_pYx</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]NME Song Stories[/B][/COLOR]</name>
+<name>[COLOR burlywood][B]NME Song Stories[/B][/COLOR]</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPridDSBEBQg3RiePngWMvMYgp</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]Interviews[/B][/COLOR]</name>
+<name>[COLOR burlywood][B]Interviews[/B][/COLOR]</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPric1B1ZX95yUJfGIn_sXee2s</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]Something Else [/B][/COLOR] ~BBC2 TV Show 1979-82</name>
+<name>[COLOR burlywood][B]Something Else [/B][/COLOR] ~BBC2 TV Show 1979-82</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPriex98_hED84QVfS4LHLR-0p</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]Whatever You Want  [/B][/COLOR] ~Channel4 Music TV Show 1982. Presenter Keith Allen</name>
+<name>[COLOR burlywood][B]Whatever You Want  [/B][/COLOR] ~Channel4 Music TV Show 1982. Presenter Keith Allen</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPricsgaAFLUuUx3UvCeEHaUo6</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
-<name>[COLOR tan][B]Echo and The Bunnymen [/B][/COLOR] ~Shine So hard (Full Video)</name>
+<name>[COLOR burlywood][B]Echo and The Bunnymen [/B][/COLOR] ~Shine So hard (Full Video)</name>
 <link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrifdIh_pHbET3pXotSPL3rWx</link>
 <thumbnail>http://i.imgur.com/uIuk8U4.png</thumbnail>
 
