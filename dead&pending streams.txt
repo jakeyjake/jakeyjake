@@ -135,3 +135,7 @@ Below need updating/checking
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+dcast links? @fifaembed website
+rtmpe://89.248.172.52/live/  playpath=skysportsf1fifaembed swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/skysportsf1.php?width=650&height=480 swfVfy=1 live=1 timeout=15

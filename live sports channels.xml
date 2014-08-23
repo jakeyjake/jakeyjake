@@ -49,7 +49,7 @@
 <item>
 <title>[B]Sky Sports News[/B]</title>
 <link>
-<sublink></sublink>
+<sublink>rtmpe://46.246.124.28:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysn&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://80.82.64.90:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 <sublink>rtmp://89.248.169.48:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 </link>
@@ -107,13 +107,21 @@
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
 </item>
 
-
+<item>
+<title>[B]Sky Sports 5[/B]</title>
+<link>
+<sublink>rtmpe://46.246.29.150:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
+</link>
+<thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
+</item>
 
 <item>
 <title>[B]Sky Sports F1[/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.30:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysf1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink></sublink>
+<sublink>rtmpe://46.246.29.162:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/hITeCN0.jpg</thumbnail>
 </item>
@@ -151,20 +159,14 @@
 <message>[CR]</message>
 </info>
 
-<item>
-<title>[B]Sky Sports 5[/B]</title>
-<link>
-<sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
-<sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
-</link>
-<thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
-</item>
+
 
 
 
 <item>
 <title>[B]BOXNATION[/B]</title>
 <link>
+<sublink>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.86:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
 <sublink>rtmp://89.248.172.239:443/liverepeater playpath=38 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player3.php?id=38&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 <sublink>rtmp://31.220.0.195:1935/live playpath=ch7 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=ch7&vw=620&vh=490 token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
@@ -175,8 +177,9 @@
 
 
 <item>
-<title>[B][COLOR skyblue]NBC Sports Live Extra[/COLOR][/B]</title>
+<title>[B][COLOR skyblue]NBC Sports[/COLOR][/B]</title>
 <link>
+<sublink>rtmpe://46.246.124.25:1935/live/ playpath=snbcsports swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=</sublink>
 <sublink>rtmp://50.97.142.186:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player3.php?id=10&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 <sublink>rtmp://50.97.142.186:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=10&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
 </link>
@@ -189,7 +192,7 @@ Liverpool TV
 <title>[B]Liverpool TV[/B]</title>
 <sublink></sublink>
 <sublink>rtmp://50.97.142.190:443/liverepeater playpath=31 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=31&width=640&height=460 token=#atd%#$ZH live=1 timeout=10</sublink>
-<thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
+<thumbnail>http://i.imgur.com/lzeMNr7.png</thumbnail>
 </item>
 
 
@@ -213,31 +216,32 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 
 <item>
 <title>[B]TSN 1[/B]</title>
+<sublink></sublink>
+<sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.104:1935/live/ playpath=t1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
 <sublink></sublink>
 <sublink></sublink>
-<sublink></sublink>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
 </item>
 
 
 <item>
 <title>[B]TSN 2[/B]</title>
 <sublink>rtmp://31.220.0.104:1935/live/ playpath=t2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z live=1 timeout=10</sublink>
+<sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn2&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
 <sublink></sublink>
-<sublink></sublink>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
 </item>
 
 
 <item>
 <title>[B]FOX Sport 1[/B]</title>
 <sublink>rtmp://31.220.0.104:1935/live/ playpath=f1 pageUrl=http://www.flashtv.co/hpg_disco live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmpe://46.246.124.22:1935/live/ playpath=sfox1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sfox1&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
 <sublink></sublink>
-<sublink></sublink>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -245,12 +249,10 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 <title>[B]FOX Sport 2[/B]</title>
 <sublink>rtmp://31.220.0.104:1935/live/ playpath=f2 pageUrl=http://www.flashtv.co/hpg_disco live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink></sublink>
+<sublink>rtmpe://46.246.29.154:1935/live/ playpath=sfox2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sfox2&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
-<sublink></sublink>
-<thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
+<thumbnail></thumbnail>
 </item>
-
-
 
 
 
