@@ -1,3 +1,21 @@
+liverepeaters:
+skp1
+rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10
+rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://thesun.pw/player2.php?id=28&width=640&height=460 token=#atd%#$ZH timeout=10
+skyspnews
+<sublink>rtmp://80.82.64.90:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://89.248.169.48:443/liverepeater playpath=41 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+skysp2
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=28&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+skysp3
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=20&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=28&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+skysp4
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player3.php?id=20&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<sublink>rtmp://80.82.65.237:443/liverepeater playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=28&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+
+
 sky sports 1
 
 <sublink>rtmp://37.220.36.68:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH timeout=10</sublink>
