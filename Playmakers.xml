@@ -14,7 +14,7 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]Green Acres (1965-1971)[/B]</message>
+	<message>[B]Playmakers (2003)[/B]</message>
 	<message></message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
@@ -23,12 +23,102 @@
 #PLAYLIST ITEMS#
 
 <item>
-<title>S1 Ep01 - Oliver Buys A Farm</title>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
 <link>
-<sublink>http://n78.stagevu.com/v/342fc4db44bce509db038632d42a98e9/134634.avi</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
 </item>
 
 
@@ -42,5 +132,5 @@
 <link>
 <sublink>http://www.firedrive.com/file/2A9E52B79F0FA8D9</sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
 </item>
