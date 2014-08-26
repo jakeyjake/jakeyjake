@@ -1,0 +1,46 @@
+
+
+
+
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>Playmakers (2003)</poster>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Green Acres (1965-1971)[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+<item>
+<title>S1 Ep01 - Oliver Buys A Farm</title>
+<link>
+<sublink>http://n78.stagevu.com/v/342fc4db44bce509db038632d42a98e9/134634.avi</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/UbbF1Y8.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+<item>
+<title>Episode 11-[COLOR skyblue]Week 17[/COLOR]</title>
+<link>
+<sublink>http://www.firedrive.com/file/2A9E52B79F0FA8D9</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
