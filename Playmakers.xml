@@ -14,18 +14,18 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]Playmakers (2003)[/B]</message>
-	<message></message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+	<message>[B]PLAY[COLOR skyblue]MAKERS[/COLOR][/B] (2003)</message>
+	<message>[CR]</message>
+	<message>An American television series that aired on ESPN, depicting the lives of the Cougars, a fictional professional football team in an unidentified city.</message>
+	<message>[CR]</message>
 </info>
 
 #PLAYLIST ITEMS#
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 1-[B][COLOR skyblue]Game Day[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/BD1B2F8D9EF8CC7C</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -33,9 +33,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 2-[B][COLOR skyblue]The Piss Man[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/4219A584D36D25CC</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -43,9 +43,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 3-[B][COLOR skyblue]The Choice[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/83CC6B9FCF21E454</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -53,9 +53,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 4-[B][COLOR skyblue]The Choice Part II[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/B04552BD620522E9</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -63,9 +63,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 5-[B][COLOR skyblue]Halftime[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/4CB5F4D1BD28D675</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -73,9 +73,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 6-[B][COLOR skyblue]Man in Motion[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/6BFD9DD72DB2A905</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -83,9 +83,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 7-[B][COLOR skyblue]Talk Radio[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/325A48FE9388BB9C</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -93,9 +93,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 8-[B][COLOR skyblue]Down and Distance[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/8AF4E6340DABF4A7</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -103,9 +103,9 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 9-[B][COLOR skyblue]The Outing[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/7563C17148789355</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -113,18 +113,13 @@
 
 
 <item>
-<title>Episode[B][COLOR skyblue][/COLOR][/B]</title>
+<title>Episode 10-[B][COLOR skyblue]Tenth of a Second[/COLOR][/B]</title>
 <link>
-<sublink></sublink>
+<sublink>http://www.firedrive.com/file/2BBC627A56A83BFB</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
 </item>
-
-
-
-
-
 
 
 <item>
