@@ -57,7 +57,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 
 
 <item>
-<title>[B]Sky Sports News[/B]</title>
+<title>[B][COLOR cornflowerblue]Sky Sports News[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.28:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysn&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.104:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -87,7 +87,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 </item>
 
 <item>
-<title>[B]Sky Sports 2[/B]</title>
+<title>[B][COLOR cornflowerblue]Sky Sports 2[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.28:1935/live/ playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.103:1935/live playpath=sskk2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -107,7 +107,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 </item>
 
 <item>
-<title>[B]Sky Sports 4[/B]</title>
+<title>[B][COLOR cornflowerblue]Sky Sports 4[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.29:1935/live/ playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.133:1935/live playpath=sskk4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -127,7 +127,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 </item>
 
 <item>
-<title>[B]Sky Sports F1[/B]</title>
+<title>[B][COLOR tan]Sky Sports F1[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.30:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysf1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.29.162:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
@@ -149,7 +149,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 </item>
 
 <item>
-<title>[B]BT Sport 2[/B]</title>
+<title>[B][COLOR cornflowerblue]BT Sport 2[/COLOR][/B]</title>
 <link>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -225,7 +225,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 </item>
 
 <item>
-<title>[B]TSN 1[/B]</title>
+<title>[B][COLOR cornflowerblue]TSN 1[/COLOR][/B]</title>
 <sublink></sublink>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -236,7 +236,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 
 
 <item>
-<title>[B]TSN 2[/B]</title>
+<title>[B][COLOR cornflowerblue]TSN 2[/COLOR][/B]</title>
 <sublink></sublink>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn2&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -267,7 +267,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 
 
 <item>
-<title>[B]ESPN UK[/B]</title>rtmpe://46.246.124.23:1935/live/espnk
+<title>[B][COLOR cornflowerblue]ESPN UK[/COLOR][/B]</title>rtmpe://46.246.124.23:1935/live/espnk
 <link>
 <sublink>rtmpe://46.246.124.28:1935/live/ playpath=espnk swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf  pageUrl=http://www.hdcast.org/embedlive2.php?u=espnk&amp;vw=620&vh=490&domain=cricfree.tv live=1 swfVfy=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.124.23:1935/live/ playpath=espnk swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf http://www.hdcast.org/embedlive2.php?u=espnk&amp;vw=620&amp;vh=490&amp;domain=cricfree.tv live=1 swfVfy=1 token=#yw%tt#w@kku timeout=15</sublink>
@@ -277,7 +277,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 </item>
 
 <item>
-<title>[B]PTV Sports[/B]</title>
+<title>[B][COLOR tan]PTV Sports[/COLOR][/B]</title>
 <link>
 <sublink>rtmp://31.220.0.86:1935/live playpath=ptv swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink></sublink>
@@ -293,8 +293,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 
 
 
-FOX SPORT 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/f1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+
 
 FOX SPORT 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/f2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
