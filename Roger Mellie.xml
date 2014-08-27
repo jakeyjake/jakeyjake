@@ -20,27 +20,24 @@
 
 <directories>
 	
-	<name>[B]Green Acres[/B]</name>
-	<thumbnail>http://3.bp.blogspot.com/-16Y1ZSUHnO8/TeVIp0McjuI/AAAAAAAAArc/isbH53NEmK4/s1600/green%2Bacres.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Green%20Acres.xml</link>
-
-	<name>[B]Hawaii Five-0[/B]</name>
-	<thumbnail>http://i.imgur.com/OhCiURE.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/hawaii%205-0.xml</link>
-
-	<name>[B]Magnum, P.I.[/B]</name>
-	<thumbnail>http://www.crossfit858.com/wp-content/uploads/2013/11/magnum_pi.jpg</thumbnail>
-	<link></link>
-	
 	<name>[B][COLOR skyblue]Playmakers[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Playmakers.xml</link>
 	
-	<name>[B]Tex Avery MGM Collection[/B]</name>
+	<name>[B]Green Acres[/B]</name>
+	<thumbnail>http://3.bp.blogspot.com/-16Y1ZSUHnO8/TeVIp0McjuI/AAAAAAAAArc/isbH53NEmK4/s1600/green%2Bacres.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Green%20Acres.xml</link>
+	
+	
+	<name>[B][COLOR tan]Tex Avery MGM Collection[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/PJCfpF3.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Tex%20Avery.xml</link>
 
-    <name>[B]Movie Requests[/B]</name>
+	<name>[COLOR skyblue][B]Hawaii Five-0[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/OhCiURE.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/hawaii%205-0.xml</link>
+	
+	<name>[B]Movie Requests[/B]</name>
 	<thumbnail></thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Movie%20Requests.xml</link>
 
