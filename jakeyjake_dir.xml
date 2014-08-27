@@ -49,8 +49,8 @@
 <info>
 	
     <message>[CR]</message>
-	<message>[B][COLOR lightslategray] ███ [/COLOR] = [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
-	<message>[B][COLOR lightslategray] █ [/COLOR] = [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
+	<message>[B][COLOR lightslategray] •••[/COLOR] = [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
+	<message>[B][COLOR lightslategray] •[/COLOR] = [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
     
