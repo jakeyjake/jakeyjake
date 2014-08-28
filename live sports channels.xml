@@ -208,9 +208,9 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 
 <item>
 <title>[B]MUTV[/B]</title>
-
 <sublink></sublink>
-<sublink></sublink>
+<sublink><sublink>rtmp://50.7.28.82/flash playpath=19436?MTQwOTIzODY5Mjs2ODA0NTI1MDljY2EwOGI2ZjI5MGU5ZWI2YTE4OWUyYg==  swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/BiMWE4MDliZThmZDI2OGRkMTE0Y2ZiZTFjYzg5OTg_/bXV0dmt3aXdpd2l3aXc6YjM3MmQzNGVjZTQyZTNjNjdjYjZkYzg4OGE4YmI0YTE6ND</sublink></sublink>
+<sublink>rtmp://206.190.140.100:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH</sublink>
 <thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
 </item>
 rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.tv/atdedead.swf <pageUrl>http://thesun.pw/player2.php?id=30&width=640&height=460
