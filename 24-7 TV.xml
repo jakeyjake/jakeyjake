@@ -154,6 +154,16 @@
 </item>
 
 <item>
+<title>Sons of Anarchy</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/LEjvjpt.png</thumbnail>
+</item>
+
+
+<item>
 <title>Vikings</title>
 <link>
 <sublink>rtmp://198.27.75.99/app playpath=vikings02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?vikings02</sublink>
@@ -255,14 +265,6 @@
 
 
 
-<item>
-<title>Sons of Anarchy</title>
-<link>
-<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/LEjvjpt.png</thumbnail>
-</item>
 
 <item>
 <title>It's Always Sunny in Philadelphia</title>
@@ -347,6 +349,7 @@
 </link>
 <thumbnail>http://i.imgur.com/rZAb4hi.png</thumbnail>
 </item>
+
 
 
 <item>
