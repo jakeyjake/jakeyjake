@@ -255,6 +255,15 @@
 
 
 <item>
+<title>Sons of Anarchy</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/LEjvjpt.png</thumbnail>
+</item>
+
+<item>
 <title>It's Always Sunny in Philadelphia</title>
 <link>
 <sublink>rtmp://192.99.38.122/app playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
@@ -327,6 +336,15 @@
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0NWricG.png</thumbnail>
+</item>
+
+<item>
+<title>Bob's Burgers</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=bobs swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/rZAb4hi.png</thumbnail>
 </item>
 
 
@@ -529,16 +547,17 @@
 <item>
 <title>Becker</title>
 <link>
-<sublink>rtmp://198.27.75.99/app playpathbeck swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?beck</sublink>
+<sublink>rtmp://198.27.75.99/app playpath=beck swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?beck</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/noHz9CY.png</thumbnail>
 </item>
 
+
 <item>
 <title>3rd Rock from the Sun</title>
 <link>
-<sublink>rtmp://198.27.75.99/app playpath>rock swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?rock</sublink>
+<sublink>rtmp://198.27.75.99/app playpath=rock swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?rock</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/SBrthuY.png</thumbnail>
@@ -578,6 +597,16 @@
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/P9izm7p.png</thumbnail>
+</item>
+
+
+<item>
+<title>Aqua Teen Hunger Force</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=aqua swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/83oOPHb.png</thumbnail>
 </item>
 
 <item>
@@ -646,7 +675,7 @@
 
 
 
-rtmp://62.210.76.216/live playpath=weeds swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/weeds
+
 
 
 
