@@ -315,8 +315,10 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/t2 pageUrl=http://www.flashtv
 <item>
 <title>test</title>
 <link>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmp://50.7.28.146/flash playpath=19151 swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/</sublink>
+<sublink>rtmp://204.45.157.98/flash playpath=19462 swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/ live=1 swfVfy=1</sublink>
+<sublink>rtmp://204.45.157.98/flash playpath=19462?MTQwOTMzMTk0OTs2Yjg1MTcwNThhZTkwZjUzNWYxZDhlZjJmMDgyOTI3ZQ==  swfUrl>http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/gxOWI0OGEyOTcyODhhMGUyYTY1MDU0MDU5/bWFudW5ld3d3OjBiOTQ4ODdlNTM2YWQxMDM0OTRlZDZiNjBkNzVjNjA3OjVlNTViNT live=1 swfVfy=1</sublink>
+<sublink>rtmp://204.45.157.98/flash playpath=19462 swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/gxOWI0OGEyOTcyODhhMGUyYTY1MDU0MDU5/bWFudW5ld3d3OjBiOTQ4ODdlNTM2YWQxMDM0OTRlZDZiNjBkNzVjNjA3OjVlNTViNT live=1 swfVfy=1</sublink>
 <thumbnail></thumbnail>
 </link>
 </item>
@@ -328,6 +330,11 @@ rtmp://mi2.gv.filmon.com:8086/live playpath=1042.high.stream <swfUrl> <pageUrl>
 rtmp://mi2.gv.filmon.com:8086/live playpath=374.high.stream <swfUrl> <pageUrl> FilmOn Vintage Music
 
 
+rtmp://204.45.157.98/flash playpath=19462 swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/ live=1
 
+rtmp://204.45.157.98/flash playpath=19462?MTQwOTMzMTk0OTs2Yjg1MTcwNThhZTkwZjUzNWYxZDhlZjJmMDgyOTI3ZQ==  swfUrl>http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/gxOWI0OGEyOTcyODhhMGUyYTY1MDU0MDU5/bWFudW5ld3d3OjBiOTQ4ODdlNTM2YWQxMDM0OTRlZDZiNjBkNzVjNjA3OjVlNTViNT live=1
+
+
+rtmp://204.45.157.98/flash playpath=19462  swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/gxOWI0OGEyOTcyODhhMGUyYTY1MDU0MDU5/bWFudW5ld3d3OjBiOTQ4ODdlNTM2YWQxMDM0OTRlZDZiNjBkNzVjNjA3OjVlNTViNT
 
  
