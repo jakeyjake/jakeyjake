@@ -122,6 +122,7 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 <sublink>rtmp://31.220.0.82:1935/live playpath=sskk5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
+
 </link>
 <thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
 </item>
@@ -143,7 +144,8 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 <link>
 <sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
-<sublink></sublink>
+<sublink>rtmpe://209.95.34.58:1935/live playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
 </item>
@@ -153,8 +155,8 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 <link>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>rtmpe://209.95.34.58:1935/live playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10</sublink>
+<sublink>rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gwOwnJo.png</thumbnail>
 </item>
@@ -207,15 +209,17 @@ rtmp://31.220.0.82:1935/live<playpath>skksnf1 <swfUrl>http://www.flashtv.co/ePla
 
 
 <item>
-<title>[B]MUTV[/B]</title>
-<sublink>rtmp://206.190.140.100:443/livere.28.82 playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
-<sublink>rtmp://80.82.64.90:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player3.php?id=20&width=640&height=460 token=#atd%#$ZH timeout=15</sublink>
-<sublink>rtmp://50.7.28.82/flash playpath=19436?MTQwOTIzODY5Mjs2ODA0NTI1MDljY2EwOGI2ZjI5MGU5ZWI2YTE4OWUyYg==  swfUrl=http://static3.sawlive.tv/player.swf  pageUrl=http://sawlive.tv/embed/watch/BiMWE4MDliZThmZDI2OGRkMTE0Y2ZiZTFjYzg5OTg_/bXV0dmt3aXdpd2l3aXc6YjM3MmQzNGVjZTQyZTNjNjdjYjZkYzg4OGE4YmI0YTE6ND timeout=10</sublink>
-<sublink>rtmp://206.190.140.100:443/liverepeater playpath=30 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=30&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
+<title>[B]MUTV[/B] Back online as soon as possible</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://00.00.00.00 playpath=10 swfUrl=http://static/fknplay.swf pageUrl=http://something.tv/</sublink>
+<sublink></sublink>
+<sublink></sublink>
 <thumbnail>http://i.imgur.com/v34dVoL.png</thumbnail>
+</link>
 </item>
-rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.tv/atdedead.swf <pageUrl>http://thesun.pw/player2.php?id=30&width=640&height=460
 
+rtmp://50.7.28.146/flash playpath=19436?MTQwOTI3MDUyNzszMjZiMTcyMmFlYjczMmU0NmJjNzZjZTA5NWU1MzNlNA== swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/AzZjIzZmU2YTJlNGU0NWY1NGQ2YTI5MWM5NTlkMDU_/bXV0dmt3aXdpd2l3aXc6YjM3MmQzNGVjZTQyZTNjNjdjYjZkYzg4OGE4YmI0YTE6Mj
 
 
 <item>
@@ -230,7 +234,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 <sublink></sublink>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
-<sublink></sublink>
+<sublink>rtmpe://195.154.230.244:1935/live playpath=stsn pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</sublink>
 <sublink></sublink>
 <thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
 </item>
@@ -241,7 +245,7 @@ rtmp://199.195.195.132:443/liverepeater<playpath>30 <swfUrl>http://static.surk.t
 <sublink></sublink>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn2 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn2&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.134:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
-<sublink></sublink>
+<sublink>rtmpe://195.154.230.244:1935/live playpath=stsn2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku</sublink>
 <thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
 </item>
 
@@ -308,8 +312,8 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/t2 pageUrl=http://www.flashtv
 <item>
 <title>test</title>
 <link>
-<sublink>rtmpe://89.248.172.52/live/skysports5fifaembed pageUrl=http://www.dcast.tv/</sublink>
 <sublink></sublink>
+<sublink>rtmpe://162.219.178.154/live playpath=skysports5fifaembed pageUrl=http://www.dcast.tv/</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <thumbnail></thumbnail>
