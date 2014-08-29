@@ -5,13 +5,13 @@
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
 <poster>Paul Hogan</poster>
-<fanart>http://resources3.news.com.au/images/2010/04/15/1225854/292315-strop.jpg</fanart>
+<fanart></fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
 	<message>[B][COLOR tan]Thanks to [B]Phoenix1982[/B] for kindly providing the links below[/COLOR][/B]</message>
-	<message>Look out for Phoenix1982 Playlist. [B]Coming soon![/B]</message>
+	<message>Look out for the Phoenix1982 new playlist. [B]Coming soon![/B]</message>
 	<message></message>
 	<message>[CR]</message>
 </info>
