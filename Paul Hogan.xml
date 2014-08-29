@@ -5,12 +5,12 @@
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
 <poster>Paul Hogan</poster>
-<fanart></fanart>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR tan]Thanks to [B]Phoenix1982[/B] for kindly providing the links below[/COLOR][/B]</message>
+	<message>[COLOR tan]Thanks to [/COLOR][B]Phoenix1982[/B][COLOR tan] for providing the links below[/COLOR]</message>
 	<message>Look out for the Phoenix1982 new playlist. [B]Coming soon![/B]</message>
 	<message></message>
 	<message>[CR]</message>
