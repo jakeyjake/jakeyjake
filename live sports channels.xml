@@ -59,7 +59,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR]Sky Sports News[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.28:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysn&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.26:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysn&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.104:1935/live playpath=skksnews swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </sublink>
 </link>
@@ -89,7 +89,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR skyblue]Sky Sports 2[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.28:1935/live/ playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.23:1935/live playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.103:1935/live playpath=sskk2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink></sublink>
 </link>
@@ -99,7 +99,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B]Sky Sports 3[/B]</title>stream4u.tv
 <link>
-<sublink>rtmpe://46.246.29.160:1935/live/ playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.22:1935/live/ playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 
 <sublink>rtmp://31.220.0.103:1935/live playpath=sskk3 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </link> 
@@ -109,7 +109,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR skyblue]Sky Sports 4[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.29:1935/live/ playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.31:1935/live/sskys4 playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.133:1935/live playpath=sskk4 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
@@ -118,7 +118,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B]Sky Sports 5[/B]</title>
 <link>
-<sublink>rtmpe://46.246.29.150:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.23:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&amp;vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=sskk5 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmpe://46.246.124.28:1935/live/sskys5 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.124.23:1935/live/sskys5 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys5&amp;vw=854&amp;vh=480&amp;domain=www.streamking.org token=#yw%tt#w@kku timeout=15</sublink>
@@ -130,7 +130,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR tan]Sky Sports F1[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.30:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysf1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.29.154:1935/live playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskysf1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.29.162:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=sboxn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=skksnf1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
@@ -142,7 +142,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B]BT Sport 1[/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.23:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.29.154:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt1&amp;vw=854&amp;vh=480&amp;domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=btssk1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmpe://209.95.34.58:1935/live playpath=sbt1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -153,7 +153,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR skyblue]BT Sport 2[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.24:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.29:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sbt2&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=btssk2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=skksnews&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink>rtmpe://209.95.34.58:1935/live playpath=sbt2 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku timeout=10</sublink>
 <sublink>rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z timeout=10</sublink>
@@ -191,7 +191,7 @@ rtmpe://46.246.124.3:1935/live/sskys1
 <item>
 <title>[B][COLOR skyblue]NBC Sports[/COLOR][/B]</title>
 <link>
-<sublink>rtmpe://46.246.124.25:1935/live/ playpath=snbcsports swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=</sublink>
+<sublink>rtmp://94.102.56.235:443/liverepeater playpath=78 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player3.php?id=78&width=640&height=460 token=#atd%#$ZH timeout=10</sublink>
 <sublink>rtmpe://46.246.124.26:1935/live/snbcsports</sublink>
 <sublink></sublink>
 </link>
