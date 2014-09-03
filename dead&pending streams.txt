@@ -1,3 +1,11 @@
+
+
+rtmp://mi2.gv.filmon.com:8086/live playpath=1042.high.stream <swfUrl> <pageUrl>
+rtmp://mi2.gv.filmon.com:8086/live playpath=374.high.stream <swfUrl> <pageUrl> FilmOn Vintage Music
+
+
+
+
 liverepeaters:
 skp1
 rtmp://80.82.65.237:443/liverepeater playpath=42 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://xxcast.pm/player2.php?id=41&width=640&height=460 token=#atd%#$ZH timeout=10
