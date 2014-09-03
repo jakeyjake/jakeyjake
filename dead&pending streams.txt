@@ -157,3 +157,10 @@ Below need updating/checking
 
 dcast links? @fifaembed website
 rtmpe://89.248.172.52/live/  playpath=skysportsf1fifaembed swfUrl=http://www.dcast.tv/player6/jwplayer.flash.swf pageUrl=http://www.fifaembed.com/embed/skysportsf1.php?width=650&height=480 swfVfy=1 live=1 timeout=15
+
+
+rtmp://rtmp.zerocast.tv:1935/live/ http://p.jwpcdn.com/6/10/jwplayer.flash.swf http://zerocast.tv/embed.php?a=1&width=800&amp;height=500&amp;autostart=true&amp;strech=
+
+
+
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=1&id=rGCi7bg0Qxvs8q7Sl13l&width=800&height=500&autostart=true&strech=
