@@ -1,9 +1,9 @@
 
 
 rtmp://mi2.gv.filmon.com:8086/live playpath=1042.high.stream <swfUrl> <pageUrl>
-rtmp://mi2.gv.filmon.com:8086/live playpath=374.high.stream <swfUrl> <pageUrl> FilmOn Vintage Music
+rtmp://mi2.gv.filmon.com:8086/live playpath=374.high.stream <swfUrl> <pageUrl> FilmOn Vintage Music 
 
-
+<sublink>rtmp://mi2.gv.filmon.com:8086/live playpath=206.high.stream<sublink> FilmOn Classics? 206.high.stream
 
 
 liverepeaters:
@@ -174,6 +174,30 @@ rtmp://rtmp.zerocast.tv:1935/live/ http://p.jwpcdn.com/6/10/jwplayer.flash.swf h
 rtmp://rtmp.zerocast.tv:1935/live/ playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://zerocast.tv/embed.php?a=1&id=rGCi7bg0Qxvs8q7Sl13l&width=800&height=500&autostart=true&strech=
 
 
+rtmpe://46.246.124.69:1935/live/ssnworld
+
+rtmpe://46.246.124.69:1935/live/ssno playpath=ssnworld swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10
+
+
+http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org
+
+<sublink>rtmpe://46.246.124.31:1935/live/ playpath=snbcsports swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=snbcsports&amp;vw=600&amp;vh=380&amp;domain=streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+
+
+rtmp://stream.cast3d.tv:1935/redirect/ playpath=nbatv swfUrl=http://renttcars.com/player.swf pageUrl=http://www.propvr.com/embed.php?channel=nbatv&amp;vw=650&amp;vh=440&amp;domain=www.mylivetv.me live=1 timeout=10 token=Fo5_n0w?U.rA6l3-70w47ch
 
 
 
+<item>
+<title>test</title>
+<link>
+<sublink>rtmpe://46.246.124.25:1935/live/playpath=ssnontario  swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+<sublink>rtmp://stream.cast3d.tv:1935/redirect/ playpath=nbatv swfUrl=http://renttcars.com/player.swf pageUrl=http://www.propvr.com/embed.php?channel=nbatv&amp;vw=650&amp;vh=440&amp;domain=www.mylivetv.me live=1 timeout=10 token=%ZZri(nKa@#Z</sublink>
+<sublink>rtmpe://cdn.ukcast.co/redirect playpath=nbcsnusa_usa swfUrl=http://ukcast.co/player//player.swf pageUrl=http://www.ukcast.co/embedUSA.php?u=nbcsnusa_usa&amp;vw=620&amp;vh=470 live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmpe://94.102.49.188/live playpath=nbcsnusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z timeout=15</sublink>
+
+<sublink>rtmp://46.28.204.165:1935/zmliveme playpath=CkT5Erxcwt swfUrl=http://static.zoomtv.me/player/jwplayer.6.7.4.swf pageUrl=http://www.zoomtv.me/embed.php?v=bawsicles&vw=660&vh=450 swfVfy=1 live=1 timeout=15 token=Q!lrB@G1)ww(-dQ4J4</sublink>
+<sublink>rtmp://94.242.228.24:1935/live playpath=by8k20vh6 swfUrl=http://www.kingcast.tv/player.swf pageUrl=http://www.kingcast.tv/embed.php?a=1801&id=&width=750&height=500&autostart=true&strech=</sublink>
+<thumbnail></thumbnail>
+</link>
+</item>
