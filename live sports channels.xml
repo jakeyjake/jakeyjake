@@ -51,7 +51,7 @@
 <link>
 <sublink>rtmpe://46.246.124.3:1935/live/ playpath=sskys1 pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink></sublink>
-<sublink>rtmp://31.220.0.104:1935/live playpath=sskk1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=sskk1&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
+<sublink>rtmp://173.193.219.179:443/liverepeater playpath=165941 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/streamcr.php?id=165941&width=620&height=490 token=#atd%#$ZH timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
 </item>
