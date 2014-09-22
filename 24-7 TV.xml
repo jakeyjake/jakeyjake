@@ -7,22 +7,217 @@
 <poster>Kevin Turvey</poster>
 <fanart>http://i.imgur.com/NewCzdV.png</fanart>
 
-#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+
+
 
 <info>
-	<message>[COLOR cornflowerblue[B]TV Shows - 24 hours a day Streams[/B][/COLOR]</message>
+	<message>[COLOR cornflowerblue[B]HD Streams - 24 hours a day[/B][/COLOR]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
+
+<item>
+<title>Movie Channel Live</title>
+<link>
+<sublink>rtmp://62.210.76.216/live2/ playpath=moviehd swfUrl=http://www.stream4free.eu/video-js/video-js.swf pageUrl=http://www.stream4free.eu/movies-hd</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Breaking Bad</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=bb swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sons of Anarchy</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Big Bang Theory</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=bigbang swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Walking Dead</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=walkingdead swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Mad Men</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=madmen swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Weeds</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=weeds swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/weeds</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Family Guy</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=familyguyhd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Simpsons</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=simpsonshd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/simpsons-hd</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Game of Thrones</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=got swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/game-of-thrones</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>House of Cards</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>South Park</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=southparkhd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/south-park-hd</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Futurama</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=futuramahd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>American Dad</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=american swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/american-dad</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>King of the Hill</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=kinghill swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Aqua Teen Hunger Force</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=aqua swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Bob's Burgers</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=bobs swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>The Cleveland Show</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=cleveland swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Archer</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=archer swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/archer</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Man Vs Wild</title>
+<link>
+<sublink>rtmp://195.154.188.161/live playpath=manwildus swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+<info>
+	<message>[CR]</message>
+</info>
+
+
+<info>
+	<message>[COLOR cornflowerblue[B]More TV Shows - 24 hours a day Streams[/B][/COLOR]</message>
 	<message></message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 </info>
 
 #PLAYLIST ITEMS#
-
-
-
-
-
-
 
 <item>
 <title>Family Guy</title>
