@@ -47,7 +47,7 @@
 </item>
 
 <item>
-<title>[B][COLOR firebrick]Ryder Cup [/COLOR][/B](Sky, TSN, VIASAT[COLOR lighslategray]ENG & RUSSIAN audio[/COLOR], BBC2[COLOR lightslategray][highlights)[/COLOR]</title>
+<title>[B][COLOR firebrick]Ryder Cup [/COLOR][/B](Sky, TSN, VIASAT[COLOR lighslategray]ENG & RUSSIAN audio[/COLOR], BBC2[COLOR lightslategray]highlights[/COLOR]</title>
 <link>
 <sublink>rtmpe://46.246.124.31:1935/live/sskys4 playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 <sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
