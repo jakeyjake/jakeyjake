@@ -26,11 +26,25 @@
 #PASTE SPACE#
 
 #PLAYLIST ITEMS#
+rtmp://89.40.71.201/lives<playpath>m4739jyo6o5u17d?zDs3p6J5GTklTCxn9IsOIB4-Oczbe1Gl8DfNCIWBgKWsBTZUSBcNKZ1f7aCp2yz66WPl8ElxylxJHfgrQ8biXgcIHMYfcEFUKOWm_YfKzmA* <swfUrl>http://7cast.net/jplayer.swf <pageUrl>http://7cast.net/player/m4739jyo6o5u17d/650/390
 
 
 <info>
 <message>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </message>
 </info>
+
+
+<item>
+<title>[B][COLOR skyblue]Hull v Manchester City (LQ)[/COLOR][/B]</title>
+<link>
+<sublink>rtmpe://46.246.124.31:1935/live/ playpath=llive9 pageUrl=http://www.hdcast.org/firstrow.php?u=llive9&amp;vw=650&amp;vh=440&amp;domain=beinsports24.com live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmp://89.40.71.201/lives playpath=m4739jyo6o5u17d?zDs3p6J5GTklTCxn9IsOIB4-Oczbe1Gl8DfNCIWBgKWsBTZUSBcNKZ1f7aCp2yz66WPl8ElxylxJHfgrQ8biXgcIHMYfcEFUKOWm_YfKzmA* swfUrl=http://7cast.net/jplayer.swf pageUrl=http://7cast.net/player/m4739jyo6o5u17d/650/390 live=1 timeout=10</sublink>
+</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+
+
+
 <info>
 <message>• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • </message>
 <message>[CR]</message>
@@ -50,15 +64,6 @@
 </item>
 
 
-<item>
-<title>[B][COLOR skyblue]Hull v Manchester City (LQ)[/COLOR][/B]</title>
-<link>
-<sublink>rtmpe://46.246.124.31:1935/live/ playpath=llive9 pageUrl=http://www.hdcast.org/firstrow.php?u=llive9&amp;vw=650&amp;vh=440&amp;domain=beinsports24.com live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink></sublink>
-
-</link>
-<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
-</item>
 
 
 
