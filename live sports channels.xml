@@ -288,16 +288,21 @@
      
     <item>
     <title>[COLOR ff6aa84f]EUROSPORT HD[/COLOR]</title>
-    <link>rtmp://31.220.0.86:1935/live playpath=eurs1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</link>
+    <link>
+	<sublink>rtmp://31.220.0.86:1935/live playpath=eurs1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+	
     <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSGYidXTLiqJkoVma4QMzSD2PFBksqOarezdzkkJLjPDP19D0OD9Q</thumbnail>
     </item>
      
     
     <item>
     <title>[COLOR ff6aa84f]EUROSPORT 2 HD[/COLOR]</title>
-    <link>rtmp://31.220.0.82:1935/live playpath=eurs2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</link>
+    <link>
+	<sublink>rtmp://31.220.0.82:1935/live playpath=eurs2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</sublink>
+	<sublink>http://83.139.104.101/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8</sublink>
+	</link>
     <thumbnail>http://1.bp.blogspot.com/-5F3z0H-IzMg/TnmzULsFU-I/AAAAAAAAEaU/T3wJff2SSBY/s1600/eurosport2.gif</thumbnail>
-    </item>
+	</item>
      
    
     <info>
@@ -310,8 +315,6 @@
     </info>
      
  
-
-
 <item>
     <title>[COLOR ff6aa84f]ESPN[/COLOR]</title>
     <link>
@@ -351,7 +354,10 @@
 
    <title>[COLOR ff6aa84f]BEIN 1 HD[/COLOR]</title>
         <thumbnail>http://i.imgur.com/2sf9kDM.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
+        <link>
+		<sublink></sublink>
+		<sublink>rtmp://31.220.0.133:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</sublink>
+		</link>
 
 <title>[COLOR ff6aa84f]BEIN 2 HD[/COLOR]</title>
         <thumbnail>http://i.imgur.com/pQt1eeJ.png</thumbnail>
@@ -384,7 +390,9 @@
 
 <title>[COLOR ff6aa84f]BEIN 8 HD[/COLOR]</title>
         <thumbnail>http://i.imgur.com/nw0RZAw.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bn8 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z live=1 timeout=10</link>
+        <link>rtmp://94.102.56.157:443/liverepeater playpath=166331 swfUrl=http://bernardotv.club/atdedead.swf pageUrl=http://biggestplayer.me/livestream#crew token=#atd%#$ZH live=1 timeout=10</link>
+
+
 
 
 
@@ -411,8 +419,8 @@
 <item>
 <title>[COLOR ff6aa84f]BEIN 13 HD[/COLOR]</title>
 <link>
-<sublink></sublink>
-<sublink>rtmp://31.220.0.82:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  live=1 token=%ZZri(nKa@#Z timeout=15</sublink>
+<sublink>http://83.139.104.101/Content/HLS/Live/Channel(Sk_1)/Stream(02)/index.m3u8</sublink>
+<sublink>rtmp://88.86.125.177:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bn9&vw=620&vh=490 token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/Vs4LaOL.png</thumbnail>
 </item>
