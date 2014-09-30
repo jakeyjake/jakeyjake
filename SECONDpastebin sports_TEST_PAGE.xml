@@ -1,21 +1,18 @@
-<poster>sports pastebin</poster>
+ <poster>sports pastebin</poster>
     <thumbnail>-</thumbnail>
     <fanart>http://i.imgur.com/4rdmKix.jpg</fanart>
-	
-<dir>     
-    <name>[B][COLOR ff6aa84f]*****[/COLOR][COLOR ghostwhite] LIVESTREAM#CREW [/COLOR][COLOR ff6aa84f]*****[/COLOR][/B]</name>
-	<thumbnail>http://i.imgur.com/DiGAi8W.png</thumbnail>
-	<link>http://none.com</link>
-	<info>
+     
+<info>
+    <message>[B][COLOR ff6aa84f]*****[/COLOR] LIVESTREAM#CREW [COLOR ff6aa84f]*****[/COLOR][/B]</message>
     <message>[COLOR ff6aa84f]• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •[/COLOR] </message>
     <message>[CR]</message>
-	</info>
+</info>
+
+
+
+</info>
 <dir>
-
-
-
-<dir>
-    <name>[B][COLOR cornflowerblue]*****[/COLOR][COLOR ghostwhite] HD STREAMS [/COLOR][COLOR cornflowerblue]*****[/COLOR][COLOR tan] CLICK HERE[/COLOR][/B] For those with a FOOTYREPORT Account having compatibility issues</name>
+    <name>[B][COLOR ghostwhite]***** HD STREAMS *****[/COLOR][COLOR tan] CLICK HERE[/COLOR][/B] For those with a FOOTYREPORT Account having compatibility issues</name>
     <thumbnail>http://cdn.taken.photos/images/2.bp.blogspot.com/-GTtsdBtQuyY/UUX8khWEblI/AAAAAAAAOFo/QlxweGv0leU/s1600/Lionel-Messi-FC-Barcelona-Wallpaper-lionel-andres-messi-22612877-1440-900.jpg</thumbnail>
     <link>http://pastebin.com/raw.php?i=hUggwb75</link>
     </dir>
@@ -24,39 +21,34 @@
     <message>[CR]</message>
 </info>
 
-<dir>
-    <name>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite]HD STREAMS [/COLOR]in SD [COLOR cornflowerblue]*****[/COLOR][COLOR tan] CLICK HERE[/COLOR][/B] Streams as above for those with a slower internet connection</name>
-    <thumbnail>http://cdn.taken.photos/images/2.bp.blogspot.com/-GTtsdBtQuyY/UUX8khWEblI/AAAAAAAAOFo/QlxweGv0leU/s1600/Lionel-Messi-FC-Barcelona-Wallpaper-lionel-andres-messi-22612877-1440-900.jpg</thumbnail>
-    <link>http://pastebin.com/raw.php?i=BRxLgrs7</link>
-    </dir>
- 
-<info>
-    <message>[CR]</message>
-</info>
-
    <info>
-    <message>[B][COLOR cornflowerblue]*****[/COLOR][COLOR ghostwhite] MORE HD SPORTS CHANNELS [/COLOR][COLOR cornflowerblue]*****[/COLOR][/B] Could be the channel you're looking for</message>
+    <message>[B][COLOR ff6aa84f]***** MORE HD SPORTS CHANNELS *****[/COLOR][/B] Could be the channel you're looking for</message>
     </info>
 
 <title>[COLOR ff6aa84f]Random Channel 1[/COLOR]</title>
  <thumbnail></thumbnail>
- <link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+ <link>rtmp://server.ppvmania.tv:1935/live playpath=channel1v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=2 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+ </link>
  
  <title>[COLOR ff6aa84f]Random Channel 2[/COLOR]</title>
  <thumbnail></thumbnail>
- <link>rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+ <link>rtmp://server.ppvmania.tv:1935/live playpath=channel2v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+ </link>
  
  <title>[COLOR ff6aa84f]Random Channel 3[/COLOR]</title>
 	<thumbnail></thumbnail>
-	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel3v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=3 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+	</link>
 	
 	<title>[COLOR ff6aa84f]Random Channel 4[/COLOR]</title>
 	<thumbnail></thumbnail>
-	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel4v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=15 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+	</link>
 	
 	<title>[COLOR ff6aa84f]Random Channel 5[/COLOR]</title>
 	<thumbnail></thumbnail>
-	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s</link>
+	<link>rtmp://server.ppvmania.tv:1935/live playpath=channel5v swfUrl=http://hqzone.tv/jwplayer5/jwplayer/player.swf pageUrl=http://www.hqzone.tv/forums/view.php?pg=4 live=true timeout=10 swfVfy=true token=WY846p1E1g15W7s
+</link>
 
 <title>[COLOR ff6aa84f]Random Channel 6[/COLOR]</title>
  <thumbnail></thumbnail>
@@ -65,13 +57,120 @@
 <info>
     <message>[CR]</message>
 </info>
+ 
+ 
 
- <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] SPORTSNET [/COLOR][COLOR cornflowerblue]***** [/COLOR][/B]</message>
+<info>
+<message>[COLOR ff00ffff]************************************************************************[/COLOR] </message>
 </info>
-
+ 
+<item>
+<title>[B][COLOR yellow]Ryder Cup [/COLOR][/B]-Sky, TSN, VIASAT[COLOR lightslategray]ENG & RUSSIAN audio[/COLOR] and BBC2[COLOR lightslategray]highlights[/COLOR]</title>
+<link>
+<sublink>rtmpe://46.246.124.31:1935/live/sskys4 playpath=sskys4 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys4&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.24:1935/live/ playpath=stsn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/embedlive.php?u=stsn&vw=854&vh=480&domain=streamhd.eu live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>http://80.77.52.6:4022/udp/230.0.3.58:12345</sublink>
+<sublink>http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<info>
+<message>[COLOR ff00ffff]************************************************************************[/COLOR] </message>
+</info>
+ 
+<item>
+<title>[B][COLOR skyblue]Hull v Manchester City (LQ)[/COLOR][/B]</title>
+<link>
+<sublink>rtmpe://46.246.124.31:1935/live/ playpath=llive9 pageUrl=http://www.hdcast.org/firstrow.php?u=llive9&amp;vw=650&amp;vh=440&amp;domain=beinsports24.com live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.69:1935/live/ playpath=ssnworld swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+</link>
+<thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
+</item>
+ 
+  <title>[B][COLOR firebrick]Man United vs West Ham HD[/COLOR][/B]</title>
+        <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRzspETqbpcDL3h-nd7Nzr3lVT9chUuPRTAgF1nnJwyhta0T50I</thumbnail>                                                                                          
+          <link>http://rogerslive-i.akamaihd.net/hls/live/202801/event/index.m3u8</link>
+<info>
+<message>[COLOR ff00ffff]************************************************************************[/COLOR] </message>
+</info>
+ 
+<info>
+    <message>[COLOR blue]THE HD STREAMS ARE IN SD FOR PPL WHO HAVENT GOT THE INTERNET SPEED FOR HD ALSO FOR THE PPL WHO GOT A ACCOUNT WITH FOOTYREPORT BUT CANT USE IT ON XBMC CAUSE ITS NOT COMPATIBLE WITH GOTHAM OR KODI[/COLOR]   ENJOY GUYS & GIRLS </message>
+    </info>
+ 
+<dir>
+    <name>[COLOR blue]HD STREAMS R IN SD [/COLOR][COLOR ff00ffff]CLICK HERE[/COLOR] [COLOR red]****NEW****[/COLOR]</name>
+    <thumbnail>http://cdn.taken.photos/images/2.bp.blogspot.com/-GTtsdBtQuyY/UUX8khWEblI/AAAAAAAAOFo/QlxweGv0leU/s1600/Lionel-Messi-FC-Barcelona-Wallpaper-lionel-andres-messi-22612877-1440-900.jpg</thumbnail>
+    <link>http://pastebin.com/raw.php?i=BRxLgrs7</link>
+    </dir>
+ 
+ 
+ 
+ <info>
+    <message>[COLOR red]THE HD STREAMS ARE FOR THE PPL WHO GOT A ACCOUNT WITH FOOTYREPORT BUT CANT USE IT ON XBMC CAUSE ITS NOT COMPATIBLE WITH GOTHAM OR KODI[/COLOR]   ENJOY GUYS & GIRLS </message>
+    </info>
+ 
+<dir>
+    <name>[COLOR red]HD STREAMS[/COLOR] [COLOR ff00ffff]CLICK HERE[/COLOR] [COLOR red]****NEW****[/COLOR]</name>
+    <thumbnail>http://cdn.taken.photos/images/2.bp.blogspot.com/-GTtsdBtQuyY/UUX8khWEblI/AAAAAAAAOFo/QlxweGv0leU/s1600/Lionel-Messi-FC-Barcelona-Wallpaper-lionel-andres-messi-22612877-1440-900.jpg</thumbnail>
+    <link>http://pastebin.com/raw.php?i=hUggwb75</link>
+    </dir>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    <info>
+    <message>[COLOR ff00ffff]******SPORTSNET******[/COLOR]</message>
+    </info>
+     
+    <item>
+    <title>[COLOR ff6aa84f]SPORTSNET WORLD HD[/COLOR]</title>
+    <link>
+<sublink>rtmpe://46.246.124.69:1935/live/ playpath=ssnworld swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+<sublink></sublink>
+</link>
+    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSYBtAeDzJrvZVHw9G76raxG2nysNzRn21Vi64W4sKtBOk5B4T0</thumbnail>
+    </item>
+     
+ 
+ 
+ 
+    <item>
+    <title>[COLOR ff6aa84f]SPORTSNET ONE[/COLOR]</title>
+    <link>
+<sublink>rtmp://31.220.0.82:1935/live playpath=spone swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
+ 
+<sublink>rtmpe://46.246.124.72:1935/live/ssno playpath=ssno swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+</link>
+    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSTDdyxe_0UFhK2cIpuLqTZsS2G6Dp5UZYTRzZ4ONBzPDkikut2Qw</thumbnail>
+    </item>
+     
+ 
+<item>
+<title>[COLOR ff6aa84f]SPORTSNET ONTARIO[/COLOR]</title>
+<link>
+<sublink>rtmp://31.220.0.86:1935/live playpath=spon swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</sublink>
+<sublink>rtmpe://46.246.124.25:1935/live/ playpath=ssnontario  swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=10</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png</thumbnail>
+</item>
+     
 <title>[COLOR ff6aa84f]SPORTSNET EAST HD[/COLOR]</title>
-        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSp-Z2H8ZX54Pk0GLJ9CqN32UO11Lm3-jf1kbLA14CemYR5m5z57g</thumbnail>                                                                                       
+        <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSp-Z2H8ZX54Pk0GLJ9CqN32UO11Lm3-jf1kbLA14CemYR5m5z57g</thumbnail>                                                                                          
           <link>http://rogerslive-i.akamaihd.net/hls/live/202800/event/index.m3u8</link>
  
          
@@ -83,73 +182,33 @@
 <title>[COLOR ff6aa84f]SPORTSNET PACIFIC HD[/COLOR]</title>
         <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQaPDNquY-xrWsm2ScQc4ryuUbc9gvgyS9TAO0IAcD_qL-JY6bz</thumbnail>                                                                                          
           <link>http://rogerslive-i.akamaihd.net/hls/live/202802/event/index.m3u8</link>
-		  
-		  
-		  <title>[COLOR ff6aa84f]SPORTSNET EXTRA 1 HD[/COLOR]</title>
-        <thumbnail></thumbnail>                                                                                          
-          <link>http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8</link>
-     
-    <item>
-    <title>[COLOR ff6aa84f]SPORTSNET WORLD HD[/COLOR]</title>
-    <link>
-<sublink>rtmpe://46.246.124.69:1935/live/ playpath=ssnworld swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=10</sublink>
-<sublink></sublink>
-</link>
-    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSYBtAeDzJrvZVHw9G76raxG2nysNzRn21Vi64W4sKtBOk5B4T0</thumbnail>
-    </item>
-     
-
-
-
-    <item>
-    <title>[COLOR ff6aa84f]SPORTSNET ONE[/COLOR]</title>
-    <link>
-<sublink>rtmp://31.220.0.82:1935/live playpath=spone swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
-
-<sublink>rtmpe://46.246.124.72:1935/live/ssno playpath=ssno swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=10</sublink>
-</link>
-    <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSTDdyxe_0UFhK2cIpuLqTZsS2G6Dp5UZYTRzZ4ONBzPDkikut2Qw</thumbnail>
-    </item>
-     
-
-<item>
-<title>[COLOR ff6aa84f]SPORTSNET ONTARIO[/COLOR]</title>
-<link>
-<sublink>rtmp://31.220.0.86:1935/live playpath=spon swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</sublink>
-<sublink>rtmpe://46.246.124.25:1935/live/ playpath=ssnontario  swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=10</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20120212021042/logopedia/images/0/08/Rogers_sportsnet_ontario.png</thumbnail>
-</item>
-     
-
  
          
-<info>
-    <message>[CR]</message>
-</info>
-
-
-
-
+<title>[COLOR ff6aa84f]SPORTSNET EXTRA 1 HD[/COLOR]</title>
+        <thumbnail></thumbnail>                                                                                          
+          <link>http://rogerslive-i.akamaihd.net/hls/live/202803/event/index.m3u8</link>
+ 
+ 
+ 
+ 
  
     <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] SKY SPORTS [/COLOR][COLOR cornflowerblue]***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******SKY SPORTS******[/COLOR]</message>
     </info>
-
+ 
    
      <item>
      <title>[COLOR ff6aa84f]SKY SPORTS 1[/COLOR]</title>
      <link>
 <sublink>rtmpe://46.246.124.3:1935/live/ playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf  pageUrl=http://www.hdcast.org/livestream#crew;) live=1 token=#yw%tt#w@kku  timeout=15</sublink>
-    
+   
 <sublink></sublink>
-
+ 
 </link>
     <thumbnail>http://i.imgur.com/P0Omfdl.png</thumbnail>
     </item>
      
-    
+   
      
 <item>
 <title>[COLOR ff6aa84f]SKY SPORTS 2[/COLOR]</title>
@@ -168,46 +227,46 @@
 </link>
 <thumbnail>http://i.imgur.com/a6QixyX.png</thumbnail>
 </item>
-
-
+ 
+ 
 <item>
 <title>[COLOR ff6aa84f]SKY SPORTS 4[/COLOR]</title>
 <link>
 <sublink></sublink>
-
+ 
 <sublink>rtmpe://46.246.124.3:1935/live/ playpath=sskys4 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew  live=1 token=#yw%tt#w@kku  timeout=15</sublink>
-
+ 
 <sublink></sublink>
-
+ 
 </link>
 <thumbnail>http://i.imgur.com/R4UaQMp.png</thumbnail>
-</item>	 
-	   
-
-						
+</item>  
+           
+ 
+                                               
 <item>
 <title>[COLOR ff6aa84f]SKY SPORTS 5[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink>rtmpe://46.246.124.23:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew  live=1 token=#yw%tt#w@kku  timeout=15</sublink>
-
+ 
 </link>
 <thumbnail>http://i.imgur.com/AbwXw0i.png</thumbnail>
 </item>
-	 
-					
-    
+         
+                                       
+   
      <item>
      <title>[COLOR ff6aa84f]SKY SPORTS F1[/COLOR]</title>
      <link>
      <sublink>rtmpe://46.246.29.160:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf  pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku  timeout=15</sublink>
-<sublink>rtmpe://46.246.124.67:1935/live/ playpath=sskysf1 pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.67:1935/live/ playpath=sskysf1 pageUrl=http://prvservers.com/embed.php?u=sskysf1&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/HwbDttb.png</thumbnail>
 </item>
-
-
-
+ 
+ 
+ 
      <item>
      <title>[COLOR ff6aa84f]SKY SPORTS NEWS[/COLOR]</title>
      <link>
@@ -217,46 +276,18 @@
 <thumbnail>http://i.imgur.com/rtS8GQw.png</thumbnail>
 </item>
      
-  <info>
-    <message>[CR]</message>
-</info>
-    	
-     <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] BT SPORT [/COLOR][COLOR cornflowerblue]***** [/COLOR][/B]</message>
-    </info>
  
-
-<item>
-<title>[COLOR ff6aa84f]BT SPORT 1[/COLOR]</title>
-<link>
-<sublink>rtmpe://46.246.29.154:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR ff6aa84f]BT SPORT 2[/COLOR]
-</title>rtmpe://46.246.124.25:1935/live/sbt2
-<link>
-<sublink>rtmpe://46.246.124.25:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
-</item>
-     
-<info>
-    <message>[CR]</message>
-</info>
-
+       
+ 
+ 
     <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] HORSE RACING [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******HORSE RACING******[/COLOR]</message>
     </info>
      
     <item>
     <title>[COLOR ff6aa84f]AT THE RACES[/COLOR]</title>
     <link>rtmp://31.220.0.194:1935/live playpath=kingratr swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</link>
-    
+   
     <item>
     <title>[COLOR ff6aa84f]RACING UK[/COLOR]</title>
     <link>rtmp://31.220.0.82:1935/live playpath=kingracing swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</link>
@@ -272,18 +303,48 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b6/New_at_the_races_logo_2008.png</thumbnail>
 </item>
      
-    <info>
-    <message>[CR]</message>
-</info>
-
-
+   
  
-    
-
-
-
      <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] EUROSPORT [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******BT SPORT******[/COLOR]</message>
+    </info>
+ 
+ 
+         
+       
+       
+       
+       
+       
+         
+<item>
+<title>[B][COLOR ff6aa84f]BT SPORT 1[/COLOR][/B]</title>
+<link>
+<sublink>rtmpe://46.246.29.154:1935/live/ playpath=sbt1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
+</item>
+ 
+<item>
+<title>[B][COLOR ff6aa84f]BT SPORT 2[/COLOR][/B]</title>rtmpe://46.246.124.25:1935/live/sbt2
+<link>
+<sublink>rtmpe://46.246.124.25:1935/live/ playpath=sbt2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+ 
+<sublink></sublink>
+ 
+</link>
+<thumbnail>http://i.imgur.com/RaNvVR1.png</thumbnail>
+</item>
+     
+ 
+     
+   
+ 
+ 
+ 
+     <info>
+    <message>[COLOR ff00ffff]******EUROSPORTS******[/COLOR]</message>
     </info>
      
     <item>
@@ -292,7 +353,7 @@
     <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSGYidXTLiqJkoVma4QMzSD2PFBksqOarezdzkkJLjPDP19D0OD9Q</thumbnail>
     </item>
      
-    
+   
     <item>
     <title>[COLOR ff6aa84f]EUROSPORT 2 HD[/COLOR]</title>
     <link>rtmp://31.220.0.82:1935/live playpath=eurs2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew live=1 token=%ZZri(nKa@#Z timeout=10</link>
@@ -300,18 +361,16 @@
     </item>
      
    
+     
+   
+ 
     <info>
-    <message>[CR]</message>
-</info> 
-    
-
-    <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] ESPN [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******ESPN******[/COLOR]</message>
     </info>
      
  
-
-
+ 
+ 
 <item>
     <title>[COLOR ff6aa84f]ESPN[/COLOR]</title>
     <link>
@@ -320,8 +379,8 @@
     <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
     </item>
      
-
-
+ 
+ 
 <item>
 <title>[COLOR ff6aa84f]ESPN 2[/COLOR]</title>
 <link>
@@ -331,7 +390,7 @@
 </link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
-
+ 
 <item>
 <title>[COLOR ff6aa84f]ESPN USA[/COLOR]</title>
 <link>
@@ -341,128 +400,147 @@
 </link>
 <thumbnail>http://i.imgur.com/bFLdStF.png</thumbnail>
 </item>
-
-<info>
-    <message>[CR]</message>
-</info>
-
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] BEIN SPORTS [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+ 
+ 
+    <message>[COLOR ff00ffff]******BEIN SPORTS******[/COLOR]</message>
     </info>
-
-   <title>[COLOR ff6aa84f]BEIN 1 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/2sf9kDM.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 2 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/pQt1eeJ.png</thumbnail>
-        <link>rtmp://31.220.0.82:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-
-<title>[COLOR ff6aa84f]BEIN 3 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/V4zvwVM.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bns3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 4 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/oSm7NFj.png</thumbnail>
-        <link>rtmp://31.220.0.82:1935/live playpath=bns4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 5 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/AR0pn0i.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 6 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/wOnEe41.png</thumbnail>
-        <link>rtmp://31.220.0.82:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-
-
-
-
-<title>[COLOR ff6aa84f]BEIN 7 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/lkqnmj0.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bns7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 8 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/nw0RZAw.png</thumbnail>
-        <link>rtmp://62.210.78.125:443/liverepeater playpath=166133 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/livestream#crew  token=#atd%#$ZH </link>
-
-
-
-
-
-
-<title>[COLOR ff6aa84f]BEIN 9 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/tJ0RHZU.png</thumbnail>
-        <link>rtmp://31.220.0.82:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-
-<title>[COLOR ff6aa84f]BEIN 10 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/HUY1AaM.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 11 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/ZeGHfkq.png</thumbnail>
-        <link>rtmp://31.220.0.82:1935/live playpath=bnss11 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>
-
-<title>[COLOR ff6aa84f]BEIN 12 HD[/COLOR]</title>
-        <thumbnai>http://i.imgur.com/lwh5xDY.png</thumbnail>
-        <link>rtmp://31.220.0.133:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z</link>  
-
+ 
+   <title>bein 1 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bns1 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 2 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.82:1935/live playpath=bns2 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+ 
+<title>bein 3 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bns3 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 4 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.82:1935/live playpath=bns4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 5 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bn5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 6 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.82:1935/live playpath=bn6 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+ 
+ 
+ 
+ 
+<title>bein 7 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bns7 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 8 hd ?</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://62.210.78.125:443/liverepeater playpath=166133 swfUrl=http://bernardotv.club/atdedead.swf live=1 pageUrl=http://biggestplayer.me/livestream#crew  token=#atd%#$ZH
+ 
+</link>
+ 
+ 
+ 
+ 
+ 
+ 
+<title>bein 9 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.82:1935/live playpath=bn9 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+ 
+<title>bein 10 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bn10 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 11 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.82:1935/live playpath=bnss11 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>
+ 
+<title>bein 12 hd</title>50
+        <thumbnai></thumbnail>
+        <link>rtmp://31.220.0.133:1935/live playpath=bn12 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z
+ 
+</link>  
+ 
 <item>
-<title>[COLOR ff6aa84f]BEIN 13 HD[/COLOR]</title>
+<title>[COLOR ff6aa84f]BEIN SPORTS 13 HD[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=bn13 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  live=1 token=%ZZri(nKa@#Z timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/Vs4LaOL.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>[COLOR ff6aa84f]BEIN 14 HD[/COLOR]</title>
+<title>[COLOR ff6aa84f]BEIN SPORTS 14 HD[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink>rtmp://31.220.0.194:1935/live playpath=bn14 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew   token=%ZZri(nKa@#Z timeout=10</sublink>
 </link>
 <thumbnail>http://i.imgur.com/h8D3wXn.png</thumbnail>
 </item>
-
+ 
 <item>
-<title>[COLOR ff6aa84f]BEIN 15 HD[/COLOR]</title>
+<title>[COLOR ff6aa84f]BEIN SPORTS 15 HD[/COLOR]</title>
 <link>
 <sublink></sublink>
 <sublink>rtmp://31.220.0.82:1935/live playpath=bn15 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew  live=1 token=%ZZri(nKa@#Z timeout=15</sublink>
 </link>
 <thumbnail>http://i.imgur.com/szFIQc5.png</thumbnail>
 </item>
-
-        
-  <info>
-    <message>[CR]</message>
-</info>
-
-
-
+ 
+       
+ 
+ 
+ 
+ 
    
     <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] FOX SPORTS [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******FOX SPORTS******[/COLOR]</message>
     </info>
-
-
-	
-
+ 
+ 
+       
+ 
 <item>
-<title>[COLOR ff6aa84f]FOX Sport 1[/COLOR]</title>
+<title>[B][COLOR ff6aa84f]FOX Sport 1[/COLOR][/B]</title>
 <sublink>rtmp://31.220.0.82:1935/live playpath=fox1x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew  token=%ZZri(nKa@#Z timeout=10</sublink>
-
+ 
 <sublink>rtmpe://46.246.124.22:1935/live/ playpath=sfox1 swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-
+ 
 <sublink></sublink>
-
+ 
 <thumbnail>http://i.imgur.com/e7U4o5g.png</thumbnail>
 </item>
-    
-
-
+   
+ 
+ 
 <item>
 <title>[COLOR ff6aa84f]FOX SPORTS 2[/COLOR]</title>
 <sublink></sublink>
@@ -471,54 +549,14 @@
 <sublink>rtmp://31.220.0.196:1935/live playpath=fox2x swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/f/fd/FOX_Sports_2_logo.png</thumbnail>
 </item>
-
-<info>
-    <message>[CR]</message>
-</info>
-
+ 
+ 
+ 
+ 
     <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] TSN [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+    <message>[COLOR ff00ffff]******OTHER SPORTS******[/COLOR]</message>
     </info>
-
-<item>
-<title>[COLOR ff6aa84f]TSN 1[/COLOR]</title>
-<sublink>rtmp://31.220.0.86:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</sublink>
-
-<sublink>rtmpe://195.154.230.244:1935/live playpath=stsn pageUrl=http://www.hdcast.org/livestream#crew token=#yw%tt#w@kku timeout=15</sublink>
-
-<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
-</item>
-
-
-  
-<item>
-<title>[COLOR ff6aa84f]TSN 2[/COLOR]</title>
-
-<sublink>rtmpe://46.246.124.31:1935/live/ playpth=stsn2 pageUrl=http://www.hdcast.org/livestream#crew token=#yw%tt#w@kku timeout=15</sublink>
-
-<sublink>rtmp://31.220.0.134:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf  live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
-
-
-<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
-</item>
-
-<info>
-    <message>[CR]</message>
-</info>
-
-    <info>
-    <message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] OTHER SPORTS [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
-    </info>
-    
- <item>
-    <title>[COLOR ff6aa84f]BOXNATION[/COLOR]</title>
-    <link>
-<sublink>rtmpe://46.246.124.71:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-<sublink>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-    </link>
-    <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
-    </item>
-	
+     
     <item>
     <title>[COLOR ff6aa84f]FIGHT SPORTS[/COLOR]</title>
     <link>http://202.75.23.37:1400/live/ch20/03.m3u8
@@ -526,18 +564,31 @@
     <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQSONJAwOBIaX6YY-Yhb9Lx2zMWXwnX67oSHM0qoMExauDSVikoYg</thumbnail>
     </item>
      
-
+ 
    <item>
-   <title>[COLOR ff6aa84f]FIGHT CHANNEL[/COLOR]</title>
+   <title>[COLOR ff6aa84f]Fight Channel[/COLOR]</title>
    <link>
    <sublink>http://83.139.104.101/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8</sublink>
    <sublink></sublink>
    </link>
    <thumbnail></thumbnail>
    </item>
-
+ 
      
+ 
  <item>
+    <title>[COLOR ff6aa84f]BOXNATION[/COLOR]</title>rtmpe://46.246.124.71:1935/live/sboxn
+    <link>
+<sublink>rtmpe://46.246.124.71:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.24:1935/live/ playpath=sboxn swfUrl=http://www.hdcast.org/j2/jwplayer.flash.swf pageUrl=http://www.hdcast.org/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+    </link>
+    <thumbnail>http://i.imgur.com/JcB5jbK.png</thumbnail>
+    </item>
+ 
+ 
+     
+     
+    <item>
     <title>[COLOR ff6aa84f]BIG TEN NETWORK[/COLOR]</title>
     <link>
 <sublink>rtmp://31.220.0.134:1935/live playpath=ten swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</sublink>
@@ -545,7 +596,7 @@
 </link>
     <thumbnail>http://blogs.suntimes.com/sportsprose/assets_c/2009/10/big-ten-network-thumb-725x350-12734.jpg</thumbnail>
     </item>
-
+ 
 <item>
 <title>[COLOR ff6aa84f]MLB NETWORK[/COLOR]</title>
 <link>
@@ -555,7 +606,7 @@
 </link>
 <thumbnail></thumbnail>
 </item>
-
+ 
    <item>
 <title>[COLOR ff6aa84f]NFL NETWORK[/COLOR]</title>
 <link>
@@ -572,35 +623,50 @@
     </link>
     <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQCJiadcVBroQshUkf3-rGLFR7qQpyIiha--0mLUCJtYKYQfwAtSQ</thumbnail>
     </item>
-    
-
-
-
+   
+<item>
+<title>[COLOR ff6aa84f]TSN 1[/COLOR]</title>
+<sublink>rtmp://31.220.0.86:1935/live playpath=tsn1x swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z</sublink>
+ 
+<sublink>rtmpe://195.154.230.244:1935/live playpath=stsn pageUrl=http://www.hdcast.org/livestream#crew token=#yw%tt#w@kku timeout=15</sublink>
+ 
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
+</item>
+ 
+ 
+<item>
+<title>[COLOR ff6aa84f]TSN 2[/COLOR]</title>
+ 
+<sublink>rtmpe://46.246.124.31:1935/live/ playpth=stsn2 pageUrl=http://www.hdcast.org/livestream#crew token=#yw%tt#w@kku timeout=15</sublink>
+ 
+<sublink>rtmp://31.220.0.134:1935/live playpath=tsn2x swfUrl=http://www.flashtv.co/ePlayerr.swf  live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
+ 
+ 
+<thumbnail>http://i.imgur.com/moNnrID.png</thumbnail>
+</item>
+ 
+ 
     <item>
     <title>[COLOR ff6aa84f]NBCSN[/COLOR]</title>
     <link>
 <sublink></sublink>
-<sublink>rtmpe://46.246.124.79:1935/live/ playpath=snbcsports  swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
+<sublink>rtmpe://46.246.124.79:1935/live/ playpath=snbcsports  swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssno&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
 </link>
     <thumbnail>http://i.imgur.com/f1fEzID.png</thumbnail>
     </item>
-
+ 
      <item>
-    <title>[COLOR ff6aa84f]SETANTA IRELAND[/COLOR]</title>
-    <link>rtmpe://46.246.124.30:1935/live/ playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew token=#yw%tt#w@kku timeout=15</link>
+    <title>[COLOR ff6aa84f]SETANTA IRELAND[/COLOR][COLOR red][/COLOR]</title>
+    <link>rtmpe://46.246.124.30:1935/live/ playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=ssetanta&amp;vw=600&amp;vh=380&amp;domain=streams23.org token=#yw%tt#w@kku timeout=15</link>
     <thumbnail></thumbnail>
     </item>
      
-    <title>[COLOR ff6aa84f]PREMIER SPORTS[/COLOR]</title>
-       <link>
-       <sublink>rtmpe://46.246.124.79:1935/live playpath=spremsp swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/livestream#crew live=1 token=#yw%tt#w@kku timeout=15</sublink>
-       </link>
-       <thumbnail></thumbnail>
-       </item>
+   
      
     <item>
     <title>[COLOR ff6aa84f] WWE HD[/COLOR][COLOR red] [/COLOR]</title>
-    <link></link>
+    <link>rtmp://173.193.197.46/flash playpath=18257?MTQwOTY0MzQ1OTtmNzQ3MDQ3ZGYxMDQ3MTRmNzYwMzBjMTRkNWUyZDM2YQ== swfUrl=http://static3.sawlive.tv/player.swf live=1 pageUrl=http://sawlive.tv/embed/watch/JmMjE1MWFlZjBiMTU3ODRiMWE5Zg__/eW9sbzpiNWZiZDcyZmEzOTY2NDlmZGI3NjQ4NTBhOWYyMTVhNzpjNjU0YTFjOWNhOG token=%ZZri(nKa@#Z
+</link>
     <thumbnail></thumbnail>
     </item>
        
@@ -610,7 +676,7 @@
     </link>
     <thumbnail>http://desilivetv.net/wp-content/uploads/2013/12/DD-Sports-TV-Channel-India.jpg</thumbnail>
     </item>
-
+ 
     <item>
     <title>[COLOR ff6aa84f]PTV Sports[/COLOR]</title>
     <link>
@@ -621,138 +687,139 @@
     </item>
  
  <item>
-<title>[COLOR ff6aa84f]GOLF CHANNEL[/COLOR]</title>
-
+<title>[COLOR ff6aa84f]GOLF[/COLOR]</title>
+ 
 <link>
 <sublink>rtmp://31.220.0.195:1935/live playpath=golf swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/livestream#crew token=%ZZri(nKa@#Z timeout=10</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
-
+ 
+ 
+ 
+ 
 <info>
-    <message>[CR]</message>
-</info>
-
-
-<info>
-<message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] SPORT TIME TV [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+<message>*****[COLOR ff00ffff]SPORT TIME TV[/COLOR]*****</message>
 <info>
  
- <title>[COLOR ff6aa84f]Channel 1[/COLOR]</title>
+ <title>1</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200</link>
        
-    <title>[COLOR ff6aa84f]Channel 2[/COLOR]</title>
+    <title>2</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800</link>
  
-        <title>[COLOR ff6aa84f]Channel 3[/COLOR]</title>
+        <title>3</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200</link>
  
-<title>[COLOR ff6aa84f]Channel 4[/COLOR]</title>
+<title>4</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800</link>
  
-        <title>[COLOR ff6aa84f]Channel 5[/COLOR]</title>
+        <title>5</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800</link>
        
-<title>[COLOR ff6aa84f]Channel 6[/COLOR]</title>
+<title>6</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200</link>
  
  
-        <title>[COLOR ff6aa84f]Channel 7[/COLOR]</title>
+        <title>7</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800</link>
  
-<title>[COLOR ff6aa84f]Channel 8[/COLOR]</title>
+<title>8</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200</link>
  
  
-        <title>[COLOR ff6aa84f]Channel 9[/COLOR]</title>
+        <title>9</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800</link>
  
-<title>[COLOR ff6aa84f]Channel 10[/COLOR]</title>
+<title>10</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200</link>
  
  
- <title>[COLOR ff6aa84f]Channel 11[/COLOR]</title>
+ <title>11</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800</link>
  
        
  
-        <title>[COLOR ff6aa84f]Channel 12[/COLOR]</title>
+        <title>12</title>
         <thumbnail></thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200</link>
        
-        <title>[COLOR ff6aa84f]Channel 13[/COLOR]</title>
+        <title>13</title>
         <thumbnail>/thumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800</link>
        
-<title>[COLOR ff6aa84f]Channel 14[/COLOR]</title>
+<title>14</title>
         <thumbnail></thhumbnail>
         <link>rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200</link>
  
-
-<info>
-    <message>[CR]</message>
-</info>
-
-
+ 
+ 
+ 
+ 
        
 <info>
-<message>[B][COLOR cornflowerblue]***** [/COLOR][COLOR ghostwhite] EXTRA SPORTS [/COLOR][COLOR cornflowerblue] ***** [/COLOR][/B]</message>
+<message>*****[COLOR ff00ffff] EXTRA SPORTS [/COLOR]*****</message>
 </info>
  
- <title>[COLOR ff6aa84f]BBC1[/COLOR]</title>
+ <title>BBC1</title>
         <thumbnail></thumbnail>
         <link>http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8</link>
-
-  <title>[COLOR ff6aa84f]BBC2[/COLOR]</title>
+ 
+  <title>BBC2</title>
         <thumbnail></thumbnail>
         <link>http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8</link>
-
-
-
-       
-
-       <title>[COLOR ff6aa84f]FOTBALL HD[/COLOR]</title>
+ 
+ 
+ 
+       <title>PREMIER SPORTS</title>
+       <link>
+       <sublink>rtmpe://46.246.124.79:1935/live playpath=spremsp swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/embed.php?u=stsn2&amp;vw=600&amp;vh=380&amp;domain=www.streams23.org live=1 token=#yw%tt#w@kku timeout=15</sublink>
+       </link>
+       <thumbnail></thumbnail>
+       </item>
+ 
+       <title>FOTBALL HD</title>
         <thumbnail></thumbnail>
         <link></link>
        
-    
-        <title>[COLOR ff6aa84f]UFC[/COLOR]</title>
+   
+        <title>UFC</title>
         <thumbnail></thumbnail>
         <link></link>
        </link>
-
-
+ 
+ 
        <item>
-       <title>[COLOR ff6aa84f]FILMON FOOTBALL[/COLOR]</title>
+       <title>FilmOn Football</title>
        <link>
        <sublink>rtmp://mi2.gv.filmon.com:8086/live playpath=374.high.stream</sublink>
        </link>
        <thumbnail>http://i.imgur.com/gH9N1ZZ.png</thumbnail>
        </item>
-
+ 
         <item>
-       <title>[COLOR ff6aa84f]SKY SPORTS NEWS[/COLOR][COLOR tan]~RADIO~[/COLOR]</title>
+       <title>Sky Sports News[COLOR tan]~RADIO~[/COLOR]</title>
        <link>
        <sublink></sublink>
        <sublink>rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com</sublink>
        </link>
        <thumbnail>http://www.skysports.com/Images/650392.jpg</thumbnail>
        </item>
-
+ 
        <item>
-       <title>[COLOR ff6aa84f]TALKSPORT[/COLOR][COLOR tan]~RADIO~[/COLOR]</title>
+       <title>Talksport[COLOR tan]~RADIO~[/COLOR]</title>
       <link>
       <sublink>http://radio.talksport.com/stream?awparams=platform:ts-web;lang:en</sublink>
       <sublink></sublink>
