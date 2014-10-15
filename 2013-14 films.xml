@@ -13,7 +13,7 @@
 	<message>[B][COLOR firebrick]Films released in 2013 and 2014[/COLOR][/B]</message>
 	<message>[COLOR][I]A work in progress...[/COLOR][/I]</message>
 	<message>1080P and 720P links</message>
-	<message>Recently added: The Signal, The Fault in Our Stars, Boyhood, How to Train Your Dragon 2, Sin City: A Dame to Kill For, About Last Night, Son of Batman, Lucy, Maps to The Stars, X-Men Days of Future Past, Veronica Mars, Maleficent, Frank, Finding Vivian Maier, Frances Ha, Gloria, Venus in Fur, Joe, </message>
+	<message>Recently added: Dawn of the Planet of The Apes The Signal, The Fault in Our Stars, Boyhood, How to Train Your Dragon 2, Sin City: A Dame to Kill For, About Last Night, Son of Batman, Lucy, Maps to The Stars, X-Men Days of Future Past, Veronica Mars, Maleficent, Frank, Finding Vivian Maier, Frances Ha, Gloria, Venus in Fur, Joe, </message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
 	
 </info>
@@ -1269,20 +1269,32 @@ http://bestreams.net/r3pmd91pk8ui
 </item>
 
 <item>
-<title>[B] [/B][COLOR lightslategray] •••---•[/COLOR]</title>
+<title>[B]Dawn of the Planet of The Apes (720p English with Chinese Subtitles)[/B][COLOR lightslategray] •••[/COLOR]</title>
 <link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>http://www.nowvideo.sx/video/13b4b0fc5ba98</sublink>
+<sublink>http://www.divxstage.to/video/c0cc1f828fe13</sublink>
+
+<sublink>http://filenuke.com/f/OnbowvO</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+# 1241725
+type=video
+name=1x2 Out of Control
+thumb=http://img.youtube.com/vi/R53ltcrLkV0/default.jpg
+URL=http://www.youtube.com/watch?v=R53ltcrLkV0
+processor=http://www.navixtreme.com/proc/youtube
+player=default
+rating=-1.00
+
+
 <item>
 <title>[B] [/B][COLOR lightslategray] •••---•[/COLOR]</title>
 <link>
+
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
