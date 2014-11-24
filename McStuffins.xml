@@ -14,7 +14,7 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B][COLOR violet]Doc[/COLOR][COLOR ghostwhite] Mc[/COLOR][COLOR skyblue]Stuffins[/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]*****[/COLOR][COLOR violet] Doc[/COLOR][COLOR ghostwhite] Mc[/COLOR][COLOR skyblue]Stuffins[/COLOR][COLOR ghostwhite] *****[/COLOR][/B]</message>
 	<message>[CR]</message>
 	<message></message>
 	<message>[CR]</message>
