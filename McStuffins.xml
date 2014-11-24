@@ -20,10 +20,17 @@
 	<message>[CR]</message>
 </info>
 
+
 #PLAYLIST ITEMS#
 
+<info>
+	<message>[B][COLOR violet]A Little Cuddle Goes A Long Way (2hr)[/COLOR][/B]</message>
+	<message>[CR]</message>
+	<message></message>
+</info>
+
 <item>
-<title>Doc Mcstuffins: A Little Cuddle Goes A Long Way (2hr)</title>
+<title>Doc Mcstuffins: A Little Cuddle Goes A Long Way</title>
 <link>
 <sublink>http://vodlocker.com/40l2ngsh6l1g</sublink>
 <sublink>http://www.videoweed.es/file/bdd07368488c9</sublink>
@@ -41,10 +48,14 @@
 <thumbnail>http://i.imgur.com/zcabMLa.png</thumbnail>
 </item>
 
-
+<info>
+	<message>[B][COLOR violet]Friendship is The Best Medicine (2hr)[/COLOR][/B]</message>
+	<message>[CR]</message>
+	<message></message>
+</info>
 
 <item>
-<title>Doc Mcstuffins: Friendship is The Best Medicine(2hr)</title>
+<title>Doc Mcstuffins: Friendship is The Best Medicine)</title>
 <link>
 <sublink>http://www.divxstage.to/video/940ef8fc6ddb5</sublink>
 <sublink>http://www.movshare.net/video/2d4cd4f1ca50e</sublink>
@@ -54,9 +65,15 @@
 <thumbnail>http://i.imgur.com/ns8cT1y.png</thumbnail>
 </item>
 
+<info>
+	<message>[B][COLOR violet] Untitled (2hr)[/COLOR][/B]</message>
+	<message>[CR]</message>
+	<message></message>
+</info>
+
 
 <item>
-<title>Doc McStuffins: Untitled? (2hr)</title>
+<title>Doc McStuffins: Untitled</title>
 <link>
 <sublink>http://www.nowvideo.sx/video/4mj5vyglrb6t7</sublink>
 <sublink>http://www.nowvideo.sx/video/a042oa4urq4mr</sublink>
@@ -66,6 +83,12 @@
 </link>
 <thumbnail>http://i.imgur.com/BJuWejC.png</thumbnail>
 </item>
+
+<info>
+	<message>[B][COLOR violet][/COLOR][/B]</message>
+	<message>[CR]</message>
+	<message></message>
+</info>
 
 <item>
 <title>Doc McStuffins: Other Episodes</title>
