@@ -8,13 +8,13 @@
 
 #PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
 
-<poster>Doc McStuffins</poster>
+<poster>DocMcStuffins</poster>
 <fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 <info>
-	<message>[B]PLAY[COLOR skyblue]MAKERS[/COLOR][/B] (2003)</message>
+	<message>[B]Doc[COLOR skyblue] McStuffins[/COLOR][/B]</message>
 	<message>[CR]</message>
 	<message></message>
 	<message>[CR]</message>
@@ -49,14 +49,7 @@
 <sublink>http://www.divxstage.to/video/940ef8fc6ddb5</sublink>
 <sublink>http://www.movshare.net/video/2d4cd4f1ca50e</sublink>
 <sublink>http://www.nowvideo.sx/video/2803692b6bd8d</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
+
 </link>
 <thumbnail>http://i.imgur.com/ns8cT1y.png</thumbnail>
 </item>
