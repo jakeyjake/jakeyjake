@@ -7,8 +7,8 @@
 <poster>Kevin Turvey</poster>
 <fanart>http://i.imgur.com/NewCzdV.png</fanart>
 
-
-
+http://www.giddyupnetwork.info
+http://www.stream4free.eu/
 
 
 <info>
@@ -18,19 +18,28 @@
 	<message>[CR]</message>  
 </info>
 
+<info>
+	<message>[COLOR firebrick]Pay a visit to http://www.stream4free.eu and http://www.giddyupnetwork.info for free streams[/B][/COLOR]</message>
+	<message>[COLOR tan]Some items may need a second click to play[/COLOR]</message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
+
+
 <item>
 <title>Movie Channel Live</title>
 <link>
-<sublink>rtmp://62.210.76.216/live2/ playpath=moviehd swfUrl=http://www.stream4free.eu/video-js/video-js.swf pageUrl=http://www.stream4free.eu/movies-hd</sublink>
+<sublink>rtmp://62.210.76.216/live2/ playpath=stopstealingmyshitmotherfuckers swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/movies-hd</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=bb swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=bbkinb swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -39,25 +48,38 @@
 <item>
 <title>Sons of Anarchy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=soaxhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+<item>
+<title>The Poker Channel</title>
+<link>
+<sublink>rtmp://195.154.188.161/live playpath=pokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/poker-stream</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
 
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=bigbang swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=xtbbtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
 <title>The Walking Dead</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=walkingdead swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=xwalkingdead swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -74,37 +96,42 @@
 <thumbnail></thumbnail>
 </item>
 
+
+
 <item>
 <title>Weeds</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=weeds swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/weeds</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=weedshdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/weeds</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=familyguyhd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=famguyhdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 <item>
 <title>The Simpsons</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=simpsonshd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/simpsons-hd</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=simpsx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/simpsons-hd</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
 <title>Game of Thrones</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=got swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/game-of-thrones</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=gamehd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/game-of-thrones</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -113,16 +140,18 @@
 <item>
 <title>House of Cards</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+
+
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=southparkhd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/south-park-hd</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=cartmanhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/south-park-hd</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -131,7 +160,7 @@
 <item>
 <title>Futurama</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=futuramahd swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=futurx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -140,16 +169,17 @@
 <item>
 <title>American Dad</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=american swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/american-dad</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=amerx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/american-dad</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
+
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=kinghill swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=kinghillxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -160,47 +190,128 @@
 <item>
 <title>Aqua Teen Hunger Force</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=aqua swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=aquasx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
 
 <item>
 <title>Bob's Burgers</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=bobs swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=bobsxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
 
 <item>
 <title>The Cleveland Show</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=cleveland swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=clevx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 <item>
 <title>Archer</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=archer swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/archer</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=archxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/archer</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<title>Man Vs Wild</title>
+<link>
+<sublink>rtmp://195.154.188.161/live playpath=manwildushdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Community</title>
+<link>
+<sublink>rtmp://62.210.76.216/live<playpath>community <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/greendale-college</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Lost</title>
+<link>
+<sublink>rtmp://62.210.76.216/live<playpath>lostfree <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/lost</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Cartoon Channel</title>
+<link>
+<sublink>rtmp://62.210.76.216/live<playpath>gust43 <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/live-tv-cartoons</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Adventure Time</title>
+<link>
+<sublink>rtmp://62.210.76.216/live<playpath>adventure <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/adventure-time</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>Man Vs Wild</title>
+<title>Movie Channel Live 2</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=manwildus swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
+<sublink>rtmp://62.210.76.216/live2<playpath>movie2 <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/movies-hd-2</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
 
 
 
