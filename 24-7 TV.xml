@@ -32,7 +32,16 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live2/ playpath=stopstealingmyshitmotherfuckers swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/movies-hd</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/qKdmq5Y.png</thumbnail>
+</item>
+
+<item>
+<title>Movie Channel Live 2</title>
+<link>
+<sublink>rtmp://62.210.76.216/live2<playpath>movie2 <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/movies-hd-2</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/bI1cdJA.png</thumbnail>
 </item>
 
 
@@ -42,7 +51,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=bbkinb swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
 </item>
 
 <item>
@@ -51,7 +60,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=soaxhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/rymHJFI.png</thumbnail>
 </item>
 
 
@@ -61,7 +70,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://195.154.188.161/live playpath=pokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/poker-stream</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/PxL7oyx.png</thumbnail>
 </item>
 
 
@@ -72,7 +81,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=xtbbtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
 </item>
 
 
@@ -82,7 +91,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=xwalkingdead swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
 </item>
 
 
@@ -93,7 +102,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=madmen swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/ax5DIvl.png</thumbnail>
 </item>
 
 
@@ -104,7 +113,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=weedshdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/weeds</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/p59bKqr.png</thumbnail>
 </item>
 
 
@@ -114,7 +123,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=famguyhdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
 </item>
 
 
@@ -124,7 +133,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=simpsx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/simpsons-hd</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/qTJtvwG.png</thumbnail>
 </item>
 
 
@@ -134,7 +143,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=gamehd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/game-of-thrones</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
 </item>
 
 <item>
@@ -143,7 +152,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/7iYM5Rb.png</thumbnail>
 </item>
 
 
@@ -154,7 +163,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=cartmanhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/south-park-hd</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
 <item>
@@ -163,7 +172,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=futurx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/Xxuw0xT.png</thumbnail>
 </item>
 
 <item>
@@ -172,7 +181,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=amerx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/american-dad</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/U3uCfNX.png</thumbnail>
 </item>
 
 
@@ -182,7 +191,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=kinghillxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/6vMdavo.png</thumbnail>
 </item>
 
 
@@ -193,7 +202,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=aquasx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/I8zltJx.png</thumbnail>
 </item>
 
 
@@ -204,7 +213,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=bobsxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/TwkFOoj.png</thumbnail>
 </item>
 
 
@@ -215,7 +224,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=clevx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/Vc9C3gS.png</thumbnail>
 </item>
 
 
@@ -225,7 +234,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live playpath=archxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/archer</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/ZveLj7D.png</thumbnail>
 </item>
 
 
@@ -235,7 +244,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://195.154.188.161/live playpath=manwildushdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/Vs3QBIs.png</thumbnail>
 </item>
 
 
@@ -267,7 +276,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live<playpath>community <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/greendale-college</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KaMGyFR.png</thumbnail>
 </item>
 
 
@@ -277,7 +286,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live<playpath>lostfree <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/lost</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/aHHPHqO.png</thumbnail>
 </item>
 
 
@@ -287,7 +296,7 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live<playpath>gust43 <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/live-tv-cartoons</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/LTmlz8m.png</thumbnail>
 </item>
 
 
@@ -297,17 +306,9 @@ http://www.stream4free.eu/
 <sublink>rtmp://62.210.76.216/live<playpath>adventure <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/adventure-time</sublink>
 <sublink></sublink>
 </link>
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/NDSKIRm.png</thumbnail>
 </item>
 
-<item>
-<title>Movie Channel Live 2</title>
-<link>
-<sublink>rtmp://62.210.76.216/live2<playpath>movie2 <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/movies-hd-2</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
 
 
