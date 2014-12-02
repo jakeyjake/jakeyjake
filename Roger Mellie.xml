@@ -19,6 +19,10 @@
 #DIRECTORIES#
 
 <directories>
+
+    <name>[B][COLOR tan]Thriller (1973-76)[/COLOR][/B]</name>
+	<thumbnail>http://i.imgur.com/E0OY7XR.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Thriller.xml</link>
 	
 	<name>[B][COLOR skyblue]Playmakers[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>

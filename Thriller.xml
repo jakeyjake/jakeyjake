@@ -1,0 +1,37 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>Thriller</poster>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Thriller UK ITV 1973-1976[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+<item>
+<title>Series 1 - Episode 3 - Someone at the Top of the Stairs </title>
+<link>
+<sublink>http://thefile.me/j269h59300zp</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/E0OY7XR.png</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
