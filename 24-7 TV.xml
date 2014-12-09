@@ -406,10 +406,11 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/L2GtmPg.png</thumbnail>
 </item>
 
+
 <item>
 <title>Cops</title>
 <link>
-<sublink>rtmp://198.27.75.99/app playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
+<sublink>rtmp://198.27.75.99/steam playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qpgJRcN.png</thumbnail>
