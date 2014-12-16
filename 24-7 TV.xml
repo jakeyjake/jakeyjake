@@ -72,10 +72,11 @@ rtmp://62.210.76.216/live<playpath> <swfUrl>http://releases.flowplayer.org/5.5.1
 
 
 
+
 <item>
 <title>Mad Men</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=madxmen swfUrl=http://releases.flowplayer.org/5.5.0/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=madxmen swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ax5DIvl.png</thumbnail>
