@@ -25,8 +25,6 @@ http://www.stream4free.eu/
 	<message>[CR]</message>  
 </info>
 
-rtmp://62.210.76.216/live<playpath> <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/breaking-bad
-
 
 
 
@@ -290,7 +288,7 @@ rtmp://62.210.76.216/live<playpath> <swfUrl>http://releases.flowplayer.org/5.5.1
 <thumbnail>http://i.imgur.com/bI1cdJA.png</thumbnail>
 </item>
 
-mmm
+
 
 
 
@@ -309,6 +307,7 @@ mmm
 
 
 
+rtmp://192.99.38.122/stt<playpath>familyguy02 <swfUrl>http://www.tgun.tv/locked/player.swf <pageUrl>http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02
 
 
 
@@ -317,7 +316,7 @@ mmm
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ru6Md4Q.png</thumbnail>
@@ -337,7 +336,7 @@ mmm
 <item>
 <title>American Dad</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=americandad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=americandad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/295oard.png</thumbnail>
@@ -346,7 +345,7 @@ mmm
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Kr4422T.png</thumbnail>
@@ -356,8 +355,8 @@ mmm
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://198.27.75.99/app playpath=tbbt01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
-<sublink>rtmp://192.99.38.122/app playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
+<sublink>rtmp://198.27.75.99/stt playpath=tbbt01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/N4xrkjX.png</thumbnail>
@@ -366,7 +365,7 @@ mmm
 <item>
 <title>The Fresh Prince of Bel-Air</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/F19eTQq.png</thumbnail>
@@ -375,7 +374,7 @@ mmm
 <item>
 <title>The X-Files</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/iMy7w3T.png</thumbnail>
@@ -384,7 +383,7 @@ mmm
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/L2GtmPg.png</thumbnail>
@@ -400,10 +399,11 @@ mmm
 <thumbnail>http://i.imgur.com/qpgJRcN.png</thumbnail>
 </item>
 
+
 <item>
 <title>Frasier</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/dmh4ujt.png</thumbnail>
@@ -412,7 +412,7 @@ mmm
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/tLQR9H8.png</thumbnail>
@@ -430,7 +430,7 @@ mmm
 <item>
 <title>Curb Your Enthusiasm</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=curbs03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/UyZZVSA.png</thumbnail>
@@ -468,15 +468,18 @@ mmm
 <title>Star Trek</title>
 <link>
 <sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQxODY5MzQxMDszMjY5YWZlZDRiZTc0YmY4NmVhNWQ4NDgyMjU3ZGQ0Yg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/f4a738390502</sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQxOTA4NjI0ODszNzgzYTgwMzMxOTcxMWQ1ZDFiOGExNTU2NzllZjBjYg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/2d761c61e4da</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
 
+
+
+
 <item>
 <title>Star Trek • The Next Generation</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=tng02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=tng02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/q4LJ9av.png</thumbnail>
@@ -485,7 +488,7 @@ mmm
 <item>
 <title>Star Trek • Enterprise</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=trekent02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=trekent02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qmcgPds.png</thumbnail>
@@ -494,7 +497,7 @@ mmm
 <item>
 <title>Star Trek • Deep Space Nine</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=ds902 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=ds902 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/5aHCS5S.png</thumbnail>
@@ -503,7 +506,7 @@ mmm
 <item>
 <title>Star Trek • Voyager</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=voy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/krZP3px.png</thumbnail>
@@ -518,10 +521,12 @@ mmm
 <thumbnail>http://i.imgur.com/4YyxOAR.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>Seinfeld</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=seinfeld03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/1XDL21y.png</thumbnail>
@@ -531,7 +536,7 @@ mmm
 <title>The Office (US)</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=theoffice swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-office</sublink>
-<sublink>rtmp://192.99.38.122/app playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=office02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
 </link>
 <thumbnail>http://i.imgur.com/EgU3i5p.png</thumbnail>
 </item>
@@ -549,19 +554,27 @@ mmm
 <item>
 <title>Friends</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=friends02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/W7OrIG1.png</thumbnail>
 </item>
 
 
+<item>
+<title>How I Met Your Mother</title>
+<link>
+<sublink>rtmp://192.99.38.122/stt playpath=himym02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?himym02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/W7OrIG1.png</thumbnail>
+</item>
 
 
 <item>
 <title>It's Always Sunny in Philadelphia</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/jDKVqMe.png</thumbnail>
@@ -571,7 +584,7 @@ mmm
 <item>
 <title>Two and a Half Men</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?men02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=men02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?men02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0sP0JeQ.png</thumbnail>
@@ -580,7 +593,7 @@ mmm
 <item>
 <title>Scrubs</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=scrubs02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?scrubs02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=scrubs02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?scrubs02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Pwc7t8G.png</thumbnail>
@@ -589,7 +602,7 @@ mmm
 <item>
 <title>Everybody Loves Raymond</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qDi3yKO.png</thumbnail>
@@ -598,7 +611,7 @@ mmm
 <item>
 <title>Burn Notice</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=burnnotice03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=burnnotice03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/3yja6Dw.png</thumbnail>
@@ -610,7 +623,7 @@ mmm
 <item>
 <title>The King of Queens</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/lfKKGBD.png</thumbnail>
@@ -620,7 +633,7 @@ mmm
 <item>
 <title>Trailer Park Boys</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=tpb02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=tpb02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0NWricG.png</thumbnail>
@@ -643,7 +656,7 @@ mmm
 <item>
 <title>Rules of Engagement</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=roe02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?roe02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=roe02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?roe02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/CRUREY8.png</thumbnail>
@@ -653,7 +666,7 @@ mmm
 <item>
 <title>M*A*S*H (MASH)</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=mash02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mash02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=mash02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mash02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0GYJbns.png</thumbnail>
@@ -664,7 +677,7 @@ mmm
 <item>
 <title>Married With Children</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=mwc02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=mwc02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/hXEC3xd.png</thumbnail>
@@ -684,7 +697,7 @@ mmm
 <item>
 <title>Bones</title>
 <link>
-<sublink>rtmp://192.99.38.122/app playpath=bones02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bones02</sublink>
+<sublink>rtmp://192.99.38.122/stt playpath=bones02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bones02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/RLRkTBT.png</thumbnail>
