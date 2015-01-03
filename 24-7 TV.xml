@@ -132,7 +132,6 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/7iYM5Rb.png</thumbnail>
 </item>
 
-rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/house-of-cards
 
 
 <item>
@@ -175,6 +174,7 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 
 
 
+
 <item>
 <title>Aqua Teen Hunger Force</title>
 <link>
@@ -211,7 +211,7 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 <item>
 <title>Archer</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=archerxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/archer</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=archerxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/archer</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ZveLj7D.png</thumbnail>
@@ -221,7 +221,7 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 
 <title>Man Vs Wild</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=manwildushdx  swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=manwildushdx  swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/man-vs-wild-en</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Vs3QBIs.png</thumbnail>
@@ -256,11 +256,13 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 <item>
 <title>Cartoon Channel</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=gust43 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/live-tv-cartoons</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=gust43 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/live-tv-cartoons</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/LTmlz8m.png</thumbnail>
 </item>
+
+
 
 
 <item>
@@ -276,7 +278,7 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 <item>
 <title>Movie Channel Live</title>
 <link>
-<sublink>rtmp://62.210.76.216/live2/ playpath=stopstealingmyshitmotherfuckers swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/movies-hd</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qKdmq5Y.png</thumbnail>
@@ -285,10 +287,38 @@ rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.
 <item>
 <title>Movie Channel Live 2</title>
 <link>
-<sublink>rtmp://62.210.76.216/live2 playpath=movie2 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/movies-hd-2</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/bI1cdJA.png</thumbnail>
+</item>
+
+<item>
+<title>Poker Stream</title>
+<link>
+<sublink>rtmp://195.154.188.161/live playpath=xpokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/poker-stream</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Workaholics</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=workaholics swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/workaholics</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>How I Met Your Mother</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=himym swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/himym</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 
@@ -1015,23 +1045,8 @@ rtmp://192.99.38.122/stt<playpath>familyguy02 <swfUrl>http://www.tgun.tv/locked/
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
 
 
 
