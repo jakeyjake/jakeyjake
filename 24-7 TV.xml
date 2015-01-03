@@ -93,10 +93,11 @@ http://www.stream4free.eu/
 </item>
 
 
+
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=famguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=familyguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/family-guy</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
@@ -125,12 +126,13 @@ http://www.stream4free.eu/
 <item>
 <title>House of Cards</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=xhousecard swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/7iYM5Rb.png</thumbnail>
 </item>
 
+rtmp://62.210.76.216/live<playpath>housecard <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/house-of-cards
 
 
 <item>
