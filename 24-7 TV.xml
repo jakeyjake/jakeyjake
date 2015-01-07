@@ -503,7 +503,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <title>Star Trek</title>
 <link>
 <sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMDY0Njk5NDs4ODMyZjIxNWE4ZDFkNjBjOTAyNjdjMjYxOTVhNzIwMA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/0b00d43939e5</sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMDY2NzM4MDs5MWQ4NmVkODQzOGJhYmExNDAwZDE4MDViNjhiM2U0ZQ==  swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/d53f59762707</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
@@ -561,7 +561,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <title>Seinfeld</title>
 <link>
 <sublink>rtmp://192.99.38.122/ch004/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
-<sublink>rtmp://198.27.75.99/ch02/ playpath=seinfeld02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf  pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?seinfeld02
+<sublink>rtmp://198.27.75.99/ch005/ playpath=seinfeld02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf  pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?seinfeld02
 </sublink>
 </link>
 <thumbnail>http://i.imgur.com/1XDL21y.png</thumbnail>
