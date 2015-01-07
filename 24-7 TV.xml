@@ -37,7 +37,7 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
 </item>
 
-rtmp://62.210.76.216/live<playpath>soaxs4f <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/sons-of-anarchy
+
 
 
 <item>
@@ -1024,14 +1024,14 @@ rtmp://62.210.76.216/live<playpath>soaxs4f <swfUrl>http://releases.flowplayer.or
 </item>
 
 <item>
-<title></title>
+<title>SKY Movies Family Test</title>
 <link>
-<sublink>
-</sublink>
+<sublink>rtmp://37.187.149.103/live playpath=SkyFamily?token=F6UHbjLizgkLcRGQ-SxRQg&e=1420665890&u= swfUrl=http://www.liux.tv/assets/player/flowplayer.commercial-3.2.18.swf pageUrl=http://www.liux.tv/en/demo</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 
 
