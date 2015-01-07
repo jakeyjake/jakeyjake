@@ -81,6 +81,14 @@ http://www.stream4free.eu/
 </item>
 
 
+<item>
+<title>Sons of Anarchy</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/LEjvjpt.png</thumbnail>
+</item>
 
 
 <item>
@@ -341,12 +349,13 @@ http://www.stream4free.eu/
 
 
 
+
 #PLAYLIST ITEMS#
 
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
+<sublink>rtmp://192.99.38.122/ch004/ playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ru6Md4Q.png</thumbnail>
@@ -356,17 +365,19 @@ http://www.stream4free.eu/
 <title>The Simpsons</title>
 
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=2502 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=2502 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ow7EkjD.png</thumbnail>
 </item>
 
 
+
+
 <item>
 <title>American Dad</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=americandad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
+<sublink>rtmp://192.99.38.122/ch004/ playpath=americandad02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/295oard.png</thumbnail>
@@ -375,7 +386,7 @@ http://www.stream4free.eu/
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=koth02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Kr4422T.png</thumbnail>
@@ -385,8 +396,8 @@ http://www.stream4free.eu/
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=tbbt01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
-<sublink>rtmp://192.99.38.122/stt playpath=tbbt02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=tbbt01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swfpageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=tbbt02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/N4xrkjX.png</thumbnail>
@@ -395,7 +406,7 @@ http://www.stream4free.eu/
 <item>
 <title>The Fresh Prince of Bel-Air</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=freshprince02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/F19eTQq.png</thumbnail>
@@ -404,7 +415,7 @@ http://www.stream4free.eu/
 <item>
 <title>The X-Files</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=xfiles02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=xfiles02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/iMy7w3T.png</thumbnail>
@@ -413,7 +424,7 @@ http://www.stream4free.eu/
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=bad02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/L2GtmPg.png</thumbnail>
@@ -423,7 +434,7 @@ http://www.stream4free.eu/
 <item>
 <title>Cops</title>
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=cops01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qpgJRcN.png</thumbnail>
@@ -433,7 +444,7 @@ http://www.stream4free.eu/
 <item>
 <title>Frasier</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=frasier02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=frasier02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/dmh4ujt.png</thumbnail>
@@ -442,7 +453,7 @@ http://www.stream4free.eu/
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=southp02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=southp02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/tLQR9H8.png</thumbnail>
@@ -451,7 +462,7 @@ http://www.stream4free.eu/
 <item>
 <title>Futurama</title>
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=2501 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2501</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=2501 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2501</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/AW4YtoD.png</thumbnail>
@@ -471,26 +482,18 @@ http://www.stream4free.eu/
 <item>
 <title>Game of Thrones</title>
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?got02</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=got02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?got02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/BkLiY8x.png</thumbnail>
 </item>
 
-<item>
-<title>Sons of Anarchy</title>
-<link>
-<sublink>rtmp://62.210.76.216/live playpath=soa swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/LEjvjpt.png</thumbnail>
-</item>
 
 
 <item>
 <title>Vikings</title>
 <link>
-<sublink>rtmp://198.27.75.99/steam playpath=vikings02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?vikings02</sublink>
+<sublink>rtmp://198.27.75.99/ch02 playpath=vikings02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?vikings02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/nhcDmny.png</thumbnail>
@@ -500,7 +503,7 @@ http://www.stream4free.eu/
 <title>Star Trek</title>
 <link>
 <sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQxOTA4NjI0ODszNzgzYTgwMzMxOTcxMWQ1ZDFiOGExNTU2NzllZjBjYg== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/2d761c61e4da</sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMDY0Njk5NDs4ODMyZjIxNWE4ZDFkNjBjOTAyNjdjMjYxOTVhNzIwMA== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/0b00d43939e5</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
@@ -511,7 +514,7 @@ http://www.stream4free.eu/
 <item>
 <title>Star Trek • The Next Generation</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=tng02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=tng02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/q4LJ9av.png</thumbnail>
@@ -520,7 +523,7 @@ http://www.stream4free.eu/
 <item>
 <title>Star Trek • Enterprise</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=trekent02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=trekent02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qmcgPds.png</thumbnail>
@@ -596,10 +599,12 @@ rtmp://192.99.38.122/ch004/<playpath>seinfeld03 <swfUrl>http://www.tgun.tv/menus
 </item>
 
 
+
+
 <item>
 <title>How I Met Your Mother</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=himym02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?himym02</sublink>
+<sublink>rtmp://192.99.38.122/ch004/ playpath=himym02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?himym02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/W7OrIG1.png</thumbnail>
@@ -640,16 +645,18 @@ rtmp://192.99.38.122/ch004/<playpath>seinfeld03 <swfUrl>http://www.tgun.tv/menus
 <item>
 <title>Everybody Loves Raymond</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=elr02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qDi3yKO.png</thumbnail>
 </item>
 
+
+
 <item>
 <title>Burn Notice</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=burnnotice03 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
+<sublink>rtmp://192.99.38.122/ch004/ playpath=burnnotice03 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/3yja6Dw.png</thumbnail>
@@ -661,7 +668,7 @@ rtmp://192.99.38.122/ch004/<playpath>seinfeld03 <swfUrl>http://www.tgun.tv/menus
 <item>
 <title>The King of Queens</title>
 <link>
-<sublink>rtmp://192.99.38.122/stt playpath=koq02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
+<sublink>rtmp://192.99.38.122/ch004 playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/lfKKGBD.png</thumbnail>
