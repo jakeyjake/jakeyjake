@@ -971,7 +971,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Oz</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=oz02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=oz02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/8Pme2C0.png</thumbnail>
@@ -981,7 +981,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Growing Pains</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=gpain swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?gpain</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=gpain swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?gpain</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/kB8S1g2.png</thumbnail>
@@ -990,7 +990,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Malcolm in the Middle</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=malcolm swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=malcolm swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/PFxykhf.jpg</thumbnail>
@@ -1000,7 +1000,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Boy Meets World</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?bmw
+<sublink>rtmp://198.27.75.99/ch005 playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?bmw
 </sublink>
 <sublink></sublink>
 </link>
@@ -1010,7 +1010,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Three's Company</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?3scom01
+<sublink>rtmp://198.27.75.99/ch005 playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?3scom01
 </sublink>
 <sublink></sublink>
 </link>
@@ -1020,7 +1020,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Eastbound and Down</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=east swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?east</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=east swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?east</sublink>
 </sublink>
 <sublink></sublink>
 </link>
