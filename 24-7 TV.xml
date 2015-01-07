@@ -37,10 +37,13 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
 </item>
 
+rtmp://62.210.76.216/live<playpath>soaxs4f <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/sons-of-anarchy
+
+
 <item>
 <title>Sons of Anarchy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=soaxs4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/sons-of-anarchy</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=soaxs4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/sons-of-anarchy</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/rymHJFI.png</thumbnail>
