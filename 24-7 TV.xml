@@ -264,7 +264,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Cartoon Channel</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=gust43 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/live-tv-cartoons</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/LTmlz8m.png</thumbnail>
@@ -304,11 +304,14 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Poker Stream</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=xpokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/poker-stream</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
+
+
 
 <item>
 <title>Workaholics</title>
