@@ -396,7 +396,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=tbbt01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swfpageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=tbbt01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
 <sublink>rtmp://192.99.38.122/ch004 playpath=tbbt02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
 <sublink></sublink>
 </link>
