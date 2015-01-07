@@ -1033,13 +1033,19 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <thumbnail>http://i.imgur.com/4p3Ieoc.jpg</thumbnail>
 </item>
 
-
+<info>
+	<message>[COLOR firebrick][B]Tests[/B][/COLOR]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
 
 
 <item>
-<title></title>
+<title>FrightFest-Horror Movies</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://198.255.0.2:443/live?9z9y6yu6iQQvGiCBD32o65nzWrWsaVj9 playpath=live_frightfest0001 swfUrl=http://vaughnlive.tv/4261986735/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/frightfest0001
+</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
