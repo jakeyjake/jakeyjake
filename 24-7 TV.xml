@@ -1027,16 +1027,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <thumbnail>http://i.imgur.com/4p3Ieoc.jpg</thumbnail>
 </item>
 
-<item>
-<title>SKY Movies Family - Test</title>
-<link>
-<sublink>rtmp://37.187.149.103/live playpath=SkyFamily swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf  pageUrl=http://www.liux.tv/jakeyjaketest</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
-swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf 
 
 
 <item>
