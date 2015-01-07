@@ -244,7 +244,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <title>Community</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=community swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/greendale-college</sublink>
-<sublink>rtmp://198.27.75.99/steam playpath=community01 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?community01
+<sublink>rtmp://198.27.75.99/ch005 playpath=community01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?community01
 </sublink>
 </link>
 <thumbnail>http://i.imgur.com/KaMGyFR.png</thumbnail>
