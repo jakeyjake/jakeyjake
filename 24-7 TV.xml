@@ -65,11 +65,11 @@ rtmp://62.210.76.216/live<playpath>soaxs4f <swfUrl>http://releases.flowplayer.or
 <title>The Walking Dead</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=xxwalkingdead swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
-<sublink>rtmp://198.27.75.99/ch005 playpath=twd02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02
-</sublink>
+<sublink>rtmp://198.27.75.99/ch005/ playpath=twd02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02</sublink>
 </link>
 <thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
 </item>
+
 
 
 
