@@ -1026,7 +1026,7 @@ http://www.stream4free.eu/
 <item>
 <title>SKY Movies Family - Test</title>
 <link>
-<sublink>rtmp://37.187.149.103/live playpath=SkyFamily?token=F6UHbjLizgkLcRGQ-SxRQg swfUrl=http://www.liux.tv/assets/player/flowplayer.commercial-3.2.18.swf pageUrl=http://www.liux.tv/en/demo</sublink>
+<sublink>rtmp://37.187.149.103/live playpath=SkyFamily?token=F6UHbjLizgkLcRGQ-SxRQg swfUrl=http://www.liux.tv/assets/player/flowplayer.commercial-3.2.18.swf pageUrl=http://www.liux.tv/jakeyjaketest</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
