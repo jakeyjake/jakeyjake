@@ -609,11 +609,12 @@ rtmp://192.99.38.122/ch004/<playpath>seinfeld03 <swfUrl>http://www.tgun.tv/menus
 <item>
 <title>It's Always Sunny in Philadelphia</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=sunny02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
+<sublink>rtmp://192.99.38.122/ch004/ playpath=sunny02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/jDKVqMe.png</thumbnail>
 </item>
+
 
 
 
