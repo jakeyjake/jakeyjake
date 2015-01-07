@@ -749,7 +749,7 @@ rtmp://195.154.188.161/live<playpath>familyguys4f <swfUrl>http://releases.flowpl
 <item>
 <title>Law and Order: Special Victims Unit</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch02 playpath=lawsuv02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lawsuv02</sublink>
+<sublink>rtmp://198.27.75.99/ch005 playpath=lawsuv02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lawsuv02</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/v3Njpm4.png</thumbnail>
