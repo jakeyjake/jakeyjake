@@ -111,12 +111,13 @@ http://www.stream4free.eu/
 
 
 
+rtmp://62.210.76.216/live<playpath>simpsons <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/simpsons-hd
 
 
 <item>
 <title>The Simpsons</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=thexsimps swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/simpsons-hd</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=simpsons swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/simpsons-hd</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qTJtvwG.png</thumbnail>
@@ -146,7 +147,7 @@ http://www.stream4free.eu/
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4fsouthpark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/south-park-hd</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/south-park-hd</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
@@ -180,6 +181,7 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/6vMdavo.png</thumbnail>
 </item>
 
+rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/king-of-the-hill
 
 
 
