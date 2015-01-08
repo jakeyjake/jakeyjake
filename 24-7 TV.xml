@@ -28,10 +28,11 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=breakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=s4breakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
@@ -40,10 +41,11 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>Sons of Anarchy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=soaxs4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/jakeyjake</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=sonsofanarf4 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/'@j@key|~j@ke</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/rymHJFI.png</thumbnail>
