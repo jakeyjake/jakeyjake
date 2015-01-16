@@ -20,9 +20,11 @@
 
 <directories>
 
-    <name>[B][COLOR tan]Thriller (1973-76)[/COLOR][/B]</name>
-	<thumbnail>http://i.imgur.com/E0OY7XR.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Thriller.xml</link>
+    <name>[B][COLOR tan]Blue Murder (Aus 1995)[/COLOR][/B]</name>
+	<thumbnail>http://i.imgur.com/NJt2zMZ.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/BlueMurder.xml</link>
+
+    
 	
 	<name>[B][COLOR skyblue]Playmakers[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
@@ -52,4 +54,8 @@
 		<name>[B][COLOR skyblue]Doc McStuffins[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/BJuWejC.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/McStuffins.xml</link>
+	
+	<name>[B][COLOR]Thriller (1973-76)[/COLOR][/B]</name>
+	<thumbnail>http://i.imgur.com/E0OY7XR.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Thriller.xml</link>
 </directories>
