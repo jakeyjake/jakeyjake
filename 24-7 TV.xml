@@ -29,6 +29,7 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>Breaking Bad</title>
 <link>
@@ -55,7 +56,7 @@ http://www.stream4free.eu/
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=thebigprodbang swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=tbbangtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
@@ -63,11 +64,12 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>The Walking Dead</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=xxwalkingdead swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
-<sublink>rtmp://198.27.75.99/ch005/ playpath=twd02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?twd02</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
 </item>
@@ -77,10 +79,11 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>Mad Men</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=madxmen swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=xmadxmen swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ax5DIvl.png</thumbnail>
@@ -101,10 +104,11 @@ http://www.stream4free.eu/
 
 
 
+
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/family-guy</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
@@ -113,7 +117,7 @@ http://www.stream4free.eu/
 
 
 
-rtmp://62.210.76.216/live<playpath>simpsons <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/simpsons-hd
+
 
 
 <item>
@@ -129,7 +133,8 @@ rtmp://62.210.76.216/live<playpath>simpsons <swfUrl>http://releases.flowplayer.o
 <item>
 <title>Game of Thrones</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=xgamehd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/game-of-thrones</sublink>
+<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_game_of_thrones1 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/game_of_thrones1
+</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
@@ -155,10 +160,13 @@ rtmp://62.210.76.216/live<playpath>simpsons <swfUrl>http://releases.flowplayer.o
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
+
+
+
 <item>
 <title>Futurama</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4futurama swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=xfuturama swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Xxuw0xT.png</thumbnail>
@@ -174,16 +182,15 @@ rtmp://62.210.76.216/live<playpath>simpsons <swfUrl>http://releases.flowplayer.o
 </item>
 
 
+
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=kinghillxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/king-of-the-hill</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=kinghillhxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/6vMdavo.png</thumbnail>
 </item>
-
-rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.jtvstream.me/king-of-the-hill
 
 
 
@@ -210,11 +217,10 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 
 
 
-
 <item>
 <title>The Cleveland Show</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=clevx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=xxcleveland swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Vc9C3gS.png</thumbnail>
@@ -224,7 +230,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Archer</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=archerxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/archer</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=archerxhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/archer</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ZveLj7D.png</thumbnail>
@@ -235,15 +241,11 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <title>Man Vs Wild</title>
 <link>
 
-<sublink>rtmp://195.154.188.161/live playpath=manwildushdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/man-vs-wild-en</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=manwildushdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
 
 </link>
 <thumbnail>http://i.imgur.com/Vs3QBIs.png</thumbnail>
 </item>
-
-
-
-
 
 
 
@@ -258,10 +260,11 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 </item>
 
 
+
 <item>
 <title>Lost</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=lostfree swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/lost</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=losts4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/lost</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/aHHPHqO.png</thumbnail>
@@ -291,12 +294,24 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 
 
 <item>
-<title>Movie Channel Live</title>
+<title>Workaholics</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://62.210.76.216/live playpath=workaholics swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/workaholics</sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://i.imgur.com/qKdmq5Y.png</thumbnail>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>Trip Tank</title>
+<link>
+<sublink>rtmp://62.210.76.216/live playpath=triptank swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/triptank
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -311,7 +326,8 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Poker Stream</title>
 <link>
-<sublink></sublink>
+<sublink>rtmp://195.154.188.161/live playpath=xpokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/poker-stream
+</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -330,10 +346,11 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 </item>
 
 
+
 <item>
 <title>How I Met Your Mother</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=himym swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/himym</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=s4fhimym swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/himym</sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -1046,11 +1063,94 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 </info>
 
 
+
 <item>
 <title>FrightFest-Horror Movies</title>
 <link>
-<sublink>rtmp://198.255.0.2:443/live?9z9y6yu6iQQvGiCBD32o65nzWrWsaVj9 playpath=live_frightfest0001 swfUrl=http://vaughnlive.tv/4261986735/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/frightfest0001
+<sublink>rtmp://50.7.78.50:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_frightfest0001 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/frightfest0001
 </sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Movie Bay</title>
+<link>
+<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath>live_moviebay swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/moviebay
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+<item>
+<title>BlueRay Movies</title>
+<link>
+<sublink>rtmp://50.7.78.138:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_profe3193 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/profe3193
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Crime Shows</title>
+<link>
+<sublink>rtmp://50.7.78.138:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_rollerbaby1 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/rollerbaby1
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Random Movies</title>
+<link>
+<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_terrylee swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/terrylee
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sci-Fi Series Channel</title>
+<link>
+<sublink>rtmp://50.7.78.50:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_aliensandufos4 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/aliensandufos4
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Anime 24/7</title>
+<link>
+<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_bellpeppersandbeef swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/bellpeppersandbeef
+</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>MasterChef Worldwide</title>
+<link>
+<sublink>rtmp://198.255.0.18:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_changoxpr swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/changoxpr</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title></title>
+<link>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -1065,12 +1165,23 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
-
-
-
-
-
+<item>
+<title></title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 
 
