@@ -1140,6 +1140,14 @@ http://www.stream4free.eu/
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>Law and Order</title>
+<link>
+<sublink>rtmp://198.255.0.10:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_getyourdocsoff swfUrl=http://vaughnlive.tv/4266405789/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/getyourdocsoff</sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>MasterChef Worldwide</title>
@@ -1151,14 +1159,7 @@ http://www.stream4free.eu/
 </item>
 
 
-<item>
-<title>Law and Order</title>
-<link>
-<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_getyourdocsoff http://vaughnlive.tv/4266405789/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/getyourdocsoff</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
 
 <item>
 <title></title>
