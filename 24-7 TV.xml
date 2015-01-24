@@ -1060,9 +1060,10 @@ http://www.stream4free.eu/
 
 <info>
     <message>[CR]</message>
+</info>
+
+<info>
 	<message>[COLOR firebrick][B]Tests[/B][/COLOR]</message>
-	<message></message>
-	<message></message>
 	<message>[CR]</message>  
 </info>
 
