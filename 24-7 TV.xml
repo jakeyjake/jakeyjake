@@ -526,11 +526,14 @@ http://www.stream4free.eu/
 <thumbnail>http://i.imgur.com/nhcDmny.png</thumbnail>
 </item>
 
+
+
+
 <item>
 <title>Star Trek</title>
 <link>
 <sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMDY2NzM4MDs5MWQ4NmVkODQzOGJhYmExNDAwZDE4MDViNjhiM2U0ZQ==  swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/d53f59762707</sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMjA2OTg5MDs0ZjcyZjM3M2IyNzIzMmQ5ZjVlYjIyZmM2OTAyMjBhYg==  swfUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/cc5047afdf7b</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
@@ -1077,12 +1080,13 @@ http://www.stream4free.eu/
 <item>
 <title>Movie Bay</title>
 <link>
-<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath>live_moviebay swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/moviebay
+<sublink>rtmp://198.255.0.10:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath>live_moviebay swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/moviebay
 </sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
 </item>
+
 
 
 
