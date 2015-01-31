@@ -26,18 +26,25 @@ http://www.stream4free.eu/
 </info>
 
 
+url: rtmp://62.210.76.216/live/s4fbreakxbad
+app: live
+flashVer: WIN 16,0,0,296
+pageUrl: http://www.stream4free.eu/breaking-bad
+swfUrl: http://releases.flowplayer.org/5.5.1/flowplayer.swf
+tcUrl: rtmp://62.210.76.216/live
+playPath: s4fbreakxbad
 
 
 rtmp://62.210.76.216/live<playpath>s4fbreakxbad <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/breaking-bad
 
 
-
+http://www.stream4free.eu/d8-live
 
 
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4fbreakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
+<sublink>rtmp://62.210.76.216/live/s4fbreakxbad playpath=s4fbreakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl: http://www.stream4free.eu/breaking-bad</sublink>
 <sublink>http://62.210.76.216:8080/hls/s4fbreakxbad.m3u8</sublink>
 </link>
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
