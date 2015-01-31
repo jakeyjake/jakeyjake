@@ -38,7 +38,7 @@ rtmp://62.210.76.216/live<playpath>s4fbreakxbad <swfUrl>http://releases.flowplay
 <title>Breaking Bad</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=s4fbreakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
-<sublink></sublink>
+<sublink>http://62.210.76.216:8080/hls/s4fbreakxbad.m3u8</sublink>
 </link>
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
 </item>
