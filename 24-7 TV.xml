@@ -35,17 +35,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
-rtmp=rtmp://195.154.188.161/live&amp;live=true&amp;debug=false&amp;splash=false&amp;initialVolume=1&amp;">
-<object class="fp-engine" id="obj6453691900535" name="obj6453691900535"
 
-data="//releases.flowplayer.org/5.5.1/flowplayer.swf" 
-
-type="application/x-shockwave-flash"><param name="width" value="100%"><param name="height" value="100%"><param name="allowscriptaccess" value="always">
-<param name="wmode" value="transparent"><param name="quality" value="high"><param name="flashvars" 
-value="hostname=www.stream4free.eu&amp;url=familguys4f&amp;callback=jQuery.fp198690381220&amp;autoplay=autoplay&amp;
-rtmp=rtmp://195.154.188.161/live&amp;live=true&amp;debug=false&amp;splash=false&amp;initialVolume=1&amp;">
-<param name="movie" value="//releases.flowplayer.org/5.5.1/flowplayer.swf">
-<param name="name" value="obj6453691900535"><param value="true" name="allowFullScreen"><param value="all" name="AllowNetworking"></object>
 
 <item>
 <title>Family Guy</title>
