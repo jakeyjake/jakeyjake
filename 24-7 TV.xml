@@ -2,7 +2,7 @@
 #
 #
 
-#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART 
 
 <poster>Kevin Turvey</poster>
 <fanart>http://i.imgur.com/NewCzdV.png</fanart>
@@ -29,18 +29,19 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=obj3719380372428 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=1</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=1</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
+rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/family-guy
 
 
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/testtestingtest</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy live=true</sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
@@ -186,6 +187,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 </item>
 
 
+rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/king-of-the-hill
 
 <item>
 <title>King of the Hill</title>
