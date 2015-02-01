@@ -12,7 +12,7 @@ http://www.stream4free.eu/
 my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 <info>
-	<message>[COLOR firebrick][B]HD Streams - 24 hours a day[/B][/COLOR]</message>
+	<message>[COLOR firebrick][B]Streams are down mostly - Working on it! .....HD Streams - 24 hours a day[/B][/COLOR]</message>
 	<message>[COLOR tan]Some items may need a second click to play[/COLOR]</message>
 	<message></message>
 	<message>[CR]</message>  
@@ -30,13 +30,13 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://198.255.0.2:443/live?MEaKUrgVumxr5W9SAxPqcSPuLuURczCm<playpath>live_111aaacharksouthpk <swfUrl>http://vaughnlive.tv/4268290788/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/111aaacharksouthpk
-</sublink>
+<sublink>rtmp://198.255.0.2:443/live?MEaKUrgVumxr5W9SAxPqcSPuLuURczCm playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268290788/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/111aaacharksouthpk</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
+
 
 
 
@@ -49,7 +49,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 <sublink>rtmp://192.99.38.122/files playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
 <sublink>rtmp://198.255.0.18:443/live?R8j604YnGPSAGr1xCHCWtJElfnmZXcXr playpath=live_111aaacharkfamily swfUrl=http://vaughnlive.tv/4268290788/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/111aaacharkfamily live=true timeout=25</sublink>
-<sublink></sublink>
+<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
 </item>
@@ -137,7 +137,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <title>The Big Bang Theory</title>
 <link>
 <sublink>rtmp://62.210.76.216/live playpath=tbbangtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
-<sublink></sublink>
+<sublink>rtmp://62.210.76.216/live playpath=tbbangtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf/ pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
 </link>
 <thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
 </item>
