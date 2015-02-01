@@ -26,32 +26,94 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 </info>
 
 
+
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=1</sublink>
-<sublink></sublink>
+<sublink>rtmp://50.7.78.138:443/live?CiSCNED9GSnUkwgjtL8ZciD5cOdO7XTP playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharksouthpk live=true timeout=25</sublink>
+<sublink>rtmp://198.255.0.18:443/live?y1PjCqtNZ8CwBSyTmktXJFFwj9Ko2rLS playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharksouthpk live=true timeout=25</sublink>
+<sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=true timeout=25</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
-rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/family-guy
+
+
+rtmp://50.7.78.138:443/live?uHZnlACAhaPA3qTgtN7bExdLyTHi4NTL<playpath>live_111aaacharkfamily <swfUrl>http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/embed/video/111aaacharkfamily
 
 
 <item>
 <title>Family Guy</title>
 <link>
-<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy live=true</sublink>
-<sublink></sublink>
+
+<sublink>rtmp://192.99.38.122/files playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
+<sublink>rtmp://50.7.78.138:443/live?uHZnlACAhaPA3qTgtN7bExdLyTHi4NTL playpath=live_111aaacharkfamily swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharkfamily live=true timeout=25</sublink>
+<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy live=true timeout=25</sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
 </item>
 
+
+
+
+<item>
+<title>Star Trek</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMjc0NTYwMztkOWIyMDI4OGVjZDk3NDYzOGY3ZWQ3NDA2MWEzYTEzYg==  swfUrl=http://cdn.shidurlive.com/player.swf   pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/17e743091754 timeout=25 live=1</sublink>
+</link>
+<thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
+</item>
+
+
+
+
+
+<item>
+<title>Star Trek • The Next Generation</title>
+<link>
+<sublink>rtmp://192.99.38.122/ch004 playpath=tng02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/q4LJ9av.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Enterprise</title>
+<link>
+<sublink>rtmp://192.99.38.122/ch004 playpath=trekent02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/qmcgPds.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Deep Space Nine</title>
+<link>
+<sublink>rtmp://192.99.38.122/ch004 playpath=ds902 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/5aHCS5S.png</thumbnail>
+</item>
+
+<item>
+<title>Star Trek • Voyager</title>
+<link>
+<sublink>rtmp://192.99.38.122/ch004 playpath=voy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/krZP3px.png</thumbnail>
+</item>
+
+
+
+
 <item>
 <title>Breaking Bad</title>
 <link>
+<sublink>rtmp://192.99.38.122/files playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
 <sublink>rtmp://62.210.76.216/live playpath=s4fbreakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
-<sublink></sublink>
+
 </link>
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
 </item>
@@ -146,7 +208,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <link>
 <sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_game_of_thrones1 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/game_of_thrones1
 </sublink>
-<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
 </link>
 <thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
 </item>
@@ -386,63 +448,8 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 #PLAYLIST ITEMS#
 
 
-<item>
-<title>Star Trek</title>
-<link>
-<sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMjA2OTg5MDs0ZjcyZjM3M2IyNzIzMmQ5ZjVlYjIyZmM2OTAyMjBhYg==  swfUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/cc5047afdf7b</sublink>
-</link>
-<thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
-</item>
 
 
-
-
-<item>
-<title>Star Trek • The Next Generation</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=tng02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/q4LJ9av.png</thumbnail>
-</item>
-
-<item>
-<title>Star Trek • Enterprise</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=trekent02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/qmcgPds.png</thumbnail>
-</item>
-
-<item>
-<title>Star Trek • Deep Space Nine</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=ds902 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/5aHCS5S.png</thumbnail>
-</item>
-
-<item>
-<title>Star Trek • Voyager</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=voy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/krZP3px.png</thumbnail>
-</item>
-
-
-<item>
-<title>Family Guy</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?familyguy02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/ru6Md4Q.png</thumbnail>
-</item>
 
 <item>
 <title>The Simpsons</title>
@@ -504,14 +511,6 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <thumbnail>http://i.imgur.com/iMy7w3T.png</thumbnail>
 </item>
 
-<item>
-<title>Breaking Bad</title>
-<link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=bad02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bad02</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/L2GtmPg.png</thumbnail>
-</item>
 
 
 <item>
