@@ -30,8 +30,8 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://50.7.78.138:443/live?CiSCNED9GSnUkwgjtL8ZciD5cOdO7XTP playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharksouthpk live=true timeout=25</sublink>
-<sublink>rtmp://198.255.0.18:443/live?y1PjCqtNZ8CwBSyTmktXJFFwj9Ko2rLS playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharksouthpk live=true timeout=25</sublink>
+<sublink> live=true timeout=25</sublink>
+<sublink> live=true timeout=25</sublink>
 <sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=true timeout=25</sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
@@ -39,7 +39,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 
 
-rtmp://50.7.78.138:443/live?uHZnlACAhaPA3qTgtN7bExdLyTHi4NTL<playpath>live_111aaacharkfamily <swfUrl>http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/embed/video/111aaacharkfamily
+
 
 
 <item>
