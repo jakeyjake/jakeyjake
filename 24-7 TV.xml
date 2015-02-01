@@ -30,9 +30,9 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <item>
 <title>South Park</title>
 <link>
-<sublink> live=true timeout=25</sublink>
-<sublink> live=true timeout=25</sublink>
-<sublink>rtmp://62.210.76.216/live playpath=spark swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/ live=true timeout=25</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
@@ -48,7 +48,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 <sublink>rtmp://192.99.38.122/files playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
 <sublink>rtmp://50.7.78.138:443/live?uHZnlACAhaPA3qTgtN7bExdLyTHi4NTL playpath=live_111aaacharkfamily swfUrl=http://vaughnlive.tv/4268009496/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/111aaacharkfamily live=true timeout=25</sublink>
-<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy live=true timeout=25</sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
 </item>
