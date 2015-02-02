@@ -16,16 +16,16 @@
 <directories>
 
   
-
+    <name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
+	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
     
 	
 	<name>[COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I]~Gripper Stebson's favourites[/I] </name>
 	<thumbnail>http://i.imgur.com/14IYh3d.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2013-14%20films.xml</link>
 	
-	<name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
-	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
+	
 	
 	<name>[I]The Fred C Dobbs [/I][COLOR cornflowerblue][B]~Film Awards[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
