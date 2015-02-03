@@ -27,42 +27,12 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 
 
-<item>
-<title>South Park</title>
-<link>
-<sublink>rtmp://198.255.0.2:443/live?MEaKUrgVumxr5W9SAxPqcSPuLuURczCm playpath=live_111aaacharksouthpk swfUrl=http://vaughnlive.tv/4268290788/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/111aaacharksouthpk</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
-</item>
-
-
-
-rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/family-guy
-
-
-
-
-<item>
-<title>Family Guy</title>
-<link>
-
-<sublink>rtmp://192.99.38.122/files playpath=familyguy02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
-<sublink>rtmp://198.255.0.18:443/live?R8j604YnGPSAGr1xCHCWtJElfnmZXcXr playpath=live_111aaacharkfamily swfUrl=http://vaughnlive.tv/4268290788/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/111aaacharkfamily live=true timeout=25</sublink>
-<sublink>rtmp://195.154.188.161/live playpath=familguys4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/family-guy</sublink>
-</link>
-<thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
-</item>
-
-
-
 
 <item>
 <title>Star Trek</title>
 <link>
 <sublink></sublink>
-<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMjc0NTYwMztkOWIyMDI4OGVjZDk3NDYzOGY3ZWQ3NDA2MWEzYTEzYg==  swfUrl=http://cdn.shidurlive.com/player.swf   pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/17e743091754 timeout=25 live=1</sublink>
+<sublink>rtmp://173.192.81.172/app playpath=15434?MTQyMjkyODIwNzs3MGNkODgxYzgzYTMxYjk5MTI1ZWJkNjE2YTZhY2QwZQ== swfUrl=http://cdn.shidurlive.com/player.swf pageUrl=http://www.shidurlive.com/stream/4e7a51334d6a59314e6d493d/08ba2a11438c timeout=25 live=1</sublink>
 </link>
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
@@ -70,20 +40,94 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 
 
 
+<item>
+<title>Seinfeld</title>
+<link>
+<sublink>token=balls2u</sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/1XDL21y.png</thumbnail>
+</item>
+
+
+<item>
+<title>Family Guy</title>
+<link>
+
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
+</item>
+
+<item>
+<title>The Simpsons</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/qTJtvwG.png</thumbnail>
+</item>
+
+
+<item>
+<title>South Park</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
+</item>
+
+
+<item>
+<title>The Big Bang Theory</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder/tbbt01 swfUrl=http://www.tgun.tv/embeds2/jwplayer.flash.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?tbbt01 timeout=25</sublink>
+</link>
+<thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>The Walking Dead</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder/twd02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?twd02 live=1 timeout=25</sublink>
+</link>
+<thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
+</item>
+
+
+<item>
+<title>Game of Thrones</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
+</item>
+
 
 <item>
 <title>Star Trek • The Next Generation</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=tng02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tng02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/q4LJ9av.png</thumbnail>
 </item>
 
+
 <item>
 <title>Star Trek • Enterprise</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=trekent02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?trekent02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qmcgPds.png</thumbnail>
@@ -92,7 +136,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Star Trek • Deep Space Nine</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=ds902 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?ds902</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/5aHCS5S.png</thumbnail>
@@ -101,7 +145,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Star Trek • Voyager</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=voy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?voy02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/krZP3px.png</thumbnail>
@@ -113,8 +157,8 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Breaking Bad</title>
 <link>
-<sublink>rtmp://192.99.38.122/files playpath=bad02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
-<sublink>rtmp://62.210.76.216/live playpath=s4fbreakxbad swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/breaking-bad</sublink>
+<sublink></sublink>
+<sublink></sublink>
 
 </link>
 <thumbnail>http://i.imgur.com/GA2ejhZ.png</thumbnail>
@@ -127,33 +171,14 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Sons of Anarchy</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=sonsofanarf4 swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/'@j@key|~j@ke</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/rymHJFI.png</thumbnail>
 </item>
 
 
-<item>
-<title>The Big Bang Theory</title>
-<link>
-<sublink>rtmp://62.210.76.216/live playpath=tbbangtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
-<sublink>rtmp://62.210.76.216/live playpath=tbbangtheory swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf/ pageUrl=http://www.stream4free.eu/the-big-bang-theory</sublink>
-</link>
-<thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
-</item>
 
-
-
-
-<item>
-<title>The Walking Dead</title>
-<link>
-<sublink>rtmp://62.210.76.216/live playpath=xxwalkingdead swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-walking-dead</sublink>
-<sublink>rtmp://198.27.75.99/folder/twd02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?twd02 timeout=25</sublink>
-</link>
-<thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
-</item>
 
 
 
@@ -164,7 +189,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Mad Men</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=xmadxmen swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/mad-men</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ax5DIvl.png</thumbnail>
@@ -176,7 +201,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Weeds</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=freeweed swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/weeds</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/p59bKqr.png</thumbnail>
@@ -195,33 +220,17 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 
 
 
-<item>
-<title>The Simpsons</title>
-<link>
-<sublink>rtmp://62.210.76.216/live playpath=simpsons swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/simpsons-hd</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://i.imgur.com/qTJtvwG.png</thumbnail>
-</item>
 
 
-<item>
-<title>Game of Thrones</title>
-<link>
-<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_game_of_thrones1 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/game_of_thrones1
-</sublink>
-<sublink>rtmp://198.27.75.99/folder playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
-</link>
-<thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
-</item>
+
 
 <item>
 <title>House of Cards</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=housecard swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/house-of-cards</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
-<thumbnail>http://i.imgur.com/7iYM5Rb.png</thumbnail>
+<thumbnail>http://i.imgur.com/7iYM5Rb.png</thumbnail>bbb
 </item>
 
 
@@ -235,7 +244,7 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>Futurama</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=xfuturama swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/futurama</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Xxuw0xT.png</thumbnail>
@@ -244,19 +253,19 @@ rtmp://195.154.188.161/live<playpath>familguys4f <swfUrl>http://releases.flowpla
 <item>
 <title>American Dad</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=americanxxx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/american-dad</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/U3uCfNX.png</thumbnail>
 </item>
 
 
-rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplayer.org/5.5.1/flowplayer.swf <pageUrl>http://www.stream4free.eu/king-of-the-hill
+
 
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=kinghillhxd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/king-of-the-hill</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/6vMdavo.png</thumbnail>
@@ -268,7 +277,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Aqua Teen Hunger Force</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=aquasx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/aqua-teen-hunger-force</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/I8zltJx.png</thumbnail>
@@ -279,7 +288,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Bob's Burgers</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4fbobsburger swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/bobs-burgers</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/TwkFOoj.png</thumbnail>
@@ -290,7 +299,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Cleveland Show</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=xxcleveland swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-cleveland-show</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Vc9C3gS.png</thumbnail>
@@ -300,7 +309,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Archer</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=archerxhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/archer</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ZveLj7D.png</thumbnail>
@@ -311,7 +320,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <title>Man Vs Wild</title>
 <link>
 
-<sublink>rtmp://195.154.188.161/live playpath=manwildushdx swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/man-vs-wild-en</sublink>
+<sublink></sublink>
 
 </link>
 <thumbnail>http://i.imgur.com/Vs3QBIs.png</thumbnail>
@@ -322,8 +331,8 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Community</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=community swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/greendale-college</sublink>
-<sublink>rtmp://198.27.75.99/ch005 playpath=community01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?community01
+<sublink></sublink>
+<sublink>
 </sublink>
 </link>
 <thumbnail>http://i.imgur.com/KaMGyFR.png</thumbnail>
@@ -334,7 +343,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Lost</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=losts4f swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/lost</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/aHHPHqO.png</thumbnail>
@@ -356,7 +365,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Adventure Time</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=adventure swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/adventure-time</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/NDSKIRm.png</thumbnail>
@@ -366,7 +375,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Workaholics</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=workaholics swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/workaholics</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -377,8 +386,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Trip Tank</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=triptank swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/triptank
-</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -395,8 +403,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 
 <item>
 <title>Poker Stream</title>
-<link>
-<sublink>rtmp://195.154.188.161/live playpath=xpokerhd swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/poker-stream
+<link><sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -409,7 +416,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Workaholics</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=workaholics swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/workaholics</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -420,7 +427,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>How I Met Your Mother</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4fhimym swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/himym</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -434,7 +441,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 
 
 <info>
-	<message>[COLOR tan][B]More TV Shows - 24 hours a day Streams[/B][/COLOR]</message>
+	<message>[COLOR tan][B][/B][/COLOR]</message>
 	<message></message>
 	<message></message>
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
@@ -457,7 +464,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <title>The Simpsons</title>
 
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=2502 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2502</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/ow7EkjD.png</thumbnail>
@@ -469,7 +476,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>American Dad</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=americandad02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?americandad02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/295oard.png</thumbnail>
@@ -478,7 +485,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>King of the Hill</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=koth02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?koth02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Kr4422T.png</thumbnail>
@@ -488,9 +495,9 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Big Bang Theory</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=tbbt01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt01</sublink>
-<sublink>rtmp://192.99.38.122/ch004 playpath=tbbt02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?tbbt02</sublink>
-<sublink>rtmp://198.27.75.99/folder/tbbt01 swfUrl=http://www.tgun.tv/embeds2/jwplayer.flash.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?tbbt01 timeout=25</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/N4xrkjX.png</thumbnail>
 </item>
@@ -498,7 +505,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Fresh Prince of Bel-Air</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=freshprince02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?freshprince02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/F19eTQq.png</thumbnail>
@@ -507,7 +514,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The X-Files</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=xfiles02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?xfiles02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/iMy7w3T.png</thumbnail>
@@ -518,7 +525,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Cops</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=cops01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cops01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qpgJRcN.png</thumbnail>
@@ -528,7 +535,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Frasier</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=frasier02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?frasier02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/dmh4ujt.png</thumbnail>
@@ -537,7 +544,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>South Park</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=southp02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?southp02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/tLQR9H8.png</thumbnail>
@@ -546,7 +553,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Futurama</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=2501 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?2501</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/AW4YtoD.png</thumbnail>
@@ -557,7 +564,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Curb Your Enthusiasm</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=curbs03 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?curbs03</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/UyZZVSA.png</thumbnail>
@@ -566,7 +573,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Game of Thrones</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=got02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?got02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/BkLiY8x.png</thumbnail>
@@ -577,7 +584,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Vikings</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=vikings02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?vikings02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/nhcDmny.png</thumbnail>
@@ -590,7 +597,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Cheers</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=cheers01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cheers01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/4YyxOAR.png</thumbnail>
@@ -600,9 +607,8 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Seinfeld</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=seinfeld03 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?seinfeld03</sublink>
-<sublink>rtmp://198.27.75.99/ch005/ playpath=seinfeld02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf  pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?seinfeld02
-</sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/1XDL21y.png</thumbnail>
 </item>
@@ -610,8 +616,8 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Office (US)</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=theoffice swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/the-office</sublink>
-<sublink>rtmp://192.99.38.122/ch004 playpath=office02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?office02</sublink>
+<sublink></sublink>
+<sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/EgU3i5p.png</thumbnail>
 </item>
@@ -619,7 +625,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>I Love Lucy</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=lucy02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lucy02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/f548mnx.png</thumbnail>
@@ -629,7 +635,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Friends</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=friends02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?friends02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/W7OrIG1.png</thumbnail>
@@ -641,7 +647,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>How I Met Your Mother</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=himym02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?himym02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/W7OrIG1.png</thumbnail>
@@ -651,7 +657,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>It's Always Sunny in Philadelphia</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=sunny02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?sunny02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/jDKVqMe.png</thumbnail>
@@ -664,7 +670,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Two and a Half Men</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=men02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?men02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0sP0JeQ.png</thumbnail>
@@ -673,7 +679,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Scrubs</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=scrubs02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?scrubs02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Pwc7t8G.png</thumbnail>
@@ -682,7 +688,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Everybody Loves Raymond</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=elr02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?elr02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/qDi3yKO.png</thumbnail>
@@ -693,7 +699,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Burn Notice</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004/ playpath=burnnotice03 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?burnnotice03</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/3yja6Dw.png</thumbnail>
@@ -705,7 +711,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The King of Queens</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=koq02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab1.php?koq02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/lfKKGBD.png</thumbnail>
@@ -715,7 +721,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Trailer Park Boys</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=tpb02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?tpb02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0NWricG.png</thumbnail>
@@ -728,7 +734,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Arrested Development</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=arrested01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?arrested01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/iGsf3XT.png</thumbnail>
@@ -738,7 +744,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Rules of Engagement</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=roe02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?roe02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/CRUREY8.png</thumbnail>
@@ -748,7 +754,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>M*A*S*H (MASH)</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=mash02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mash02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/0GYJbns.png</thumbnail>
@@ -759,7 +765,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Married With Children</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=mwc02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?mwc02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/hXEC3xd.png</thumbnail>
@@ -769,7 +775,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Will and Grace</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=wag swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?wag</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/sUTn0cz.png</thumbnail>
@@ -779,7 +785,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Bones</title>
 <link>
-<sublink>rtmp://192.99.38.122/ch004 playpath=bones02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex3.php?bones02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/RLRkTBT.png</thumbnail>
@@ -789,7 +795,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Law and Order: Special Victims Unit</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=lawsuv02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?lawsuv02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/v3Njpm4.png</thumbnail>
@@ -799,7 +805,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>That 70s Show</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=that70sshow swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindextab2.php?that70sshow</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/QduEPNY.png</thumbnail>
@@ -809,7 +815,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Home Improvement</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=home01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?home01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/NRJFGKc.png</thumbnail>
@@ -819,7 +825,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Sopranos</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=sopranos swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?sopranos</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Isxwy2d.png</thumbnail>
@@ -829,7 +835,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Roseanne</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=roseanne01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?roseanne01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/IzKucB8.png</thumbnail>
@@ -839,7 +845,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Modern Family</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=mfamily02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?mfamily02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/Jg9MsVm.png</thumbnail>
@@ -848,7 +854,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Weeds</title>
 <link>
-<sublink>rtmp://62.210.76.216/live playpath=s4fweedshdx  swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.jtvstream.me/weeds</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -859,7 +865,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>New Girl</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=ng swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ng</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/vV9vVIg.png</thumbnail>
@@ -869,7 +875,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Middle</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=middle swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?middle</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/yg7BzCx.png</thumbnail>
@@ -879,7 +885,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>2 Broke Girls</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=2bg01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?2bg01</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/N17RAHO.png</thumbnail>
@@ -889,7 +895,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Anger Management</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=anger02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?anger02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/QBWkRLb.png</thumbnail>
@@ -898,7 +904,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Drew Carey Show</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=drewcarey swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?drewcarey</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/7orAAl8.png</thumbnail>
@@ -907,7 +913,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Perfect Strangers</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=ps swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?ps</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/AloAI1F.png</thumbnail>
@@ -916,7 +922,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Night Court</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=nightcourt swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?nightcourt</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/8koTM6v.png</thumbnail>
@@ -925,7 +931,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Becker</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=beck swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?beck</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/noHz9CY.png</thumbnail>
@@ -935,7 +941,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>3rd Rock from the Sun</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=rock swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?rock</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/SBrthuY.png</thumbnail>
@@ -944,7 +950,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Just Shoot Me</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=shootme swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?shootme</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/OK8pxBe.png</thumbnail>
@@ -953,7 +959,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Full House</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=fullhouse swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?fullhouse</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/kOHfim9.png</thumbnail>
@@ -962,7 +968,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>The Cosby Show</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=cosby swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cosby</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/jWxUIJz.png</thumbnail>
@@ -971,7 +977,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>NewsRadio</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=nradio swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?nradio</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/P9izm7p.png</thumbnail>
@@ -983,7 +989,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Northern Exposure</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=northern swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?northern</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/gEzeqxT.png</thumbnail>
@@ -992,7 +998,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>All in the Family</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=aitf swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?aitf</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/W2yVLTI.png</thumbnail>
@@ -1002,7 +1008,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Hangin' with Mr Cooper</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=cooper swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?cooper</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/w6hJEOP.png</thumbnail>
@@ -1012,7 +1018,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Oz</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=oz02 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?oz02</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/8Pme2C0.png</thumbnail>
@@ -1022,7 +1028,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Growing Pains</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=gpain swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?gpain</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/kB8S1g2.png</thumbnail>
@@ -1031,7 +1037,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Malcolm in the Middle</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=malcolm swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?malcolm</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail>http://i.imgur.com/PFxykhf.jpg</thumbnail>
@@ -1041,7 +1047,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Boy Meets World</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=bmw swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?bmw
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1051,7 +1057,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Three's Company</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=3scom01 swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?3scom01
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1061,7 +1067,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Eastbound and Down</title>
 <link>
-<sublink>rtmp://198.27.75.99/ch005 playpath=east swfUrl=http://www.tgun.tv/menus/players/jwplayer/jwplayer.flash.swf pageUrl=http://www.tgun.tv/menus/players/dlock/playerindex5.php?east</sublink>
+<sublink></sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1082,8 +1088,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>FrightFest-Horror Movies</title>
 <link>
-<sublink>rtmp://50.7.78.50:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_frightfest0001 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/frightfest0001
-</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -1092,7 +1097,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Movie Bay</title>
 <link>
-<sublink>rtmp://198.255.0.10:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath>live_moviebay swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/moviebay
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1105,7 +1110,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>BlueRay Movies</title>
 <link>
-<sublink>rtmp://50.7.78.138:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_profe3193 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/profe3193
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1115,8 +1120,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Crime Shows</title>
 <link>
-<sublink>rtmp://50.7.78.138:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_rollerbaby1 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/rollerbaby1
-</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -1125,7 +1129,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Random Movies</title>
 <link>
-<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_terrylee swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/terrylee
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1135,7 +1139,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Sci-Fi Series Channel</title>
 <link>
-<sublink>rtmp://50.7.78.50:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_aliensandufos4 swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/aliensandufos4
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1145,7 +1149,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Anime 24/7</title>
 <link>
-<sublink>rtmp://198.255.0.2:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_bellpeppersandbeef swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/bellpeppersandbeef
+<sublink>
 </sublink>
 <sublink></sublink>
 </link>
@@ -1155,7 +1159,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>Law and Order</title>
 <link>
-<sublink>rtmp://198.255.0.10:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_getyourdocsoff swfUrl=http://vaughnlive.tv/4266405789/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/getyourdocsoff</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
@@ -1164,7 +1168,7 @@ rtmp://62.210.76.216/live<playpath>kinghillhxd <swfUrl>http://releases.flowplaye
 <item>
 <title>MasterChef Worldwide</title>
 <link>
-<sublink>rtmp://198.255.0.18:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_changoxpr swfUrl=http://vaughnlive.tv/4265929776/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/changoxpr</sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 <thumbnail></thumbnail>
