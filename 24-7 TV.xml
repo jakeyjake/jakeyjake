@@ -27,6 +27,34 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 
 
 
+<item>
+<title>The Big Bang Theory</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder/tbbt01 swfUrl=http://www.tgun.tv/embeds2/jwplayer.flash.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?tbbt01 timeout=25</sublink>
+</link>
+<thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
+</item>
+
+
+<item>
+<title>The Walking Dead</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder/twd02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?twd02 live=1 timeout=25</sublink>
+</link>
+<thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
+</item>
+
+
+<item>
+<title>Game of Thrones</title>
+<link>
+<sublink></sublink>
+<sublink>rtmp://198.27.75.99/folder playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
+</link>
+<thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
+</item>
 
 <item>
 <title>Star Trek</title>
@@ -37,9 +65,6 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <thumbnail>http://i.imgur.com/gjNE6bi.png</thumbnail>
 </item>
 
-
-
-
 <item>
 <title>Seinfeld</title>
 <link>
@@ -48,6 +73,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 </link>
 <thumbnail>http://i.imgur.com/1XDL21y.png</thumbnail>
 </item>
+
 
 
 <item>
@@ -60,6 +86,7 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 </link>
 <thumbnail>http://i.imgur.com/4yu2DHu.png</thumbnail>
 </item>
+
 
 <item>
 <title>The Simpsons</title>
@@ -81,37 +108,6 @@ my shorturl for 24/7 list: http://bit.ly/1CYyY09
 <thumbnail>http://i.imgur.com/cAMiDhA.png</thumbnail>
 </item>
 
-
-<item>
-<title>The Big Bang Theory</title>
-<link>
-<sublink></sublink>
-<sublink>rtmp://198.27.75.99/folder/tbbt01 swfUrl=http://www.tgun.tv/embeds2/jwplayer.flash.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?tbbt01 timeout=25</sublink>
-</link>
-<thumbnail>http://i.imgur.com/vKsnOq7.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>The Walking Dead</title>
-<link>
-<sublink></sublink>
-<sublink>rtmp://198.27.75.99/folder/twd02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/embeds2/index.html?twd02 live=1 timeout=25</sublink>
-</link>
-<thumbnail>http://i.imgur.com/9ANT3YK.png</thumbnail>
-</item>
-
-
-<item>
-<title>Game of Thrones</title>
-<link>
-<sublink></sublink>
-<sublink>rtmp://198.27.75.99/folder playpath=got02 swfUrl=http://www.tgun.tv/locked/player.swf live=1 pageUrl=http://www.tgun.tv/</sublink>
-</link>
-<thumbnail>http://i.imgur.com/VLmsVQx.png</thumbnail>
-</item>
 
 
 <item>
