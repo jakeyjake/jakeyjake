@@ -59,3 +59,22 @@
 	<thumbnail>http://i.imgur.com/E0OY7XR.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Thriller.xml</link>
 </directories>
+
+
+     
+<info>
+    <message>[B][COLOR skyblue]Stream from http://www.tcnhd.com/gbntv [/COLOR][/B]</message>
+    <message></message>
+    <message>[CR]</message>
+</info>
+
+
+<item>
+<title>[B][COLOR skyblue]GBNTV[/COLOR][/B]</title>
+<link>rtmp://38.96.175.122:1951/live playpath=livestream swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.tcnhd.com/gbntv/ live=true timeout=20</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+Notes: A simple way to grab the required information for some streams is to use a program like http://www.urlhelper.com/download.htm or http://www.hensence.com/en/coojah/download.htm
