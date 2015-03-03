@@ -1,0 +1,38 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART 
+
+<poster>Big Match</poster>
+<fanart>http://i.dailymail.co.uk/i/pix/2013/08/19/article-0-1B5F6D8F000005DC-236_964x640.jpg</fanart>
+
+
+
+<info>
+	<message>[B][/B]</message>
+	<message>[COLOR peru][B]Guitar Lessons, Pop Quiz and more[/COLOR].....a work in progress[/B]</message>
+	<message>[B][/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#DIRECTORIES#
+
+<directories>
+
+
+
+<name>[COLOR bisque][B]The Big Match Revisted[/B][/COLOR] ~ Brian's Picks</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrifbXTUJyIbfSvCa-xrFj_NL</link>
+<thumbnail>http://i.imgur.com/1I3uTdP.png</thumbnail>
+
+
+
+
+
+</directories>
+
+#
+#
+#END
