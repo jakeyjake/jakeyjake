@@ -18,7 +18,24 @@
 
 #DIRECTORIES#
 
+<info>
+    <message>[COLOR Tan]• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •[/COLOR] </message>
+</info>
+
 <directories>
+
+	<name>[B][COLOR tan]Movie Requests[/B][/COLOR]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Movie%20Requests.xml</link>
+<info>
+    <message>[COLOR Tan]• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •[/COLOR] </message>
+</info>	
+	<info>
+	<message>[B]TV Shows[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+</info>
 
     <name>[B][COLOR tan]Blue Murder (Aus 1995)[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/NJt2zMZ.png</thumbnail>
@@ -47,9 +64,7 @@
 	<thumbnail>http://resources3.news.com.au/images/2010/04/15/1225854/292315-strop.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Paul%20Hogan.xml</link>
 	
-	<name>[B][COLOR tan]Movie Requests[/B][/COLOR]</name>
-	<thumbnail></thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Movie%20Requests.xml</link>
+
 
 		<name>[B][COLOR skyblue]Doc McStuffins[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/BJuWejC.png</thumbnail>
@@ -89,27 +104,9 @@ http://stagevu.com/video/zazlzgalfhqz
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR skyblue]The Land Before Time[/COLOR][/B]</title>
-<link>
-<sublink>http://stagevu.com/video/zazlzgalfhqz</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
 
-<item>
-<title>[B][COLOR skyblue]x-files[/COLOR][/B]</title>
-<link>
-<sublink>http://video.tt/watch_video.php?v=Ghs8SBv8U</sublink>
-<sublink>http://thefile.me/tukdtluu3t8r</sublink>
-<sublink>http://thefile.me/5ean4lcldbqu</sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
+
+
 
 Notes: A simple way to grab the required information to view some streams via your media player rather than via your browser is to use a program like http://www.urlhelper.com/download.htm or http://www.hensence.com/en/coojah/download.htm
 You will find more information on using istream addon and playlists at xunitytalk.com and at https://www.youtube.com/user/vdubt25
