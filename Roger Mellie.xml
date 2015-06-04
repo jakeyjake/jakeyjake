@@ -41,13 +41,15 @@
 	<thumbnail>http://i.imgur.com/NJt2zMZ.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/BlueMurder.xml</link>
 
-    
+    <name>[B][COLOR skyblue]The Mrs Bradley Mysteries[/COLOR][/B]</name>
+	<thumbnail>http://i.imgur.com/zPoY91d.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/TheMrsBradleyMysteries.xml</link>
 	
 	<name>[B][COLOR skyblue]Playmakers[/COLOR][/B]</name>
 	<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Playmakers.xml</link>
 	
-	<name>[B]Green Acres[/B]</name>
+	<name>[B][COLOR ghostwhite]Green Acres[COLOR][/B]</name>
 	<thumbnail>http://3.bp.blogspot.com/-16Y1ZSUHnO8/TeVIp0McjuI/AAAAAAAAArc/isbH53NEmK4/s1600/green%2Bacres.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Green%20Acres.xml</link>
 	
@@ -60,7 +62,7 @@
 	<thumbnail>http://i.imgur.com/OhCiURE.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/hawaii%205-0.xml</link>
 	
-	<name>[B]Paul Hogan Collections - Links kindly provided by Phoenix1982[/B]</name>
+	<name>[B][COLOR ghostwhite]Paul Hogan Collections - Links kindly provided by Phoenix1982[COLOR][/B]</name>
 	<thumbnail>http://resources3.news.com.au/images/2010/04/15/1225854/292315-strop.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Paul%20Hogan.xml</link>
 	
