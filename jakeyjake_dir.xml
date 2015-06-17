@@ -9,18 +9,18 @@
 
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
-info>
-	<message>[B][COLOR firebrick]A personal playlist of videos. All the content herein is freely avialable on the internet. None of the media content is uploaded nor stored
-by myself. The playlists below temporarily list video links found via a google search.[/COLOR][/B]</message>
-    <message> All the content herein is freely avialable on the internet.</message>
-    <message>The playlists below, temporarily list video links found via a google search.</message>
-    <message>The media contents linked here are neither uploaded nor stored by myself.</message>
+<info>
+	<message>[B][COLOR firebrick]A personal playlist of videos. [/COLOR][/B]</message>
+    <message>[B][COLOR firebrick] All the content herein is freely avialable on the internet.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The playlists below, temporarily list video links found via a google search.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The media contents linked here are neither uploaded nor stored by myself.[/COLOR][/B]</message>
     <message>[CR]</message>
 	<message>[COLOR][I]A work in progress...[/COLOR][/I]</message>
 	<message>inc 1080P and 720P links</message>
 	<message>[B][COLOR tan]Recently added:Recently added: Jurassic World, Avengers: Age of Ultron, Mad Max: Fury Road (360p), Ex Machina, It Follows, Big Eyes, 
 	Paddington, The Retrieval, Inherent Vice, Top Five,[COLOR firebrick] Kingsman: The Secret Service[/COLOR], Dragonheart 3: The Sorcerer’s Curse, A Most Violent Year, Wild, Beyond the Lights, The Overnighters, Selma, American Sniper, Birdman, Big Hero 6, Penguins of Madagascar..[/COLOR][/B]</message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+	<message>[CR]</message>
+</info>	#SEPERATOR - DELETE IF YOU WISH...
 	
 
 #DIRECTORIES#
