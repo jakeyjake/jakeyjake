@@ -10,8 +10,12 @@
 #INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
 
 info>
-	<message>[B][COLOR firebrick]A personal playlist of videos. All the content herein is freely avialable on the internet . None of the media content is uploaded nor stored
+	<message>[B][COLOR firebrick]A personal playlist of videos. All the content herein is freely avialable on the internet. None of the media content is uploaded nor stored
 by myself. The playlists below temporarily list video links found via a google search.[/COLOR][/B]</message>
+    <message> All the content herein is freely avialable on the internet.</message>
+    <message>The playlists below, temporarily list video links found via a google search.</message>
+    <message>The media contents linked here are neither uploaded nor stored by myself.</message>
+    <message>[CR]</message>
 	<message>[COLOR][I]A work in progress...[/COLOR][/I]</message>
 	<message>inc 1080P and 720P links</message>
 	<message>[B][COLOR tan]Recently added:Recently added: Jurassic World, Avengers: Age of Ultron, Mad Max: Fury Road (360p), Ex Machina, It Follows, Big Eyes, 
