@@ -1,0 +1,364 @@
+#EXTM3U Sports
+#EXTINF:0,#EXTINF:0,At The Races
+http://84.232.5.115/liveedge3/attheraces.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,BT Sport ESPN
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,BT Sport ESPN
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:0,Spike
+http://84.232.5.115/liveedge/spike.stream/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTM3U AMERICAN Sports
+#EXTINF:-1,FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,PAC Mountain 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,#EXTINF:-1,PAC Network National 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Arizona) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Arizona) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Bay Area) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Bay Area) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Los Angeles) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Oregon) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Oregon) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Washington) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:0,#EXTINF:-1,PAC-12 Net. (Washington) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,#EXTINF:-1,NASA [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ISS Live 1 [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:0,#EXTINF:-1,ISS Live 2 [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Fox Sports
+rtmp://kv2.ts33.net/sat/us011
+#EXTINF:-1, Fox Sports
+rtmp://kv2.ts33.net/sat/us012
+#EXTINF:-1, ESPN 2
+rtmp://kv2.ts33.net/sat/us021
+#EXTINF:-1, ESPN 2
+rtmp://kv2.ts33.net/sat/us022
+#EXTINF:-1, CSN Sports
+rtmp://kv2.ts33.net/sat/us061
+#EXTINF:-1, CSN Sports
+rtmp://kv2.ts33.net/sat/us062
+#EXTINF:-1, Warner
+rtmp://kv2.ts33.net/sat/us071
+#EXTINF:-1, Warner
+rtmp://kv2.ts33.net/sat/us072
+#EXTINF:-1, ESPN
+rtmp://kv2.ts33.net/sat/us101
+#EXTINF:-1, ESPN
+rtmp://kv2.ts33.net/sat/us102
+#EXTINF:-1, beIN Sports
+rtmp://kv2.ts33.net/sat/us141
+#EXTINF:-1, beIN Sports
+rtmp://kv2.ts33.net/sat/us142
+#EXTINF:-1, ESPN 2
+rtmp://kv2.ts33.net/sat/us151
+#EXTINF:-1, ESPN 2
+rtmp://kv2.ts33.net/sat/us152
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us161
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us162
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us171
+#EXTINF:-1, Fox Sports 3 HD China
+rtmp://kv2.ts33.net/sat/us172
+#EXTINF:-1, ? China
+rtmp://kv2.ts33.net/sat/us181
+#EXTINF:-1, ? China
+rtmp://kv2.ts33.net/sat/us182
+#EXTINF:-1, ? (Sport)
+rtmp://kv2.ts33.net/sat/us191
+#EXTINF:-1, ? (Sport)
+rtmp://kv2.ts33.net/sat/us192
+#EXTINF:-1, ?
+rtmp://kv2.ts33.net/sat/us261
+#EXTINF:-1, ?
+rtmp://kv2.ts33.net/sat/us262
+#EXTINF:-1, Eurosport
+rtmp://kv2.ts33.net/sat/us291
+#EXTINF:-1, Eurosport
+rtmp://kv2.ts33.net/sat/us292
+#EXTINF:-1, Aksyon TV
+rtmp://kv2.ts33.net/sat/us301
+#EXTINF:-1, ? (Sport)
+rtmp://kv2.ts33.net/sat/us341
+#EXTINF:-1, ? (Sport)
+rtmp://kv2.ts33.net/sat/us342
+#EXTINF:-1,PREMIERE SPORT (IT)
+http://212.51.146.19:4009
+#EXTINF:-1,SUPERCALIO (IT)
+http://212.51.148.162:2001/hdmi
+#EXTINF:-1,SKY SPORTS HD (IT)
+http://212.51.148.162:2003/hdmi
+#EXTINF:0,#EXTINF:0,nlf
+http://64.100.15.201/udp/239.255.2.5:10001
+#EXTINF:0,#EXTINF:0,ngtv
+http://64.100.15.201/udp/239.255.2.6:10001
+#EXTINF:0,#EXTINF:0,sport
+http://64.100.15.201/udp/239.255.2.7:10001
+#EXTINF:0,#EXTINF:-1,beIN 4HD
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:0,#EXTINF:-1,beIN 7HD
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:0,#EXTINF:-1,beIN 8HD
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:0,#EXTINF:-1,beIN 9HD
+http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:0,#EXTINF:-1,beIN 10HD
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:0,#EXTINF:-1,beIN 11HD
+http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:0,#EXTINF:-1,beIN 3 HD
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:0,#EXTINF:-1,beIN 1 HD
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:0,#EXTINF:-1,Eurosport
+http://178.33.88.129:888/udp/239.102.0.26:1234
+#EXTINF:0,#EXTINF:-1,Eurosport 2
+http://178.33.88.129:888/udp/239.102.0.27:1234
+#EXTINF:-1,beIN 1HD
+http://178.33.88.129:888/udp/239.102.0.4:1234
+#EXTINF:-1,beIN 2HD
+http://178.33.88.129:888/udp/239.102.0.2:1234
+#EXTINF:-1,beIN Sports
+http://178.33.88.129:888/udp/239.102.0.3:1234
+#EXTINF:-1,beIN 4HD
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1,beIN 7HD
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1,beIN 8HD
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1,beIN 9HD
+http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1,beIN 10HD
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1,beIN 11HD
+http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:-1,beIN 3 HD
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:-1,beIN Sports
+http://178.33.88.129:888/udp/239.102.0.19:1234
+#EXTINF:-1,beIN 1 HD
+http://178.33.88.129:888/udp/239.102.0.20:1234
+Bein Sport 1 HD
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:0, CTH Stadium 1 HD
+http://37.187.174.212:80/xepl-stadium1/index.m3u8
+#EXTINF:0, CTH Stadium 2 HD
+http://37.187.174.212:80/xepl-stadium2/index.m3u8
+#EXTINF:0, CTH Stadium 3 HD
+http://37.187.174.212:80/xepl-stadium3/index.m3u8
+#EXTINF:0, CTH Stadium 4 HD
+http://37.187.174.212:80/xepl-stadium4/index.m3u8
+#EXTINF:0, CTH Stadium 5 HD
+http://37.187.174.212:80/xepl-stadium5/index.m3u8
+#EXTINF:0, CTH Stadium 6 HD
+http://37.187.174.212:80/xepl-stadium6/index.m3u8
+#EXTINF: -1, Setanta Sports
+http://80.77.52.6:3719/udp/230.0.4.1:12345
+#EXTINF: -1,Silk Sport HD1
+http://80.77.52.6:3719/udp/230.0.6.4:12345
+#EXTINF: -1,Silk Sport HD2
+http://80.77.52.6:3719/udp/230.0.6.2:12345
+#EXTINF: -1,Silk Sport HD3
+http://80.77.52.6:3719/udp/230.0.6.3:12345
+#EXTINF:-1, VH1 UK 
+http://37.187.160.187:8000/live/ressler/skype/110.m3u8
+Bein Sport 1 HD
+http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1,beIN 1HD
+http://178.33.88.129:888/udp/239.102.0.4:1234
+#EXTINF:-1,beIN 2HD
+http://178.33.88.129:888/udp/239.102.0.2:1234
+#EXTINF:-1,beIN Sports
+http://178.33.88.129:888/udp/239.102.0.3:1234
+#EXTINF:-1,beIN 4HD
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:-1,beIN 7HD
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:-1,beIN 8HD
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:-1,beIN 9HD
+http://178.33.88.129:888/udp/239.102.0.10:1234
+#EXTINF:-1,beIN 10HD
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:-1,beIN 11HD
+http://178.33.88.129:888/udp/239.102.0.12:1234
+#EXTINF:-1,beIN 3 HD
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:-1,beIN Sports
+http://178.33.88.129:888/udp/239.102.0.19:1234
+#EXTINF:-1,beIN 1 HD
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:0,1HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
+#EXTINF:0,2HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
+#EXTINF:0,3HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
+#EXTINF:0,4HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
+#EXTINF:0,5HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
+#EXTINF:0,6HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
+#EXTINF:0,7HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
+#EXTINF:0,8HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
+#EXTINF:0,9HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
+#EXTINF:0,10HD
+http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
+#EXTINF:-1 group-title=” 15.00 cycling ENECO TOUR 4th stage “,[COLOR green]15.00 cycling ENECO TOUR 4th stage[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 15.00 cycling ENECO TOUR 4th stage “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 15.00 cycling ENECO TOUR 4th stage “,eurosport de_opz 2
+http://81.92.105.134:5555/pl.m3u8?channel=24
+#EXTINF:-1 group-title=” 17.00 cycling ARTIC RACE of NORWAY 1st stage “,[COLOR green]17.00 cycling ARTIC RACE of NORWAY 1st stage[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 17.00 cycling ARTIC RACE of NORWAY 1st stage “,eurosport de
+http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 17.00 cycling ARTIC RACE of NORWAY 1st stage “,eurosport de_opz 2
+http://81.92.105.134:5555/pl.m3u8?channel=24
+#EXTINF:-1 group-title=” 20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD “,[COLOR green]20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=” 20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD “,gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=” 20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD “,gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=” 20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 20.45 eng.Lea.cup DONCASTER ROVERS – LEEDS UTD “,arena sport 4 sr
+http://balkanstream.com/stream/arenasport4sr/putidoma22/udhfbu
+#EXTINF:-1 group-title=” 1.00 mls NEW YORK CITY – DC UNITED “,[COLOR green]1.00 mls NEW YORK CITY – DC UNITED[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=” 1.00 mls NEW YORK CITY – DC UNITED “,sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=” 2.00 bra ATL.MINEIRO – GREMIO “,[COLOR green]2.00 bra ATL.MINEIRO – GREMIO[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=” 2.00 bra ATL.MINEIRO – GREMIO “,sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=” 2.00 bra ATL.MINEIRO – GREMIO “,arena sport 3 sr
+http://balkanstream.com/stream/arenasport3sr/putidoma22/udhfbu
+BT Sport Europe
+http://62.210.248.96:11000/check/www.freeiptvlinks.com/1333.ch
+#EXTINF:-1, FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1, Sportal TV HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+#EXTINF:1, Super Sport News
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:1, SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+#EXTINF:1, SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+#EXTINF:1, SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+#EXTINF:-1, Fight Sport
+http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
+#EXTINF:-1, Iraqiya Sport (low)
+http://212.7.205.5:1935/sport/live/playlist.m3u8
+#EXTINF:-1, SPORT 1 Germany
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, RSI la 2 Italia
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1, Motor Sport
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3#EXTINF:1, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1, FSC
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:-1, Sportal TV HD
+http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
+
+#EXTINF:1, Super Sport News
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+ 
+#EXTINF:1, SUPER SPORT HD1
+http://bit.ly/1h7ph8k
+ 
+#EXTINF:1, SUPER SPORT HD2
+http://bit.ly/1OQlpUp
+ 
+#EXTINF:1, SUPER SPORT HD3
+http://bit.ly/1I3WTgh
+
+#EXTINF:-1, Fight Sport
+http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
+
+#EXTINF:-1, Iraqiya Sport (low)
+http://212.7.205.5:1935/sport/live/playlist.m3u8
+
+#EXTINF:-1, SPORT 1 Germany
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, RSI la 2 Italia
+http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1, Motor Sport
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1,Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+ 
+#EXTINF:1, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
