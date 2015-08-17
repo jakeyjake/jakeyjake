@@ -1,0 +1,127 @@
+#START#
+#
+#
+
+
+<poster>Dem Som Draeber</poster>
+<fanart>http://i.imgur.com/jTROfnn.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Those Who Kill (2011– )[/B] <I>"Den som dræber" (original title)</I></message>
+	<message>Danish crime TV series which follows a fictitious unit within Copenhagen Police</message>
+	<message>which specialises in investigating serial murders.</message>
+	<message></messsage>
+	<message>[CR]</message>  
+</info>
+
+
+
+#PLAYLIST ITEMS#
+
+<info>
+	<message>[B][COLOR firebrick]Season 1[/COLOR][/B]</message>
+	<message></message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
+
+<item>
+<title>Corpse in the Woods</title>
+<link>
+<sublink>http://vidzi.tv/ww1gl5zcxdno.html</sublink>
+<sublink>http://www.divxstage.to/video/e252000bb5deb</sublink>
+<sublink>http://www.nowvideo.sx/video/98754e4ca5bc8</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Utopia</title>
+<link>
+<sublink>http://vodlocker.com/lmansyc3zi3i</sublink>
+<sublink>http://www.nowvideo.sx/video/248b80a630a28</sublink>
+<sublink>http://www.videoweed.es/file/b8545d52f415e</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>Bad Blood</title>
+<link>
+<sublink>http://vodlocker.com/ul1qnk9x4ut6</sublink>
+<sublink>http://vidzi.tv/vt9fctlk7ww5.html</sublink>
+<sublink>http://vodlocker.com/cysd2tudpn7o</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>An Eye for an Eye</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>A Deadly Game</title>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+<info>
+	<message>[B][COLOR firebrick]Season 2[/COLOR][/B]</message>
+	<message></message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
+
+<info>
+	<message>[B][COLOR firebrick]Specials[/COLOR][/B]</message>
+	<message></message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  
+</info>
+
