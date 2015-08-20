@@ -1,0 +1,863 @@
+#EXTM3U
+
+#EXTINF:0,Sky Movies Action & Adventure
+http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky Movies Comedy
+http://84.232.5.115/liveedge3/movcomedy.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky Movies Crime & Thriller
+http://84.232.5.115/liveedge3/movthriller.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky Movies Family
+http://84.232.5.115/liveedge3/movfamily.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky Movies Greats
+http://84.232.5.115/liveedge3/movgreats.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky Movies Premiere
+http://84.232.5.115/liveedge3/movpremier.stream/playlist.m3u8
+ 
+#EXTINF:0,Sky News
+http://84.232.5.115/liveedge/skynews.stream/playlist.m3u8
+ 
+#EXTINF:0,MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+ 
+#EXTINF:0,CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+ 
+#EXTINF:0,CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+ 
+#EXTINF:0,CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+ 
+#EXTINF:-1, Warner
+rtmp://kv2.ts33.net/sat/us071
+ 
+#EXTINF:0,Universal
+http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
+ 
+#EXTINF:-1,SHOWTIME HD
+http://80.80.160.168/live/7/live.m3u8
+ 
+ 
+#EXTINF:0,USA Network
+http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0, USA
+http://192.99.39.240:1935/flu555/_definst_/usa/chunklist_w1931866206.m3u8?token=
+ 
+#EXTINF:0,5 USA
+http://84.232.5.115/liveedge/5usa.stream/playlist.m3u8
+ 
+#EXTINF:0,FOX 5 HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+ 
+#EXTINF:0,Comedy Central 2
+http://84.232.5.115/liveedge3/comedy.stream/playlist.m3u8
+ 
+#EXTINF:0,Comedy Central
+http://192.99.19.98:1935/flu555/_definst_/comedycentral/playlist.m3u8?token=
+ 
+#EXTINF:0,HBO Comedy
+http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+ 
+#EXTINF:0,HBO EAST
+http://192.99.39.240:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
+ 
+#EXTINF:0,HBO Zone
+http://192.99.39.240:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
+ 
+#EXTINF:0,AMC HD
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+ 
+#EXTINF:0,MTV Music
+http://81.92.105.134:5555/pl.m3u8?channel=516
+ 
+#EXTINF:-1, Vevo HipHop
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+#EXTINF:0,BET
+http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0, BBC World News
+http://81.92.105.134:5555/pl.m3u8?channel=144
+ 
+#EXTINF:0,NBC HD
+http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
+ 
+#EXTINF:0,Food Channel
+http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
+ 
+#EXTINF:0,Cooking Channel
+http://192.99.39.240:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
+
+
+#EXTINF:0,UFC?
+http://31.220.40.105/LiveEdge/UFCNetworkLA/playlist.m3u8
+ 
+ 
+#EXTINF:0,Top News-CNN HD
+http://167.114.157.40:1935/flu555/_definst_/jcnn/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Top Entertainment-AMC HD
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Top Kids-Disney XD
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
+ 
+ 
+ 
+ 
+#EXTINF:0,Top Movies-HBO Comedy
+http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Top Documentary-Nat Geo
+http://167.114.101.188:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Top Lifestyle-HGTV
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,BEST CHANNNEL LINEUP NOW AVAILABLE!
+http://64.100.15.201/udp/239.255.2.8:10001
+ 
+#EXTINF:0,Updated:8/15-BBC World News
+http://81.92.105.134:5555/pl.m3u8?channel=144
+ 
+#EXTINF:0,Updated:8/15-CNN HD
+http://167.114.157.40:1935/flu555/_definst_/jcnn/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-WGN (CW)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
+ 
+ 
+#EXTINF:0,Updated:8/15-CTV 1
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+ 
+ 
+#EXTINF:0,Updated:8/15-CTV 2
+http://198.179.31.198/live/2054.high.stream/2054.high.stream/index.m3u8
+ 
+ 
+#EXTINF:0,Updated:8/15-CTV 3
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+ 
+ 
+#EXTINF:0,Updated:8/15-Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+ 
+ 
+#EXTINF:0,Updated:8/15-Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+
+#EXTINF:0,Updated:8/15-WPIX
+http://167.114.119.209:1935/flu555/_definst_/wpix/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-KTLA
+http://192.99.39.240:1935/flu555/_definst_/ktla/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Entertainment:8/15-ABC HD
+http://167.114.101.188:1935/flu555/_definst_/abc/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-CBS HD
+http://192.99.19.98:1935/flu555/_definst_/cbs/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-NBC HD
+http://192.99.39.240:1935/flu555/_definst_/nbc/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-FOX 5 HD
+http://167.114.157.40:1935/flu555/_definst_/fox/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-E!
+http://167.114.101.188:1935/flu555/_definst_/e/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Cartoon Network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+ 
+ 
+#EXTINF:0,Updated:8/15-Disney XD
+http://167.114.101.188:1935/flu555/_definst_/disneyxd/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Nick JR
+http://192.99.39.240:1935/flu555/_definst_/nick/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-TBS
+http://192.99.19.98:1935/flu555/_definst_/tbs/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Bravo
+http://167.114.119.209:1935/flu555/_definst_/jbravo/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Comedy Central
+http://192.99.19.98:1935/flu555/_definst_/comedycentral/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-BET
+http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-USA Network
+http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-SYFY
+http://192.99.39.240:1935/flu555/_definst_/syfy/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-AMC
+http://167.114.157.40:1935/flu555/_definst_/amc/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-FX
+http://192.99.19.98:1935/flu555/_definst_/fx/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-TNT
+http://167.114.156.30:1935/flu555/_definst_/tnt/playlist.m3u8?token=
+ 
+ 
+ 
+
+#EXTINF:0,SVT1 HD
+http://188.138.9.228:8001
+ 
+#EXTINF:0,SVT2 HD
+http://188.138.9.228:8002
+ 
+#EXTINF:0,TV3 HD
+http://188.138.9.228:8003
+ 
+#EXTINF:0,TV4 HD
+http://188.138.9.228:8004
+ 
+#EXTINF:-1,TV 4
+http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
+ 
+#EXTINF:0,Kanal 5 HD
+http://188.138.9.228:8005
+ 
+#EXTINF:0,SJUAN HD
+http://188.138.9.228:8007
+ 
+#EXTINF:0,TV 10 Sweden
+rtmp://cdn-kanal10.crossnet.net/kanal10//mpegts.stream
+ 
+#EXTINF:0,Kanal 11 HD
+http://188.138.9.228:8011
+ 
+#EXTINF:0,ComedyCentral
+http://188.138.9.228:8022
+ 
+#EXTINF:0,svt24 HD
+http://188.138.9.228:8013
+ 
+#EXTINF:0,C MORE- Hits
+http://188.138.9.228:8020
+ 
+#EXTINF:0,C MORE- Series
+http://188.138.9.228:8021
+ 
+#EXTINF:0,C MORE- First
+http://188.138.9.228:8024
+ 
+#EXTINF:0,C MORE- Emotion
+http://188.138.9.228:8025
+ 
+#EXTINF:0,C MORE- Sport
+http://188.138.9.228:8023
+ 
+#EXTINF:0,C MORE- Fotboll
+http://188.138.9.228:8034
+ 
+#EXTINF:0,Viasat Golf
+http://93.184.221.133/00573D/911/911-0.m3u8
+ 
+#EXTINF:0,Golf Channel
+http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
+ 
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+ 
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+ 
+#EXTINF:-1, Fox Sports
+rtmp://kv2.ts33.net/sat/us012
+ 
+#EXTINF:0,FOX Sports 2
+http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,ESPN 1 USA
+http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,ESPN 2 USA
+http://192.99.39.240:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+ 
+#EXTINF:0,NBA TV
+http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+ 
+#EXTINF:0,NFL Network
+http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+ 
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+ 
+#EXTINF:0, SKY SPORTS 1
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 2
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 3
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 4
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 5
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS F1
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0,Sport
+http://64.100.15.201/udp/239.255.2.7:10001
+ 
+#EXTINF:-1,Motorsport
+http://motorsport.hopto.org:8080/
+
+ 
+ 
+ 
+#EXTINF:0,MOVIES-:8/15-HBO EAST
+http://192.99.39.240:1935/flu555/_definst_/hboeast/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-HBO Comedy
+http://192.99.39.240:1935/flu555/_definst_/hbocomedy/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-HBO Signature
+http://192.99.39.240:1935/flu555/_definst_/hbosignature/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-HBO Zone
+http://192.99.39.240:1935/flu555/_definst_/hbozone/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Starz Cinema
+http://167.114.101.188:1935/flu555/_definst_/starzcinema/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Starz Edge
+http://167.114.156.30:1935/flu555/_definst_/starzedge/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Starz East
+http://167.114.101.188:1935/flu555/_definst_/starzeast/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Showcase
+http://167.114.101.188:1935/flu555/_definst_/showcase/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Space
+http://167.114.156.30:1935/flu555/_definst_/space/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Lifetime Movie Network
+http://167.114.101.188:1935/flu555/_definst_/lmn/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-MBC Movies Action
+http://89.248.171.141/ts60/ch1252/index.m3u8?v=1548652116
+ 
+ 
+#EXTINF:0,Updated:8/15-MBC Movies Bollywood
+http://89.248.171.141/ts60/ch1253/index.m3u8?v=1548652116
+ 
+ 
+#EXTINF:0,Updated:8/15-MBC Movies Drama
+http://89.248.171.141/ts60/ch1248/index.m3u8?v=1548652116
+ 
+ 
+#EXTINF:0,Updated:8/15-MBC Movies Msr
+http://89.248.171.141/ts60/ch1268/index.m3u8?v=1548652116
+ 
+ 
+#EXTINF:0,Updated:8/15-MBC Movies MAX
+http://89.248.171.141/ts60/ch1254/index.m3u8?v=1548652116
+ 
+ 
+#EXTINF:0,Documentary:8/15-History Channel
+http://167.114.157.40:1935/flu555/_definst_/history/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-History 2
+http://167.114.101.188:1935/flu555/_definst_/h2/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-National Geographic
+http://192.99.39.240:1935/flu555/_definst_/natgeo/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Nat Geo Wild
+http://167.114.101.188:1935/flu555/_definst_/natgeowild/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Discovery Channel
+http://167.114.119.209:1935/flu555/_definst_/discovery/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-TLC
+http://167.114.119.209:1935/flu555/_definst_/jtlc/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Animal Planet
+http://167.114.156.29:1935/flu555/_definst_/animal/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Lifestyle:8/15-HGTV
+http://167.114.156.30:1935/flu555/_definst_/jhgtv/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Food Channel
+http://167.114.119.209:1935/flu555/_definst_/food/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-Cooking Channel
+http://192.99.39.240:1935/flu555/_definst_/cookingchannel/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,Updated:8/15-DIY
+http://167.114.101.188:1935/flu555/_definst_/diy/playlist.m3u8?token=
+ 
+#EXTINF:0,Updated:8/8-Game of Thrones 24/7 Random Air Time
+http://veetle.com/index.php/hls/streamMbrFast/55be22ac98be1_/stream.m3u
+ 
+ 
+#EXTINF:0,Updated:8/8-Simpsons 24/7 Random Air Time
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u
+
+#EXTINF:0,4 Seven
+http://84.232.5.115/liveedge/4seven.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,5 Star
+http://84.232.5.115/liveedge/5star.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,5 USA
+http://84.232.5.115/liveedge/5usa.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,CBS Reality
+http://84.232.5.115/liveedge/cbsreality.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Cartoon Network
+http://84.232.5.115/liveedge3/cartoon.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Challenge
+http://84.232.5.115/liveedge3/comedy.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Comedy Cantral
+http://84.232.5.115/liveedge3/challenge.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Dave
+http://84.232.5.115/liveedge3/dave.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Discovery History
+http://84.232.5.115/liveedge3/discovhistory.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Discovery Science
+http://84.232.5.115/liveedge3/discovsci.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Discovery Shed
+http://84.232.5.115/liveedge3/shed.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Discovery Turbo
+http://84.232.5.115/liveedge3/discovturbo.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Discovery Channel
+http://84.232.5.115/liveedge3/disney.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Disney Channel
+http://84.232.5.115/liveedge3/disney.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Disney Junior
+http://84.232.5.115/liveedge3/disneyjr.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Disney XD
+http://84.232.5.115/liveedge3/disneyxd.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,DMax
+http://84.232.5.115/liveedge3/dmax.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Drama
+http://84.232.5.115/liveedge3/drama.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,E!
+http://84.232.5.115/liveedge/e.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Eden
+http://84.232.5.115/liveedge3/eden.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Flava
+http://84.232.5.115/liveedge/flava.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Food Network
+http://84.232.5.115/liveedge/foodnetwork.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,FOX
+http://84.232.5.115/liveedge3/fox.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,FX
+http://84.232.5.115/liveedge/fx.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Gold
+http://84.232.5.115/liveedge3/gold.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,History
+http://84.232.5.115/liveedge3/history.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,History 2
+http://84.232.5.115/liveedge3/h2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Movies 24
+http://84.232.5.115/liveedge3/movies24.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Nat Geo
+http://84.232.5.115/liveedge3/natgeo.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Nat Geo Wild
+http://84.232.5.115/liveedge3/natgeowild.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Pick
+http://84.232.5.115/liveedge/pick.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Quest
+http://84.232.5.115/liveedge3/quest.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Really
+http://84.232.5.115/liveedge3/really.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Scuzz
+http://84.232.5.115/liveedge/scuzz.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Atlantic
+http://84.232.5.115/liveedge/atlantic.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky 1
+http://84.232.5.115/liveedge3/sky1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky 2
+http://84.232.5.115/liveedge3/sky2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Living
+http://84.232.5.115/liveedge/living.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky LivingIt
+http://84.232.5.115/liveedge3/livingit.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Action & Adventure
+http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Comedy
+http://84.232.5.115/liveedge3/movcomedy.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Crime & Thriller
+http://84.232.5.115/liveedge3/movthriller.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Disney
+http://84.232.5.115/liveedge3/movdisney.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Drama & Romance
+http://84.232.5.115/liveedge3/movdrama.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Family
+http://84.232.5.115/liveedge3/movfamily.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Greats
+http://84.232.5.115/liveedge3/movgreats.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Premiere
+http://84.232.5.115/liveedge3/movpremier.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Sci-Fi & Horror
+http://84.232.5.115/liveedge3/movscifi.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Select
+http://84.232.5.115/liveedge3/movselect.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Movies Showcase
+http://84.232.5.115/liveedge3/movshowcase.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky News
+http://84.232.5.115/liveedge/skynews.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Spike
+http://84.232.5.115/liveedge/spike.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,SYFY
+http://84.232.5.115/liveedge3/syfy.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,TG4
+http://84.232.5.115/liveedge3/tg4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,The Vault
+http://84.232.5.115/liveedge/vault.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,TLC
+http://84.232.5.115/liveedge3/tlc.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,True Drama
+http://84.232.5.115/liveedge/truedrama.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,True Entertainment
+http://84.232.5.115/liveedge/trueentertainment.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,True Movies 1
+http://84.232.5.115/liveedge/true1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,True Movies 2
+http://84.232.5.115/liveedge/true2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Tru TV
+http://84.232.5.115/liveedge/trutv.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Universal
+http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Watch
+http://84.232.5.115/liveedge3/watch.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Yesterday
+http://84.232.5.115/liveedge3/yesterday.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BBC 1
+http://84.232.5.115/liveedge/bbc1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BBC 2
+http://84.232.5.115/liveedge/bbc2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BBC 3
+http://84.232.5.115/liveedge/bbc3.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BBC 4
+http://84.232.5.115/liveedge/bbc4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BBC Alba
+http://84.232.5.115/liveedge/bbcalba.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Channel 4
+http://84.232.5.115/liveedge/channel4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Channel 5
+http://84.232.5.115/liveedge/channel5.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV 1
+http://84.232.5.115/liveedge/itv1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV 2
+http://84.232.5.115/liveedge/itv2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV 3
+http://84.232.5.115/liveedge/itv3.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV 4
+http://84.232.5.115/liveedge/itv4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV be
+http://84.232.5.115/liveedge/itvbe.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,ITV Encore
+http://84.232.5.115/liveedge3/itvencore.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,More 4
+http://84.232.5.115/liveedge/more4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,RTE 1
+http://84.232.5.115/liveedge3/rte1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,RTE 2
+http://84.232.5.115/liveedge3/rte2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Film 4
+http://84.232.5.115/liveedge/film4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Alibi
+http://84.232.5.115/liveedge3/alibi.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,E4
+http://84.232.5.115/liveedge/e4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BT ESPN UK
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Bliss TV
+http://84.232.5.115/liveedge/bliss.stream/playlist.m3u8
+
