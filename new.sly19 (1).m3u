@@ -16,6 +16,148 @@ rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
 rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
 
 #########
+ 
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+ 
+#EXTINF:0, SKY SPORTS 1
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 2
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 3
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 4
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS 5
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+ 
+#EXTINF:0, SKY SPORTS F1
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#EXTINF:-1, Fox Sports
+rtmp://kv2.ts33.net/sat/us012
+ 
+#EXTINF:0,FOX Sports 2
+http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+
+#EXTINF:0,BT ESPN UK
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+
+#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+ 
+#EXTINF:0,C MORE- Sport
+http://188.138.9.228:8023
+ 
+#EXTINF:0,C MORE- Fotboll
+http://188.138.9.228:8034
+ 
+#EXTINF:0,Viasat Golf
+http://93.184.221.133/00573D/911/911-0.m3u8
+ 
+#EXTINF:0,Golf Channel
+http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
+ 
+#EXTINF:0,British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+ 
+#EXTINF:0,British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+ 
+
+ 
+ 
+#EXTINF:0,ESPN 1 USA
+http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
+ 
+ 
+#EXTINF:0,ESPN 2 USA
+http://192.99.39.240:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+ 
+#EXTINF:0,NBA TV
+http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+ 
+#EXTINF:0,NFL Network
+http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+ 
+#EXTINF:0,BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+ 
+
+ 
+#EXTINF:0,Sport
+http://64.100.15.201/udp/239.255.2.7:10001
+ 
+#EXTINF:-1,Motorsport
+http://motorsport.hopto.org:8080/
+
+ 
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+ 
+ 
+
+ 
+ 
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+ 
+ 
+
+ 
+ 
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+ 
+ 
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+
+
+#EXTINF:0,USA Network
+http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+
+#EXTINF:0,Updated:8/15-USA Network
+http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
 
 #EXTINF:0,Sky Movies Action & Adventure
 http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
@@ -60,8 +202,7 @@ http://84.232.5.115/liveedge3/universal.stream/playlist.m3u8
 http://80.80.160.168/live/7/live.m3u8
  
  
-#EXTINF:0,USA Network
-http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+
  
  
 #EXTINF:0, USA
@@ -234,8 +375,7 @@ http://192.99.19.98:1935/flu555/_definst_/comedycentral/playlist.m3u8?token=
 http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
  
  
-#EXTINF:0,Updated:8/15-USA Network
-http://192.99.39.240:1935/flu555/_definst_/usa/playlist.m3u8?token=
+
  
  
 #EXTINF:0,Updated:8/15-SYFY
@@ -300,71 +440,7 @@ http://188.138.9.228:8024
  
 #EXTINF:0,C MORE- Emotion
 http://188.138.9.228:8025
- 
-#EXTINF:0,C MORE- Sport
-http://188.138.9.228:8023
- 
-#EXTINF:0,C MORE- Fotboll
-http://188.138.9.228:8034
- 
-#EXTINF:0,Viasat Golf
-http://93.184.221.133/00573D/911/911-0.m3u8
- 
-#EXTINF:0,Golf Channel
-http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
- 
-#EXTINF:0,British Eurosport
-http://93.184.221.133/00573D/1210/1210-0.m3u8
- 
-#EXTINF:0,British Eurosport 2
-http://93.184.221.133/00573D/1211/1211-0.m3u8
- 
-#EXTINF:-1, Fox Sports
-rtmp://kv2.ts33.net/sat/us012
- 
-#EXTINF:0,FOX Sports 2
-http://192.99.39.240:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
- 
- 
-#EXTINF:0,ESPN 1 USA
-http://192.99.39.240:1935/flu555/_definst_/espn/playlist.m3u8?token=
- 
- 
-#EXTINF:0,ESPN 2 USA
-http://192.99.39.240:1935/flu555/_definst_/espn2/playlist.m3u8?token=
- 
-#EXTINF:0,NBA TV
-http://192.99.39.240:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
- 
-#EXTINF:0,NFL Network
-http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
- 
-#EXTINF:0,BBC Sport
-http://93.184.221.133/00573D/1104/1104-0.m3u8
- 
-#EXTINF:0, SKY SPORTS 1
-rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0, SKY SPORTS 2
-rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0, SKY SPORTS 3
-rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0, SKY SPORTS 4
-rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0, SKY SPORTS 5
-rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0, SKY SPORTS F1
-rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
- 
-#EXTINF:0,Sport
-http://64.100.15.201/udp/239.255.2.7:10001
- 
-#EXTINF:-1,Motorsport
-http://motorsport.hopto.org:8080/
+
 
  
  
@@ -590,9 +666,7 @@ http://84.232.5.115/liveedge3/h2.stream/playlist.m3u8
 #EXTINF:0,Movies 24
 http://84.232.5.115/liveedge3/movies24.stream/playlist.m3u8
  
- 
-#EXTINF:0,MUTV
-http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+
  
  
 #EXTINF:0,Nat Geo
@@ -685,30 +759,6 @@ http://84.232.5.115/liveedge3/movshowcase.stream/playlist.m3u8
  
 #EXTINF:0,Sky News
 http://84.232.5.115/liveedge/skynews.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports 1
-http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports 2
-http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports 3
-http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports 4
-http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports 5
-http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Sky Sports F1
-http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
  
  
 #EXTINF:0,Spike
@@ -838,41 +888,7 @@ http://84.232.5.115/liveedge3/alibi.stream/playlist.m3u8
 #EXTINF:0,E4
 http://84.232.5.115/liveedge/e4.stream/playlist.m3u8
  
- 
-#EXTINF:0,Eurosport 1
-http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Eurosport 2
-http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
- 
- 
-#EXTINF:0,BT ESPN UK
-http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
- 
- 
-#EXTINF:0,BT Sport 1
-http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
- 
- 
-#EXTINF:0,BT Sport 2
-http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Motors TV
-http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Premier Sports
-http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Racing UK
-http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
- 
- 
-#EXTINF:0,Setanta Sport
-http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+
  
  
 #EXTINF:0,Bliss TV
