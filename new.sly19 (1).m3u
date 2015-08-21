@@ -1,5 +1,22 @@
 #EXTM3U
 
+########Extras:
+
+#EXTINF:0, SKY SPORTS 1 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 2 HD
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 3 HD
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 4 HD
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS 5 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:0, SKY SPORTS F1 HD
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+
+#########
+
 #EXTINF:0,Sky Movies Action & Adventure
 http://84.232.5.115/liveedge3/movaction.stream/playlist.m3u8
  
