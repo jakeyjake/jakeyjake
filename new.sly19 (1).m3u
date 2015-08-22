@@ -1,4 +1,36 @@
 #EXTM3U
+###########extra vlc
+
+
+#EXTINF:-1, Sky Sports 1
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/1.ts
+#EXTINF:-1, Sky Sports 2
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/2.ts
+#EXTINF:-1, Sky Sports 3
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/3.ts
+#EXTINF:-1, Sky Sports 4
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/4.ts
+#EXTINF:-1, Sky Sports 5
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/5.ts
+#EXTINF:-1, Sky Sports F1
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/6.ts
+#EXTINF:-1, Sky Sports News
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/7.ts
+#EXTINF:-1, Premier Sports
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/9.ts
+#EXTINF:-1, BT Sport 1
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/10.ts
+#EXTINF:-1, BT Sport 2
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/11.ts
+#EXTINF:-1, British Eurosport
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/12.ts
+#EXTINF:-1, British Eurosport 2
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/13.ts
+#EXTINF:-1, BT SPORT ESPN
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/14.ts
+#EXTINF:-1, Box Nation
+http://5.39.70.216:80/live/WSSVIP/OIhd7dH87dj/15.ts
+
 
 ######extraG
 #EXTINF:0,[COLOR cornflowerblue][B]SPORTS[/B][/COLOR]
