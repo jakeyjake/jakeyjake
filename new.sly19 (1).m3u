@@ -1,6 +1,162 @@
 #EXTM3U
 
+######extraG
+#EXTINF:0,[COLOR cornflowerblue][B]############SPORTS############[/B][/COLOR]
+#EXTINF:0,BT ESPN UK
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge/skyspf1.stream/playlist.m3u8
+#EXTINF:0,FOX Sports 1
+http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+#EXTINF:0,FOX Sports 2
+http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+#EXTINF:0,ESPN
+http://167.114.119.209:1935/flu555/_definst_/espn/playlist.m3u8?token=
+#EXTINF:0,ESPN 2
+http://167.114.119.209:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+#EXTINF:0,Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0,MUTV
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+
+#EXTINF:0
+#EXTINF:0,Eurosport 1
+http://84.232.5.115/liveedge3/eurosport.stream/playlist.m3u8
+#EXTINF:0,Eurosport 2
+http://84.232.5.115/liveedge3/eurosport2.stream/playlist.m3u8
+#EXTINF:0,BT ESPN UK
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+#EXTINF:0,Motors TV
+http://84.232.5.115/liveedge3/motors.stream/playlist.m3u8
+#EXTINF:0,Premier Sports
+http://84.232.5.115/liveedge3/premier.stream/playlist.m3u8
+#EXTINF:0,Racing UK
+http://84.232.5.115/liveedge/racinguk.stream/playlist.m3u8
+#EXTINF:0,Setanta Sport
+http://84.232.5.115/liveedge3/setanta.stream/playlist.m3u8
+
+#EXTINF:0,NBA
+http://167.114.119.209:1935/flu555/_definst_/nbatv/playlist.m3u8?token=
+#EXTINF:0,NFL Network
+http://167.114.119.209:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+#EXTINF:0,Tennis Channel
+http://167.114.157.40:1935/flu555/_definst_/jtennis/playlist.m3u8?token=
+#EXTINF:0,FOX Sports 1
+http://167.114.119.209:1935/flu555/_definst_/foxsports1/playlist.m3u8?token=
+#EXTINF:0,FOX Sports 2
+http://167.114.119.209:1935/flu555/_definst_/foxsports2/playlist.m3u8?token=
+#EXTINF:0,ESPN
+http://167.114.119.209:1935/flu555/_definst_/espn/playlist.m3u8?token=
+#EXTINF:0,ESPN 2
+http://167.114.119.209:1935/flu555/_definst_/espn2/playlist.m3u8?token=
+#EXTINF:0,PAC 12 Network
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,PAC 12 Bay Area
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,PAC 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,PAC 12 Washingtons
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,Sportsnet 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0,Big Ten Networks
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0,Golf Channel
+http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
+#EXTINF:0,NBCSN
+http://167.114.119.209:1935/flu555/_definst_/nbcsports/playlist.m3u8?token=
+#EXTINF:0,Sport Time TV 1 (VLC)
+http://streamer.a1.net:80/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel1_800.mp4.m3u8
+#EXTINF:0,Sport Time TV 2 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel2_1200.mp4.m3u8
+#EXTINF:0,Sport Time TV 3 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel3_1200.mp4.m3u8
+#EXTINF:0,Sport Time TV 4 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel4_1200.mp4.m3u8
+#EXTINF:0,Sport Time TV 5 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel5_1200.mp4.m3u8
+#EXTINF:0,Sport Time TV 6 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel6_1200.mp4.m3u8
+#EXTINF:0,Sport Time TV 7 (VLC)
+http://streamer.a1.net/Segments/HLS_TS/redundant/channels/Sporttime/SporttimeTV/channel7_1200.mp4.m3u8
+#EXTINF:0,Motors TV
+http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2
+#EXTINF:0,Fight Sports
+http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
+
+##############
+
 ########Extras:
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8?chunklist_w451353631.m3u8
+
+
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8?chunklist_w1224210848.m3u8
+20.8.2015
+
+
+#EXTINF:0,Sky Sports 1
+http://84.232.5.115/liveedge3/skysp1.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+http://84.232.5.115/liveedge3/skysp2.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 3
+http://84.232.5.115/liveedge3/skysp3.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 4
+http://84.232.5.115/liveedge3/skysp4.stream/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+http://84.232.5.115/liveedge3/skysp5.stream/playlist.m3u8
+#EXTINF:0,Sky Sports F1
+http://84.232.5.115/liveedge3/skyspf1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 1
+http://84.232.5.115/liveedge3/bt1.stream/playlist.m3u8
+#EXTINF:0,BT Sport 2
+http://84.232.5.115/liveedge3/bt2.stream/playlist.m3u8
+
+
+
 
 #EXTINF:0, SKY SPORTS 1 HD
 rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
@@ -15,6 +171,22 @@ rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
 #EXTINF:0, SKY SPORTS F1 HD
 rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
 
+
+#EXTINF:0,TSN 1
+http://4.31.30.159:9082
+#EXTINF:0,TSN 2
+http://4.31.30.159:9083
+#EXTINF:0,TSN 3
+http://4.31.30.159:9084
+#EXTINF:0,TSN 4
+http://4.31.30.159:9085
+#EXTINF:0,TSN 5
+http://4.31.30.159:9086
+
+#EXTINF:0,FOX SPORTS 1
+http://4.31.30.159:9110
+#EXTINF:0,FOX SPORTS 2
+http://4.31.30.159:9111
 #########
  
 #EXTINF:0,Sky Sports 1
