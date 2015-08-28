@@ -25,7 +25,7 @@
     <title>[B][COLOR ff6aa84f]test[/COLOR][/B]</title>
     <link>
     <sublink></sublink>
-    <sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467 playpath=mainstream swfUrl=http://www.tikilive.com/public/player/player.flash.swf live=1 pageUrl=http://www.tikilive.com/show/country-music-tv timeout=15</sublink>
+    <sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467?id=gdBIP1B56m9DTUU1AxXJ&i=YXBwTmFtZT1QbGF5ZXImY0lEPTM5NDY3JmNOYW1lPUNvdW50cnklMjBNdXNpYyUyMFRWJm9JRD0xMjc5MDEmb05hbWU9bGFiZWx0diZzSWQ9dGMxNmtlYmNqY25uaWo4cWhtaDB0dDRwbDQmdUlEPTAmdU5hbWU9R3Vlc3RjMDM5OA== playpath=mainstream swfUrl=http://www.tikilive.com/public/player/player.flash.swf live=1 pageUrl=http://www.tikilive.com/show/country-music-tv timeout=15</sublink>
     </link>
     <thumbnail></thumbnail>
 </item>
