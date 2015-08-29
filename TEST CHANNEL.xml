@@ -24,8 +24,13 @@
 <item>
     <title>[B][COLOR ff6aa84f]test[/COLOR][/B]</title>
     <link>
-    <sublink></sublink>
-    <sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467?id=9k_MBvVTlFYJsU-SAxXs playpath=mainstream swfUrl=http://www.tikilive.com/public/player/player.flash.swf live=1 pageUrl=http://www.tikilive.com/show/country-music-tv timeout=15</sublink>
+	<sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467</sublink>
+    <sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467/</sublink>
+    <sublink>rtmp://edge2.tikilive.com:1935/rtmp_tikilive/39467/mainstream</sublink>
+	<sublink></sublink>
+	<sublink></sublink>
+	<sublink></sublink>
+	<sublink></sublink>
     </link>
     <thumbnail></thumbnail>
 </item>
