@@ -1,3 +1,7 @@
+<poster>jakeyjake m3u test</poster>
+<fanart></fanart>  
+
+
 #EXTM3U
 #EXTINF:-1,CBS New York
 hlsvariant://http://rtvsource.webcindario.com/STALKER.php?ID=4865&F=.m3u8
