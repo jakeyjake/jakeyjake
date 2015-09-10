@@ -27,6 +27,13 @@
 
 <directories>
 
+
+
+
+    <name>new dir</name>
+	<thumbnail>-</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/NEWTEST.xml</link>
+
   
     <name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
 	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
