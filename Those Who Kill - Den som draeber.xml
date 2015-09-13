@@ -21,7 +21,7 @@
 #PLAYLIST ITEMS#
 
 <info>
-	<message>[B][COLOR firebrick]Season 1[/COLOR][/B]</message>
+	<message>[B][COLOR firebrick]Season 1 (Double episodes)[/COLOR][/B]</message>
 	<message></message>
 	<message></message>
 	<message></message>
@@ -109,16 +109,10 @@
 <thumbnail>http://www.signesejlund.com/wp-content/uploads/2013/04/Sk%C3%A6rmbillede-2013-05-07-kl.-17.51.44.png</thumbnail>
 </item>
 
-<info>
-	<message>[B][COLOR firebrick]Season 2[/COLOR][/B]</message>
-	<message></message>
-	<message></message>
-	<message></message>
-	<message>[CR]</message>  
-</info>
+
 
 <info>
-	<message>[B][COLOR firebrick]Specials[/COLOR][/B]</message>
+	<message>[B][COLOR firebrick]Special: Shadow of The Past[/COLOR][/B]</message>
 	<message>https://vimeo.com/69844748</message>
 	<message></message>
 	<message></message>
