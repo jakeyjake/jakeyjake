@@ -2,21 +2,21 @@
 #
 #
 
-#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
 
 <poster>The Librarian</poster>
 <fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
 
-#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
 
 <info>
-	<message>[B][COLOR firebrick]The Librarian 2004-[/COLOR][/B]</message>
+	<message>[B][COLOR firebrick]The Librarian [/COLOR][/B]</message>
 	<message>[CR]</message>
+	<message>[B][COLOR ghostwhite]For centuries, The Librarians have been the guardians of magical and powerful relics,[/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]Undertaking globe-spanning adventures, they hope to recover items [/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]to store them in the Library.[/COLOR][/B]</message>
 	<message>[B][COLOR ghostwhite][/COLOR][/B]</message>
-	<message>[B][COLOR ghostwhite][/COLOR][/B]</message>
-	<message>[B][COLOR ghostwhite][/COLOR][/B]</message>
-	<message>[B][COLOR ghostwhite][/COLOR][/B]</message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+	<message>[CR]</message>H...
 	
 </info>
 
