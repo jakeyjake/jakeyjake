@@ -106,7 +106,9 @@
 
 <item>
 <title>[B][COLOR skyblue]GBNTV[/COLOR][/B]</title>
-<link>rtmp://38.96.175.122:1951/live playpath=livestream swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.tcnhd.com/gbntv/ live=true timeout=20</link>
+<sublink>rtmp://38.96.175.122:1951/live playpath=livestream swfUrl=http://www.primcast.com/jwplayer5/player.swf pageUrl=http://www.tcnhd.com/gbntv/ live=true timeout=20</sublink>
+<sublink>http://www.videomega.tv/view.php?ref=055115068054052087110117075113113075117110087052054068115055</sublink>
+<sublink>http://abx.cdn.vizplay.org/v/2/febfcb086a30e87b0c3543b741fd613d.mp4?st=iDdzJKOzTqbKuUTXXoyWPg&hash=bqdD3qBxsBYrivjP22ldMg</sublink>
 <thumbnail></thumbnail>
 </item>
 
