@@ -1,5 +1,5 @@
 <poster>2016 Films</poster>
-<fanart>http://i.imgur.com/YXuCqZ7.png</fanart>
+<fanart>http://i.imgur.com/YXuCqZ7.png</fanart>hnn
 
 
 
@@ -7,12 +7,27 @@
 	<message>[B][COLOR firebrick]Films released in 2016[/COLOR][/B]</message>
 	<message>[COLOR][I][/COLOR][/I]</message>
 	<message>inc 1080P and 720P links</message>
-	<message>[B][COLOR tan]Recently added: Spectre, Creed, The Revenant, The Hateful Eight, Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
+	<message>[B][COLOR tan]Recently added: Solace, Concussion, Spectre, Creed, The Revenant, The Hateful Eight, Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
 	<message>[CR]</message>
 	
 </info>
 
 #PLAYLIST ITEMS#
+
+<item>
+<title>[B]Solace[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/Sw5SmrxTWphOQa6Amu8UDm-9omfCp10UYr9hs3KUlz-q=m37</sublink>
+<sublink>http://2.bp.blogspot.com/Sw5SmrxTWphOQa6Amu8UDm-9omfCp10UYr9hs3KUlz-q=m22</sublink>
+<sublink>http://2.bp.blogspot.com/Sw5SmrxTWphOQa6Amu8UDm-9omfCp10UYr9hs3KUlz-q=m18</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail></thumbnail>
+</item>
 
 <item>
 <title>[B]Sicario[/B][COLOR lightslategray][/COLOR]</title>
@@ -432,20 +447,7 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title>[B][/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
 
-<thumbnail></thumbnail>
-</item>
 
 <item>
 <title>[B][/B][COLOR lightslategray][/COLOR]</title>
