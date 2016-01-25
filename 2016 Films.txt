@@ -27,7 +27,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -61,7 +61,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -78,6 +78,10 @@
 <sublink></sublink>
 </link>
 
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
 <item>
 <title>[B]Knight of Cups[/B][COLOR lightslategray][/COLOR]</title>
 <link>
@@ -90,13 +94,12 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
 
-<thumbnail></thumbnail>
-</item>
+
 
 
 
@@ -114,7 +117,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -130,7 +133,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -149,7 +152,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -167,7 +170,7 @@
 <sublink>http://2.bp.blogspot.com/_nopj-3_MA64lj_v1K72Y5wJbkKsg2UZS9Pk8CgRz5CF=m18</sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -182,7 +185,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -197,7 +200,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -217,7 +220,7 @@
 <sublink>http://2.bp.blogspot.com/y65MRkX5kSnszdeMyIi1Lrt1b-ad-RpXGHoggHFjpnas=m18</sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -233,7 +236,7 @@
 ,sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -249,7 +252,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -265,7 +268,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -281,7 +284,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -296,7 +299,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -312,7 +315,7 @@
 <sublink>http://nos.video/da679b2169cabb56</sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -330,7 +333,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -346,7 +349,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -362,7 +365,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -378,7 +381,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -393,7 +396,7 @@
 
 </link>
 
-<thumbnail></thumbnail>c
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>c
 </item>
 
 <item>
@@ -410,7 +413,7 @@
 
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -421,7 +424,7 @@
 <sublink>http://2.bp.blogspot.com/3f8Mc3cPUqZwdHc7jDZ0lbkKWGIt-WYIBNL03YfWPtp0=m18</sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -442,7 +445,7 @@
 
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -458,7 +461,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -473,7 +476,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -492,7 +495,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -507,7 +510,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -525,7 +528,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -542,7 +545,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -558,7 +561,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -574,7 +577,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
@@ -590,7 +593,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -605,7 +608,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -620,7 +623,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -635,7 +638,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -650,7 +653,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -665,7 +668,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -680,7 +683,7 @@
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 v<item>
@@ -695,7 +698,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -710,7 +713,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -725,7 +728,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -740,7 +743,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -755,7 +758,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -770,7 +773,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -785,7 +788,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -800,7 +803,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -815,7 +818,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -830,7 +833,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 <item>
@@ -845,7 +848,7 @@ v<item>
 <sublink></sublink>
 </link>
 
-<thumbnail></thumbnail>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
 
