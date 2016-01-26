@@ -39,7 +39,7 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
     
 	
-	<name>[COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I]~Gripper Stebson's favourites[/I] </name>
+	<name>[COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I]~Gripper Stebson's favourites[/I]</name>
 	<thumbnail>http://i.imgur.com/14IYh3d.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2013-14%20films.xml</link>
 	
@@ -49,39 +49,22 @@
 	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
 	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
 	
+	<name>[I]Roger Mellie's[/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
+	
 	<name>[I]Andy Gill's [/I][COLOR cornflowerblue][B]~Music Corner[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
 
-	<name>[I]Roger Mellie's[/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
-	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
+	
 	
 	
    
 	<info>
 	
-    <message>[CR]</message>
-	<message>[B][COLOR ghostwhite]Nostalgia...[/COLOR][/B]</message>
-	<message></message>
-	<message></message>
-	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
-    
-	
-</info>
-	<name>[COLOR cornflowerblue][B]The Big Match Revisted[/B][/COLOR][I]~Brian's Picks[/I] </name>
-	<thumbnail>http://i.imgur.com/1I3uTdP.png</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/TheBigMatchRevisted.xml</link>
 
-	
-
-	<name>[I]The Indoor League [/I][COLOR cornflowerblue][B]~Presented by Fred Trueman[/B][/COLOR]</name>
-	<thumbnail>http://i.imgur.com/02HISCK.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/IndoorLeague.xml</link>
-	
-<info>
-	
-    <message>[CR]</message>
+	<message>[CR]</message>
 	<message>[B][COLOR lightslategray] •••[/COLOR] - [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
 	<message>[B][COLOR lightslategray] •[/COLOR] - [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
 	<message>[COLOR tan]To include a list in your iStream Movie Searches -> Right-Click/Context Menu and choose[/COLOR] [B][COLOR cornflowerblue]Add[/COLOR] as [COLOR cornflowerblue]i[/COLOR]Stream Source[/B]</message>
