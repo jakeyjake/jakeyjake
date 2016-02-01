@@ -47,6 +47,22 @@
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
+
+<item>
+<title>[B]Ride Along 2[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://vidzi.tv/y1np93g1lv2a.html</sublink>
+<sublink>http://vidto.me/xrc3y9rt1oh5.html</sublink>
+<sublink>http://vodlocker.com/8j7ogwiru8ln</sublink>
+<sublink>http://vidzi.tv/bfq6uc8dt55t.html</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
 <item>
 <title>[B]The Hateful Eight[/B][COLOR lightslategray][/COLOR]</title>
 <link>
