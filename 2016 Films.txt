@@ -7,7 +7,7 @@
 	<message>[B][COLOR firebrick]Films released in 2016[/COLOR][/B]</message>hhh
 	<message>[COLOR][I][/COLOR][/I]</message>
 	<message>inc 1080P and 720P links</message>
-	<message>[B][COLOR tan]Recently added: The Last Witch Hunter, Solace, Ride Along 2, Concussion, Spectre, Creed, The Revenant, [/COLOR][/B]</message>
+	<message>[B][COLOR tan]Recently added: The Last Witch Hunter, Solace, Ride Along 2, Home Invasion, Concussion, Spectre, Creed, The Revenant, [/COLOR][/B]</message>
 	<message>[B][COLOR tan]The Hateful Eight, Sicario, Exposed, Terminus, The Good Dinosaur, The Big Short,Lawless Range, The Submarine Kid, ...[/COLOR][/B]</message>
 	<message>[CR]</message>ccc
 	
@@ -55,6 +55,23 @@
 <sublink>http://vidto.me/xrc3y9rt1oh5.html</sublink>
 <sublink>http://vodlocker.com/8j7ogwiru8ln</sublink>
 <sublink>http://vidzi.tv/bfq6uc8dt55t.html</sublink>
+<sublink></sublink>mmm
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+<item>
+<title>[B]Home Invasion[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/ysNH_KuL6Z49qTMwb5LR2mxjsEQgGKdDdQCVtnZPRtZI=m18</sublink>
+<sublink>http://vidto.me/p9rvxxj9jvf9.html</sublink>
+<sublink>http://vodlocker.com/g6rtk4xj4yj6</sublink>
+<sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
@@ -62,6 +79,9 @@
 <sublink></sublink>
 <sublink></sublink>
 </link>
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B]The Hateful Eight[/B][COLOR lightslategray][/COLOR]</title>
