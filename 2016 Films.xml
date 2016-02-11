@@ -11,7 +11,7 @@
 	<message>[B][COLOR tan]Solace, Concussion, Spectre, Creed, The Revenant, The Hateful Eight, Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
 	<message>[B][COLOR tan]Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
 	<message>[B][COLOR tan]Recently added: Lawless Range, The Submarine Kid, The Last Witch Hunter, Solace, Concussion, Spectre, Creed, The Revenant, The Hateful Eight, Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
-	<message>[CR]</message>ccc
+	<message>[CR]</message>
 	
 </info>
 
@@ -145,10 +145,10 @@
 
 
 <info>
+    <message>[CR]</message>
 	<message>[B][COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Alphabetical[/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
 	<message>[CR]</message>
-	
-</info>
+	</info>
 
 
 <item>
