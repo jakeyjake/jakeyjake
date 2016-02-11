@@ -14,36 +14,11 @@
 
 #PLAYLIST ITEMS#
 
-<item>
-<title>[B]Jarhead 3 : The Siege [/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m37</sublink>
-<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m18</sublink>
-<sublink>http://2.bp.blogspot.com/6iTFVlaB0yqnadhSnYNWuJdgJxLJ2DKamU_m8oZb04_U=m22</sublink>
-<sublink>https://3.bp.blogspot.com/ibXj2MKkClJhCHXlAnuRAHIRPALF_HJwd-hWEN_VtCE=m18</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-
-<item>
-<title>[B]Solace[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/ERPuNK8eeF_CdUdFRYLcal0Nx6iY3Nu0zHfshQlGV7u9=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/ERPuNK8eeF_CdUdFRYLcal0Nx6iY3Nu0zHfshQlGV7u9=m18</sublink>
-<sublink>https://lh3.googleusercontent.com/tr2FRkztfpHVw__PFxEkpCG9PMpEgqcCXXYdVZSSZq0=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/tr2FRkztfpHVw__PFxEkpCG9PMpEgqcCXXYdVZSSZq0=m18</sublink>
-<sublink>https://3.bp.blogspot.com/h21SEwRxg6m2Sc8flnvtzf0keGb18tXtWEyXoRvPog=m22</sublink>
-<sublink>https://3.bp.blogspot.com/h21SEwRxg6m2Sc8flnvtzf0keGb18tXtWEyXoRvPog=m18</sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
+<info>
+	<message>[COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Featured{/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
+	<message>[CR]</message>
+	
+</info>
 
 <item>
 <title>[B]Sicario[/B][COLOR lightslategray][/COLOR]</title>
@@ -57,6 +32,21 @@
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+<item>
+<title>[B]The Big Short[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://3.bp.blogspot.com/ZKu4bEyktZylBjsYhKD2paPP4FwMRoO4UZIDPjAxE_Y=m22</sublink>
+<sublink></sublink>
+<sublink>http://2.bp.blogspot.com/eKOr7bTBCzGb2kL7EsBq2-wIB1xBqxXFFcLkcFifLmLv=m18</sublink>
+<sublink></sublink>
+<sublink>http://vodlocker.com/9ie4v8p997le</sublink>
+<sublink>http://vidto.me/xbujlm3burge.html</sublink>
 <sublink></sublink>
 </link>
 
@@ -99,25 +89,6 @@
 
 
 <item>
-<title>[B]Knight of Cups[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m37</sublink>
-<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m18</sublink>
-<sublink>https://3.bp.blogspot.com/TSLTxfa6U5xFH6pDfYbbgIRgx8OwsZabkLJD1kzccw=m22</sublink>
-<sublink>http://vidto.me/8ysez23jdlkq.html</sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-
-
-
-
-<item>
 <title>[B]The Revenant[/B][COLOR lightslategray][/COLOR]</title>https://lh3.googleusercontent.com/AeZu7gak5z83nnaH8LTRHFJsAIPzcX5tsVEd_nGD-mnd=m18
 <link>
 <sublink>https://lh3.googleusercontent.com/AeZu7gak5z83nnaH8LTRHFJsAIPzcX5tsVEd_nGD-mnd=m22</sublink>
@@ -134,8 +105,6 @@
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
-
-
 <item>
 <title>[B]The Peanuts Movie[/B][COLOR lightslategray][/COLOR]</title>
 <link>
@@ -151,16 +120,161 @@
 
 
 <item>
-<title>[B]Mojave[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]The Good Dinosaur [/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://2.bp.blogspot.com/clyLyHS0_EahFbhD1SWt5219JypCtVSJgTbLfls_xezs=m18</sublink>
-<sublink>https://3.bp.blogspot.com/0ykrPXnCVq5GaoCy6w8W2AGnGPF2jCXk7jaM3nPeDXY=m18</sublink>
+<sublink>https://3.bp.blogspot.com/_ZcsGdSiPb2H0zerJFS5_hXzQvIDc1LuJNOVZqb8pgc=m22</sublink>
+<sublink>http://2.bp.blogspot.com/y65MRkX5kSnszdeMyIi1Lrt1b-ad-RpXGHoggHFjpnas=m18</sublink>
 <sublink></sublink>
-<sublink>http://vidzi.tv/y5lvry3dfh28.html</sublink>
-<sublink>http://vidto.me/yxdrz3w41zln.html</sublink>
-<sublink>http://www.promptfile.com/l/E4DB4AAFD8-07247FAEF5</sublink>
+<sublink>http://vidto.me/yl3rmnldgtfu.html</sublink>
+<sublink>https://m.tusfiles.net/d/x4kqapevtv2fvxijshdz7fccddccco5ysmo5gcnhbgyzz3sglccwyaqt/video.mp4</sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<info>
+	<message>[COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Alphabetical{/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
+	<message>[CR]</message>
+	
+</info>
+
+
+<item>
+<title>[B]45 Years[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/3u6QBJifN2bIpt2nM-1EUjlBehu_kMXmqgfEs-Rtu3X7=m22</sublink>
+<sublink>http://2.bp.blogspot.com/3u6QBJifN2bIpt2nM-1EUjlBehu_kMXmqgfEs-Rtu3X7=m18</sublink>
+<sublink>http://vidto.me/7pdk707tfts1.html</sublink>
+<sublink>https://3.bp.blogspot.com/qFCTt-EMvvBXKOKogCnqwrdaJtqGgautmB2wN0Gyc2I=m22</sublink>
 <sublink></sublink>
 <sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[B]Being Evel[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink></sublink>
+<sublink>https://3.bp.blogspot.com/4muqzzwchI89R-u-SPE6Ulwylqng6vzgIgbCsZ2Qekw=m22</sublink>
+<sublink>http://2.bp.blogspot.com/UswvFMIQVC2kvAU4O7KQZCFRf9Nqa2xq6zwqoq6Xxvar=m22</sublink>
+<sublink>http://2.bp.blogspot.com/UswvFMIQVC2kvAU4O7KQZCFRf9Nqa2xq6zwqoq6Xxvar=m18</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Blue Mountain State : The Rise of Thadland[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/R-NxNhUkqXlAM2m2BPK28qjTLWwwevG2Zqr4RG1aDML3=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/R-NxNhUkqXlAM2m2BPK28qjTLWwwevG2Zqr4RG1aDML3=m18</sublink>
+<sublink>http://2.bp.blogspot.com/zLAKBh-OUjaAeROnif3k0xR0KjF7SjjoLkt7AsppepCX=m22</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Burnt[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://vodlocker.com/a37s911itves</sublink>
+<sublink>http://vidto.me/2gapnh18nj1o.html</sublink>
+<sublink>http://vidzi.tv/nhv6glbkai1n.html</sublink>
+<sublink>https://3.bp.blogspot.com/7gHe74UtBqhO_nWX8GLeqe_G__gT-A6yXpf2T8sh5w=m22</sublink>
+<sublink>http://vidzi.tv/y5zk4zbkg197.html</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Concussion[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m18</sublink>
+<sublink>http://2.bp.blogspot.com/5THvW5jL--NibHtd1OU1tuI0LUGPdSv4tmfuAvp3HBnJ=m18</sublink>
+<sublink>https://3.bp.blogspot.com/hv693V0tndstyW-GMELVaoMnAyB_cVW2Iymiydim1EA=m22</sublink>
+<sublink>http://vidto.me/i83kk8j7gn21.html</sublink>
+<sublink>http://vodlocker.com/kn9swnykz5hi</sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]Creed[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/_Va2rOihJiMGSRhL6m5uygXWyPxzcahn4D1GNmi1zrM=m22</sublink>
+<sublink>https://3.bp.blogspot.com/9eH5L45KT_dj5M_eyVXUQDhV3zORaEPFS8_hHNZPhQ=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/_Va2rOihJiMGSRhL6m5uygXWyPxzcahn4D1GNmi1zrM=m18</sublink>
+<sublink>https://3.bp.blogspot.com/8rPAi2KUBnVpN9-7zhxaERPRzEND2fKSP1TFDzS7saVa=m22</sublink>
+<sublink></sublink>
+<sublink>http://vidto.me/04e7u3i99lce.html</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]Jarhead 3 : The Siege [/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m37</sublink>
+<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/YylD00z_InTYFo5km1nT4gUwJKNkZArB_R7COx3qlMcZ=m18</sublink>
+<sublink>http://2.bp.blogspot.com/6iTFVlaB0yqnadhSnYNWuJdgJxLJ2DKamU_m8oZb04_U=m22</sublink>
+<sublink>https://3.bp.blogspot.com/ibXj2MKkClJhCHXlAnuRAHIRPALF_HJwd-hWEN_VtCE=m18</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
@@ -186,21 +300,37 @@
 </item>
 
 <item>
-<title>[B]Steve Jobs[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Knight of Cups[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>https://lh3.googleusercontent.com/pD4z5pQJNQIX7Hn7pwxm3iHeWzoh26Fk_W7yZwvthms2=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/pD4z5pQJNQIX7Hn7pwxm3iHeWzoh26Fk_W7yZwvthms2=m18</sublink>
-<sublink>https://3.bp.blogspot.com/aGluPcAZLjtLyTIDeDPGD1QwKv2E5Ua-bAwnwhCDSQ=m22</sublink>
-<sublink>http://2.bp.blogspot.com/2CEYNmqd5nMBloJ2ockclLOhJI-3FQH45NaoYeHfG0Ic=m18</sublink>
-<sublink>http://vodlocker.com/vzbxc2txldhd</sublink>
-<sublink>http://vidto.me/0pjcyra9rsn7.html</sublink>
+<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m37</sublink>
+<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/38FFppX5xYZyZnwCszT6vXvH29irHajT5uJwg5iUXBU=m18</sublink>
+<sublink>https://3.bp.blogspot.com/TSLTxfa6U5xFH6pDfYbbgIRgx8OwsZabkLJD1kzccw=m22</sublink>
+<sublink>http://vidto.me/8ysez23jdlkq.html</sublink>
 <sublink></sublink>
-
-
 </link>
 
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
+
+
+<item>
+<title>[B]Lawless Range[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://3.bp.blogspot.com/F87Bwghpg5hC28jbsq6iYm35JBHhhSB14MTP6fzc3RqP=m22</sublink>
+<sublink>https://3.bp.blogspot.com/F87Bwghpg5hC28jbsq6iYm35JBHhhSB14MTP6fzc3RqP=m18</sublink>
+<sublink>http://2.bp.blogspot.com/DxnZi3st_HhCc26Vq2gnbl6vDKGmn7RdsgZNgYC9Nkmb=m18</sublink>
+<sublink>http://vodlocker.com/yvlatyjmlarw</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
 
 <item>
 <title>[B]Legend[/B][COLOR lightslategray][/COLOR]</title>
@@ -218,17 +348,14 @@
 </item>
 
 
-
-
-
 <item>
-<title>[B]The Good Dinosaur [/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Little Dead Rotting Hood[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>https://3.bp.blogspot.com/_ZcsGdSiPb2H0zerJFS5_hXzQvIDc1LuJNOVZqb8pgc=m22</sublink>
-<sublink>http://2.bp.blogspot.com/y65MRkX5kSnszdeMyIi1Lrt1b-ad-RpXGHoggHFjpnas=m18</sublink>
-<sublink></sublink>
-<sublink>http://vidto.me/yl3rmnldgtfu.html</sublink>
-<sublink>https://m.tusfiles.net/d/x4kqapevtv2fvxijshdz7fccddccco5ysmo5gcnhbgyzz3sglccwyaqt/video.mp4</sublink>
+<sublink>http://vidzi.tv/4kfkyqqmlsbw.html</sublink>
+<sublink>http://vidzi.tv/tsqk1veiqbr5</sublink>
+<sublink>http://2.bp.blogspot.com/3f8Mc3cPUqZwdHc7jDZ0lbkKWGIt-WYIBNL03YfWPtp0=m18</sublink>
+<sublink>http://vidzi.tv/y8391d4e1juo.html</sublink>
+<sublink>http://vidto.me/uzsdr55bkoyg.html</sublink>
 <sublink></sublink>
 </link>
 
@@ -237,76 +364,17 @@
 
 
 <item>
-<title>[B]Room[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Mojave[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>https://3.bp.blogspot.com/ZdG-W1e31E4FeIpbvYXJoLQUhWyekC6ff5HfjVKoZ10=m18</sublink>
-<sublink>http://2.bp.blogspot.com/JMsjeLqmWCaTvcSiuNX_HQehk1a96fGHCYMq7F76iAjk=m18</sublink>
-<sublink>http://vidto.me/bfhcb3vvksdt.html</sublink>
-<sublink>http://www.promptfile.com/l/695373B9BF-0FF1EB50A4</sublink>
+<sublink>http://2.bp.blogspot.com/clyLyHS0_EahFbhD1SWt5219JypCtVSJgTbLfls_xezs=m18</sublink>
+<sublink>https://3.bp.blogspot.com/0ykrPXnCVq5GaoCy6w8W2AGnGPF2jCXk7jaM3nPeDXY=m18</sublink>
 <sublink></sublink>
-
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B]The Lobster[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink></sublink>
-<sublink>http://vidto.me/vsjpvahwwbka.html</sublink>
-<sublink>http://2.bp.blogspot.com/PGLzTwyzr41W3DNTbvNt1zlZ0iQA_lOpROR1DM3EUh-p=m22</sublink>
-<sublink>https://3.bp.blogspot.com/8fu7VUJacf_o1LMnXLBkFGuvLSXLt01vDTFUq2iLi5U=m22</sublink>
+<sublink>http://vidzi.tv/y5lvry3dfh28.html</sublink>
+<sublink>http://vidto.me/yxdrz3w41zln.html</sublink>
+<sublink>http://www.promptfile.com/l/E4DB4AAFD8-07247FAEF5</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B]The Big Short[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://3.bp.blogspot.com/ZKu4bEyktZylBjsYhKD2paPP4FwMRoO4UZIDPjAxE_Y=m22</sublink>
-<sublink></sublink>
-<sublink>http://2.bp.blogspot.com/eKOr7bTBCzGb2kL7EsBq2-wIB1xBqxXFFcLkcFifLmLv=m18</sublink>
-<sublink></sublink>
-<sublink>http://vodlocker.com/9ie4v8p997le</sublink>
-<sublink>http://vidto.me/xbujlm3burge.html</sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B]Being Evel[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink></sublink>
-<sublink>https://3.bp.blogspot.com/4muqzzwchI89R-u-SPE6Ulwylqng6vzgIgbCsZ2Qekw=m22</sublink>
-<sublink>http://2.bp.blogspot.com/UswvFMIQVC2kvAU4O7KQZCFRf9Nqa2xq6zwqoq6Xxvar=m22</sublink>
-<sublink>http://2.bp.blogspot.com/UswvFMIQVC2kvAU4O7KQZCFRf9Nqa2xq6zwqoq6Xxvar=m18</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-<item>
-<title>[B]Concussion[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m18</sublink>
-<sublink>http://2.bp.blogspot.com/5THvW5jL--NibHtd1OU1tuI0LUGPdSv4tmfuAvp3HBnJ=m18</sublink>
-<sublink>https://3.bp.blogspot.com/hv693V0tndstyW-GMELVaoMnAyB_cVW2Iymiydim1EA=m22</sublink>
-<sublink>http://vidto.me/i83kk8j7gn21.html</sublink>
-<sublink>http://vodlocker.com/kn9swnykz5hi</sublink>
 <sublink></sublink>
 </link>
 
@@ -331,12 +399,46 @@
 
 
 <item>
-<title>[B]45 Years[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Room[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://2.bp.blogspot.com/3u6QBJifN2bIpt2nM-1EUjlBehu_kMXmqgfEs-Rtu3X7=m22</sublink>
-<sublink>http://2.bp.blogspot.com/3u6QBJifN2bIpt2nM-1EUjlBehu_kMXmqgfEs-Rtu3X7=m18</sublink>
-<sublink>http://vidto.me/7pdk707tfts1.html</sublink>
-<sublink>https://3.bp.blogspot.com/qFCTt-EMvvBXKOKogCnqwrdaJtqGgautmB2wN0Gyc2I=m22</sublink>
+<sublink>https://3.bp.blogspot.com/ZdG-W1e31E4FeIpbvYXJoLQUhWyekC6ff5HfjVKoZ10=m18</sublink>
+<sublink>http://2.bp.blogspot.com/JMsjeLqmWCaTvcSiuNX_HQehk1a96fGHCYMq7F76iAjk=m18</sublink>
+<sublink>http://vidto.me/bfhcb3vvksdt.html</sublink>
+<sublink>http://www.promptfile.com/l/695373B9BF-0FF1EB50A4</sublink>
+<sublink></sublink>
+
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Ride Along 2[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/LGrGq1ojD-_G2McrL3HSAWCaRndTcPvSjawJuC-CsMnt=m18</sublink>
+<sublink>https://3.bp.blogspot.com/neUMfYXwv24t8jT-eU-puOtAtG-oLdsmYiBiXwOo5w=m37</sublink>
+<sublink>https://3.bp.blogspot.com/neUMfYXwv24t8jT-eU-puOtAtG-oLdsmYiBiXwOo5w=m22</sublink>
+<sublink>http://vodlocker.com/8j7ogwiru8ln</sublink>
+<sublink>http://vidto.me/xrc3y9rt1oh5.html</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]Sicario[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://3.bp.blogspot.com/lREWmCSUxT1jvwBU0CEW5XkfZEGZu4rsFJ7eYHbBW5k=m22</sublink>
+<sublink>https://3.bp.blogspot.com/lREWmCSUxT1jvwBU0CEW5XkfZEGZu4rsFJ7eYHbBW5k=m18</sublink>
+<sublink>https://lh3.googleusercontent.com/woqeChKciS73-IfpLqEwVKKM4Wz7HGzqXRMwYDfJ1sCo=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/woqeChKciS73-IfpLqEwVKKM4Wz7HGzqXRMwYDfJ1sCo=m18</sublink>
+<sublink></sublink>
+<sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
@@ -345,6 +447,41 @@
 
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
+
+
+<item>
+<title>[B]Sisters[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/DCkt14QJ88D-kJxUg1VDSQ9SqDcmxe6j2vVNCR0-eXlY=m22</sublink>
+<sublink>https://3.bp.blogspot.com/Sjinfdq3I4mkz39bMuG9x65PaquHlTV7UhC79sBgkSZa=m22</sublink>
+<sublink>https://3.bp.blogspot.com/Sjinfdq3I4mkz39bMuG9x65PaquHlTV7UhC79sBgkSZa=m18</sublink>
+<sublink>http://vidzi.tv/0vq4rwckgj3j.html</sublink>
+<sublink>http://vidto.me/6q1w0jlbdtci.html</sublink>
+<sublink>http://vodlocker.com/6iqxj1j7tev5</sublink>
+
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]Solace[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/ERPuNK8eeF_CdUdFRYLcal0Nx6iY3Nu0zHfshQlGV7u9=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/ERPuNK8eeF_CdUdFRYLcal0Nx6iY3Nu0zHfshQlGV7u9=m18</sublink>
+<sublink>https://lh3.googleusercontent.com/tr2FRkztfpHVw__PFxEkpCG9PMpEgqcCXXYdVZSSZq0=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/tr2FRkztfpHVw__PFxEkpCG9PMpEgqcCXXYdVZSSZq0=m18</sublink>
+<sublink>https://3.bp.blogspot.com/h21SEwRxg6m2Sc8flnvtzf0keGb18tXtWEyXoRvPog=m22</sublink>
+<sublink>https://3.bp.blogspot.com/h21SEwRxg6m2Sc8flnvtzf0keGb18tXtWEyXoRvPog=m18</sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
 
 
 <item>
@@ -364,14 +501,30 @@
 
 
 <item>
-<title>[B]Burnt[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Standoff[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://vodlocker.com/a37s911itves</sublink>
-<sublink>http://vidto.me/2gapnh18nj1o.html</sublink>
-<sublink>http://vidzi.tv/nhv6glbkai1n.html</sublink>
-<sublink>https://3.bp.blogspot.com/7gHe74UtBqhO_nWX8GLeqe_G__gT-A6yXpf2T8sh5w=m22</sublink>
-<sublink>http://vidzi.tv/y5zk4zbkg197.html</sublink>
+<sublink>https://lh3.googleusercontent.com/duJijR_7gequqO4CtrejkGOzJPSD711TUytb0SkEO2E=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/duJijR_7gequqO4CtrejkGOzJPSD711TUytb0SkEO2E=m18</sublink>
+<sublink>https://3.bp.blogspot.com/rG-VufPuJigPIOlfi6mqH-fKmlY5acNPjxG3AD-PIn2a=m22</sublink>
+<sublink>https://3.bp.blogspot.com/rG-VufPuJigPIOlfi6mqH-fKmlY5acNPjxG3AD-PIn2a=m18</sublink>
+<sublink>http://vidzi.tv/hatbgneptf6h.html</sublink>
+<sublink>https://lh3.googleusercontent.com/Ny1gD6FADNMQt_LOSgfdiuHbQvGUgZDLtoqCD08fglTM=m22</sublink>
 <sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]Steve Jobs[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://lh3.googleusercontent.com/pD4z5pQJNQIX7Hn7pwxm3iHeWzoh26Fk_W7yZwvthms2=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/pD4z5pQJNQIX7Hn7pwxm3iHeWzoh26Fk_W7yZwvthms2=m18</sublink>
+<sublink>https://3.bp.blogspot.com/aGluPcAZLjtLyTIDeDPGD1QwKv2E5Ua-bAwnwhCDSQ=m22</sublink>
+<sublink>http://2.bp.blogspot.com/2CEYNmqd5nMBloJ2ockclLOhJI-3FQH45NaoYeHfG0Ic=m18</sublink>
+<sublink>http://vodlocker.com/vzbxc2txldhd</sublink>
+<sublink>http://vidto.me/0pjcyra9rsn7.html</sublink>
 <sublink></sublink>
 </link>
 
@@ -396,18 +549,53 @@
 
 
 <item>
-<title>[B]Concussion[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]The Big Short[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://vodlocker.com/kn9swnykz5hi</sublink>
-<sublink>http://vidto.me/i83kk8j7gn21.html</sublink>
-<sublink>https://3.bp.blogspot.com/hv693V0tndstyW-GMELVaoMnAyB_cVW2Iymiydim1EA=m22</sublink>
-<sublink>http://2.bp.blogspot.com/5THvW5jL--NibHtd1OU1tuI0LUGPdSv4tmfuAvp3HBnJ=m18</sublink>
-<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/6LrHvJfy_KECEp9CVBEju3tfGpm58PcglzcKW6J-nWc=m18</sublink>
+<sublink>https://3.bp.blogspot.com/ZKu4bEyktZylBjsYhKD2paPP4FwMRoO4UZIDPjAxE_Y=m22</sublink>
+<sublink></sublink>
+<sublink>http://2.bp.blogspot.com/eKOr7bTBCzGb2kL7EsBq2-wIB1xBqxXFFcLkcFifLmLv=m18</sublink>
+<sublink></sublink>
+<sublink>http://vodlocker.com/9ie4v8p997le</sublink>
+<sublink>http://vidto.me/xbujlm3burge.html</sublink>
+<sublink></sublink>
 </link>
 
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>c
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
+
+<item>
+<title>[B]The Good Dinosaur [/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://3.bp.blogspot.com/_ZcsGdSiPb2H0zerJFS5_hXzQvIDc1LuJNOVZqb8pgc=m22</sublink>
+<sublink>http://2.bp.blogspot.com/y65MRkX5kSnszdeMyIi1Lrt1b-ad-RpXGHoggHFjpnas=m18</sublink>
+<sublink></sublink>
+<sublink>http://vidto.me/yl3rmnldgtfu.html</sublink>
+<sublink>https://m.tusfiles.net/d/x4kqapevtv2fvxijshdz7fccddccco5ysmo5gcnhbgyzz3sglccwyaqt/video.mp4</sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B]The Hateful Eight[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>https://3.bp.blogspot.com/wWm10FylRrcV6_oBMRxQ_9RpuXcmXc8SAxp4GIdBaxA=m22</sublink>
+<sublink></sublink>
+<sublink>https://lh3.googleusercontent.com/TtmSD4v9AQQACPO05qmCGh4swTwqvFJGA0vR-tw4qsQ=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/TtmSD4v9AQQACPO05qmCGh4swTwqvFJGA0vR-tw4qsQ=m18</sublink>
+<sublink>http://vidto.me/t3u275pswfrr.html</sublink>
+<sublink>http://vidto.me/ypzljxd65kdn.html</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
 
 <item>
 <title>[B]The Last Witch Hunter[/B][COLOR lightslategray][/COLOR]</title>
@@ -424,64 +612,14 @@
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
-<item>
-<title>[B]Little Dead Rotting Hood[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>http://vidzi.tv/4kfkyqqmlsbw.html</sublink>
-<sublink>http://vidzi.tv/tsqk1veiqbr5</sublink>
-<sublink>http://2.bp.blogspot.com/3f8Mc3cPUqZwdHc7jDZ0lbkKWGIt-WYIBNL03YfWPtp0=m18</sublink>
-<sublink>http://vidzi.tv/y8391d4e1juo.html</sublink>
-<sublink>http://vidto.me/uzsdr55bkoyg.html</sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
 
 <item>
-<title>[B]Youth[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Lazer Team-[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://vodlocker.com/np9b3rjk8o46</sublink>
-<sublink>http://vidto.me/7t94sc2s39av.html</sublink>
-<sublink>https://pgli2u.oloadcdn.net/dl/l/0tlilDmpPr0/7BDlH52MmGE/www.filmikz.ch-BRRip.XviD.AC3-EVO.avi.mp4</sublink>
-<sublink>https://3.bp.blogspot.com/VId-ZCV8nQq2H6onOUvG0AW8nxwSGOe4O9BBW0bMGIE=m22</sublink>123
-<sublink>https://3.bp.blogspot.com/VId-ZCV8nQq2H6onOUvG0AW8nxwSGOe4O9BBW0bMGIE=m18</sublink>
-<sublink>http://2.bp.blogspot.com/1cscYm17C-VIbcoHgO8mQwUd_biV9w1R8DTgvAT1wRlM=m18</sublink>9mov
-<sublink></sublink>
-
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-<item>
-<title>[B]Standoff[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/duJijR_7gequqO4CtrejkGOzJPSD711TUytb0SkEO2E=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/duJijR_7gequqO4CtrejkGOzJPSD711TUytb0SkEO2E=m18</sublink>
-<sublink>https://3.bp.blogspot.com/rG-VufPuJigPIOlfi6mqH-fKmlY5acNPjxG3AD-PIn2a=m22</sublink>
-<sublink>https://3.bp.blogspot.com/rG-VufPuJigPIOlfi6mqH-fKmlY5acNPjxG3AD-PIn2a=m18</sublink>
-<sublink>http://vidzi.tv/hatbgneptf6h.html</sublink>
-<sublink>https://lh3.googleusercontent.com/Ny1gD6FADNMQt_LOSgfdiuHbQvGUgZDLtoqCD08fglTM=m22</sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-<item>
-<title>[B]Wazir[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>http://2.bp.blogspot.com/bz18OWZJr4HBRS9Rp_1XZkWPKRt5T4jtxP1Z5BeOx5MP=m18</sublink>
-<sublink>http://vidzi.tv/ymqlxoz9nf1u.html</sublink>
-<sublink>http://thevideo.me/6mfmv8ey5qwe</sublink>
-<sublink>http://vidto.me/41yxs9wpcc7g.html</sublink>
+<sublink>https://3.bp.blogspot.com/mv4Nfln18AhEmTfRRccPeC2XJFavBt-REqzE7tgRT5NM=m22</sublink>
+<sublink>http://2.bp.blogspot.com/7o8Wkdk-PWsK407ROjMs97Hvtc6oRXmJGWmKejOQuz3l=m22</sublink>
+<sublink>https://3.bp.blogspot.com/V4-mkimUNyqiJaAafvaXHQV9GdnemxemL9MJE4LXOfQ=m22</sublink>
+<sublink>http://vidto.me/0fpgncuszyks.html</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
@@ -492,48 +630,13 @@
 
 
 
-
-
 <item>
-<title>[B]The Submarine Kid[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]The Lobster[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://2.bp.blogspot.com/MpLkKf84vFmaog9WNbXdIxLZIBVtTMDHq8_N1R35NXXI=m18</sublink>
-<sublink>http://vodlocker.com/kajkjumee0zx</sublink>
-<sublink>http://vidzi.tv/ftxybli6jnyc.html</sublink>
-<sublink>http://vidzi.tv/h5sgndvxslcu.html</sublink>
-<sublink>http://vidto.me/vit5oobzqmrl.html</sublink>
 <sublink></sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-<item>
-<title>[B]Lawless Range[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://3.bp.blogspot.com/F87Bwghpg5hC28jbsq6iYm35JBHhhSB14MTP6fzc3RqP=m22</sublink>
-<sublink>https://3.bp.blogspot.com/F87Bwghpg5hC28jbsq6iYm35JBHhhSB14MTP6fzc3RqP=m18</sublink>
-<sublink>http://2.bp.blogspot.com/DxnZi3st_HhCc26Vq2gnbl6vDKGmn7RdsgZNgYC9Nkmb=m18</sublink>
-<sublink>http://vodlocker.com/yvlatyjmlarw</sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
-
-
-
-
-<item>
-<title>[B]Blue Mountain State : The Rise of Thadland[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>https://lh3.googleusercontent.com/R-NxNhUkqXlAM2m2BPK28qjTLWwwevG2Zqr4RG1aDML3=m22</sublink>
-<sublink>https://lh3.googleusercontent.com/R-NxNhUkqXlAM2m2BPK28qjTLWwwevG2Zqr4RG1aDML3=m18</sublink>
-<sublink>http://2.bp.blogspot.com/zLAKBh-OUjaAeROnif3k0xR0KjF7SjjoLkt7AsppepCX=m22</sublink>
-<sublink></sublink>
+<sublink>http://vidto.me/vsjpvahwwbka.html</sublink>
+<sublink>http://2.bp.blogspot.com/PGLzTwyzr41W3DNTbvNt1zlZ0iQA_lOpROR1DM3EUh-p=m22</sublink>
+<sublink>https://3.bp.blogspot.com/8fu7VUJacf_o1LMnXLBkFGuvLSXLt01vDTFUq2iLi5U=m22</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
@@ -560,14 +663,49 @@
 </item>
 
 
+
 <item>
-<title>[B]Ride Along 2[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]The Peanuts Movie[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>http://2.bp.blogspot.com/LGrGq1ojD-_G2McrL3HSAWCaRndTcPvSjawJuC-CsMnt=m18</sublink>
-<sublink>https://3.bp.blogspot.com/neUMfYXwv24t8jT-eU-puOtAtG-oLdsmYiBiXwOo5w=m37</sublink>
-<sublink>https://3.bp.blogspot.com/neUMfYXwv24t8jT-eU-puOtAtG-oLdsmYiBiXwOo5w=m22</sublink>
-<sublink>http://vodlocker.com/8j7ogwiru8ln</sublink>
-<sublink>http://vidto.me/xrc3y9rt1oh5.html</sublink>
+<sublink>https://3.bp.blogspot.com/cs_bwPn-kzl0aA9MbDh0tDKDfFhyIEl0HUmqZTI4kw=m22</sublink>
+<sublink>http://2.bp.blogspot.com/TZi7MhTXtp9TfDlwptV4uitrWhzv5KCKW0pr7Y1lECLA=m18</sublink>
+<sublink>https://k.tusfiles.net/d/e4livcvntv2fvxijkxc47dacb2ronsvthmtgukjj74xpa6vcmiqdlg5z/video.mp4</sublink>
+<sublink>http://yify.tv/player/pk/pk/plugins/glgl.php?v=594b504448776649362f426b44494c5a6d7472726352756e43786a38375559554a672f6c774a3544625061552f3968344e52737269306e76357a35645848782b626a396f47704966494a67343676655772586f45424a6579667854717a7776784a48796f3651756c414636552b517a7662364e4f582b7061616a4c6d34363347313244626a7555566e743755692f336e535a61415343315039416c6a67753673544f674a3966334a632b4d3d</sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]The Revenant[/B][COLOR lightslategray][/COLOR]</title>https://lh3.googleusercontent.com/AeZu7gak5z83nnaH8LTRHFJsAIPzcX5tsVEd_nGD-mnd=m18
+<link>
+<sublink>https://lh3.googleusercontent.com/AeZu7gak5z83nnaH8LTRHFJsAIPzcX5tsVEd_nGD-mnd=m22</sublink>
+<sublink>https://lh3.googleusercontent.com/AeZu7gak5z83nnaH8LTRHFJsAIPzcX5tsVEd_nGD-mnd=m18</sublink>
+<sublink>http://2.bp.blogspot.com/2TYp-E0b8Xw7IGTD5waPdxsBDR7TDoGCnEQrPCyEv_d8=m22</sublink>
+<sublink>http://2.bp.blogspot.com/2TYp-E0b8Xw7IGTD5waPdxsBDR7TDoGCnEQrPCyEv_d8=m18</sublink>
+<sublink>https://3.bp.blogspot.com/eAXYU_I8HS4flh8RZUSUCBOSkfqDZ-S8bbMWt2QX_D3f=m22</sublink>
+<sublink>https://3.bp.blogspot.com/xlnu2g2e-t-WE4cBldXW2BGP9q4bAsOffmfUybYv5dQ=m22</sublink>
+<sublink>http://vodlocker.com/8dn5b0ba5c3w</sublink>
+<sublink>http://vidto.me/tyhrtnsfuo0f.html</sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[B]The Submarine Kid[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://2.bp.blogspot.com/MpLkKf84vFmaog9WNbXdIxLZIBVtTMDHq8_N1R35NXXI=m18</sublink>
+<sublink>http://vodlocker.com/kajkjumee0zx</sublink>
+<sublink>http://vidzi.tv/ftxybli6jnyc.html</sublink>
+<sublink>http://vidzi.tv/h5sgndvxslcu.html</sublink>
+<sublink>http://vidto.me/vit5oobzqmrl.html</sublink>
 <sublink></sublink>
 <sublink></sublink>
 </link>
@@ -576,13 +714,14 @@
 </item>
 
 
+
 <item>
-<title>[B]Lazer Team-[/B][COLOR lightslategray][/COLOR]</title>
+<title>[B]Wazir[/B][COLOR lightslategray][/COLOR]</title>
 <link>
-<sublink>https://3.bp.blogspot.com/mv4Nfln18AhEmTfRRccPeC2XJFavBt-REqzE7tgRT5NM=m22</sublink>
-<sublink>http://2.bp.blogspot.com/7o8Wkdk-PWsK407ROjMs97Hvtc6oRXmJGWmKejOQuz3l=m22</sublink>
-<sublink>https://3.bp.blogspot.com/V4-mkimUNyqiJaAafvaXHQV9GdnemxemL9MJE4LXOfQ=m22</sublink>
-<sublink>http://vidto.me/0fpgncuszyks.html</sublink>
+<sublink>http://2.bp.blogspot.com/bz18OWZJr4HBRS9Rp_1XZkWPKRt5T4jtxP1Z5BeOx5MP=m18</sublink>
+<sublink>http://vidzi.tv/ymqlxoz9nf1u.html</sublink>
+<sublink>http://thevideo.me/6mfmv8ey5qwe</sublink>
+<sublink>http://vidto.me/41yxs9wpcc7g.html</sublink>
 <sublink></sublink>
 <sublink></sublink>
 <sublink></sublink>
@@ -591,16 +730,20 @@
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
-<item>
-<title>[B]Sisters[/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink>http://2.bp.blogspot.com/DCkt14QJ88D-kJxUg1VDSQ9SqDcmxe6j2vVNCR0-eXlY=m22</sublink>
-<sublink>https://3.bp.blogspot.com/Sjinfdq3I4mkz39bMuG9x65PaquHlTV7UhC79sBgkSZa=m22</sublink>
-<sublink>https://3.bp.blogspot.com/Sjinfdq3I4mkz39bMuG9x65PaquHlTV7UhC79sBgkSZa=m18</sublink>
-<sublink>http://vidzi.tv/0vq4rwckgj3j.html</sublink>
-<sublink>http://vidto.me/6q1w0jlbdtci.html</sublink>
-<sublink>http://vodlocker.com/6iqxj1j7tev5</sublink>
 
+
+<item>
+<title>[B]Youth[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink>http://vodlocker.com/np9b3rjk8o46</sublink>
+<sublink>http://vidto.me/7t94sc2s39av.html</sublink>
+<sublink>https://pgli2u.oloadcdn.net/dl/l/0tlilDmpPr0/7BDlH52MmGE/www.filmikz.ch-BRRip.XviD.AC3-EVO.avi.mp4</sublink>
+<sublink>https://3.bp.blogspot.com/VId-ZCV8nQq2H6onOUvG0AW8nxwSGOe4O9BBW0bMGIE=m22</sublink>123
+<sublink>https://3.bp.blogspot.com/VId-ZCV8nQq2H6onOUvG0AW8nxwSGOe4O9BBW0bMGIE=m18</sublink>
+<sublink>http://2.bp.blogspot.com/1cscYm17C-VIbcoHgO8mQwUd_biV9w1R8DTgvAT1wRlM=m18</sublink>9mov
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
 <sublink></sublink>
 </link>
 
@@ -870,7 +1013,7 @@
 	<message>[B][COLOR lightslategray][/COLOR][/B]</message>
 	<message>[B][COLOR lightslategray][/COLOR][/B]</message>
 	<message></message>
-	<message></message>  #SEPERATOR - DELETE IF YOU WISH
+	<message></message> 
     
 	
 </info>
