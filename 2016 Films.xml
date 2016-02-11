@@ -4,7 +4,7 @@
 
 
 <info>
-	<message>[B][COLOR firebrick]Films released in 2016[/COLOR][/B]</message>
+	<message>[B][COLOR skyblue]Films released in 2016[/COLOR][/B]</message>
 	<message>[COLOR][I][/COLOR][/I]</message>
 	<message>inc 1080P and 720P links</message>
 	<message>[B][COLOR tan]Recently added: Lawless Range, The Submarine Kid, The Last Witch Hunter, Solace, Concussion, Spectre, Creed, The Revenant, The Hateful Eight, Sicario, The Good Dinosaur, The Big Short,...[/COLOR][/B]</message>
@@ -15,7 +15,7 @@
 #PLAYLIST ITEMS#
 
 <info>
-	<message>[COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Featured[/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Featured[/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
 	<message>[CR]</message>
 	
 </info>
@@ -141,24 +141,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <info>
-	<message>[COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Alphabetical{/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]• • • • •[/COLOR][COLOR skyblue]Alphabetical{/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
 	<message>[CR]</message>
 	
 </info>
