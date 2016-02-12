@@ -18,9 +18,11 @@
 
 #PLAYLIST ITEMS#
 
-
-
-
+<directories>
+<name>[B][COLOR skyblue]Murder Games: The Life and Death of Breck Bednar[/COLOR][/B]</name>
+	<thumbnail></thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/MurderGames.xml</link>
+</directories>
 
 
 <item>
