@@ -37,6 +37,10 @@
 	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
 </info>
 
+    <name>[B][COLOR tan]Trapped (Ófærð - original title)[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/4IWZPHO.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Trapped%20(%C3%93f%C3%A6r%C3%B0%202015).xml</link>
+
      <name>[B][COLOR skyblue]Murder Games: The Life and Death of Breck Bednar[/COLOR][/B]</name>
 	<thumbnail>http://s1.dmcdn.net/S_cW0/526x297-7Qs.jpg</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/MurderGames.xml</link>
