@@ -12,7 +12,7 @@
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
     <message>inc 1080P and 720P links</message>
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-	<message>[B][COLOR tan]Recently added: Lawless Range, The Submarine Kid, The Last Witch Hunter[/COLOR][/B]</message>
+	<message>[B][COLOR tan]Recently added: Star Wars: The Force Awakens, Lawless Range, The Submarine Kid, The Last Witch Hunter[/COLOR][/B]</message>
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 	<message>[B][COLOR tan]Solace, Concussion, Spectre, Creed, The Revenant, The Hateful Eight[/COLOR][/B]</message>
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
@@ -25,11 +25,28 @@
 #PLAYLIST ITEMS#
 
 <info>
-	<message>[B][COLOR ghostwhite]• • • • •[/COLOR][COLOR lightsteelblue]Featured[/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>
+	<message>[B][COLOR ghostwhite]• • • • •[/COLOR][COLOR lightsteelblue]Featured[/COLOR] [COLOR ghostwhite]• • • • •[/COLOR][/B]</message>xxx
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 	<message>[CR]</message>
 	<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </info>
+
+
+<item>
+<title>[B]Star Wars: The Force Awakens[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink></sublink>
+<sublink>http://vidzi.tv/owqn403stioa.html</sublink>
+<sublink>http://vodlocker.com/19mrnv59qlpb</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B]Sicario[/B][COLOR lightslategray][/COLOR]</title>
@@ -703,6 +720,21 @@
 <thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
 </item>
 
+<item>
+<title>[B]Star Wars: The Force Awakens[/B][COLOR lightslategray][/COLOR]</title>
+<link>
+<sublink></sublink>
+<sublink>http://vidzi.tv/owqn403stioa.html</sublink>
+<sublink>http://vodlocker.com/19mrnv59qlpb</sublink>
+<sublink>https://3.bp.blogspot.com/Zc_0pv2wCwFhJZwd3BWQmire3YL70WH8Hfas_jlw41Ps0ctiH54oRKcPc-ifA5Z-9TzadA=m18</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+
+<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
+</item>
+
 
 <item>
 <title>[B]Steve Jobs[/B][COLOR lightslategray][/COLOR]</title>
@@ -1055,20 +1087,6 @@
 </item>
 
 
-<item>
-<title>[B][/B][COLOR lightslategray][/COLOR]</title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-
-<thumbnail>http://i.imgur.com/KD0dzJp.png</thumbnail>
-</item>
 
 
 <item>
