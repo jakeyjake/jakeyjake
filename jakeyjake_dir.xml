@@ -28,12 +28,10 @@
 
 
     <name>[COLOR cornflowerblue][B]Films of 2016[/B][/COLOR][I] - selected by Joost Swarte[/I] </name>
-	<thumbnail>http://www.griffioen-grafiek.nl/SwarteZeefdruk/DeVoorstellingWeb.jpg</thumbnail>
+	<thumbnail>http://i.imgur.com/CbT7V3S.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2016%20Films.xml</link>
 
     
-
-  
     <name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
 	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
@@ -49,14 +47,12 @@
 	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
 	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
 	
-	<name>[COLOR cornflowerblue][B]100 Code[/B][/COLOR][I]~aka The Hundred Code[/I]</name>
-	<thumbnail>http://thetvdb.com/banners/_cache/posters/286193-2.jpg</thumbnail>
-	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/100code.xml</link>
 	
 	
 	<name>[I]Roger Mellie's[/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
+	
 	
 	<name>[I]Andy Gill's [/I][COLOR cornflowerblue][B]~Music Corner[/B][/COLOR]</name>
 	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
