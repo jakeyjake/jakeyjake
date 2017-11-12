@@ -1,34 +1,90 @@
-#######################################################################################################################################
-<poster>jake</poster>
-#######################################################################################################################################
 
-<dir>
-<name>Top Rated Movies</name>
-<link>http://www.imdb.com/chart/top?mode=desktop&ref_=m_ft_dsk</link>
-<thumbnail></thumbnail>
-<summary>imdb top 250</summary>
-</dir>
+#START#
+#
+#
 
-<dir>
-<name>Popular Movies</name>
-<link>http://www.imdb.com/chart/moviemeter?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3021371422&pf_rd_r=0R4HRBBK24MQK0PSYZP2&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_ql_2</link>
-<thumbnail></thumbnail>
-<summary>popular</summary>
-</dir>
 
-<dir>
-<name>Sci-Fi Movies</name>
-<link>http://www.imdb.com/genre/sci_fi?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2251824562&pf_rd_r=1XZ63SJCSHXM1N6H8KDR&pf_rd_s=right-6&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_gnr_18</link>
-<thumbnail></thumbnail>
-<summary>sci-fi</summary>
-</dir>
+<poster>jakeyjake</poster>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>  
 
-<dir>
-<name>Really Shit Movies</name>
-<link>http://www.imdb.com/chart/bottom?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3021371422&pf_rd_r=1XZ63SJCSHXM1N6H8KDR&pf_rd_s=right-4&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_ql_8</link>
-<thumbnail></thumbnail>
-<summary>shit movies</summary>
-</dir>
+
+
+<info>
+	<message>[B][COLOR firebrick]A personal playlist of videos. [/COLOR][/B]</message>hhh
+    <message>[B][COLOR firebrick]All the contents herein are freely available to stream on the internet.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The playlists below, temporarily list video links found via a google search.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The media contents linked here are neither uploaded nor stored by myself.[/COLOR][/B]</message>
+    <message>[CR]</message>
+	<message>[COLOR][I][/COLOR][/I]</message>
+	<message>inc 1080P and 720P links</message>
+	<message>[B][COLOR tan]Recently added: The Last Witch Hunter, Solace, Ride Along 2, Home Invasion, Concussion, Spectre, Creed, The Revenant, [/COLOR][/B]</message>
+	<message>[B][COLOR tan]The Hateful Eight, Sicario, Exposed, Terminus, The Good Dinosaur, The Big Short,Lawless Range, The Submarine Kid, ...[/COLOR][/B]</message>
+	<message>[CR]</message>
+</info>	
+	
+
+#DIRECTORIES#
+
+<directories>
+
+
+    <name>[COLOR cornflowerblue][B]Films of 2016[/B][/COLOR][I] - selected by Joost Swarte[/I] </name>
+	<thumbnail>http://i.imgur.com/CbT7V3S.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2016%20Films.xml</link>
+
+    
+    <name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
+	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
+    
+	
+	<name>[COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I]~Gripper Stebson's favourites[/I]</name>
+	<thumbnail>http://i.imgur.com/14IYh3d.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2013-14%20films.xml</link>
+	
+	
+	
+	<name>[I]The Fred C Dobbs [/I][COLOR cornflowerblue][B]~Film Awards[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
+	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
+	
+	
+	
+	<name>[I]Roger Mellie's[/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
+	
+	
+	<name>[I]Andy Gill's [/I][COLOR cornflowerblue][B]~Music Corner[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
+
+	
+	
+	
+   
+	<info>
+	
+
+	<message>[CR]</message>
+	<message>[B][COLOR lightslategray] •••[/COLOR] - [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
+	<message>[B][COLOR lightslategray] •[/COLOR] - [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
+	<message>[COLOR tan]To include a list in your iStream Movie Searches -> Right-Click/Context Menu and choose[/COLOR] [B][COLOR cornflowerblue]Add[/COLOR] as [COLOR cornflowerblue]i[/COLOR]Stream Source[/B]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+    
+	
+</info>
+	
+
+</directories>
+
+
+#
+#
+#END
+
+
+
 
 <plugin>
 <name>30701</name>
