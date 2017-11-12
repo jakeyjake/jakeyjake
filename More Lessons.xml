@@ -1,0 +1,140 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>More JustinGuitar</poster>
+<fanart>http://i.imgur.com/jPriJ54.png</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][/B]</message>
+	<message>[B]More Lessons from JustinGuitar.com[/B]</message>
+	<message>[B][/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#DIRECTORIES#
+
+<directories>
+
+
+<name>[B]Chords[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL4D551B22997B8EEF</link>
+<thumbnail></thumbnail>
+
+<name>[B]Basic Skills[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL07AF931DDF918F77</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Arpeggios[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLF46A8B7123BE08FA</link>
+<thumbnail></thumbnail>
+
+<name>[B]Licks and Tricks[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL24BE58DB8026D65E</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Rhythm Guitar[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL23F593E31775AC25</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Technique Lessons[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL3C8E555D9F7D7FFF</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Rock and Metal Techniques[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLBEB68955FA5B93A0</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Blues Rhythm Techniques[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL05D69B7AE9077E05</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Blues Lead Techniques[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLBAF1153E1DB0E2CB</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Jazz Basics[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL6999B9769F903D6D</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Folks Fingerstyle Module[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL8FF1196CB2F61FF3</link>
+<thumbnail></thumbnail>
+
+
+
+<name>[B]Aural Training[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL9D28FBAAB41DA53B</link>
+<thumbnail></thumbnail>
+
+
+
+<name>[B]Transcribing[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL46BF323DFB881712</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Guide to Scales[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLAEBBD885ECD8B675</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Guitar Gear[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL8460DB9D509F0106</link>
+<thumbnail></thumbnail>
+
+
+<name>[B]Quick Tips[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLlwfspJqZ124oiiIQqcclkBESpc5r85iY</link>
+<thumbnail></thumbnail>
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+<name>[B][/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/</link>
+<thumbnail></thumbnail>
+
+
+
+</directories>

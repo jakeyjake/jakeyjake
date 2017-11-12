@@ -1,0 +1,101 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>JustinGuitar</poster>
+<fanart>http://i.imgur.com/jPriJ54.png</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][/B]</message>
+	<message>[B][COLOR peru]Learn to Play Guitar. Video Lessons....A work in progress[/B][/COLOR]</message>
+	<message>[B][COLOR peru]To start with, video lessons from the excellent JustinGuitar.com [/B][/COLOR]</message>
+	<message>[COLOR tan]Plus, choose from  around 300 'how-to-play songs'[/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#DIRECTORIES#
+
+<directories>
+
+<name>[B]Beginners Course - All Lessons in order[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPrieUcDokzMjjMhIz-UYRMylZ</link>
+<thumbnail></thumbnail>
+
+<name>[B]Intermediate Course - All Lessons in order[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPricm74pzLnynDQt6wVMN05y6</link>
+<thumbnail></thumbnail>
+
+<name>[B]More Lessons, Tips, Skills and Techniques[/B]</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/More%20Lessons.xml</link>
+<thumbnail></thumbnail>
+
+<name>[B]Beginners Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL7BE47BFB4EAA777D</link>
+<thumbnail></thumbnail>
+
+<name>[B]Intermediate Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLDBD415C78CBFFC4E</link>
+<thumbnail></thumbnail>
+
+<name>[B]More Beginners Songs[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL14A21AE65B48D187</link>
+<thumbnail></thumbnail>
+
+<name>[B]Acoustic Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLNk0G5iUZR_ySZFF3nvuJSWph6oin2Gep</link>
+<thumbnail></thumbnail>
+
+<name>[B]Pop Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLNk0G5iUZR_zb_DEKFTAMYEd5GhWFwaaP</link>
+<thumbnail></thumbnail>
+
+<name>[B]Rock Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLNk0G5iUZR_zgXkSS7vzVOc--J4ZLdc_u</link>
+<thumbnail></thumbnail>
+
+<name>[B]Vintage Songbook[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLNk0G5iUZR_w2JXZot8UF73MrzIARiqYT</link>
+<thumbnail></thumbnail>
+
+<name>[B]Songs arranged for Solo Guitar[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL4490801544E72336</link>
+<thumbnail></thumbnail>
+
+<name>[B]Neil Young Songs[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLNk0G5iUZR_ys5QyOHohRXOE0oAc2Ui3K</link>
+<thumbnail></thumbnail>
+
+<name>[B]Christmas Songs[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL4567A27F5A3A8D93</link>
+<thumbnail></thumbnail>
+
+<name>[B]Awesome Riffs[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLBD819B14C0C2CBEF</link>
+<thumbnail></thumbnail>
+
+<name>[B]Classic Solos[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL4FF36F8F79FB7692</link>
+<thumbnail></thumbnail>
+
+<name>[B]Note for Note Songs[/B]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PL93827D23648E4A09</link>
+<thumbnail></thumbnail>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</directories>
+
