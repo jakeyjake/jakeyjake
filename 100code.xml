@@ -4,203 +4,32 @@
 
 
 
-<poster>100code</poster>
-<fanart>http://thetvdb.com/banners/fanart/vignette/286193-2.jpg</fanart>
+<poster>br</poster>
+<fanart>https://i.imgur.com/raVyktu.jpg</fanart>
 
 
 
-<info>
-	<message>[B]100 Code - The Hundred Code(2015- )[/B]</message>
-	<message>New York. Stockholm. Over the course of the last 12 months, </message>
-	<message> young, blonde and blue-eyed women have been turning up dead</message>
-	<message> in a field of asphodel flowers.</message>
-	<message>[CR]</message>  
-</info>
+
 
 
 
 #PLAYLIST ITEMS#
-
 <item>
-<title>1x01 New York-Stockholm</title>
-<link>
-<sublink>http://streamin.to/illj4neqw9jg</sublink>
-<sublink>http://vidzi.tv/su3k3if55il2.html</sublink>
-<sublink>http://streamcloud.eu/qymnt83nhxga/100.code.s01e01.VOSE.avi.html</sublink>
-<sublink>https://openload.co/f/teoZjtbwGVM</sublink>
-<sublink>http://thevideo.me/dn1195s3yuxd</sublink>
-<sublink>http://vidto.me/fhasecocsq1m.html</sublink>
-<sublink>http://allmyvideos.net/12c2k22kc2eg</sublink>
-<sublink>http://thevideo.me/f9jaeo8o32pf</sublink>
-<sublink>http://allmyvideos.net/jtzo5n0dvnhs</sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/286193-2.jpg</thumbnail>
+        <title></title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0083658</imdb>
+                <title>Blade Runner</title>
+                <year>1982</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://i.imgur.com/r8cctMg.png</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </item>
-
-<info>
-	<message>[CR]</message>  
-</info>
-
-
-<item>
-<title>1x02 Flowers in Hell</title>
-<link>
-<sublink>http://vidzi.tv/2o5yt7sdqd2n.html</sublink>
-<sublink>http://thevideo.me/e3b3h0wx97rv</sublink>
-<sublink>http://allmyvideos.net/zxqcu3669fgg</sublink>
-<sublink>http://vidzi.tv/jvygmuhqa01y.html</sublink>
-<sublink>http://streamin.to/5qz92l4nlyd8</sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/286193-2.jpg</thumbnail>
-</item>
-
-<info>
-	<message>[CR]</message>  
-</info>
-
-<item>
-<title>1x03 Down the Rabbit Hole</title>
-<link>
-<sublink>https://openload.co/f/Iwe9Ke7XdHM</sublink>
-<sublink>http://thevideo.me/lxn4bh16yyps</sublink>
-<sublink>http://thevideo.me/q6our44hypex</sublink>
-<sublink>http://vidzi.tv/nt1qnj93xfbo.html</sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail>http://thetvdb.com/banners/posters/286193-2.jpg</thumbnail>
-</item>
-
-
-<info>
-	<message>[CR]</message>  
-</info>
-
-
-
-<item>
-<title>1x04 My Only Friend</title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>S1 Ep11 - Parity Begins at Home</title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-<sublink></sublink>
-</link>
-<thumbnail></thumbnail>
-</item>
-
-
-
-
-
-
 
 
