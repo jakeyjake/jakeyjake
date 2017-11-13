@@ -31,12 +31,7 @@
 <summary>sci-fi</summary>
 </dir>
 
-<dir>
-<name>Really Shit Movies</name>
-<link></link>
-<thumbnail></thumbnail>
-<summary>shit movies</summary>
-</dir>
+
 
 <dir>
   <name>TMDB Popular</name>
@@ -50,7 +45,7 @@
 
 <dir>
   <name>TMDB Top Rated</name>
-  <tmdb>https://www.themoviedb.org/movie/top-rated</tmdb>
+  <tmdb>movies/top-rated</tmdb>
 </dir>
 
 <dir>
@@ -79,7 +74,7 @@
   <tmdb>person/movies/17419</tmdb>
 </dir>
 
-#######################################################################################################################################
+
 
 
 <plugin>
@@ -88,7 +83,6 @@
 <thumbnail></thumbnail>
 <summary>Settings</summary>
 </plugin>
-
 
 <plugin>
 <name>30702</name>
