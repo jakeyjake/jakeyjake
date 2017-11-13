@@ -50,13 +50,13 @@
 
 <dir>
   <name>TMDB Top Rated</name>
-  <tmdb>movies/top_rated</tmdb>
+  <tmdb>https://www.themoviedb.org/movie/top-rated</tmdb>
 </dir>
 
 <dir>
   <name>TMDB Popular</name>
   <tmdb>tv/popular</tmdb>
-  <link>https://www.themoviedb.org/movie</link>
+ 
 </dir>
 
 <dir>
