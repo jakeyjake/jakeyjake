@@ -34,43 +34,43 @@
 
 
 <dir>
-  <name>TMDB Popular</name>
+  <title>TMDB Popular</title>
   <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <name>TMDB Now Playing</name>
+  <title>TMDB Now Playing</title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
 
 <dir>
-  <name>TMDB Top Rated</name>
+ <title>TMDB Top Rated</title>
   <tmdb>movies/top-rated</tmdb>
 </dir>
 
 <dir>
-  <name>TMDB Popular</name>
+  <title>TMDB Popular</title>
   <tmdb>tv/popular</tmdb>
  
 </dir>
 
 <dir>
-  <name>TMDB Top Rated</name>
+  <title>TMDB Top Rated</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
 
 <dir>
-  <name>TMDB List: Animal Kingdom</name>
+  <title>TMDB List: Animal Kingdom</title>
   <tmdb>list/13488</tmdb>
 </dir>
 
 <dir>
-  <name>Bryan Cranston Shows TMDB</name>
+  <title>Bryan Cranston Shows TMDB</title>
   <tmdb>person/shows/17419</tmdb>
 </dir>
 
 <dir>
-  <name>Bryan Cranston Movies TMDB</name>
+  <title>Bryan Cranston Movies TMDB</title>
   <tmdb>person/movies/17419</tmdb>
 </dir>
 
