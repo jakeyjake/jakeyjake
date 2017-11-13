@@ -10,19 +10,6 @@
 <summary>Some Favourite Films</summary>
 </dir>
 
-<dir>
-<name>Top Rated Movies</name>
-<link></link>
-<thumbnail></thumbnail>
-<summary>imdb top 250</summary>
-</dir>
-
-<dir>
-<name>Popular Movies</name>
-<link></link>
-<thumbnail></thumbnail>
-<summary>popular</summary>
-</dir>
 
 <dir>
 <name>Sci-Fi Movies</name>
