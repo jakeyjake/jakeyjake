@@ -38,6 +38,49 @@
 <summary>shit movies</summary>
 </dir>
 
+<dir>
+  <name>TMDB Popular</name>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <name>TMDB Now Playing</name>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+  <name>TMDB Top Rated</name>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <name>TMDB Popular</name>
+  <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+  <name>TMDB Top Rated</name>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+  <name>TMDB List: Animal Kingdom</name>
+  <tmdb>list/13488</tmdb>
+</dir>
+
+<dir>
+  <name>Bryan Cranston Shows TMDB</name>
+  <tmdb>person/shows/17419</tmdb>
+</dir>
+
+<dir>
+  <name>Bryan Cranston Movies TMDB</name>
+  <tmdb>person/movies/17419</tmdb>
+</dir>
+
+#######################################################################################################################################
+
+
 <plugin>
 <name>30701</name>
 <link>plugin://plugin.video.getger/?action=openSettings</link>
