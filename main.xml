@@ -56,6 +56,7 @@
 <dir>
   <name>TMDB Popular</name>
   <tmdb>tv/popular</tmdb>
+  <link>https://www.themoviedb.org/movie</link>
 </dir>
 
 <dir>
