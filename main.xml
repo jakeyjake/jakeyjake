@@ -32,7 +32,7 @@
 
 <dir>
  <title>TMDB Top Rated</title>
-  <tmdb>movies/top_rated</tmdb>
+  <tmdb>movies/top-rated</tmdb>
 </dir>
 
 <dir>
@@ -43,7 +43,7 @@
 
 <dir>
   <title>TMDB Top Rated</title>
-  <tmdb>tv/top_rated</tmdb>
+  <tmdb>tv/top-rated</tmdb>
 </dir>
 
 
