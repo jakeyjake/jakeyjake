@@ -17,12 +17,12 @@
 
 <dir>
   <title>TMDB Crime Shows</title>
-  <tmdb>genre/shows/80</tmdb>
+  <tmdb>genre/80</tmdb>
 </dir>
 
 <dir>
   <title>TMDB Sci-Fi and Fantasy Shows</title>
-  <tmdb>genre/shows/10765</tmdb>
+  <tmdb>genre/10765</tmdb>
 </dir>
 
 
