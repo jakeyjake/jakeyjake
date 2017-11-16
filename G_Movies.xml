@@ -25,6 +25,14 @@
 
 
 <dir>
+<title>Gangster Movies</title>
+<tmdb>list/38640</tmdb>
+<summary>A selection of Gangster Films</summary>
+</dir>
+
+
+
+<dir>
 <title>Science Fiction Movies</title>
 <tmdb>genre/movies/878</tmdb>
 </dir>
