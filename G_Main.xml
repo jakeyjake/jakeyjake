@@ -5,13 +5,13 @@
 
 <dir>
 <name>Movies</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Movies.xml</link>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
 
 
 <dir>
 <name>TV Shows</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/TV Shows.xml</link>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
 
