@@ -4,6 +4,13 @@
 
 
 <dir>
+<name>Movie Collections</name>
+<link></link>
+<summary></summary>
+</dir>
+
+
+<dir>
 <name>The Fred C Dobbs Film Awards</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
 <thumbnail></thumbnail>
@@ -11,31 +18,6 @@
 </dir>
 
 
-<dir>
-<title>The Coen Brothers</title>
-<tmdb>list/38593</tmdb>
-<summary>Films directed or written by Joel and/or Ethan Coen</summary>
-</dir>
-
-<dir>
-<title>Ben Movies</title>
-<tmdb>list/38638</tmdb>
-<summary>Ben Movie Playlist</summary>
-</dir>
-
-
-<dir>
-<title>Gangster Movies</title>
-<tmdb>list/38640</tmdb>
-<summary>A selection of Gangster Films</summary>
-</dir>
-
-
-
-<dir>
-<title>Science Fiction Movies</title>
-<tmdb>genre/movies/878</tmdb>
-</dir>
 
 
 <dir>
@@ -53,11 +35,6 @@
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
-<dir>
-  <title>TMDB List: Animal Kingdom</title>
-  <tmdb>list/13488</tmdb>
-</dir>
-
 
 <dir>
   <title>Bryan Cranston Movies TMDB</title>
@@ -66,7 +43,7 @@
 
 
 <dir>
-  <title>Trending Movies</title>
+  <title>Trakt Trending Movies</title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 

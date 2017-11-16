@@ -1,0 +1,33 @@
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+<dir>
+<title>The Coen Brothers</title>
+<tmdb>list/38593</tmdb>
+<summary>Films directed or written by Joel and/or Ethan Coen</summary>
+</dir>
+
+<dir>
+<title>Alfred Hitchcock</title>
+<tmdb>list/</tmdb>
+<summary>Films directed by Alfred Hitchcock</summary>
+</dir>
+
+<dir>
+<title>Gangster Movies</title>
+<tmdb>list/38640</tmdb>
+<summary>A selection of Gangster Films</summary>
+</dir>
+
+<dir>
+<title>Science Fiction Movies</title>
+<tmdb>genre/movies/878</tmdb>
+</dir>
+
+<dir>
+<title>Ben Movies</title>
+<tmdb>list/38638</tmdb>
+<summary>Ben Movie Playlist</summary>
+</dir>
