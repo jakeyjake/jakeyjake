@@ -36,18 +36,13 @@
 
 
 <dir>
-  <title>Bryan Cranston Movies TMDB</title>
-  <tmdb>person/movies/17419</tmdb>
-</dir>
-
-
-<dir>
   <title>Trakt Trending Movies</title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
+
 <dir>
-  <title>Movie Watchlist</title>
+  <title>My Trakt Movie Watchlist</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
