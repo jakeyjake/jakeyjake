@@ -12,10 +12,8 @@
 
 
 <dir>
-<name>Sci-Fi Movies</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_SciFi.xml</link>
-<thumbnail></thumbnail>
-<summary>sci-fi</summary>
+<title>Science Fiction Movies</title>
+<tmdb>genre/movies/878</tmdb>
 </dir>
 
 
@@ -46,5 +44,8 @@
 </dir>
 
 
-
+<dir>
+  <title>Trending Movies</title>
+  <trakt>https://api.trakt.tv/movies/trending</trakt>
+</dir>
 

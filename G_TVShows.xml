@@ -4,16 +4,32 @@
 
 
 <dir>
-  <title>TMDB Popular</title>
+  <title>TMDB Popular Shows</title>
   <tmdb>tv/popular</tmdb>
  
 </dir>
 
 <dir>
-  <title>TMDB Top Rated</title>
+  <title>TMDB Top Rated Shows</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
 
+
+<dir>
+  <title>TMDB Crime Shows</title>
+  <tmdb>genre/tv/80</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Sci-Fi and Fantasy Shows</title>
+  <tmdb>genre/tv/10765</tmdb>
+</dir>
+
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
 
 <dir>
   <title>Bryan Cranston Shows TMDB</title>
