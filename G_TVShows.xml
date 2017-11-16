@@ -1,0 +1,22 @@
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+ 
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+
+<dir>
+  <title>Bryan Cranston Shows TMDB</title>
+  <tmdb>person/shows/17419</tmdb>
+</dir>
+

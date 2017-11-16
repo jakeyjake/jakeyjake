@@ -1,0 +1,55 @@
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+<dir>
+<name>The Fred C Dobbs Film Awards</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
+<thumbnail></thumbnail>
+<summary>Some Favourite Films</summary>
+</dir>
+
+
+<dir>
+<name>Sci-Fi Movies</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_SciFi.xml</link>
+<thumbnail></thumbnail>
+<summary>sci-fi</summary>
+</dir>
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+ <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+
+
+<dir>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
+</dir>
+
+
+<dir>
+  <title>Bryan Cranston Movies TMDB</title>
+  <tmdb>person/movies/17419</tmdb>
+</dir>
+
+
+
+
