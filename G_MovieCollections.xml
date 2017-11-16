@@ -11,9 +11,14 @@
 
 <dir>
 <title>Alfred Hitchcock</title>
-<tmdb>list/</tmdb>
-<summary>Films directed by Alfred Hitchcock</summary>
+<tmdb>person/movies/17419</tmdb>
+<summary>Alfred Hitchcock Movies TMDB</summary>
 </dir>
+
+<dir>
+      <title>Bryan Cranston Movies TMDB</title>
+      <tmdb>person/movies/17419</tmdb>
+    </dir>
 
 <dir>
 <title>Gangster Movies</title>
