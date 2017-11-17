@@ -6,8 +6,8 @@
 <dir>
   <title>TMDB Popular Shows</title>
   <tmdb>tv/popular</tmdb>
+ </dir>
  
-</dir>
 
 <dir>
   <title>TMDB Top Rated Shows</title>
@@ -25,15 +25,23 @@
   <tmdb>genre/shows/10765</tmdb>
 </dir>
 
+<dir>
+<title>TRAKT Popular Shows</title>
+<trakt>https://api.trakt.tv/shows/popular</trakt>
+<thumbnail></thumbnail>
+<summary></summary>
+</dir>
+
+
 
 <dir>
-  <title>My Trakt TV Watchlist</title>
+  <title>My TRACKT TV Watchlist</title>
   <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
 
 
 <dir>
-  <title>My Trakt TV Collection</title>
+  <title>My TRACKT TV Collection</title>
   <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
 </dir>
 
