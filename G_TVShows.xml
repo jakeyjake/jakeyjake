@@ -3,7 +3,7 @@
 #######################################################################################################################################
 
 <dir>
-  <title>Von • Current TV Shows</title>
+  <title>Our • Current TV Shows</title>
   <tmdb>list/38731</tmdb>
 </dir>
 
@@ -40,13 +40,13 @@
 
 
 <dir>
-  <title>TRACKT • My TV Watchlist</title>
+  <title>TRAKT • My TV Watchlist</title>
   <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
 
 
 <dir>
-  <title>TRACKT • My TV Collection</title>
+  <title>TRAKT • My TV Collection</title>
   <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
 </dir>
 
