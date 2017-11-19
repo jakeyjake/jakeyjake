@@ -1010,6 +1010,24 @@
         <fanart></fanart>
 </item>
 
+	
+<item>
+        <title>Twelve Monkeys (Terry Gilliam 1995)</title>
+	    <meta>
+	            <content>movie</content>
+	            <imdb>tt0114746</imdb>
+	            <title>Twelve Monkeys</title>
+	            <year>1995</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/6Sj9wDu3YugthXsU0Vry5XFAZGg.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>	
 
 <item>
         <title>Tyrannosaur (Paddy Considine 2011)</title>
