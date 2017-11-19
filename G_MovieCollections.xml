@@ -38,6 +38,18 @@
 <summary>Alfred Hitchcock Movies TMDB</summary>
 </dir>
 
+<dir>
+<title>Denis Villeneuve</title>
+<tmdb>list/38881</tmdb>
+<summary>Films directed by Denis Villeneuve</summary>
+</dir>
+
+<dir>
+<title>Billy Wilder</title>
+<tmdb>list/38882</tmdb>
+<summary>Films directed by Billy Wilder</summary>
+</dir>
+
 
 
 
