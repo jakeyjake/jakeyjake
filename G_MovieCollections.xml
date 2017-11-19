@@ -26,29 +26,15 @@
 <tmdb>genre/movies/878</tmdb>
 </dir>
 
-<dir>
-<title>The Coen Brothers</title>
-<tmdb>list/38593</tmdb>
-<summary>Films directed or written by Joel and/or Ethan Coen</summary>
+
+ <dir>
+<name>Directors</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
-<dir>
-<title>Alfred Hitchcock</title>
-<tmdb>person/movies/2636</tmdb>
-<summary>Alfred Hitchcock Movies TMDB</summary>
-</dir>
 
-<dir>
-<title>Denis Villeneuve</title>
-<tmdb>list/38881</tmdb>
-<summary>Films directed by Denis Villeneuve</summary>
-</dir>
 
-<dir>
-<title>Billy Wilder</title>
-<tmdb>list/38882</tmdb>
-<summary>Films directed by Billy Wilder</summary>
-</dir>
+
 
 
 
