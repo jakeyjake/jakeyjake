@@ -300,6 +300,25 @@
 
 
 <item>
+        <title>Invasion of the Body Snatchers (Don Siegel 1956)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0049366</imdb>
+	            <title>Invasion of the Body Snatchers</title>
+	            <year>1956</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://i.imgur.com/aMFIlMG.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
+<item>
         <title>Kes (Ken Loach 1969)</title>
         <meta>
                 <content>movie</content>
@@ -318,23 +337,7 @@
 </item>
 
 
-<item>
-        <title>Blade Runner (Ridley Scott 1982)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0083658</imdb>
-                <title>Blade Runner</title>
-                <year>1982</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/r8cctMg.png</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
+
 
 
 <item>
@@ -431,24 +434,6 @@
         <fanart></fanart>
 </item>
 
-
-<item>
-        <title>Blade Runner (Ridley Scott 1982)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0083658</imdb>
-                <title>Blade Runner</title>
-                <year>1982</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/r8cctMg.png</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
 
 
 <item>
@@ -564,24 +549,6 @@
         <fanart></fanart>
 </item>
 
-
-<item>
-        <title>The Vanishing {aka Spoorloos}(George Sluizer 1988)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0096163</imdb>
-                <title>The Vanishing</title>
-                <year>1988</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://i.imgur.com/bjvavXm.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
 
 
 <item>
@@ -736,23 +703,6 @@
 </item>
 
 
-<item>
-        <title>Blade Runner (Ridley Scott 1982)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0083658</imdb>
-                <title>Blade Runner</title>
-                <year>1982</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>https://i.imgur.com/r8cctMg.png</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
 
 
 <item>
@@ -963,6 +913,24 @@
         <fanart></fanart>
 </item>
 
+
+<item>
+        <title>The Vanishing {aka Spoorloos}(George Sluizer 1988)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0096163</imdb>
+                <title>The Vanishing</title>
+                <year>1988</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://i.imgur.com/bjvavXm.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
 
 <item>
         <title>The Window (Ted Tetzlaff 1949)</title>
