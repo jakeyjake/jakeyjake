@@ -17,8 +17,8 @@
 
 
 <plugin>
-    <name>Search All 1</name>
-	<link>plugin://plugin.video.poseidon/?action=searchNavigator&quot;,return)</link>
+    <name>Search movie p</name>
+	<link>plugin://plugin.video.poseidon/?action=movieSearch&quot;,return)</link>
 </plugin>
 
 <plugin>
