@@ -18,7 +18,7 @@
 
 <plugin>
     <name>Search movie r</name>
-	<link>plugin://plugin.video.rebirth/?action=searchNavigator&quot;,return)</link>
+	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search</link>
 </plugin>
 
 <plugin>
