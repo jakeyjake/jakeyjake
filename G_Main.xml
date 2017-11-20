@@ -31,8 +31,9 @@
 <name>30702</name>
 <link>plugin://plugin.video.getger/?action=search</link>
 <thumbnail></thumbnail>
-<summary>Search Getger</summary>
+<summary>Search</summary>
 </plugin>
+
 
 <plugin>
 <name>30701</name>
