@@ -17,8 +17,8 @@
 
 
 <plugin>
-    <name>Search movie p</name>
-	<link>plugin://plugin.video.poseidon/?action=movieSearch&quot;,return)</link>
+    <name>Search movie a</name>
+	<link>plugin://plugin.video.AnArchy/?action=searchNavigator&quot;,return)</link>
 </plugin>
 
 <plugin>
@@ -41,7 +41,6 @@
 <thumbnail></thumbnail>
 <summary>Settings</summary>
 </plugin>
-
 
 
 <plugin>
