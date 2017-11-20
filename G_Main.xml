@@ -14,19 +14,23 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
-<favourites>
-	<favourite name="Search" thumb="special://home/addons\script.elysium.artwork\resources\media\Default\search.png">ActivateWindow(10025,&quot;plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</favourite>
-	<favourite name="Search" thumb="special://home/addons\script.poseidon.artwork\resources\media\poseidon\search.jpg">ActivateWindow(10025,&quot;plugin://plugin.video.poseidon/?action=searchNavigator&quot;,return)</favourite>
-</favourites>
+
 
 <plugin>
-    <name>Search All</name>
-	<link>ActivateWindow(10025,&quot;plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
+    <name>Search All 1</name>
+	<link>plugin://plugin.video.poseidon/?action=searchNavigator&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>Search All-2</name>
+    <name>Search All 2</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
+</plugin>
+
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>Search Getger</summary>
 </plugin>
 
 <plugin>
@@ -36,12 +40,7 @@
 <summary>Settings</summary>
 </plugin>
 
-<plugin>
-<name>30702</name>
-<link>plugin://plugin.video.getger/?action=search</link>
-<thumbnail></thumbnail>
-<summary>Search</summary>
-</plugin>
+
 
 <plugin>
 <name>Testings</name>
