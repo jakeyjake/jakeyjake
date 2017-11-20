@@ -17,8 +17,18 @@
 
 
 <plugin>
-    <name>Search movie r</name>
-	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search</link>
+    <name>Search movie dp</name>
+	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;fanart=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cfanart%5cfanart.jpg&amp;img=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cicons%5cicon.png&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>Search tv dp</name>
+	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;fanart=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cfanart%5cfanart.jpg&amp;img=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cicons%5cicon.png&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>Search mov slts</name>
+	<link>plugin://plugin.video.salts/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
