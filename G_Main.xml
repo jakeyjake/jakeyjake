@@ -64,4 +64,11 @@
 </plugin>
 
 
+<plugin>
+<name>testings</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>testings</summary>
+</plugin>
+
 
