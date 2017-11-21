@@ -21,10 +21,10 @@
 </info>#
 
 
-<plugin>
+#<plugin>
     <name>Search All 2 (el)</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
-</plugin>
+</plugin>#
 
 #<plugin>
     <name>Search Movies (s-hd)</name>
