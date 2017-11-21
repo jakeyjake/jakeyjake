@@ -14,14 +14,16 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+<dir>     
+    <name>[B][COLOR ff6aa84f]*****[/COLOR][COLOR ghostwhite] LIVESTREAM#CREW [/COLOR][COLOR ff6aa84f]*****[/COLOR][/B]</name>
+	<thumbnail>http://i.imgur.com/DiGAi8W.png</thumbnail>
+	<link>http://none.com</link>
+	<info>
+    <message>[COLOR ff6aa84f]• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •[/COLOR] </message>
+    <message>[CR]</message>
+	</info>
 <dir>
-<name>••••••••••Shortcuts••••••••••</name>
-<link>
-<sublink></sublink>
-<sublink>bbbbb(www.noobsandnerds.com)</sublink>
-<sublink></sublink>
-</link>
-</dir>
+
 
 <plugin>
     <name>[COLOR firebrick]Search All[/COLOR] (el)</name>
