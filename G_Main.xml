@@ -14,6 +14,15 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+<dir>
+<name>••••••••••Shortcuts••••••••••</name>
+<link>
+<sublink>CR</sublink>
+<sublink>www.noobsandnerds.com</sublink>
+<sublink>CR</sublink>
+</link>
+</dir>
+
 <plugin>
     <name>[COLOR firebrick]Search All[/COLOR] (el)</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
@@ -37,7 +46,7 @@
 
 <plugin>
     <name>[COLOR tan]Search TV[/COLOR] (wtf)</name>
-	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
+	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=TV&quot;,return)</link>
 </plugin>
 
 
