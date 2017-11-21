@@ -1,3 +1,4 @@
+
 #######################################################################################################################################
 <poster>jake</poster>
 #######################################################################################################################################
@@ -15,9 +16,9 @@
 </dir>
 
 <dir>     
-    <name>Shortcuts]</name>
+    <name>- - - - - - - - - - - - - - Shortcuts - - - - - - - - - - - - - - </name>
 	<thumbnail></thumbnail>
-	<link>http://none.com</link>
+	<link>http://none.xml</link>
 </dir>
 
 
@@ -53,7 +54,11 @@
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
 </plugin>
 
-
+<dir>     
+    <name>- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</name>
+	<thumbnail></thumbnail>
+	<link>http://none.xml</link>
+</dir>
 
 
 <plugin>
@@ -62,6 +67,7 @@
 <thumbnail></thumbnail>
 <summary>Settings</summary>
 </plugin>
+
 
 
 <plugin>
