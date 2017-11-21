@@ -15,34 +15,34 @@
 </dir>
 
 <plugin>
-    <name>[COLOR cadetblue]Search All[/COLOR] (el)</name>
+    <name>[COLOR bisque]Search All[/COLOR] (el)</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR cadetblue]Search Movies[/COLOR] (s-hd)</name>
+    <name>[COLOR bisque]Search Movies[/COLOR] (s-hd)</name>
 	<link>plugin://plugin.video.spinzstrictlyhd/?source=search&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR cadetblue]Search Movies[/COLOR] (wtf)</name>
+    <name>[COLOR bisque]Search Movies[/COLOR] (wtf)</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR cadetblue]Search Movies[/COLOR] (i)</name>
+    <name>[COLOR bisque]Search Movies[/COLOR] (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR cadetblue]Search TV[/COLOR] (wtf)</name>
+    <name>[COLOR bisque]Search TV[/COLOR] (wtf)</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR cadetblue]Search TV[/COLOR] (i)</name>
+    <name>[COLOR bisque]Search TV[/COLOR] (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
 </plugin>
 
