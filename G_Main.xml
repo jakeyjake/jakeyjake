@@ -15,6 +15,6 @@
 </dir>
 
 <plugin>
-    <name>Search All 2 (el)</name>
+    <name>Search All (el)</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
 </plugin>
