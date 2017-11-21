@@ -1,0 +1,20 @@
+
+
+
+<plugin>
+<name>30702</name> -->
+<link>plugin://plugin.video.getger/?action=search</link> -->
+<thumbnail></thumbnail>
+<summary>search</summary>
+</plugin>
+
+
+
+<plugin>
+<name>testings</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>testings</summary>
+</plugin>
+
+

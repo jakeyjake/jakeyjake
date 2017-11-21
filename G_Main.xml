@@ -15,34 +15,34 @@
 </dir>
 
 <plugin>
-    <name>[COLOR mediumpurple]Search All[/COLOR] (el)</name>
+    <name>[COLOR skyblue]Search All[/COLOR] (el)</name>
 	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR mediumpurple]Search Movies[/COLOR] (s-hd)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] (s-hd)</name>
 	<link>plugin://plugin.video.spinzstrictlyhd/?source=search&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumpurple]Search Movies[/COLOR] (wtf)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] (wtf)</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumpurple]Search Movies[/COLOR] (i)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumpurple]Search TV[/COLOR] (wtf)</name>
+    <name>[COLOR skyblue]Search TV[/COLOR] (wtf)</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR mediumpurple]Search TV[/COLOR] (i)</name>
+    <name>[COLOR skyblue]Search TV[/COLOR] (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
 </plugin>
 
@@ -57,18 +57,4 @@
 </plugin>
 
 
-<!-- <plugin> -->
-<!-- <name>30702</name> -->
-<!-- <link>plugin://plugin.video.getger/?action=search</link> -->
-<!-- <thumbnail></thumbnail> -->
-<!-- <summary>search</summary> -->
-<!-- </plugin> -->
 
-
-
-<!-- <plugin> -->
-<!-- <name>testings</name> -->
-<!-- <link>plugin://plugin.video.getger/?action=developer</link> -->
-<!-- <thumbnail></thumbnail> -->
-<!-- <summary>testings</summary> -->
-<!-- </plugin> -->
