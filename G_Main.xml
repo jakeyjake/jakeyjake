@@ -14,35 +14,45 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+<info>
+    <message>CR</message>
+	<message>[B][COLOR firebrick]•••••Shortcuts•••••[/COLOR][/B]</message>
+    <message>[CR]</message>
+</info>	
 
 
 <plugin>
-    <name>Search movie dp</name>
+    <name>Search All 2 (el)</name>
+	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>Search Movies (s-hd)</name>
+	<link>plugin://plugin.video.spinzstrictlyhd/?source=search&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>Search Movies (wtf)</name>
+	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>Search Movies (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;fanart=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cfanart%5cfanart.jpg&amp;img=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cicons%5cicon.png&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>Search tv dp</name>
+    <name>Search TV (wtf)</name>
+	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>
+
+
+<plugin>
+    <name>Search TV (i)</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;fanart=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cfanart%5cfanart.jpg&amp;img=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.icechannel.theme.default%5ctheme%5cicons%5cicon.png&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
 </plugin>
 
-<plugin>
-    <name>Search mov slts</name>
-	<link>plugin://plugin.video.salts/?mode=search&amp;section=Movies&quot;,return)</link>
-</plugin>
 
-<plugin>
-    <name>Search All 2</name>
-	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
-</plugin>
-
-
-<plugin>
-<name>30702</name>
-<link>plugin://plugin.video.getger/?action=search</link>
-<thumbnail></thumbnail>
-<summary>Search</summary>
-</plugin>
 
 
 <plugin>
@@ -53,9 +63,20 @@
 </plugin>
 
 
-<plugin>
+#<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>Search</summary>
+</plugin>#
+
+
+
+
+
+#<plugin>
 <name>Testings</name>
 <link>plugin://plugin.video.getger/?action=developer</link>
 <thumbnail></thumbnail>
 <summary>Testings</summary>
-</plugin>
+</plugin>#
