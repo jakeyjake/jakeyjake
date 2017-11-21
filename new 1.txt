@@ -1,0 +1,67 @@
+
+#<info>
+    <message>CR</message>
+	<message>[B][COLOR firebrick]•••••Shortcuts•••••[/COLOR][/B]</message>
+    <message>[CR]</message>
+</info>#
+
+
+#<plugin>
+    <name>Search All 2 (el)</name>
+	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
+</plugin>#
+
+#<plugin>
+    <name>Search Movies (s-hd)</name>
+	<link>plugin://plugin.video.spinzstrictlyhd/?source=search&quot;,return)</link>
+</plugin>#
+
+#<plugin>
+    <name>Search Movies (wtf)</name>
+	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>#
+
+#<plugin>
+    <name>Search Movies (i)</name>
+	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
+</plugin>#
+
+#<plugin>
+    <name>Search TV (wtf)</name>
+	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>#
+
+
+#<plugin>
+    <name>Search TV (i)</name>
+	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
+</plugin>#
+
+
+
+
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.getger/?action=openSettings</link>
+<thumbnail></thumbnail>
+<summary>Settings</summary>
+</plugin>
+
+
+#<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>Search</summary>
+</plugin>#
+
+
+
+
+
+#<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>#
