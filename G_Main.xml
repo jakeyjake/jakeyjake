@@ -13,3 +13,9 @@
 <name>TV Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
+
+<info>
+    <message>CR</message>
+	<message>[B][COLOR firebrick]•••••Shortcuts•••••[/COLOR][/B]</message>
+    <message>[CR]</message>
+</info>
