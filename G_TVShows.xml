@@ -3,35 +3,35 @@
 #######################################################################################################################################
 
 <dir>
-  <title>Our • Current TV Shows</title>
+  <title>Von - Current TV Shows</title>
   <tmdb>list/38731</tmdb>
 </dir>
 
 
 <dir>
-  <title>TMDB • Popular Shows</title>
+  <title>TMDB - Popular Shows</title>
   <tmdb>tv/popular</tmdb>
  </dir>
  
 
 <dir>
-  <title>TMDB • Top Rated Shows</title>
+  <title>TMDB - Top Rated Shows</title>
   <tmdb>tv/top_rated</tmdb>
 </dir>
 
 
 <dir>
-  <title>TMDB • Crime Shows</title>
+  <title>TMDB - Crime Shows</title>
   <tmdb>genre/shows/80</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB • SciFi and Fantasy Shows</title>
+  <title>TMDB - SciFi and Fantasy Shows</title>
   <tmdb>genre/shows/10765</tmdb>
 </dir>
 
 <dir>
-<title>TRAKT • Popular Shows</title>
+<title>TRAKT - Popular Shows</title>
 <trakt>https://api.trakt.tv/shows/popular</trakt>
 <thumbnail></thumbnail>
 <summary></summary>
@@ -40,13 +40,13 @@
 
 
 <dir>
-  <title>TRAKT • My TV Watchlist</title>
+  <title>TRAKT - My TV Watchlist</title>
   <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
 
 
 <dir>
-  <title>TRAKT • My TV Collection</title>
+  <title>TRAKT - My TV Collection</title>
   <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
 </dir>
 
