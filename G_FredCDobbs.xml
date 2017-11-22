@@ -15,6 +15,25 @@
 
 #PLAYLIST ITEMS#
 
+<item>
+        <title>Home alone for Charlie and grumpy Von</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt0099785</imdb>
+                <title>Home Alone</title>
+                <year>1990</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>http://i.imgur.com/7YzzDAP.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
 
 <item>
         <title>Bicycle Thieves (Vittorio De Sica 1948)</title>
