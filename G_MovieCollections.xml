@@ -1,13 +1,20 @@
 #######################################################################################################################################
 <poster>jake</poster>
 #######################################################################################################################################
+list/39269
 
+<dir>
+<title>Laurel and Hardy</title>
+<tmdb>list/39269</tmdb>
+<summary>Complete Filmography (listed by rating descending)</summary>
+</dir>
 
 <dir>
 <title>Ben Movies</title>
 <tmdb>list/38638</tmdb>
 <summary>Ben Movie Playlist</summary>
 </dir>
+
 
 <dir>
 <title>War Movies</title>
@@ -26,6 +33,11 @@
 <tmdb>genre/movies/878</tmdb>
 </dir>
 
+<dir>
+<title>Laurel and Hardy</title>
+<tmdb>list/39269</tmdb>
+<summary>Complete Filmography (listed by ratings descending)</summary>
+</dir>
 
  <dir>
 <name>Directors</name>
