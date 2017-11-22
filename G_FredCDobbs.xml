@@ -15,23 +15,7 @@
 
 #PLAYLIST ITEMS#
 
-<item>
-        <title>*Requested* Home Alone for Charlie and grumpy Von (1990)</title>
-        <meta>
-                <content>movie</content>
-                <imdb>tt0099785</imdb>
-                <title>Home Alone</title>
-                <year>1990</year>
-        </meta>
-        <link>
-                <sublink>search</sublink>
-                <sublink>searchsd</sublink>
-        </link>
-        <animated_thumbnail></animated_thumbnail>
-        <thumbnail>http://i.imgur.com/7YzzDAP.jpg</thumbnail>
-        <animated_fanart></animated_fanart>
-        <fanart></fanart>
-</item>
+
 
 
 
