@@ -3,12 +3,22 @@
 #######################################################################################################################################
 
 
+
+<dir>
+<name>Kids Collection</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
+<thumbnail></thumbnail>
+<summary></summary>
+</dir>
+
 <dir>
 <name>Movie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
 </dir>
+
+
 
 
 <dir>
