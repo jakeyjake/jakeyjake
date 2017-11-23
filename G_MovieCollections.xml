@@ -35,6 +35,20 @@
 </dir>
 
 <dir>
+<title>Marvel Movies</title>
+<tmdb>list/32938</tmdb>
+<thumbnail></thumbnail>
+<summary>Marvel Movies</summary>
+</dir>
+
+<dir>
+<title>DC Movies</title>
+<tmdb>list/32942</tmdb>
+<thumbnail></thumbnail>
+<summary>DC Movies</summary>
+</dir>
+
+<dir>
 <title>Laurel and Hardy</title>
 <tmdb>list/39269</tmdb>
 <summary>Complete Filmography (listed by ratings descending)</summary>
