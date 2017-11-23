@@ -10,7 +10,7 @@ list/39269
 <title>Ben Movies</title>
 <link>
 <sublink><tmdb>list/38638</tmdb></sublink>
-<sublink>TEST - Ben Collections(https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml)</sublink>
+<sublink>(test)https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</sublink>
 </link>
 <summary>Ben Movie Playlist</summary>
 </dir>
