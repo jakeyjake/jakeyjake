@@ -18,6 +18,11 @@
 </dir>
 
 <dir>
+<name>Horror Movie Collections</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
+</dir>
+
+<dir>
 <title>War Movies</title>
 <tmdb>genre/movies/10752</tmdb>
 <summary>A selection of War Films</summary>
@@ -48,25 +53,41 @@
 <summary>DC Movies</summary>
 </dir>
 
+
+<dir>
+  <title>Swords and Sorcery</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/fantasy-swords-and-sorcery/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
+
+
+<dir>
+  <title>Tough Guys</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/tough-guy-movies/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
+
 <dir>
 <title>Laurel and Hardy</title>
 <tmdb>list/39269</tmdb>
 <summary>Complete Filmography (listed by ratings descending)</summary>
 </dir>
 
- <dir>
-<name>Directors</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
+
+<dir>
+<name>The Fred C Dobbs Film Awards</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
+<thumbnail></thumbnail>
+<summary>Some Favourite Films</summary>
 </dir>
 
 
 
-
-
-
-
-
-
+ <dir>
+<name>Directors</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
+</dir>
 
 
 
