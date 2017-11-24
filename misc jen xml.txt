@@ -19,7 +19,11 @@
 
 
 
-<name>[COLOR skyblue]• • • • • • •[/COLOR][COLOR ghostwhite] Shortcuts [/COLOR][COLOR skyblue]• • • • • • •[/COLOR]</name>
+<dir>     
+    <name>- - - - - - - - - - - - - - - -blahblah - - - - - - - - - - - - - - - - - - - - -</name>
+	<thumbnail></thumbnail>
+	<link>http://none.xml</link>
+</dir>
 
 
 
