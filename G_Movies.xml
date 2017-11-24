@@ -5,14 +5,14 @@
 
 
 <dir>
-<name>[B]K[/B]ids Collections</name>
+<name>[COLOR skyblue][B]K[/B][/COLOR]ids Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
 </dir>
 
 <dir>
-<name>[B]M[/B]ovie Collections</name>
+<name>[COLOR skyblue][B]M[/B][/COLOR]ovie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
@@ -20,7 +20,7 @@
 
 
 <dir>
-<name>[B]T[/B]he Fred C Dobbs Film Awards</name>
+<name>[COLOR skyblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
 <thumbnail></thumbnail>
 <summary>Some Favourite Films</summary>
@@ -30,35 +30,35 @@
 
 
 <dir>
-  <title>[B]P[/B]opular TMDB </title>
+  <title>[COLOR skyblue][B]P[/B][/COLOR]opular TMDB </title>
   <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <title>[B]N[/B]ow Playing TMDB </title>
+  <title>[COLOR skyblue][B]N[/B][/COLOR]ow Playing TMDB </title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
 
 <dir>
- <title>[B]T[/B]op Rated TMDB </title>
+ <title>[COLOR skyblue][B]T[/B][/COLOR]op Rated TMDB </title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
 
 <dir>
-  <title>[B]T[/B]rending Movies Trakt </title>
+  <title>[COLOR skyblue][B]T[/B][/COLOR]rending Movies Trakt </title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 
 <dir>
-  <title>[B]My[/B] Movie Watchlist Trakt</title>
+  <title>[COLOR skyblue][B]My[/B][/COLOR] Movie Watchlist Trakt</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
 
 <dir>
-  <title>[B]My[/B] Movie Collection Trakt</title>
+  <title>[COLOR skyblue][B]My[/B][/COLOR] Movie Collection Trakt</title>
   <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 

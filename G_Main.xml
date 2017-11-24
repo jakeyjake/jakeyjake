@@ -5,23 +5,23 @@
 
 
 <dir>
-<name>[B]M[/B]ovies</name>
+<name>[COLOR skyblue][B]M[/B][/COLOR]ovies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
 
 
 <dir>
-<name>[B]TV[/B] Shows</name>
+<name>[COLOR skyblue][B]TV[/B][/COLOR] Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
 <dir>
-  <title>[COLOR firebrick][B]Search All[/B] TMDB[/COLOR]</title>
+  <title>[COLOR firebrick][B]Search All[/B][/COLOR] TMDB[/COLOR]</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR firebrick][B]Search All[/B] Trakt[/COLOR]</title>
+  <title>[COLOR firebrick][B]Search All[/B][/COLOR] Trakt[/COLOR]</title>
   <trakt>search</trakt>
 </dir>
 
