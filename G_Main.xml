@@ -5,11 +5,6 @@
 
 
 <dir>
-  <title>New Search TMDB</title>
-  <tmdb>search</tmdb>
-</dir>
-
-<dir>
 <name>Movies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
@@ -20,6 +15,18 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+<dir>
+  <title>Search All TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
+  <title>Search All Trakt</title>
+  <trakt>search</trakt>
+</dir>
+
+
+
 <dir>     
     <name>- - - - - - - - - - - - - - Shortcuts - - - - - - - - - - - - - - </name>
 	<thumbnail></thumbnail>
@@ -27,10 +34,6 @@
 </dir>
 
 
-<plugin>
-    <name>[COLOR firebrick]Search All[/COLOR] (el)</name>
-	<link>plugin://plugin.video.elysium/?action=searchNavigator&quot;,return)</link>
-</plugin>
 
 
 <plugin>
