@@ -13,31 +13,24 @@
 </dir>
 
 <dir>
-<name>Horror Movie Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
-</dir>
-
-<dir>
-<name>Horror Movie Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
-</dir>
-
-<dir>
-<title>War Movies</title>
-<tmdb>genre/movies/10752</tmdb>
-<summary>A selection of War Films</summary>
-</dir>
-
-<dir>
 <title>Gangster Movies</title>
 <tmdb>list/38640</tmdb>
 <summary>A selection of Gangster Films</summary>
 </dir>
 
+
 <dir>
-<title>Science Fiction Movies</title>
-<tmdb>genre/movies/878</tmdb>
+<name>Horror Movie Collections</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
 </dir>
+
+
+<dir>
+<title>Laurel and Hardy</title>
+<tmdb>list/39269</tmdb>
+<summary>Complete Filmography (listed by ratings descending)</summary>
+</dir>
+
 
 <dir>
 <title>Marvel Movies</title>
@@ -53,6 +46,11 @@
 <summary>DC Movies</summary>
 </dir>
 
+<dir>
+<title>Science Fiction Movies</title>
+<tmdb>genre/movies/878</tmdb>
+</dir>
+
 
 <dir>
   <title>Swords and Sorcery</title>
@@ -60,7 +58,11 @@
   <thumbnail></thumbnail>
 </dir>
 
-
+<dir>
+<title>Thrillers</title>
+<trakt>https://api.trakt.tv/users/shanstark71/lists/thrillers/items</trakt>
+<thumbnail></thumbnail>
+</dir>
 
 <dir>
   <title>Tough Guys</title>
@@ -68,19 +70,22 @@
   <thumbnail></thumbnail>
 </dir>
 
+
 <dir>
-<title>Laurel and Hardy</title>
-<tmdb>list/39269</tmdb>
-<summary>Complete Filmography (listed by ratings descending)</summary>
+<title>War Movies</title>
+<tmdb>genre/movies/10752</tmdb>
+<summary>A selection of War Films</summary>
 </dir>
 
 
-<dir>
-<name>The Fred C Dobbs Film Awards</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
-<thumbnail></thumbnail>
-<summary>Some Favourite Films</summary>
-</dir>
+
+
+
+
+
+
+
+
 
 
 
