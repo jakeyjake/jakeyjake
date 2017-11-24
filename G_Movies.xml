@@ -3,14 +3,6 @@
 #######################################################################################################################################
 
 
-
-<dir>
-<name>[COLOR skyblue][B]K[/B][/COLOR]ids Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
-<thumbnail></thumbnail>
-<summary></summary>
-</dir>
-
 <dir>
 <name>[COLOR skyblue][B]M[/B][/COLOR]ovie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
@@ -18,6 +10,13 @@
 <summary></summary>
 </dir>
 
+
+<dir>
+<name>[COLOR skyblue][B]K[/B][/COLOR]ids Collections</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
+<thumbnail></thumbnail>
+<summary></summary>
+</dir>
 
 <dir>
 <name>[COLOR skyblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
