@@ -52,7 +52,7 @@
 
 
 <dir>
-  <title>My Trakt Movie Watchlist</title>
+  <title>[B]My Trakt Movie Watchlist[/B]</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
@@ -63,8 +63,3 @@
 </dir>
 
 
-
-    <item>
-      <title>TMDB genres</title>
-      <link>https://api.themoviedb.org/3/genre/movie/list?language=en-US&api_key=5c4ad8f8bf9aad8478227af70852aded</link>
-    </item>
