@@ -39,7 +39,7 @@
 
 
 <plugin>
-<name>[B]T[/B]estings</name>
+<name>Testings</name>
 <link>plugin://plugin.video.getger/?action=developer</link>
 <thumbnail></thumbnail>
 <summary>Testings</summary>
