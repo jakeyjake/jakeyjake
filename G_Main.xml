@@ -11,7 +11,7 @@
 
 
 <dir>
-<name>[COLOR skyblue][B]TV[/B][/COLOR] Shows</name>
+<name>[COLOR skyblue][B]TV[/B][/COLOR]Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
@@ -26,7 +26,10 @@
 </dir>
 
 
-
+<dir>
+<name>[COLOR skyblue][B]O[/B][/COLOR]ther Searches</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
+</dir>
 
 
 <plugin>
