@@ -16,12 +16,12 @@
 </dir>
 
 <dir>
-  <title>Search All TMDB</title>
+  <title>[COLOR firebrick]Search All TMDB[/COLOR]</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>Search All Trakt</title>
+  <title>[COLOR firebrick]Search All Trakt[/COLOR]</title>
   <trakt>search</trakt>
 </dir>
 
