@@ -5,6 +5,11 @@
 
 
 <dir>
+  <title>New Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
 <name>Movies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
