@@ -5,14 +5,14 @@
 
 
 <dir>
-<name>Kids Collections</name>
+<name>[B]K[/B]ids Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
 </dir>
 
 <dir>
-<name>Movie Collections</name>
+<name>[B]M[/B]ovie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
@@ -20,7 +20,7 @@
 
 
 <dir>
-<name>The Fred C Dobbs Film Awards</name>
+<name>[B]T[/B]he Fred C Dobbs Film Awards</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
 <thumbnail></thumbnail>
 <summary>Some Favourite Films</summary>
@@ -30,35 +30,35 @@
 
 
 <dir>
-  <title>TMDB Popular</title>
+  <title>[B]P[/B]opular TMDB </title>
   <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <title>TMDB Now Playing</title>
+  <title>[B]N[/B]ow Playing TMDB </title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
 
 <dir>
- <title>TMDB Top Rated</title>
+ <title>[B]T[/B]op Rated TMDB </title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
 
 <dir>
-  <title>Trakt Trending Movies</title>
+  <title>[B]T[/B]rending Movies Trakt </title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 
 <dir>
-  <title>[B]My Trakt Movie Watchlist[/B]</title>
+  <title>[B]My[/B] Movie Watchlist Trakt</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
 
 <dir>
-  <title>My Trakt Movie Collection</title>
+  <title>[B]My[/B] Movie Collection Trakt</title>
   <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 
