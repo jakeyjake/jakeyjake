@@ -3,25 +3,23 @@
 #######################################################################################################################################
 
 
-
-
-
 <dir>
-<title>Ben Movies</title>
-<tmdb>list/38638</tmdb>
-<summary>Ben Movie Playlist</summary>
-</dir>
-
-<dir>
-<title>Gangster Movies</title>
-<tmdb>list/38640</tmdb>
-<summary>A selection of Gangster Films</summary>
+<name>Ben Movies</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_BenMovies.xml</link>
 </dir>
 
 
 <dir>
-<name>Horror Movie Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
+<title>DC Movies</title>
+<tmdb>list/32942</tmdb>
+<thumbnail></thumbnail>
+<summary>DC Movies</summary>
+</dir>
+
+
+<dir>
+<name>Directors</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
 
@@ -39,12 +37,7 @@
 <summary>Marvel Movies</summary>
 </dir>
 
-<dir>
-<title>DC Movies</title>
-<tmdb>list/32942</tmdb>
-<thumbnail></thumbnail>
-<summary>DC Movies</summary>
-</dir>
+
 
 <dir>
 <title>Science Fiction Movies</title>
@@ -64,35 +57,8 @@
 <thumbnail></thumbnail>
 </dir>
 
-<dir>
-  <title>Tough Guys</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/tough-guy-movies/items</trakt>
-  <thumbnail></thumbnail>
-</dir>
 
 
-<dir>
-<title>War Movies</title>
-<tmdb>genre/movies/10752</tmdb>
-<summary>A selection of War Films</summary>
-</dir>
-
-
-
-
-
-
-
-
-
-
-
-
-
- <dir>
-<name>Directors</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
-</dir>
 
 
 
