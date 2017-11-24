@@ -7,28 +7,28 @@
 
 
 <plugin>
-    <name>[COLOR skyblue]Search Movies[/COLOR] (s-hd)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] [I]StrictlyHD[/I]</name>
 	<link>plugin://plugin.video.spinzstrictlyhd/?source=search&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR skyblue]Search Movies[/COLOR] (wtf)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] [I]WhattheFork[/I]</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR skyblue]Search Movies[/COLOR] (i)</name>
+    <name>[COLOR skyblue]Search Movies[/COLOR] [I]iStream[/I]</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20Movies&amp;indexer=movies&amp;mode=search&amp;section=search&amp;title=Search%20Movies&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR tan]Search TV[/COLOR] (wtf)</name>
+    <name>[COLOR tan]Search TV[/COLOR] [I]WhattheFork[/I]</name>
 	<link>plugin://plugin.video.wtfork/?mode=search&amp;section=TV&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR tan]Search TV[/COLOR] (i)</name>
+    <name>[COLOR tan]Search TV[/COLOR] [I]iStream[/I]</name>
 	<link>plugin://script.icechannel/?duckpool_path=%20%3a%20Search%20%3a%20Search%20%3a%20Search%20TV%20Shows&amp;indexer=tv_shows&amp;mode=search&amp;section=search&amp;title=Search%20TV%20Shows&quot;,return)</link>
 </plugin>
 
