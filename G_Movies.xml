@@ -65,6 +65,6 @@
 
 
     <item>
-      <name>TMDB genres</name>
+      <title>TMDB genres</title>
       <link>https://api.themoviedb.org/3/genre/movie/list?language=en-US&api_key=5c4ad8f8bf9aad8478227af70852aded</link>
     </item>
