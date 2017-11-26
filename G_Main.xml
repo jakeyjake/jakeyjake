@@ -5,32 +5,31 @@
 
 
 <dir>
-<name>[COLOR steelblue][B]M[/B][/COLOR]ovies</name>
+<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
 
 
 <dir>
-<name>[COLOR steelblue][B]TV[/B][/COLOR]Shows</name>
+<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
 <dir>
-  <title>[COLOR plum][B]Search All[/B][/COLOR] TMDB</title>
+  <title>[COLOR mistyrose]Search All[/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR plum][B]Search All[/B][/COLOR] Trakt</title>
+  <title>[COLOR mistyrose]Search All[/COLOR] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
 
 <dir>
-<name>[COLOR steelblue][B]O[/B][/COLOR]ther Searches</name>
+<name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
 </dir>
-
 
 
 
