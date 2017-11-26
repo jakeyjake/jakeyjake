@@ -1,16 +1,24 @@
 
-<poster>KODI SUPPORTED COLORS AND HEX CODES FOR JEN</poster>
+<poster>KODI DEFAULT COLORS AND HEX CODES FOR JEN</poster>
 
 
 <dir>
-<name>COLORS FOR XBMC, NOT LIMITED TO JUST THESE...WOULD NEED HEX CODE</name>
+<name>[B]COLORS FOR KODI, NOT LIMITED TO JUST THESE[B] - [I]Would need the specific color hex code[/I]</name>
 </dir>
-
+<dir>     
+<name>_________________________________________________________________</name>
+</dir>
+<dir>
+<name>[COLOR aliceblue]name="aliceblue" hex=fff0f8ff[/COLOR]</name>
+</dir>
 <dir>
 <name>[COLOR antiquewhite]name="antiquewhite" hex=fffaebd7[/COLOR]</name>
 </dir>
 <dir>
 <name>[COLOR aqua]name="aqua" hex=ff00ffff[/COLOR]</name>
+</dir>
+<dir>
+<name>[COLOR azure]name="azure" hex=fff0ffff[/COLOR]</name>
 </dir>
 <dir>
 <name>[COLOR bisque]name="bisque" hex=ffffe4c4[/COLOR]</name>
