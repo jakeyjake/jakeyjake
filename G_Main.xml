@@ -5,7 +5,7 @@
 
 
 <dir>
-<name>[COLOR slateblue][B]M[/B][/COLOR]ovies</name>
+<name>[COLOR steelblue][B]M[/B][/COLOR]ovies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
 
@@ -16,18 +16,18 @@
 </dir>
 
 <dir>
-  <title>[COLOR firebrick][B]Search All[/B][/COLOR] TMDB</title>
+  <title>[COLOR plum][B]Search All[/B][/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR firebrick][B]Search All[/B][/COLOR] Trakt</title>
+  <title>[COLOR plum][B]Search All[/B][/COLOR] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
 
 <dir>
-<name>[COLOR skyblue][B]O[/B][/COLOR]ther Searches</name>
+<name>[COLOR steelblue][B]O[/B][/COLOR]ther Searches</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
 </dir>
 
