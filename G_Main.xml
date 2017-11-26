@@ -5,13 +5,13 @@
 
 
 <dir>
-<name>[COLOR deepskyblue][B]M[/B][/COLOR]ovies</name>
+<name>[COLOR slateblue][B]M[/B][/COLOR]ovies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
 </dir>
 
 
 <dir>
-<name>[COLOR deepskyblue][B]TV[/B][/COLOR]Shows</name>
+<name>[COLOR steelblue][B]TV[/B][/COLOR]Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
