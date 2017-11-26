@@ -48,4 +48,8 @@
 <summary>Testings</summary>
 </plugin>
 
+<dir>
+<name>COLORS</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/colors.xml</link>
+</dir>
 
