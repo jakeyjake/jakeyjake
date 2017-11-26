@@ -32,14 +32,14 @@
 </dir>
 
 
+
+
 <plugin>
 <name>30701</name>
 <link>plugin://plugin.video.getger/?action=openSettings</link>
 <thumbnail></thumbnail>
 <summary>Settings</summary>
 </plugin>
-
-
 
 <plugin>
 <name>Testings</name>
