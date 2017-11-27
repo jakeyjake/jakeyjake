@@ -29,35 +29,35 @@
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular TMDB </title>
+  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular - TMDB </title>
   <tmdb>movies/popular</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing TMDB </title>
+  <title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing - TMDB </title>
   <tmdb>movies/now_playing</tmdb>
 </dir>
 
 <dir>
- <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated TMDB </title>
+ <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated - TMDB </title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Movies Trakt </title>
+  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Movies - Trakt </title>
   <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist Trakt</title>
+  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist - Trakt</title>
   <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Collection Trakt</title>
+  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Collection - Trakt</title>
   <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
 </dir>
 
