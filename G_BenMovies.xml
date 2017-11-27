@@ -6,26 +6,26 @@
 
 
 <dir>
-<title>Ben Movies</title>
+<title>[COLOR mediumslateblue][B]B[/B][/COLOR]en Movies</title>
 <tmdb>list/38638</tmdb>
 <summary>Ben Movie Playlist</summary>
 </dir>
 
 
 <dir>
-<title>Gangster Movies</title>
+<title>[COLOR mediumslateblue][B]G[/B][/COLOR]angster Movies</title>
 <tmdb>list/38640</tmdb>
 <summary>A selection of Gangster Films</summary>
 </dir>
 
 
 <dir>
-<name>Horror Movie Collections</name>
+<name>[COLOR mediumslateblue][B]H[/B][/COLOR]orror Movie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_HorrorCollections.xml</link>
 </dir>
 
 <dir>
-<title>The Terminator Collection</title>
+<title>[COLOR mediumslateblue][B]T[/B][/COLOR]he Terminator Collection</title>
 <tmdb>collection/528</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w640/vxiKtcxAJxHhlg2H1X8y7zcM3k6.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cpmbkwSxZnKO69V82A9a34tvk2E.jpg</fanart>
@@ -33,14 +33,14 @@
 
 
 <dir>
-  <title>Tough Guys</title>
+  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]ough Guys</title>
   <trakt>https://api.trakt.tv/users/shanstark71/lists/tough-guy-movies/items</trakt>
   <thumbnail></thumbnail>
 </dir>
 
 
 <dir>
-<title>War Movies</title>
+<title>[COLOR mediumslateblue][B]W[/B][/COLOR]ar Movies</title>
 <tmdb>genre/movies/10752</tmdb>
 <summary>A selection of War Films</summary>
 </dir>
