@@ -1,7 +1,7 @@
 #######################################################################################################################################
 <poster>jake</poster>
 #######################################################################################################################################
-[COLOR mediumslateblue][B][/B][/COLOR]
+
 
 
 <dir>
@@ -42,13 +42,13 @@
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]M[/B][/COLOR]y TV Watchlist - TRAKT</title>
+  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
   <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]M[/B][/COLOR]y TV Collection - TRAKT</title>
+  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Collection - TRAKT</title>
   <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
 </dir>
 

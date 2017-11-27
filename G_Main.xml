@@ -16,6 +16,11 @@
 </dir>
 
 <dir>
+<name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
+</dir>
+
+<dir>
   <title>[COLOR mistyrose]Search All[/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
@@ -26,10 +31,7 @@
 </dir>
 
 
-<dir>
-<name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
-</dir>
+
 
 
 

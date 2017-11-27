@@ -4,13 +4,13 @@
 
 
 <dir>
-<name>Ben Movies</name>
+<name>[COLOR mediumslateblue][B]B[/B][/COLOR]en Movies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_BenMovies.xml</link>
 </dir>
 
 
 <dir>
-<title>DC Movies</title>
+<title>[COLOR mediumslateblue][B]DC[/B][/COLOR] Movies</title>
 <tmdb>list/32942</tmdb>
 <thumbnail></thumbnail>
 <summary>DC Movies</summary>
@@ -18,20 +18,20 @@
 
 
 <dir>
-<name>Directors</name>
+<name>[COLOR mediumslateblue][B]D[/B][/COLOR]irectors</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
 
 <dir>
-<title>Laurel and Hardy</title>
+<title>[COLOR mediumslateblue][B]L[/B][/COLOR]aurel & [COLOR mediumslateblue][B]H[/B][/COLOR]ardy</title>
 <tmdb>list/39269</tmdb>
 <summary>Complete Filmography (listed by ratings descending)</summary>
 </dir>
 
 
 <dir>
-<title>Marvel Movies</title>
+<title>[COLOR mediumslateblue][B]M[/B][/COLOR]arvel Movies</title>
 <tmdb>list/32938</tmdb>
 <thumbnail></thumbnail>
 <summary>Marvel Movies</summary>
@@ -40,19 +40,19 @@
 
 
 <dir>
-<title>Science Fiction Movies</title>
+<title>[COLOR mediumslateblue][B]S[/B][/COLOR]cience Fiction Movies</title>
 <tmdb>genre/movies/878</tmdb>
 </dir>
 
 
 <dir>
-  <title>Swords and Sorcery</title>
+  <title>[COLOR mediumslateblue][B]S[/B][/COLOR]words and Sorcery</title>
   <trakt>https://api.trakt.tv/users/shanstark71/lists/fantasy-swords-and-sorcery/items</trakt>
   <thumbnail></thumbnail>
 </dir>
 
 <dir>
-<title>Thrillers</title>
+<title>[COLOR mediumslateblue][B]T[/B][/COLOR]hrillers</title>
 <trakt>https://api.trakt.tv/users/shanstark71/lists/thrillers/items</trakt>
 <thumbnail></thumbnail>
 </dir>
