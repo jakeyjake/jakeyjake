@@ -70,3 +70,12 @@ response = requests.request("GET", url, data=payload)
 print(response.text)
 
 **************************************************************************
+YOUTUBE single item
+
+
+ <item>
+<title>TEST</title>
+<link>https://www.youtube.com/watch?v=#############</link>
+<thumbnail></thumbnail>
+</item>
+**************************************************************************
