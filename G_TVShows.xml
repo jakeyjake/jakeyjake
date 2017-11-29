@@ -5,9 +5,17 @@
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]V[/B][/COLOR]on - Current TV Shows </title>
+  <title>[COLOR mediumslateblue][B]V[/B][/COLOR]on - Current Shows</title>
   <tmdb>list/38731</tmdb>
 </dir>
+
+
+<dir>
+  <title>[COLOR mediumslateblue][B]B[/B][/COLOR]en - Shows</title>
+  <tmdb>list/39882</tmdb>
+</dir>
+
+
 
 
 <dir>
