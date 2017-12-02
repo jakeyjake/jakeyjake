@@ -1,0 +1,36 @@
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+
+
+<plugin>
+<title>[COLOR mediumslateblue][B]W[/B][/COLOR]ill Hay [I]YouTube[/I]</title>
+<link>plugin://plugin.video.youtube/playlist/PLBuZDkP_xEdWgVvmZXoR-fgWVu-1m-1J8/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>[COLOR mediumslateblue][B]H[/B][/COLOR]arry Langdon [I]YouTube[/I]</title>
+<link>plugin://plugin.video.youtube/playlist/PLmzEoFbM-0YIzkgUOwg4_C7z0zonCEoEQ/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+
+
+<plugin>
+<title>[COLOR mediumslateblue][B]L[/B][/COLOR]aurel & [COLOR mediumslateblue][B]H[/B][/COLOR]ardy [I]YouTube[/I]</title>
+<link>plugin://plugin.video.youtube/playlist/PLfrOuVZugB9Ps2eMzhcObK_851V24RBsn/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+
+
+<dir>
+<title>[COLOR mediumslateblue][B]L[/B][/COLOR]aurel & [COLOR mediumslateblue][B]H[/B][/COLOR]ardy [I]TMDB[/I]</title>
+<tmdb>list/39269</tmdb>
+<summary>Complete Filmography (listed by ratings descending)</summary>
+</dir>
+
+
