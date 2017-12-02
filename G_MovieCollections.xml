@@ -21,6 +21,11 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
+<plugin>
+<title>[COLOR mediumslateblue][B]W[/B][/COLOR]ill Hay [I]YouTube[/I]</title>
+<link>plugin://plugin.video.youtube/playlist/PLBuZDkP_xEdWgVvmZXoR-fgWVu-1m-1J8/</link>
+<thumbnail></thumbnail>
+</plugin>
 
 <plugin>
 <title>[COLOR mediumslateblue][B]H[/B][/COLOR]arry Langdon [I]YouTube[/I]</title>
