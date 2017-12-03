@@ -21,7 +21,11 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
-
+<dir>
+<title>[COLOR mediumslateblue][B]G[/B][/COLOR]angster Movies</title>
+<tmdb>list/38640</tmdb>
+<summary>A selection of Gangster Films</summary>
+</dir>
 
 <dir>
 <title>[COLOR mediumslateblue][B]M[/B][/COLOR]arvel Movies</title>
