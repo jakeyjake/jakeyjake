@@ -33,3 +33,17 @@
 </plugin>
 
 
+<plugin>
+    <name>[COLOR mediumslateblue]Open BnW Movies[/COLOR]</name>
+	<link>plugin://plugin.video.bnwmovies/&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>[COLOR mediumslateblue]Open MovieZoot Movies[/COLOR]</name>
+	<link>plugin://plugin.video.moviezoot/&quot;,return)</link>
+</plugin>
+
+<plugin>
+    <name>[COLOR mediumslateblue]MovieZoot Binge Watching[/COLOR]</name>
+	<link>plugin://plugin.video.moviezoot/?mode=112&amp;name=Binge%20Watching&amp;url=http%3a%2f%2fmoviezoot.com%2fbinge-watching%2f&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.moviezoot%2Fcurtains.jpg%26meta%3Dplot%253DGot%252Bsome%252Btime%252Bto%252Bkill%25253F%252BHow%252Babout%252Bbinge%252Bwatching%252Bsome%252Bfree%252Bstreaming%252Boutstanding%252Bcomedies%252Bfrom%252Bthe%252Bpast%25253F%252B%252BOr%252Bhow%252Babout%252Bsome%252Bgreat%252Bmysteries%25253F%252BOr%252Bdocumentaries%25253F%2526votes%253D0%2526label%253DBinge%252BWatching%2526title%253DBinge%252BWatching%26desc%3DGot+some+time+to+kill%3F+How+about+binge+watching+some+free+streaming+outstanding+comedies+from+the+past%3F++Or+how+about+some+great+mysteries%3F+Or+documentaries%3F%26_options_sf&quot;,return)</link>
+</plugin>
