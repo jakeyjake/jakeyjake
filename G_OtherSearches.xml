@@ -39,7 +39,7 @@
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumslateblue]Open MovieZoot Movies[/COLOR]</name>
+    <name>[COLOR mediumslateblue]Open MovieZoot[/COLOR]</name>
 	<link>plugin://plugin.video.moviezoot/&quot;,return)</link>
 </plugin>
 
