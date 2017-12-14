@@ -56,9 +56,5 @@
 </dir>
 
 
-<dir>
-  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Collection - Trakt</title>
-  <trakt>https://api.trakt.tv/sync/collection/movies</trakt>
-</dir>
 
 

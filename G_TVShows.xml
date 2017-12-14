@@ -60,8 +60,4 @@
 </dir>
 
 
-<dir>
-  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Collection - TRAKT</title>
-  <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
-</dir>
 
