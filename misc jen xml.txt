@@ -74,7 +74,7 @@ YOUTUBE single item
 
 
  <item>
-<title>TEST</title>
+<title>TITLE</title>
 <link>https://www.youtube.com/watch?v=#############</link>
 <thumbnail></thumbnail>
 </item>
