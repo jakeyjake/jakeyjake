@@ -11,7 +11,25 @@
 
 #PLAYLIST ITEMS#
 
-
+<item>
+    <title>Grimm S02E01 - Bad Teeth (1)</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt1830617</imdb>
+        <tvdb>248736</tvdb>
+        <tvshowtitle>Grimm</tvshowtitle>
+        <year>2011</year>
+        <title>Bad Teeth (1)</title>
+        <premiered>2012-08-13</premiered>
+        <season>2</season>
+        <episode>1</episode>
+        <thumbnail>http://thetvdb.com/banners/episodes/248736/4329641.jpg</thumbnail>
+        </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+</item>
 
     <item>
             <title>Humbug (s02e20)</title>
