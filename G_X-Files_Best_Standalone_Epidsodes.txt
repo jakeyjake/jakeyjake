@@ -1,0 +1,38 @@
+
+#START#
+#
+#
+
+
+
+<poster>X-Files -Best Standalone Episodes</poster>
+<fanart></fanart>
+
+
+#PLAYLIST ITEMS#
+
+
+
+
+
+<item>
+    <title>Clyde Bruckman s Final Repose</title>
+	
+    <meta>
+    <content>episode</content>
+    <imdb>tt0751092</imdb>
+    <tvshowtitle>X-Files</tvshowtitle>
+    <year>1993-</year>
+    <title>Clyde Bruckman s Final Repose</title>
+    <premiered>1996</premiered>
+    <season>3</season>
+    <episode>4</episode>
+    </meta>
+	
+    <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+    </link>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+ </item>
