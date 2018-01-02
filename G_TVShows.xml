@@ -53,15 +53,10 @@
 </dir>
 
 
-<dir>
-    <title>My lists</title>
-    <trakt>https://api.trakt.tv/users/gummmms/lists/</trakt>
-</dir>
-
   
 <dir>
     <title>X-Files - Best Standalone Episodes</title>
-    <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+    <trakt>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_X-Files_Best_Standalone_Epidsodes.txt</trakt>
 </dir>
  
    
