@@ -52,13 +52,11 @@
 <summary></summary>
 </dir>
 
-<dir>
-<name>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_X-Files_Standalone.xml</link>
-<thumbnail></thumbnail>
-<summary>Selected X-Files Episodes</summary>
-</dir>
 
+<dir>
+      <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</title>
+      <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+    </dir>
 
 <dir>
   <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
