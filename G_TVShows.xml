@@ -41,22 +41,22 @@
 </dir>
 
 <dir>
-<title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
-<trakt>https://api.trakt.tv/shows/trending</trakt>
+  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
+  <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
 
 <dir>
-<title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
-<trakt>https://api.trakt.tv/shows/popular</trakt>
-<thumbnail></thumbnail>
-<summary></summary>
+  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
+  <trakt>https://api.trakt.tv/shows/popular</trakt>
+  <thumbnail></thumbnail>
+  <summary></summary>
 </dir>
 
 
 <dir>
-      <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</title>
-      <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
-    </dir>
+  <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</title>
+  <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+</dir>
 
 <dir>
   <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
