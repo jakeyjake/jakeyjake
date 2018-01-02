@@ -68,4 +68,8 @@
 </dir>
 
 
+<dir>
+    <title>My lists</title>
+    <trakt>https://api.trakt.tv/users/gummmms/lists/</trakt>
+</dir>
 
