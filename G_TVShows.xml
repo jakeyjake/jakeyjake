@@ -54,18 +54,18 @@
 
 
 <dir>
-    <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files - Best Standalone Episodes</title>
-    <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
-</dir>
-           
-<dir>
-    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
-    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-</dir>
-
-
-<dir>
     <title>My lists</title>
     <trakt>https://api.trakt.tv/users/gummmms/lists/</trakt>
 </dir>
 
+  
+<dir>
+    <title>X-Files - Best Standalone Episodes</title>
+    <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+</dir>
+ 
+   
+<dir>
+    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+</dir>
