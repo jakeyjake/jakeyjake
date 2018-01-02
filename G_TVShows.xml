@@ -5,62 +5,66 @@
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]V[/B][/COLOR]on - Current Shows</title>
-  <tmdb>list/38731</tmdb>
+    <title>[COLOR mediumslateblue][B]V[/B][/COLOR]on - Current Shows</title>
+    <tmdb>list/38731</tmdb>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]B[/B][/COLOR]en - Shows</title>
-  <tmdb>list/39882</tmdb>
+    <title>[COLOR mediumslateblue][B]B[/B][/COLOR]en - Shows</title>
+    <tmdb>list/39882</tmdb>
 </dir>
 
 
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - TMDB</title>
-  <tmdb>tv/popular</tmdb>
+    <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - TMDB</title>
+    <tmdb>tv/popular</tmdb>
  </dir>
  
 
 <dir>
-  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated Shows - TMDB</title>
-  <tmdb>tv/top_rated</tmdb>
+    <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated Shows - TMDB</title>
+    <tmdb>tv/top_rated</tmdb>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]C[/B][/COLOR]rime Shows - TMDB</title>
-  <tmdb>genre/shows/80</tmdb>
+    <title>[COLOR mediumslateblue][B]C[/B][/COLOR]rime Shows - TMDB</title>
+    <tmdb>genre/shows/80</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR mediumslateblue][B]S[/B][/COLOR]ciFi & Fantasy Shows - TMDB</title>
-  <tmdb>genre/shows/10765</tmdb>
+    <title>[COLOR mediumslateblue][B]S[/B][/COLOR]ciFi & Fantasy Shows - TMDB</title>
+    <tmdb>genre/shows/10765</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
-  <trakt>https://api.trakt.tv/shows/trending</trakt>
+    <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
+    <trakt>https://api.trakt.tv/shows/trending</trakt>
 </dir>
 
 <dir>
-  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
-  <trakt>https://api.trakt.tv/shows/popular</trakt>
-  <thumbnail></thumbnail>
-  <summary></summary>
-</dir>
-
-
-<dir>
-  <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</title>
-  <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+    <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
+    <trakt>https://api.trakt.tv/shows/popular</trakt>
+    <thumbnail></thumbnail>
+    <summary></summary>
 </dir>
 
 <dir>
-  <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
-  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+     <title>Pixar Collection</title>
+     <trakt>https://api.trakt.tv/users/r1chardtm/lists/the-pixar-collection/items</trakt>
+</dir>
+
+<dir>
+    <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files: Best Standalone Episodes</title>
+    <trakt>https://api.trakt.tv/users/gummmms/lists/x-files-best-standalone-episodes</trakt>
+</dir>
+
+<dir>
+    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
 
 
