@@ -5,7 +5,7 @@
 
 
 
-<poster>X-Files -Best Standalone Episodes</poster>
+<poster>X-Files - Best Standalone Episodes</poster>
 <fanart></fanart>
 
 
@@ -13,26 +13,26 @@
 
 
 
-  <item>
-          <title>Humbug</title>
-          <meta>
+    <item>
+            <title>Humbug (s02e20)</title>
+            <meta>
                   <content>episode</content>
-                  <imdb>tt0751139</imdb>
-                  <tvdb>240514</tvdb>
+                  <imdb>tt0106179</imdb>
+                  <tvdb>77398</tvdb>
                   <tvshowtitle>The X-Files</tvshowtitle>
                   <year>1993</year>
                   <title>Humbug</title>
-                  <premiered>1996</premiered>
-                  <season>02</season>
+                  <premiered>9 January 1996</premiered>
+                  <season>2</season>
                   <episode>20</episode>
-          </meta>
-          <link>
+            </meta>
+            <link>
                   <sublink>search</sublink>
                   <sublink>searchsd</sublink>
-          </link>
-          <animated_thumbnail></animated_thumbnail>
-          <thumbnail></thumbnail>
-          <animated_fanart></animated_fanart>
-          <fanart></fanart>
-  </item>
+            </link>
+            <animated_thumbnail></animated_thumbnail>
+            <thumbnail></thumbnail>
+            <animated_fanart></animated_fanart>
+            <fanart></fanart>
+    </item>
 
