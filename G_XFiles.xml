@@ -31,3 +31,47 @@
     </link>
 </item>
 
+<item>
+    <title>Grimm S02E03 - Bad Moon Rising</title>
+    <meta>
+        <content>episode</content>
+        <imdb>tt1830617</imdb>
+        <tvdb>248736</tvdb>
+        <tvshowtitle>Grimm</tvshowtitle>
+        <year>2011</year>
+        <title>Bad Moon Rising</title>
+        <premiered>2012-08-27</premiered>
+        <season>2</season>
+        <episode>3</episode>
+        <thumbnail>http://thetvdb.com/banners/episodes/248736/4343726.jpg</thumbnail>
+        </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+</item>
+
+
+
+  <item>
+          <title></title>
+          <meta>
+                  <content>episode</content>
+                  <imdb></imdb>
+                  <tvdb></tvdb>
+                  <tvshowtitle></tvshowtitle>
+                  <year></year>
+                  <title></title>
+                  <premiered></premiered>
+                  <season></season>
+                  <episode></episode>
+          </meta>
+          <link>
+                  <sublink>search</sublink>
+                  <sublink>searchsd</sublink>
+          </link>
+          <animated_thumbnail></animated_thumbnail>
+          <thumbnail></thumbnail>
+          <animated_fanart></animated_fanart>
+          <fanart></fanart>
+  </item>
