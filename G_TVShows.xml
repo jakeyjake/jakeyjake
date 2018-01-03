@@ -55,8 +55,8 @@
 
   
 <dir>
-    <title>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files - Best Standalone Episodes</title>
-    <trakt>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_XFiles.xml</trakt>
+    <name>[COLOR mediumslateblue][B]T[/B][/COLOR]est - Episodes</name>
+    <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_XFiles.xml</link>
 </dir>
 
 
