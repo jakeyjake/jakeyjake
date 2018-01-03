@@ -11,17 +11,17 @@
 #PLAYLIST ITEMS#
 
 <item>
-    <title>True Detective S01E01 - The Long Bright Dark</title>
+    <title>The X-Files - Bad Blood (s05e12)</title>
     <meta>
         <content>episode</content> 
-        <imdb>tt2356777</imdb> ---This is the imdb Tvshow ID i.e. not the episode ID
-        <tvdb>270633</tvdb> ---This is the tvdb Tvshow ID i.e. not the episode ID
-        <tvshowtitle>True Detective</tvshowtitle>
-        <year>2014</year>
-        <title>The Long Bright Dark</title>
-        <premiered>2014-01-12</premiered> ---pasted from tvdb
-        <season>1</season>
-        <episode>1</episode>
+        <imdb>tt0106179</imdb>
+        <tvdb>77398</tvdb> 
+        <tvshowtitle>The X-Files</tvshowtitle>
+        <year>1993</year>
+        <title>Bad Blood</title>
+        <premiered>1998-02-22</premiered>
+        <season>5</season>
+        <episode>12</episode>
         <thumbnail></thumbnail>
         </meta>
     <link>
@@ -30,3 +30,42 @@
     </link>
 </item>
 
+<item>
+    <title>The X-Files - Small Potatoes (s04e20)</title>
+    <meta>
+        <content>episode</content> 
+        <imdb>tt0106179</imdb>
+        <tvdb>77398</tvdb> 
+        <tvshowtitle>The X-Files</tvshowtitle>
+        <year>1993</year>
+        <title>Small Potatoes</title>
+        <premiered>1997-04-20</premiered>
+        <season>5</season>
+        <episode>20</episode>
+        <thumbnail></thumbnail>
+        </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+</item>
+
+<item>
+    <title>The X-Files - Small Potatoes (s04e20)</title>
+    <meta>
+        <content>episode</content> 
+        <imdb>tt0106179</imdb>
+        <tvdb>77398</tvdb> 
+        <tvshowtitle>The X-Files</tvshowtitle>
+        <year>1993</year>
+        <title>Small Potatoes</title>
+        <premiered>1997-04-20</premiered>
+        <season>5</season>
+        <episode>20</episode>
+        <thumbnail></thumbnail>
+        </meta>
+    <link>
+        <sublink>search</sublink>
+        <sublink>searchsd</sublink>
+    </link>
+</item>
