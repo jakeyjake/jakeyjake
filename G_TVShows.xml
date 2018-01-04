@@ -23,12 +23,24 @@
     <tmdb>tv/popular</tmdb>
  </dir>
  
+<dir>
+    <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
+    <trakt>https://api.trakt.tv/shows/popular</trakt>
+    <thumbnail></thumbnail>
+    <summary></summary>
+</dir>
+
+
 
 <dir>
     <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated Shows - TMDB</title>
     <tmdb>tv/top_rated</tmdb>
 </dir>
 
+<dir>
+    <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
+    <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
 
 <dir>
     <title>[COLOR mediumslateblue][B]C[/B][/COLOR]rime Shows - TMDB</title>
@@ -40,28 +52,19 @@
     <tmdb>genre/shows/10765</tmdb>
 </dir>
 
-<dir>
-    <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Shows - Trakt</title>
-    <trakt>https://api.trakt.tv/shows/trending</trakt>
-</dir>
 
-<dir>
-    <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Shows - Trakt</title>
-    <trakt>https://api.trakt.tv/shows/popular</trakt>
-    <thumbnail></thumbnail>
-    <summary></summary>
-</dir>
+
 
 
   
 <dir>
-    <name>[COLOR mediumslateblue][B]T[/B][/COLOR]est - Episodes</name>
+    <name>[COLOR mediumslateblue][B]X[/B][/COLOR]-Files - Best Standalone Episodes</name>
     <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_XFiles.xml</link>
 </dir>
 
 
    
 <dir>
-    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - TRAKT</title>
+    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - Trakt</title>
     <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
 </dir>
