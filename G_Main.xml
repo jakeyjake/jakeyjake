@@ -31,7 +31,13 @@
 </dir>
 
 
-
+<dir> 
+    <title>thunderTEST</title> 
+    <thumbnail></thumbnail> 
+    <m3u>http://gen-tec.co/gentecwiz/TESTER1.m3u</m3u> 
+    <fanart></fanart> 
+    <info> </info> 
+    </dir>
 
 
 
