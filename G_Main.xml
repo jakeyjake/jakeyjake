@@ -31,15 +31,6 @@
 </dir>
 
 
-<dir> 
-    <title>thunderTEST</title> 
-    <thumbnail></thumbnail> 
-    <m3u>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/TESTER1.m3u</m3u> 
-    <fanart></fanart> 
-    <info></info> 
-</dir>
-
-
 
 <plugin>
 <name>30701</name>
