@@ -30,7 +30,13 @@
   <trakt>search</trakt>
 </dir>
 
-
+<item> 
+<title>M3U NAME</title> 
+<link>http://live.field59.com/wjfw1/ngrp:wjfw1_all/playlist.m3u8</link> 
+<thumbnail></thumbnail> 
+<fanart></fanart> 
+<info></info> 
+</item>
 
 <plugin>
 <name>30701</name>
