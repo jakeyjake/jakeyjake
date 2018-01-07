@@ -30,15 +30,7 @@
   <trakt>search</trakt>
 </dir>
 
-<item>
-<title>test</title>
-<link>https://streaming1.streamlive.to/edge/ohn58e97er36vjr/chunks.m3u8?nimblesessionid=39625127</link>
-</item>
 
-<item>
-<title>test</title>
-<link>https://streaming1.streamlive.to/edge/ohn58e97er36vjr/chunks.m3u8</link>
-</item>
 
 <plugin>
 <name>30701</name>
