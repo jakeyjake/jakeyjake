@@ -32,9 +32,13 @@
 
 <item>
 <title>test</title>
-<link>https://www.streamlive.to/cfbc4e12-3ea7-4edc-9396-52a40354b1a8</link>
+<link>https://streaming1.streamlive.to/edge/ohn58e97er36vjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMTggMToyNToyNCBBTSZoYXNoX3ZhbHVlPUszZlQ2QkNiSEdsVGt4M3FPY2RoYkE9PSZ2YWxpZG1pbnV0ZXM9MTAwJnN0cm1fbGVuPTIw</link>
 </item>
 
+<item>
+<title>test</title>
+<link>https://streaming1.streamlive.to/edge/ohn58e97er36vjr/playlist.m3u8</link>
+</item>
 
 <plugin>
 <name>30701</name>
