@@ -30,8 +30,10 @@
   <trakt>search</trakt>
 </dir>
 
+<item>
 <title>test</title>
 <link>https://streaming1.streamlive.to/edge/dhp0rpd116qyyj6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMTggMTI6NDc6ND</link>
+</item>
 
 <plugin>
 <name>30701</name>
