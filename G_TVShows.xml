@@ -62,9 +62,15 @@
     <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_XFiles.xml</link>
 </dir>
 
+<plugin>
+    <name>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - Trakt</name>
+	<link>plugin://plugin.video.blamo/?mode=browse_watchlist&amp;section=TV&quot;,return)</link>
+</plugin>
+
+
 
    
-<dir>
-    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - Trakt</title>
-    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
-</dir>
+#<dir>#
+ #   <title>[COLOR mediumslateblue][B]My[/B][/COLOR] TV Watchlist - Trakt</title>#
+  #  <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>#
+#</dir>#
