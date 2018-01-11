@@ -39,7 +39,7 @@
 </dir>
 
 <dir>
- <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated - TMDB </title>
+  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated - TMDB </title>
   <tmdb>movies/top_rated</tmdb>
 </dir>
 
@@ -54,11 +54,11 @@
 	<link>plugin://plugin.video.blamo/?mode=browse_watchlist&amp;section=Movies&quot;,return)</link>
 </plugin>
 
-#<dir>#
- # <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist - Trakt</title>#
- # <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>#
-#</dir>#
-
+<!-- <dir>
+    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist - Trakt</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+</dir>
+ -->
 
 
 
