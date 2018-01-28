@@ -94,3 +94,10 @@ YOUTUBE single item
 
 
 *********************************************************************************
+
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]Boss TEST[/B][/COLOR]</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/boss_test.xml</link>
+</dir>
