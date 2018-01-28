@@ -2,11 +2,7 @@
 <poster>jake</poster>
 #######################################################################################################################################
 
-<dir>
-		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
-		<imdburl>searchseries</imdburl>
-		<thumbnail></thumbnail>
-</dir>
+
 
 <dir>
     <title>[COLOR mediumslateblue][B]V[/B][/COLOR]on - Current Shows</title>

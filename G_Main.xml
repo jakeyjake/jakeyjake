@@ -21,6 +21,21 @@
 </dir>
 
 <dir>
+		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
+		<imdburl>searchseries</imdburl>
+		<thumbnail></thumbnail>
+</dir>
+
+
+<dir>
+		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
+		<imdburl>searchmovies</imdburl>
+		<thumbnail></thumbnail>
+</dir>
+
+
+
+<dir>
   <title>[COLOR mistyrose]Search All[/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
