@@ -3,7 +3,7 @@
 #######################################################################################################################################
 
 <dir>
-		<title>Search TV Shows - IMDb</title>
+		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
 		<imdburl>searchseries</imdburl>
 		<thumbnail></thumbnail>
 	</dir>
