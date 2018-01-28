@@ -5,22 +5,6 @@
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
-</dir>
-
-
-<dir>
-<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
-</dir>
-
-<dir>
-<name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
-</dir>
-
-<dir>
 		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
 		<imdburl>searchseries</imdburl>
 		<thumbnail></thumbnail>
@@ -43,6 +27,24 @@
 <dir>
   <title>[COLOR mistyrose]Search All[/COLOR] Trakt</title>
   <trakt>search</trakt>
+</dir>
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
+</dir>
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
+</dir>
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
 
