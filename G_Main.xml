@@ -63,9 +63,9 @@
 <summary>Testings</summary>
 </plugin>
 
-<dir>
+<item>
     <title>[B][COLORred]Valhalla List[/COLOR][/B]</title>
-    <m3u>http://gigaiptv.pro:8000/get.php?user=Lwe8NtqmYA&password=vjBzd1e6Ci&type=m3u</m3u>
+    <link>http://gigaiptv.pro:8000/live/Lwe8NtqmYA/vjBzd1e6Ci/3848.ts</link>
     <fanart></fanart>
     <info> </info>
-</dir>
+</item>
