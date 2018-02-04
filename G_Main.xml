@@ -4,35 +4,21 @@
 #######################################################################################################################################
 
 
-<dir>
-		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] TV Shows - IMDb</title>
-		<imdburl>searchseries</imdburl>
-		<thumbnail></thumbnail>
-</dir>
-
 
 <dir>
-		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] Movies - IMDb</title>
-		<imdburl>searchmovies</imdburl>
-		<thumbnail></thumbnail>
-</dir>
-
-
-<dir>
-		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] Both - IMDb</title>
+		<title>[COLOR mistyrose]Search[/COLOR] IMDb</title>
 		<imdburl>searchboth</imdburl>
 		<thumbnail></thumbnail>
 </dir>
 
 
-
 <dir>
-  <title>[COLOR mistyrose]Search All[/COLOR] TMDB</title>
+  <title>[COLOR mistyrose]Search[/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR mistyrose]Search All[/COLOR] Trakt</title>
+  <title>[COLOR mistyrose]Search[/COLOR] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
