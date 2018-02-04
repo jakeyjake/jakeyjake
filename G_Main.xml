@@ -18,6 +18,13 @@
 </dir>
 
 
+<dir>
+		<title>[COLOR mediumslateblue][B]Search[/B][/COLOR] Both - IMDb</title>
+		<imdburl>searchboth</imdburl>
+		<thumbnail></thumbnail>
+</dir>
+
+
 
 <dir>
   <title>[COLOR mistyrose]Search All[/COLOR] TMDB</title>
