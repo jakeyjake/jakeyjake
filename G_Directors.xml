@@ -10,19 +10,12 @@
 
 
 <dir>
-    <title>[COLOR mediumslateblue][B]L[/B][/COLOR] Besson</title>
+    <title>[COLOR mediumslateblue][B]L[/B][/COLOR]uc Besson</title>
     <tmdb>person/movies/59</tmdb>
     <summary>Luc Besson Movies TMDB</summary>
 </dir>
 
 
-
-
-<dir>
-    <title>[COLOR mediumslateblue][B]G[/B][/COLOR]uillermo del Toro</title>
-    <tmdb>person/movies/10828</tmdb>
-    <summary>Guillermo del Toro Movies TMDB</summary>
-</dir>
 
 <dir>
 <title>[COLOR mediumslateblue][B]A[/B][/COLOR]lfred Hitchcock</title>
@@ -49,6 +42,13 @@
     <title>[COLOR mediumslateblue][B]M[/B][/COLOR]artin Scorsese</title>
     <tmdb>person/movies/1032</tmdb>
     <summary>Martin Scorsese Movies TMDB</summary>
+</dir>
+
+
+<dir>
+    <title>[COLOR mediumslateblue][B]G[/B][/COLOR]uillermo del Toro</title>
+    <tmdb>person/movies/10828</tmdb>
+    <summary>Guillermo del Toro Movies TMDB</summary>
 </dir>
 
 
