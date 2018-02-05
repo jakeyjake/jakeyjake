@@ -8,11 +8,49 @@
 <summary>Films directed or written by Joel and/or Ethan Coen</summary>
 </dir>
 
+
+<dir>
+    <title>[COLOR mediumslateblue][B]L[/B][/COLOR] Besson</title>
+    <tmdb>person/movies/59</tmdb>
+    <summary>Luc Besson Movies TMDB</summary>
+</dir>
+
+
+
+
+<dir>
+    <title>[COLOR mediumslateblue][B]G[/B][/COLOR]uillermo del Toro</title>
+    <tmdb>person/movies/10828</tmdb>
+    <summary>Guillermo del Toro Movies TMDB</summary>
+</dir>
+
 <dir>
 <title>[COLOR mediumslateblue][B]A[/B][/COLOR]lfred Hitchcock</title>
 <tmdb>person/movies/2636</tmdb>
 <summary>Alfred Hitchcock Movies TMDB</summary>
 </dir>
+
+
+<dir>
+<title>[COLOR mediumslateblue][B]J[/B][/COLOR]ohn Huston</title>
+<tmdb>list/47004</tmdb>
+<summary>Selected Films directed by John Huston</summary>
+</dir>
+
+
+<dir>
+<title>[COLOR mediumslateblue][B]C[/B][/COLOR]hristopher Nolan</title>
+<tmdb>person/movies/525</tmdb>
+<summary>Christopher Nolan Movies TMDB</summary>
+</dir>
+
+
+<dir>
+    <title>[COLOR mediumslateblue][B]M[/B][/COLOR]artin Scorsese</title>
+    <tmdb>person/movies/1032</tmdb>
+    <summary>Martin Scorsese Movies TMDB</summary>
+</dir>
+
 
 <dir>
 <title>[COLOR mediumslateblue][B]D[/B][/COLOR]enis Villeneuve</title>
@@ -25,3 +63,12 @@
 <tmdb>list/38882</tmdb>
 <summary>Films directed by Billy Wilder</summary>
 </dir>
+
+
+<dir>
+<title>[COLOR mediumslateblue][B]O[/B][/COLOR]rson Welles</title>
+<tmdb>list/47003</tmdb>
+<summary>Selected Films directed by Orson Welles</summary>
+</dir>
+
+
