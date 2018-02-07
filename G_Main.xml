@@ -56,3 +56,12 @@
 <summary>Testings</summary>
 </plugin>
 
+<item>
+ <title>Fox Business Live</title>
+ <link>
+ <sublink>plugin://plugin.video.youtube/play/?video_id=_OSCV2GwJ5U</sublink>
+ </link>
+ <thumbnail></thumbnail>
+ <fanart></fanart>
+ <content></content>
+</item>
