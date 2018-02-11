@@ -1129,3 +1129,25 @@
         <fanart></fanart>
 </item>
 
+
+<item>
+        <title>Thor Ragnarok</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt3501632</imdb>
+                <title>Thor Ragnarok</title>
+                <year>2017</year>
+        </meta>
+        <link>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+				<sublink>https://openload.co/f/0buPWKe_rxg</sublink>
+				<sublink>https://estream.to/dq1a5ljfvqa6</sublink>
+				<sublink>https://openload.co/f/_qNCizvlEXo</sublink>
+				<sublink>https://vidzi.tv/b57ua1w8mrjd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
