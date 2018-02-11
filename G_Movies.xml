@@ -4,6 +4,14 @@
 
 
 <dir>
+<name>[COLOR mediumslateblue][B]N[/B][/COLOR]ew Releases</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_NewReleases.xml</link>
+<thumbnail></thumbnail>
+<summary></summary>
+</dir>
+
+
+<dir>
 <name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
 <thumbnail></thumbnail>
