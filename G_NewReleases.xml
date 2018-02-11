@@ -3,13 +3,12 @@
 <poster>G_newreleases</poster>
 #######################################################################################################################################
 
-    <dir>
-    <title>New Releases</title>
-    <Airtable>new_releases/page1</Airtable>
-    </dir>
+<dir>
+      <title>Jen New Releases</title>
+      <Airtable>new_releases/page1</Airtable>
+   </dir>
 
-
-    <dir>
-    <title>Newest Releases</title>
-    <Airtable>newest_releases/page1</Airtable>
-    </dir>
+   <dir>
+      <title>Jen Newest Releases</title>
+      <Airtable>newest_releases/page1</Airtable>
+   </dir>
