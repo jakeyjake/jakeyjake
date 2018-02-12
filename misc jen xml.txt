@@ -55,7 +55,7 @@ conn = http.client.HTTPSConnection("api.themoviedb.org")
 
 payload = "{}"
 
-conn.request("GET", "/3/genre/movie/list?language=en-US&api_key=5c4ad8f8bf9aad8478227af70852aded", payload)
+conn.request("GET", "/3/genre/movie/list?language=en-US&api_key=mine....", payload)
 
 res = conn.getresponse()
 data = res.read()
