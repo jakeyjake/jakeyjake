@@ -1,0 +1,24 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>80s Music Test</poster>
+<fanart></fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][COLOR cornflowerblue]A work in progress....possibly[/COLOR][/B]</message>
+	<message>[B][COLOR cornflowerblue][/COLOR][/B]</message>
+	<message>[B][/B]</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+
+
+

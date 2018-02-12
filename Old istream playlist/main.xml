@@ -1,0 +1,87 @@
+#######################################################################################################################################
+<poster>jake</poster>
+#######################################################################################################################################
+
+
+<dir>
+<name>The Fred C Dobbs Film Awards</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
+<thumbnail></thumbnail>
+<summary>Some Favourite Films</summary>
+</dir>
+
+
+<dir>
+<name>Sci-Fi Movies</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_SciFi.xml</link>
+<thumbnail></thumbnail>
+<summary>sci-fi</summary>
+</dir>
+
+
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>movies/popular</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Now Playing</title>
+  <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+ <title>TMDB Top Rated</title>
+  <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+  <title>TMDB Popular</title>
+  <tmdb>tv/popular</tmdb>
+ 
+</dir>
+
+<dir>
+  <title>TMDB Top Rated</title>
+  <tmdb>tv/top_rated</tmdb>
+</dir>
+
+
+<dir>
+  <title>TMDB List: Animal Kingdom</title>
+  <tmdb>list/13488</tmdb>
+</dir>
+
+<dir>
+  <title>Bryan Cranston Shows TMDB</title>
+  <tmdb>person/shows/17419</tmdb>
+</dir>
+
+<dir>
+  <title>Bryan Cranston Movies TMDB</title>
+  <tmdb>person/movies/17419</tmdb>
+</dir>
+
+
+
+
+<plugin>
+<name>30701</name>
+<link>plugin://plugin.video.getger/?action=openSettings</link>
+<thumbnail></thumbnail>
+<summary>Settings</summary>
+</plugin>
+
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>Search</summary>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>

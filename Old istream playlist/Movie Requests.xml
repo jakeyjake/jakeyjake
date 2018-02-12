@@ -1,0 +1,122 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>Movie Requests</poster>
+<fanart>http://i.imgur.com/UwRTse8.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B]Requested Movies[/B]</message>
+	<message></message>
+	<message></message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#PLAYLIST ITEMS#
+
+<directories>
+<name>[B][COLOR skyblue]Murder Games: The Life and Death of Breck Bednar[/COLOR][/B]</name>
+	<thumbnail>http://s1.dmcdn.net/S_cW0/526x297-7Qs.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/MurderGames.xml</link>
+</directories>
+
+
+<item>
+<title>[B]The 400 Blows[/B][COLOR lightslategray] ---[/COLOR]</title>
+<link>
+<sublink>http://streamcloud.eu/eko5mz3wi3za</sublink>
+<sublink>http://nosvideo.com/?v=74xk4qjbyrch</sublink>
+
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+
+
+<item>
+<title>[B]The Hundred-Foot Journey [/B][COLOR lightslategray] ---[/COLOR]</title>
+<link>
+<sublink>http://vidzi.tv/dk0zxvgsm0wq.html</sublink>
+<sublink>http://bestreams.net/mxx5i16yeg0g</sublink>
+
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://i.imgur.com/WBGd3Ma.png</thumbnail>
+</item>
+
+<item>
+<title>The God of Cookery - Eng Subtitles</title>
+<link>
+<sublink>http://stagevu.com/video/sapbdsvmrusn</sublink>
+<sublink>http://vodlocker.com/qlma4hj6plxw</sublink>
+<sublink>https://www.youtube.com/watch?v=1mBjFJaAdLA</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>https://image.tmdb.org/t/p/original/4gKOTFiH5fvMMCtuSE5xbqgLUmd.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Alvin and The Chipmunks(2007)</title>
+<link>
+<sublink>http://180upload.com/c7mdakkp8vwk</sublink>
+<sublink></sublink>
+<sublink>http://gorillavid.in/xb76z9jlhgzp</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>
+ 
+
+ 
+<item>
+<title>All Dogs Go to Heaven</title>
+<link>
+<sublink>http://bestreams.net/lmm5huzwk1kc</sublink>xxxxx
+<sublink>http://daclips.in/9u69ish4mxol</sublink>
+<sublink>http://gorillavid.in/mrjtqxswzw3f</sublink>
+<sublink>http://gorillavid.in/xb76z9jlhgzp</sublink>
+<sublink>http://nosvideo.com/?v=f5pqjny4yeiw</sublink>
+<sublink>http://thefile.me/5551bcdk4e5c</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/3MSNRVThiR4NVK7y5xusoC0irFk.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>All Dogs Go to Heaven 2 (unreliable links - will add to later if possible)</title>
+<link>
+<sublink>http://stagevu.com/video/tfvupkkuqzpk</sublink>
+<sublink>http://www.putlocker.com/file/3KNVFDZ7O70GS0SG</sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail>http://image.tmdb.org/t/p/original/b7s0poW253feYaFmPv1yF2jiRPe.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR]Zootopia[/COLOR][/B]</title>
+<link>
+<sublink>https://openload.co/embed/fz4whJiYt14/</sublink>
+<sublink>https://openload.co/f/fz4whJiYt14/</sublink>
+<sublink></sublink>
+<sublink></sublink>
+</link>
+<thumbnail></thumbnail>
+</item>

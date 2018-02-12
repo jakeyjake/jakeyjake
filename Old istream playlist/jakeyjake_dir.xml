@@ -1,0 +1,83 @@
+#START#
+#
+#
+
+
+<poster>jakeyjake</poster>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>  
+
+
+
+<info>
+	<message>[B][COLOR firebrick]A personal playlist of videos[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]All the contents herein are freely available to stream on the internet.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The playlists below, temporarily list video links found via a google search.[/COLOR][/B]</message>
+    <message>[B][COLOR firebrick]The media contents linked here are neither uploaded nor stored by myself.[/COLOR][/B]</message>
+    <message>[CR]</message>
+	<message>[COLOR][I][/COLOR][/I]</message>
+	<message>inc 1080P and 720P links</message>
+	<message>[B][COLOR tan]Recently added: The Last Witch Hunter, Solace, Ride Along 2, Home Invasion, Concussion, Spectre, Creed, The Revenant, [/COLOR][/B]</message>
+	<message>[B][COLOR tan]The Hateful Eight, Sicario, Exposed, Terminus, The Good Dinosaur, The Big Short,Lawless Range, The Submarine Kid, ...[/COLOR][/B]</message>
+	<message>[CR]</message>
+</info>	
+	
+
+#DIRECTORIES#
+
+<directories>
+
+
+    <name>[COLOR cornflowerblue][B]Films of 2016[/B][/COLOR][I] - selected by Joost Swarte[/I] </name>
+	<thumbnail>http://i.imgur.com/CbT7V3S.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2016%20Films.xml</link>
+
+    
+    <name>[COLOR cornflowerblue][B]Films of 2015[/B][/COLOR][I]~Colin's Choice[/I] </name>
+	<thumbnail>http://i.imgur.com/74QH8il.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2015%20Films.xml</link>
+    
+	
+	<name>[COLOR cornflowerblue][B]Films of 2013-2014[/B][/COLOR][I]~Gripper Stebson's favourites[/I]</name>
+	<thumbnail>http://i.imgur.com/14IYh3d.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/2013-14%20films.xml</link>
+	
+	
+	
+	<name>[I]The Fred C Dobbs [/I][COLOR cornflowerblue][B]~Film Awards[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/8neAvBr.png</thumbnail>
+	<link>https://raw.github.com/jakeyjake/jakeyjake/master/Fred%20C%20Dobbs.xml</link>
+	
+	
+	
+	<name>[I]Roger Mellie's[/I][COLOR cornflowerblue][B]~Requests Section[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/nUduA7Z.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Roger%20Mellie.xml</link>
+	
+	
+	<name>[I]Andy Gill's [/I][COLOR cornflowerblue][B]~Music Corner[/B][/COLOR]</name>
+	<thumbnail>http://i.imgur.com/xLp2LjY.png</thumbnail>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Music.xml</link>
+
+	
+	
+	
+   
+	<info>
+	
+
+	<message>[CR]</message>
+	<message>[B][COLOR lightslategray] •••[/COLOR] - [COLOR firebrick]Rated [/COLOR]85%+ [COLOR firebrick]on rottentomatoes.com[/COLOR][/B]</message>
+	<message>[B][COLOR lightslategray] •[/COLOR] - [COLOR firebrick]Rated suitable only for viewers of age [/COLOR]18+[/B]</message>
+	<message>[COLOR tan]To include a list in your iStream Movie Searches -> Right-Click/Context Menu and choose[/COLOR] [B][COLOR cornflowerblue]Add[/COLOR] as [COLOR cornflowerblue]i[/COLOR]Stream Source[/B]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH
+    
+	
+</info>
+	
+
+</directories>
+
+
+#
+#
+#END

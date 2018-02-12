@@ -1,0 +1,35 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>The Mrs Bradley Mysteries</poster>
+<fanart>http://i.imgur.com/cOHs3iA.jpg</fanart>
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	<message>[B][COLOR firebrick]The Mrs Bradley Mysteries[/COLOR][/B]</message>
+	<message>[COLOR][/COLOR][/I]</message>
+	<message></message>
+	<message>[B][COLOR]British drama series starring Diana Rigg as Adela Bradley. Produced by the BBC. Based on the character created by detective writer Gladys Mitchell. Five episodes were produced, including a pilot special.[/COLOR][/B]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+	
+</info>
+
+#PLAYLIST ITEMS#
+
+<item>
+<title>[B]Ex Machina [/B][COLOR lightslategray][/COLOR]</title>
+<sublink></sublink>
+<sublink>https://afdah.org/watch?v=Ex_Machina_2015#video=TgHnTkvH5LmnZwT6GPLbvlUCE1Qt2wTbJyC1aLHfWl8</sublink>
+<sublink>http://vidto.me/rwbwchzd0kim.html</sublink>
+<sublink>http://vodlocker.com/xm95obk0h1pn</sublink>
+<sublink></sublink>
+<sublink>http://vidto.me/rg5pqszkc4k5.html</sublink>
+<sublink>http://thefile.me/tdabxv1hvtjs</sublink>
+<sublink>http://letwatch.us/pg8zlawb3vxp</sublink>
+</link>
+<thumbnail></thumbnail>
+</item>

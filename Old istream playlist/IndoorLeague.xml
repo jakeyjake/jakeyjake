@@ -1,0 +1,38 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART 
+
+<poster>IndoorLeague</poster>
+<fanart>http://i.imgur.com/lVlb3ly.jpg</fanart>
+
+
+
+<info>
+	<message>[B][/B]</message>
+	<message>[B][COLOR cornflowerblue]The Indoor League - Presented by Fred Trueman[/COLOR][/B]</message>
+	<message>Yorshire Television 1973-78</message>
+	<message>[COLOR tan][/COLOR]</message>
+	<message>[CR]</message>  #SEPERATOR - DELETE IF YOU WISH...
+</info>
+
+#DIRECTORIES#
+
+<directories>
+
+
+
+<name>[COLOR ghostwhite][B]The Indoor League[/B][/COLOR]</name>
+<link>http://gdata.youtube.com/feeds/api/playlists/PLcSG6iONPricpG6TC80XdbvC9Vm2cOg0E</link>
+<thumbnail>http://i.imgur.com/02HISCK.jpg</thumbnail>
+
+
+
+
+
+</directories>
+
+#
+#
+#END
