@@ -2,7 +2,11 @@
 <poster>jake</poster>
 #######################################################################################################################################
 
-
+<dir>
+  <title>Sherlock Holmes</title>
+  <trakt>https://api.trakt.tv/users/shanstark71/lists/sherlock-holmes/items</trakt>
+  <thumbnail></thumbnail>
+</dir>
 
 
 <dir>
