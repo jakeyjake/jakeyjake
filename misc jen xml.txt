@@ -108,3 +108,13 @@ YOUTUBE single item
 <name>[COLOR mediumslateblue][B]Boss TEST[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/boss_test.xml</link>
 </dir>
+
+***************************************************************************
+
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]L[/B]ive[/COLOR] Channels</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_live.xml</link>
+</dir>
+
