@@ -11,8 +11,8 @@
 
 
 <plugin>
-    <name>[COLOR mediumslateblue]Search Movies[/COLOR] [I]Placenta[/I]</name>
-	<link>plugin://plugin.video.placenta/?action=movieSearch&quot;,return)</link>
+    <name>[COLOR mediumslateblue]Search All[/COLOR] [I]Placenta[/I]</name>
+	<link>plugin://plugin.video.placenta/?action=searchNavigator&quot;,return)</link>
 </plugin>
 
 
