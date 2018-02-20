@@ -3,13 +3,6 @@
 #######################################################################################################################################
 
 <dir>
-  <title>Sherlock Holmes</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/sherlock-holmes/items</trakt>
-  <thumbnail></thumbnail>
-</dir>
-
-
-<dir>
 <name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Collections</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
 <thumbnail></thumbnail>
