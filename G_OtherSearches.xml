@@ -4,6 +4,10 @@
 #######################################################################################################################################
 
 
+<plugin>
+    <name>[COLOR mediumslateblue]Search Movies[/COLOR] [I]Death Streams[/I]</name>
+	<link>plugin://plugin.video.blamo/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>
 
 
 <plugin>
@@ -11,12 +15,6 @@
 	<link>plugin://plugin.video.placenta/?action=movieSearch&quot;,return)</link>
 </plugin>
 
-<plugin>
-    <name>[COLOR mediumslateblue]Search Movies[/COLOR] [I]Death Streams[/I]</name>
-	<link>plugin://plugin.video.blamo/?mode=search&amp;section=Movies&quot;,return)</link>
-</plugin>
-
->
 
 <plugin>
     <name>[COLOR mistyrose]Search TV[/COLOR] [I]Death Streams[/I]</name>
