@@ -5,33 +5,33 @@
 
 
 <plugin>
-    <name>[COLOR mediumslateblue]Search Movies[/COLOR] [I]Death Streams[/I]</name>
+    <name>[COLOR indianred]Search Movies[/COLOR] [I]Death Streams[/I]</name>
 	<link>plugin://plugin.video.blamo/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR mistyrose]Search TV[/COLOR] [I]Death Streams[/I]</name>
+    <name>[COLOR indianred]Search TV[/COLOR] [I]Death Streams[/I]</name>
 	<link>plugin://plugin.video.blamo/?mode=search&amp;section=TV&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[COLOR mediumslateblue]Open BnW Movies[/COLOR]</name>
+    <name>[COLOR indianred]Open BnW Movies[/COLOR]</name>
 	<link>plugin://plugin.video.bnwmovies/&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumslateblue]Open MovieZoot[/COLOR]</name>
+    <name>[COLOR indianred]Open MovieZoot[/COLOR]</name>
 	<link>plugin://plugin.video.moviezoot/&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumslateblue]MovieZoot - Binge Watching[/COLOR]</name>
+    <name>[COLOR indianred]MovieZoot - Binge Watching[/COLOR]</name>
 	<link>plugin://plugin.video.moviezoot/?mode=112&amp;name=Binge%20Watching&amp;url=http%3a%2f%2fmoviezoot.com%2fbinge-watching%2f&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.moviezoot%2Fcurtains.jpg%26meta%3Dplot%253DGot%252Bsome%252Btime%252Bto%252Bkill%25253F%252BHow%252Babout%252Bbinge%252Bwatching%252Bsome%252Bfree%252Bstreaming%252Boutstanding%252Bcomedies%252Bfrom%252Bthe%252Bpast%25253F%252B%252BOr%252Bhow%252Babout%252Bsome%252Bgreat%252Bmysteries%25253F%252BOr%252Bdocumentaries%25253F%2526votes%253D0%2526label%253DBinge%252BWatching%2526title%253DBinge%252BWatching%26desc%3DGot+some+time+to+kill%3F+How+about+binge+watching+some+free+streaming+outstanding+comedies+from+the+past%3F++Or+how+about+some+great+mysteries%3F+Or+documentaries%3F%26_options_sf&quot;,return)</link>
 </plugin>
 
 <plugin>
-    <name>[COLOR mediumslateblue]All Shows - ReRunCentury [/COLOR]</name>
+    <name>[COLOR indianred]All Shows - ReRunCentury [/COLOR]</name>
 	<link>plugin://plugin.video.reruncentury/?mode=3&amp;name=All%20Shows%20(Alphabetical)&amp;url=http%3a%2f%2fwww.reruncentury.com%2fia%2f&amp;sf_options=meta%3Dvotes%253D0%2526label%253DAll%252BShows%252B%252528Alphabetical%252529%2526title%253DAll%252BShows%252B%252528Alphabetical%252529%26_options_sf&quot;,return)</link>
 </plugin>
