@@ -1,0 +1,467 @@
+<addons>
+<addon id="repository.illuminati" name="[COLORmaroon]Illu[COLORslategray]min[COLORdarkblue]ati[/COLOR]" version="1.1.4" provider-name="IlluminatiTemple">
+				<requires>
+						<import addon="xbmc.addon" version="12.0.0"/>
+				</requires>
+	<extension point="xbmc.addon.repository" name="Illuminati">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">http://theunjudged.com/ATrain/repo/addons.xml</info>
+			<checksum>http://theunjudged.com/ATrain/repo/addons.xml.md5</checksum>
+			<datadir zip="true">http://theunjudged.com/ATrain/repo/</datadir>
+		</dir>
+		<dir>
+  			<info compressed="false">http://teamuniversal.xyz/modules4all/addons.xml</info>
+  			<checksum>http://teamuniversal.xyz/modules4all/addons.xml.md5</checksum>
+  			<datadir zip="true">http://teamuniversal.xyz/modules4all/</datadir>
+ 		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>	   
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Home of 3rd party addons</summary>
+		<description lang="en">The developers do not own any content found within these addons. They are in no way affiliated with Kodi or XBMC.</description>
+						<platform>all</platform>
+	</extension>
+</addon>
+<addon id="plugin.program.EleKta" name="[B][COLORcyan]E[COLORgrey]leKta [COLORcyan]W[COLORgrey]izard[/COLOR][/B]" version="0.0.1" provider-name="EleKta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">EleKta Wizard</summary>
+    <description lang="en">EleKta Wizard allows you to get access to the latest EleKta Wizards Custom Builds and APKs.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.program.illuminati" name="[B][COLORcyan]I[COLORgrey]lluminati [COLORcyan]W[COLORgrey]izard[/COLOR][/B]" version="1.1.5" provider-name="illuminati">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">illuminati-wizard</summary>
+    <description lang="en">Illuminati Wizard allows you to get access to the latest Illuminati Wizards Custom Builds.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.boondock" name="[COLORcyan]B[/COLOR][COLORgrey]OON[/COLOR][COLORcyan]D[/COLOR][COLORgrey]OCK[/COLOR]" version="2.1.8" provider-name="MrSkeletor, Jen">
+		<requires>
+				<import addon="xbmc.python" version="2.19.0" />
+				<import addon="script.module.universalscrapers" version="1.0.0" />
+				<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+				<import addon="script.module.beautifulsoup" version="3.2.1" />
+				<import addon="script.module.requests" version="2.9.1" />
+				<import addon="script.module.addon.common" version="2.0.0" />
+				<import addon="script.module.xmltodict" version="0.9.0" />
+				<!--<import addon="script.module.web-pdb" version="1.0"/>-->
+				<import addon="script.module.resolveurl" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+				<provides>video</provides>
+		</extension>
+		<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+		<extension point="xbmc.addon.metadata">
+				<summary lang="en">[B][COLORcyan]Random Mumbo Jumbo[/COLOR][/B] and [B][COLORcyan]Easter Eggs[/B][/COLOR]</summary>
+				<description lang="en">The developer does not own any content found within this addon. All content is found across the web freely. The developer is in no way affiliated with Kodi or XBMC.</description>
+				<platform>all</platform>
+				<website>www.noobsandnerds.com</website>
+		</extension>
+</addon>
+<addon id="plugin.video.fantasticbeasts" name="Fantastic Beasts" version="1.0.2" provider-name="ad">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.nanscrapers" version="0.5.5" />
+				<import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Animal documentaries.</summary>
+		<description lang="en">Fantastic beasts is a compilation of animal documentaries found using YouTube. The developer does not own any of this content as it is readily available via YouTube. The developer is in no way, shape, or form associated or affiliated with Kodi.</description>
+		<platform>all</platform>
+		<forum>http://www.noobsandnerds.com/support</forum>
+		<website>www.noobsandnerds.com</website>
+		<news></news>
+		<genre>documentary,usa</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
+<addon id="plugin.video.insomniac"
+version="1.1.1"
+name="[COLORcyan]In[COLORgrey]som[COLORcyan]ni[COLORgrey]ac[/COLOR]"
+provider-name="Skeletor, and Co.">
+<requires>
+	<import addon="xbmc.python" version="2.24.0"/>
+	<import addon="script.module.muckys.common" version="1.3.5"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+	<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+	<summary lang="en">[COLORcyan] 24/7 Viewing[/COLOR]</summary>
+	<description>Nocturnal Medicine
+	</description>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>    
+	</assets>
+</extension>
+</addon>
+<addon id="plugin.video.kidscornerv2" name="Kids Corner V2" version="3.3" provider-name="56426">
+		<requires>
+				<import addon="xbmc.python" version="2.19.0" />
+				<import addon="script.module.universalscrapers" version="1.0.0" />
+				<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+				<import addon="script.module.beautifulsoup" version="3.2.1" />
+				<import addon="script.module.requests" version="2.9.1" />
+				<import addon="script.module.addon.common" version="2.0.0" />
+				<import addon="script.module.xmltodict" version="0.9.0" />
+				<!--<import addon="script.module.web-pdb" version="1.0"/>-->
+				<import addon="script.module.resolveurl" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+				<provides>video</provides>
+		</extension>
+		<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Kids Corner V2 Powered By Jen</summary>
+			<description lang="en"></description>
+			<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+			<platform>all</platform>
+				<website>www.noobsandnerds.com</website>
+		</extension>
+</addon>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.live.streamspro"
+			 name="LiveStreamsPro"
+			 version="2.8.1"
+			 provider-name="Shani">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.beautifulsoup" version="3.2.1"/>
+		<import addon="script.module.simple.downloader" version="0.9.4"/>
+		<import addon="script.module.beautifulsoup4" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.httplib2" />
+		<import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+		<import addon="script.module.youtube.dl" optional="true"/>
+		<import addon="plugin.video.youtube" optional="true" />
+		<import addon="script.module.urlresolver" optional="true"/>
+		<import addon="script.module.simplejson" />    
+		 <import addon="script.module.livestreamer" optional="true"/>
+		 <import addon="script.module.pyamf" optional="true"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>livestreamspro- shamelessly forked from livestreams but added many thinks</summary>
+		<description>
+				In addition to what livestreams allowed you to do, you can now,
+				1. call regex in regex,
+				2. multiple regex in page, regex in session, also htmlunescape responses
+				3. create session from one regex and pass onto next in line
+				4. save sessions to a file and open again later
+				5. write python code in .py file, put in the profile directory and then call from your regex.
+				6. use epoctime, guid and unpack as functions already defined.
+				7. Use it to post values to the pages to get the proper responses
+				8. support many headers, like origin, X-Requested-With
+				9. you can now append cookies in response and then read in regex using includeheaders
+				10. You can now link to another web url via your xml using externallink
+				11. support for google captcha, now you can show and then post the text
+				
+		</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+<addon id="plugin.video.monkeyspank" name="Monkey Spank" version="1.0.0" provider-name="MrSkeletor">
+		<requires>
+				<import addon="xbmc.python" version="2.1.0"/>
+				<import addon="script.module.requests" version="1.1.0"/>
+				<import addon="script.module.t0mm0.common" version="1.1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+				<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+				<news>v 1.0.0 Birth</news>
+				<summary>[COLOR deeppink]XXX[/COLOR] Adult Content</summary>
+				<description>[COLOR deeppink]Porn Videos[/COLOR]</description>
+		<disclaimer></disclaimer>	
+		<platform>all</platform>
+		<license>http://www.gnu.org/licenses/</license>
+		<forum></forum>
+		<website></website>    
+		<email></email>
+		<mainsource>http://repo.illuminatitemple.xyz</mainsource>    
+		<source></source> 		
+		</extension>
+</addon>
+<addon id="plugin.video.nightterrors" name="Night Terrors" version="1.6" provider-name="nuttytony">
+		<requires>
+				<import addon="xbmc.python" version="2.19.0" />
+				<import addon="script.module.universalscrapers" version="1.0.0" />
+				<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+				<import addon="script.module.beautifulsoup" version="3.2.1" />
+				<import addon="script.module.requests" version="2.9.1" />
+				<import addon="script.module.addon.common" version="2.0.0" />
+				<import addon="script.module.xmltodict" version="0.9.0" />
+				<!--<import addon="script.module.web-pdb" version="1.0"/>-->
+				<import addon="script.module.resolveurl" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+				<provides>video</provides>
+		</extension>
+		<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">paranormal and true crime</summary>
+			<description lang="en">my first addon</description>
+			<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+			<platform>all</platform>
+				<website>www.noobsandnerds.com</website>
+		</extension>
+</addon>
+<addon id="plugin.video.serialkillerslite" name="Serial Killers Lite" version="1.1.1" provider-name="Mookdog | Jen">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
+        <import addon="script.module.beautifulsoup" version="3.2.1" />
+        <import addon="script.module.requests" version="2.9.1" />
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" />
+        <import addon="plugin.video.youtube" version="6.0.0~alpha6" />
+        
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
+    <extension point="xbmc.addon.metadata">
+      <summary lang="en">In the words of the great Jeffrey Dahmer Tastes Great, Less Filling</summary>
+      <summary lang="he">הרחבת וידאו Jen</summary>
+      <description lang="en"></description>
+      <description lang="he">האחות הקטנה של בוב</description>
+      <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+      <disclaimer lang="he">מחבר ההרחבה זה אינו מארח את התוכן שיתכן ויימצא ואין לו זיקה לאף אחד מספקי התוכן. הרחבה רק מחפשת תוכן שקיים באתרי אינטרנט. השימוש בהרחבה הוא על אחריותך בלבד!</disclaimer>
+      <platform>all</platform>
+        <website>www.noobsandnerds.com</website>
+        <video_guide>xtOqLY5PJDY</video_guide>
+    </extension>
+</addon>
+<addon
+	id="plugin.video.SportsDevil"
+	version="2017.11.15.NL1115"
+	name="sportsdevil"
+	provider-name="MaxMustermann, Al101, Hubbab3, Jairox, Sattekop">
+	<requires>
+	 <import addon="xbmc.python" version="2.14.0"/>
+	 <import addon="script.module.dateutil" />
+	 <import addon="script.module.simplejson" />
+	 <import addon="script.module.six" />
+	 <import addon="script.module.requests" />
+	 <import addon="script.module.livestreamer" />
+	 <!-- <import addon="script.video.F4mProxy" /> -->
+	 <!-- <import addon="plugin.video.f4mTester"/> -->
+	 <!-- *broken* <import addon="repository.unofficialsportsdevil" version="1.0.0" optional="true"/> *broken* -->
+	</requires>
+	<extension 
+		point="xbmc.python.pluginsource"
+		library="default.py">
+	 <provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="service/proxy_service.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Play videos of different ad-financed sports streaming sites (XvBMC acts only as a mirror).</summary>
+		<description>Play videos of different ad-financed sports streaming sites.
+		
+Sportsdevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site (XvBMC acts only as a mirror).
+		
+For updates check the readme.
+		</description>
+		<disclaimer>Sportsdevil does not provide any streams of its own; stream quality, content and copyright are responsibility of the ad-financed source web site (XvBMC acts only as a mirror).</disclaimer>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<platform>all</platform>
+		<forum>http://forums.koditips.com/index.php?topic=11.0</forum>
+		<website>http://forums.koditips.com/index.php?topic=11.0</website>
+		<source>http://forums.koditips.com/index.php?topic=11.0</source>
+		<news>version="2017.11.15.NL1115" (mirror@xvbmc)</news>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+	</extension>
+</addon>
+<addon id="plugin.video.xtremeodyssey" name="Xtreme Odyssey" version="2.1" provider-name="loose cannon, Jen">
+		<requires>
+				<import addon="xbmc.python" version="2.19.0" />
+				<import addon="script.module.universalscrapers" version="1.0.0" />
+				<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+				<import addon="script.module.beautifulsoup" version="3.2.1" />
+				<import addon="script.module.requests" version="2.9.1" />
+				<import addon="script.module.addon.common" version="2.0.0" />
+				<import addon="script.module.xmltodict" version="0.9.0" />
+				<!--<import addon="script.module.web-pdb" version="1.0"/>-->
+				<import addon="script.module.resolveurl" />
+				<import addon="plugin.video.SportsDevil" version="2017.03.28.NL1115" />
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+				<provides>video</provides>
+		</extension>
+		<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Extreme Videos</summary>
+			<summary lang="he">Extreme Videos, TV, and Documentaries</summary>
+			<description lang="en">Wildlife Survival and Xtreme Sports</description>
+			<description lang="he"></description>
+			<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+			<disclaimer lang="he">מחבר ההרחבה זה אינו מארח את התוכן שיתכן ויימצא ואין לו זיקה לאף אחד מספקי התוכן. הרחבה רק מחפשת תוכן שקיים באתרי אינטרנט. השימוש בהרחבה הוא על אחריותך בלבד!</disclaimer>
+			<platform>all</platform>
+				<website>www.noobsandnerds.com</website>
+				<video_guide>xtOqLY5PJDY</video_guide>
+		</extension>
+</addon>
+<addon id="plugin.video.youtube" name="YouTube" version="6.0.0~alpha6" provider-name="bromix">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+        <import addon="script.module.six"/>
+        <import addon="script.module.requests" version="2.12.4"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="resources/lib/default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.service" library="resources/lib/startup.py" start="startup"/>
+    <extension point="xbmc.python.module" library="resources/lib/"/>
+    <extension point="xbmc.addon.metadata">
+        <news>
+[add] Python 3 compat.
+[add] Settings -> Maintenance -> Delete temporary files
+[add] Settings -> General -> Rate video after watching
+[add] Settings -> API -> Enable API configuration page
+        - when enabled, visit http://ipaddress:port/api to configure API keys from a web browser
+        - port is configured in Settings - HTTP Server - Port
+[add] Storing personal api keys in api_keys.json, restore keys from json on settings loss
+[add] Storing login tokens in access_manager.json, restore tokens from json on settings loss
+[add] youtube_registration module, register developer keys and use them by appending an addon_id=:addon_id parameter to youtube add-on plugin urls
+[add] screensaver=true parameter to /play route - no suggested videos, no post play events, don't ask for quality
+[fix] Signature deciphering
+[fix] context menu after playback
+[fix] alternative player, do not append headers
+[fix/upd] post play events happen post play
+[fix/upd] set title from metadata on play
+[upd] Dutch strings [MB1968]
+[upd] French strings [bubuleur]
+[upd] Greek strings [twilight0]
+        </news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <summary lang="en_gb">Plugin for YouTube</summary>
+        <description lang="en_gb">YouTube is one of the biggest video-sharing websites of the world.</description>
+        <disclaimer lang="en_gb">This plugin is not endorsed by Google</disclaimer>
+        <summary lang="he_il">תוסף עבור YouTube</summary>
+        <description lang="he_il">YouTube הוא אחד מאתרי שיתוף הווידאו הגדולים בעולם.</description>
+        <summary lang="de_de">Plugin für YouTube</summary>
+        <description lang="de_de">YouTube ist eines der größten Video-Sharing-Websites der Welt.</description>
+        <summary lang="pl_pl">Wtyczka YouTube</summary>
+        <description lang="pl_pl">YouTube jest jednym z największych na świecie serwisów udostępniania wideo.</description>
+        <summary lang="hu_hu">YouTube kiegészítő</summary>
+        <description lang="hu_hu">A YouTube világ egyik legnagyobb videómegosztó weboldala.</description>
+        <summary lang="es_es">Plugin para YouTube</summary>
+        <description lang="es_es">YouTube es uno de los mayores sitios web de intercambio de vídeos del mundo.</description>
+        <summary lang="ru_ru">Видеодополнение YouTube</summary>
+        <description lang="ru_ru">Данное дополнение позволяет находить и смотреть видео на всеми любимом сайте.</description>
+        <summary lang="fr_fr">Plugin pour YouTube</summary>
+        <description lang="fr_fr">YouTube est l'un des plus grands sites de partage vidéos du monde.</description>
+        <summary lang="zh_cn">YouTube附加元件</summary>
+        <description lang="zh_cn">「Youtube」是全世界最大的影片分享網站</description>
+        <summary lang="bg_bg">Добавка за YouTube</summary>
+        <description lang="bg_bg">YouTube е един от най-големите уеб сайтове за споделяне на видео в целия свят.</description>
+        <summary lang="el_gr">Πρόσθετο YouTube</summary>
+        <description lang="el_gr">Το YouTube είναι μία από τις μεγαλύτερες ιστοσελίδες διαμοιρασμού βίντεο στον κόσμο.</description>
+        <disclaimer lang="el_gr">Η παρούσα μικροεφαρμογή δεν έχει υϊοθετηθεί από την Google</disclaimer>
+        <summary lang="nb_no">Tillegg for YouTube</summary>
+        <description lang="nb_no">YouTube er en av verdens største nettsider for videodeling.</description>
+        <language></language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>https://forum.kodi.tv/showthread.php?tid=325740</forum>
+        <website>https://www.youtube.com</website>
+        <email>ytplugin at datanet dot ws</email>
+        <source>https://github.com/jdf76/plugin.video.youtube</source>
+        <size>1776578</size>
+    </extension>
+</addon>
+
+<addon id="program.plexus"
+			 name="Plexus"
+			 version="0.1.7"
+			 provider-name="enen92, TVAddons, RonnieHD">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.requests" />
+	</requires>
+	<extension point="xbmc.python.pluginsource"
+						library="default.py">
+				<provides>executable</provides>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+		<summary>SopCast and AceStream for Kodi</summary>
+		<description lang="en">Plexus - Any complex structure containing an intricate network of parts. Plexus brings native peer-to-peer support (AceStream and SopCast) for Kodi Entertainment Center for several platforms.[CR][CR]Documentation: (missing)</description>
+		<description lang="pt">Plexus - Uma estrutura complexa constituída por uma rede de partes. O Plexus adiciona suporte peer-to-peer nativo (AceStream e Sopcast) ao Kodi Entertainment Center para várias plataformas.[CR][CR]Documentação: (em falta)</description>
+		<description lang="es">Plexus - Una estructura compleja conteniendo una intrincada red de partes. Plexus añade soporte nativo peer-to-peer (AceStream y SopCast) al Centro de Entretenimiento Kodi para varias plataformas.[CR][CR]Documentacion: (falta)</description>
+	<disclaimer lang="en">The author does not host nor distribute any of the content you may watch using this addon. The author has no part in the development of any included technologies. When seeking help in Kodi's forum please respect rules (http://kodi.wiki/view/Forum_rules).</disclaimer>
+		<disclaimer lang="pt">Os autores não alojam nem distribuem nenhum do conteúdo que poderá ser reproduzido a partir deste addon. Os autores não têm qualquer parte no desenvolvimento de qualquer uma das tecnologias. Se procurar ajuda no fórum oficial do Kodi por favor respeite as regras do fórum (http://kodi.wiki/view/Forum_rules).</disclaimer>
+		<disclaimer lang="es">El autor no aloja ni distribuye cualquier contenido que ud. pudiera reproducir usando este addon. El autor no tiene participacion en el desarrollo de cualquier tecnologia incluida. Cuando requiera ayuda en el foro de Kodi por favor respete las reglas (http://kodi.wiki/view/Forum_rules).</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+<addon id="script.module.muckys.common" name="Muckys Common Libraries" version="1.3.5" provider-name="Mucky Duck">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Collection of modules used by Mucky Ducks Addons</summary>
+		<description lang="en">Collection of modules used by Mucky Ducks Addons
+beautifulsoup3 v3.2.1 from https://www.crummy.com/software/BeautifulSoup :
+beautifulsoup4 v4.5.1 from https://www.crummy.com/software/BeautifulSoup :
+cfscrape 1.6.8 from https://github.com/Anorov/cloudflare-scrape :
+incapsula-cracker v0.1.3 from https://github.com/ziplokk1/incapsula-cracker :
+Js2Py v0.40 from https://github.com/PiotrDabkowski/Js2Py :
+jsbeautifier v1.6.4 from https://pypi.python.org/pypi/jsbeautifier :
+jsunfuck from tknorrois s.a.l.t.s modules:
+jsunpack from urlresolver which is a modified script from jsbeautifier:
+md_request a simple script for making web requests :
+md_tools a script with common methods in the Mucky Duck addons :
+md_view a simple script for adding views to addons :
+requests v2.12.4 from https://github.com/kennethreitz/requests :
+six v1.10.0 from https://pypi.python.org/pypi/six :
+unshortenit v0.3.0 from https://github.com/jkehler/unshortenit :
+		</description>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+	</extension>
+</addon>
+</addons>
