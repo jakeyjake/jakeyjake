@@ -13,12 +13,12 @@
 
 
 <dir>
-  <title>[COLOR=#00DBCCB2]Search[/COLOR] TMDB</title>
+  <title>[B][COLOR beige]Search[/COLOR][/B] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR=#00DBCCB2]Search[/COLOR] Trakt</title>
+  <title>[B][COLOR beige]Search[/COLOR][/B] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
