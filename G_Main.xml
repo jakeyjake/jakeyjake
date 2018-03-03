@@ -6,7 +6,7 @@
 
 
 <dir>
-		<title>[COLOR=#00DBCCB2]Search[/COLOR] IMDb</title>
+		<title>[B][COLOR beige]Search[/COLOR][/B] IMDb</title>
 		<imdburl>searchboth</imdburl>
 		<thumbnail></thumbnail>
 </dir>
