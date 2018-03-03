@@ -6,19 +6,19 @@
 
 
 <dir>
-		<title>[COLOR=00E0D6C5]Search[/COLOR] IMDb</title>
+		<title>[COLOR=#00DBCCB2]Search[/COLOR] IMDb</title>
 		<imdburl>searchboth</imdburl>
 		<thumbnail></thumbnail>
 </dir>
 
 
 <dir>
-  <title>[COLOR=#00E0D6C5]Search[/COLOR] TMDB</title>
+  <title>[COLOR=#00DBCCB2]Search[/COLOR] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[COLOR indianred]Search[/COLOR] Trakt</title>
+  <title>[COLOR=#00DBCCB2]Search[/COLOR] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
