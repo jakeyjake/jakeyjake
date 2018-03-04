@@ -40,10 +40,6 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
-<dir>
-<name>[COLOR darkturquoise][B]Live[/B][/COLOR] Channels</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_live.xml</link>
-</dir>
 
 
 <plugin>
