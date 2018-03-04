@@ -3,18 +3,22 @@
 #######################################################################################################################################
 <poster>G_Live</poster>
 #######################################################################################################################################
+    <dir>
+    <title>Tv Channels</title>
+    <Airtable>tv_channels</Airtable>
+    </dir>
 
     <dir>
-    <title>[COLOR mediumslateblue][B]S[/B][/COLOR]ports Channels</title>
+    <title>Sports Channels</title>
     <Airtable>sports_channels</Airtable>
     </dir>
 
 
+   
     <dir>
-    <title>[COLOR mediumslateblue][B]T[/B][/COLOR]v Channels</title>
-    <Airtable>tv_channels</Airtable>
+    <title>M3U Lists</title>
+    <Airtable>m3u_lists</Airtable>
     </dir>
-
 
 
 

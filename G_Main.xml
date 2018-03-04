@@ -6,19 +6,19 @@
 
 
 <dir>
-		<title>[B][COLOR beige]Search[/COLOR][/B] IMDb</title>
+		<title>[B][COLOR tan]Search[/COLOR][/B] IMDb</title>
 		<imdburl>searchboth</imdburl>
 		<thumbnail></thumbnail>
 </dir>
 
 
 <dir>
-  <title>[B][COLOR beige]Search[/COLOR][/B] TMDB</title>
+  <title>[B][COLOR tan]Search[/COLOR][/B] TMDB</title>
   <tmdb>search</tmdb>
 </dir>
 
 <dir>
-  <title>[B][COLOR beige]Search[/COLOR][/B] Trakt</title>
+  <title>[B][COLOR tan]Search[/COLOR][/B] Trakt</title>
   <trakt>search</trakt>
 </dir>
 
@@ -38,6 +38,11 @@
 <dir>
 <name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
+</dir>
+
+<dir>
+<name>[COLOR darkturquoise][B]Live[/B][/COLOR] Channels</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Live.xml</link>
 </dir>
 
 
