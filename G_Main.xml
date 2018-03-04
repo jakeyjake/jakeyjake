@@ -29,6 +29,14 @@
 </dir>
 
 
+<plugin>
+<name>[B][COLOR darkturquoise]Channels[/COLOR][/B]</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>
+
+
 <dir>
 <name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
@@ -49,10 +57,4 @@
 <summary>Settings</summary>
 </plugin>
 
-<plugin>
-<name>[B][COLOR darkturquoise]Channels[/COLOR][/B]</name>
-<link>plugin://plugin.video.getger/?action=developer</link>
-<thumbnail></thumbnail>
-<summary>Testings</summary>
-</plugin>
 
