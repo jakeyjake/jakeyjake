@@ -24,7 +24,7 @@
 
 
 <plugin>
-<name>[B][COLOR darkturquoise]C[/COLOR]hannels[/B]</name>
+<name>[COLOR darkturquoise][B]C[/B][/COLOR]</name>
 <link>plugin://plugin.video.getger/?action=developer</link>
 <thumbnail></thumbnail>
 <summary>Testings</summary>
@@ -35,14 +35,6 @@
 <name>[COLOR mediumslateblue][B]O[/B][/COLOR]ther Searches</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
 </dir>
-
-
-<plugin>
-<name>[B][COLOR darkturquoise]C[/COLOR]hannels[/B]</name>
-<link>plugin://plugin.video.getger/?action=developer</link>
-<thumbnail></thumbnail>
-<summary>Testings</summary>
-</plugin>
 
 
 <dir>
