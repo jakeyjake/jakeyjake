@@ -50,7 +50,7 @@
 </plugin>
 
 <plugin>
-<name>[COLOR darkturquoise]TEST[/COLOR]</name>
+<name>[B][COLOR darkturquoise]Channels[/COLOR][/B]</name>
 <link>plugin://plugin.video.getger/?action=developer</link>
 <thumbnail></thumbnail>
 <summary>Testings</summary>
