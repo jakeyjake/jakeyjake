@@ -49,6 +49,11 @@
 </dir>
 
 
+<dir>
+<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
+</dir>
+
 
 <plugin>
 <name>30701</name>
