@@ -44,7 +44,7 @@
 </dir>
 
 <plugin>
-<name>[COLOR darkturquoise][B]C[/B][/COLOR]hannels</name>
+<name>[COLOR darkturquoise][B]Channels[/B][/COLOR]</name>
 <link>plugin://plugin.video.getger/?action=developer</link>
 <thumbnail></thumbnail>
 <summary>Testings</summary>
