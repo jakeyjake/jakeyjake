@@ -5,13 +5,13 @@
 
 
 <plugin>
-    <name>[B][COLOR tan]Search[/COLOR][/B] Movies [I]Death Streams[/I]</name>
+    <name>[B][COLOR tan]Search[/COLOR] Movies [/B][I]Death Streams[/I]</name>
 	<link>plugin://plugin.video.blamo/?mode=search&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 
 <plugin>
-    <name>[B][COLOR tan]Search[/COLOR][/B] TV Shows [I]Death Streams[/I]</name>
+    <name>[B][COLOR tan]Search[/COLOR] TV Shows [/B][I]Death Streams[/I]</name>
 	<link>plugin://plugin.video.blamo/?mode=search&amp;section=TV&quot;,return)</link>
 </plugin>
 
