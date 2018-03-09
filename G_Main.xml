@@ -23,12 +23,7 @@
 </dir>
 
 
-<plugin>
-<name>[COLOR darkturquoise][B]C[/B][/COLOR]hannels</name>
-<link>plugin://plugin.video.getger/?action=developer</link>
-<thumbnail></thumbnail>
-<summary>Testings</summary>
-</plugin>
+
 
 
 <dir>
@@ -48,9 +43,16 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+<plugin>
+<name>[COLOR darkturquoise][B]C[/B][/COLOR]hannels</name>
+<link>plugin://plugin.video.getger/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>
+
 
 <dir>
-<name>[COLOR mediumslateblue][B]VoD[/B][/COLOR]</name>
+<name>[COLOR mediumslateblue][B]V[/B][/COLOR]o[COLOR mediumslateblue][B]D[/B][/COLOR]</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
 </dir>
 
