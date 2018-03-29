@@ -2,7 +2,6 @@
 <poster>jake</poster>
 #######################################################################################################################################
 
-
 <dir>
 <name>[COLOR mediumslateblue][B]B[/B][/COLOR]en Movies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_BenMovies.xml</link>
@@ -26,6 +25,14 @@
   <trakt>https://api.trakt.tv/users/shanstark71/lists/fantasy-swords-and-sorcery/items</trakt>
   <thumbnail></thumbnail>
 </dir>
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]F[/B][/COLOR]ilm [COLOR mediumslateblue][B]N[/B]oir[/COLOR] </name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FilmNoir.xml</link>
+</dir>
+
+
 
 <dir>
 <title>[COLOR mediumslateblue][B]G[/B][/COLOR]angster Movies</title>

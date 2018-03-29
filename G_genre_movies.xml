@@ -43,12 +43,6 @@
   <tmdb>genre/movies/14</tmdb>
 </dir>
 
-<plugin>
-    <name>Film Noir [/B][I]Juggernaut[/I]</name>
-	<link>plugin://plugin.video.juggernaut/?description=No%20information%20available&amp;fanart=C%3a%5cUsers%5cYvonne%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.juggernaut%5cfanart.jpg&amp;iconimage=https%3a%2f%2fwww.biartmuseum.org%2fassets%2fUploads%2ffilmnoir.jpg&amp;mode=get_list&amp;name=%5bB%5d%5bCOLORmintcream%5dFilm%20Noir%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2flevistitch.tk%2flevi%2fxmls%2fclassics.xml&quot;,return)</link>
-</plugin>
-
-
 
 <dir>
   <title>History</title>
