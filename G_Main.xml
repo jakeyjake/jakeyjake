@@ -56,11 +56,6 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
 </dir>
 
-<dir>
-    <title>Web Channels</title>
-    <tvmaze>web_channel/1</tvmaze>
-</dir>
-
 
 <plugin>
 <name>30701</name>
