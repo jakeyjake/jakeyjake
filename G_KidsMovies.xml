@@ -20,6 +20,12 @@
 
 <dir>
 <title>[COLOR mediumslateblue][B]R[/B][/COLOR]oald Dahl Movies</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/roald-dahl-movies/items</trakt>
+<trakt>https://api.trakt.tv/users/ireallylovevids/lists/roald-dahl-movies/items</trakt>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>[COLOR mediumslateblue][B]R[/B][/COLOR]oald Dahl Movies</title>
+<trakt>https://api.trakt.tv/users/ireallylovevids/lists/roald-dahl-movies</trakt>
 <thumbnail></thumbnail>
 </dir>
