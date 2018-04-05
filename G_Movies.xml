@@ -43,18 +43,18 @@
 </dir>
 
 <dir>
-<name>[COLOR mediumslateblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
-<thumbnail></thumbnail>
-<summary>Some Favourite Films</summary>
-</dir>
-
-
-<dir>
 <name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Genres</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_genre_movies.xml</link>
 <thumbnail></thumbnail>
 <summary></summary>
+</dir>
+
+
+<dir>
+<name>[COLOR mediumslateblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
+<thumbnail></thumbnail>
+<summary>Some Favourite Films</summary>
 </dir>
 
 
