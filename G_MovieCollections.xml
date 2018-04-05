@@ -2,6 +2,15 @@
 <poster>jake</poster>
 #######################################################################################################################################
 
+
+<dir>
+<name>[COLOR mediumslateblue][B]K[/B][/COLOR]ids Collections</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
+<thumbnail></thumbnail>
+<summary></summary>
+</dir>
+
+
 <dir>
 <name>[COLOR mediumslateblue][B]B[/B][/COLOR]en Movies</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_BenMovies.xml</link>

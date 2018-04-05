@@ -36,13 +36,6 @@
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]K[/B][/COLOR]ids Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_KidsMovies.xml</link>
-<thumbnail></thumbnail>
-<summary></summary>
-</dir>
-
-<dir>
 <name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Genres</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_genre_movies.xml</link>
 <thumbnail></thumbnail>
