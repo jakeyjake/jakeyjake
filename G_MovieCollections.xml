@@ -20,9 +20,10 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Directors.xml</link>
 </dir>
 
+
 <dir>
   <title>[COLOR mediumslateblue][B]F[/B][/COLOR]antasy Movies</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/fantasy-swords-and-sorcery/items</trakt>
+  <trakt>https://api.trakt.tv/users/ireallylovevids/lists/fantasy-swords-and-sorcery/items</trakt>
   <thumbnail></thumbnail>
 </dir>
 
@@ -58,9 +59,10 @@
 <tmdb>genre/movies/878</tmdb>
 </dir>
 
+
 <dir>
-  <title>[COLOR mediumslateblue][B]S[/B][/COLOR]herlock Holmes</title>
-  <trakt>https://api.trakt.tv/users/shanstark71/lists/sherlock-holmes/items</trakt>
+  <title>[COLOR mediumslateblue][B]F[/B][/COLOR]antasy Movies</title>
+  <trakt>https://api.trakt.tv/users/ireallylovevids/lists/sherlock-holmes/items</trakt>
   <thumbnail></thumbnail>
 </dir>
 
@@ -68,7 +70,7 @@
 
 <dir>
 <title>[COLOR mediumslateblue][B]T[/B][/COLOR]hriller Movies</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/thrillers/items</trakt>
+<trakt>https://api.trakt.tv/users/ireallylovevids/lists/thrillers/items</trakt>
 <thumbnail></thumbnail>
 </dir>
 
