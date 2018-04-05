@@ -6,14 +6,14 @@
 
 <dir>
 <title>[COLOR mediumslateblue][B]K[/B][/COLOR]ids Animated</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/animation-movies/items</trakt>
+<trakt>https://api.trakt.tv/users/ireallylovevids/lists/animation-movies/items</trakt>
 <thumbnail></thumbnail>
 </dir>
 
 
 <dir>
 <title>[COLOR mediumslateblue][B]K[/B][/COLOR]ids Live Action</title>
-<trakt>https://api.trakt.tv/users/shanstark71/lists/kids-live-action/items</trakt>
+<trakt>https://api.trakt.tv/users/ireallylovevids/lists/kids-live-action/items</trakt>
 <thumbnail></thumbnail>
 </dir>
 
@@ -24,8 +24,3 @@
 <thumbnail></thumbnail>
 </dir>
 
-<dir>
-<title>[COLOR mediumslateblue][B]R[/B][/COLOR]oald Dahl Movies</title>
-<trakt>https://api.trakt.tv/users/ireallylovevids/lists/roald-dahl-movies</trakt>
-<thumbnail></thumbnail>
-</dir>
