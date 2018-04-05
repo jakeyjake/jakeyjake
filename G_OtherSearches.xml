@@ -40,3 +40,8 @@
     <name>[B][COLOR tan]Open Golden Cinema[/COLOR][/B]</name>
 	<link>plugin://plugin.video.goldencinema/&quot;,return)</link>
 </plugin>
+
+<plugin>
+    <name>[B][COLOR tan]Timeless Classics Playlist[/COLOR][/B]</name>
+	<link>plugin%3a%2f%2fplugin.video.youtube%2fuser%2fTimelessClassicMovie%2f&quot;,return)</link>
+</plugin>
