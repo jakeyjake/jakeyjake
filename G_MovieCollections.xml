@@ -17,6 +17,7 @@
 </dir>
 
 
+
 <dir>
 <title>[COLOR mediumslateblue][B]DC[/B][/COLOR] Movies</title>
 <tmdb>list/32942</tmdb>
@@ -85,6 +86,11 @@
 
 
 
+<plugin>
+<title>Timeless Classic Movies</title>
+<link>plugin://plugin.video.youtube/channel/UCOg0aMAXmF3o5m243PxhE5g/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
 
 
 
