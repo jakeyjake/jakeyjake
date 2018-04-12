@@ -118,3 +118,26 @@ YOUTUBE single item
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_live.xml</link>
 </dir>
 
+
+<item>
+<title>[B][COLOR=WHITE]Season 1 Episode 1 - Not Exactly How We Planned[/COLOR][/B]</title>
+<meta>
+  <content>episode</content>
+  <imdb>tt3326028</imdb>
+  <tvdb>4750424</tvdb>
+  <tvshowtitle>Power</tvshowtitle>
+  <year>2014</year>
+  <title>Not Exactly How We Planned</title>
+  <premiered>2014-06-07</premiered>
+  <season>1</season>
+  <episode>1</episode>
+</meta>
+<link>
+  <sublink>search</sublink>
+  <sublink>searchsd</sublink>
+</link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail></thumbnail>
+<animated_fanart></animated_fanart>
+<fanart></fanart>
+</item>
