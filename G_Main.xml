@@ -65,3 +65,8 @@
 </plugin>
 
 
+<dir>
+<name>git pull Test</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Git_Pull_Test.xml</link>
+</dir>
+
