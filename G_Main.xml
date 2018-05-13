@@ -5,13 +5,6 @@
 
 
 <dir>
-		<title>[B][COLOR tan]Search[/COLOR][/B] IMDb</title>
-		<imdburl>searchboth</imdburl>
-		<thumbnail></thumbnail>
-</dir>
-
-
-<dir>
 		<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
 		<imdburl>searchmovies</imdburl>
 		<thumbnail></thumbnail>
