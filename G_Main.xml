@@ -29,13 +29,14 @@
 </dir>
 
 
-
-
-
 <dir>
 <name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
 </dir>
+
+
+
+
 
 
 <dir>
@@ -48,6 +49,16 @@
 <name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
+
+
+
+
+
+<dir>
+<name>[COLOR darkturquoise][B]A[/COLOR]nimation[/B]</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
+</dir>
+
 
 <plugin>
 <name>[COLOR darkturquoise][B]Channels[/B][/COLOR]</name>
