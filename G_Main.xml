@@ -5,11 +5,16 @@
 
 
 <dir>
-		<title>[B][COLOR tan]Search[/COLOR] All[/B] IMDb</title>
-		<imdburl>searchseries</imdburl>
+		<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
+		<imdburl>searchmovies</imdburl>
 		<thumbnail></thumbnail>
 </dir>
 
+<dir>
+		<title>[B][COLOR tan]Search[/COLOR] TV Shows[/B] IMDb</title>
+		<imdburl>searchseries</imdburl>
+		<thumbnail></thumbnail>
+</dir>
 
 <dir>
   <title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
