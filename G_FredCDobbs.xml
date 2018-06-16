@@ -13,6 +13,22 @@
 
 #PLAYLIST ITEMS#
 
+
+<item>
+        <title>Change Title</title>
+        <link>
+                <sublink></sublink>
+                <sublink></sublink>
+				<sublink></sublink>
+                
+        </link>
+		<summary>This movie is about blahblahblah</summary>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/wqnzpJR3PwS4doVkAkt9seSEpoX.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
 <item>
         <title>Bicycle Thieves (Vittorio De Sica 1948)</title>
         <meta>
