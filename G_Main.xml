@@ -5,83 +5,80 @@
 
 
 <dir>
-		<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
-		<imdburl>searchmovies</imdburl>
-		<thumbnail></thumbnail>
+	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
+	<imdburl>searchmovies</imdburl>
+	<thumbnail></thumbnail>
 </dir>
 
 <dir>
-		<title>[B][COLOR tan]Search[/COLOR] TV Shows[/B] IMDb</title>
-		<imdburl>searchseries</imdburl>
-		<thumbnail></thumbnail>
-</dir>
-
-
-<dir>
-  <title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
-  <tmdb>search</tmdb>
-</dir>
-
-<dir>
-  <title>[B][COLOR tan]Search[/COLOR] All[/B] Trakt</title>
-  <trakt>search</trakt>
+	<title>[B][COLOR tan]Search[/COLOR] TV Shows[/B] IMDb</title>
+	<imdburl>searchseries</imdburl>
+	<thumbnail></thumbnail>
 </dir>
 
 
 <dir>
-<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
+	<title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
+	<tmdb>search</tmdb>
 </dir>
 
-
-
-
-
-
 <dir>
-<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
+	<title>[B][COLOR tan]Search[/COLOR] All[/B] Trakt</title>
+	<trakt>search</trakt>
 </dir>
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
+	<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
 </dir>
 
 
 
 
 
+
 <dir>
-<name>[COLOR darkturquoise][B]A[/B][/COLOR]nimation</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
+	<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
+</dir>
+
+
+<dir>
+	<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
+</dir>
+
+
+
+
+
+<dir>
+	<name>[COLOR darkturquoise][B]A[/B][/COLOR]nimation</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
 </dir>
 
 
 <plugin>
-<name>[COLOR darkturquoise][B]Channels[/B][/COLOR]</name>
-<link>plugin://plugin.video.getger/?action=developer</link>
-<thumbnail></thumbnail>
-<summary>Testings</summary>
+	<name>[COLOR darkturquoise][B]Channels[/B][/COLOR]</name>
+	<link>plugin://plugin.video.getger/?action=developer</link>
+	<thumbnail></thumbnail>
+	<summary>Testings</summary>
 </plugin>
 
 
 <dir>
-<name>[COLOR darkturquoise][B]Video[/B][/COLOR] on [COLOR darkturquoise][B]Demand[/B][/COLOR]</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
+	<name>[COLOR darkturquoise][B]Video[/B][/COLOR] on [COLOR darkturquoise][B]Demand[/B][/COLOR]</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
 </dir>
 
-<item>
-<title>Pair With Sites</title>
-<pairwith>pairlist</pairwith>
-</item>
+
 
 <plugin>
-<name>30701</name>
-<link>plugin://plugin.video.getger/?action=openSettings</link>
-<thumbnail></thumbnail>
-<summary>Settings</summary>
+	<name>30701</name>
+	<link>plugin://plugin.video.getger/?action=openSettings</link>
+	<thumbnail></thumbnail>
+	<summary>Settings</summary>
 </plugin>
 
 
