@@ -108,6 +108,17 @@ YOUTUBE single item
 *********************************************************************************
 
 
+<plugin>
+	<name>30701</name>
+	<link>plugin://plugin.video.getger/?action=openSettings</link>
+	<thumbnail></thumbnail>
+	<summary>Settings</summary>
+</plugin>
+
+
+
+
+
 
 <dir>
 <name>[COLOR mediumslateblue][B]Boss TEST[/B][/COLOR]</name>
