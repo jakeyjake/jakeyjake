@@ -49,10 +49,10 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
-<item>
+<dir>
 	<title>Pair With Sites</title>
 	<pairwith>pairlist</pairwith>
-</item>
+</dir>
 
 
 
