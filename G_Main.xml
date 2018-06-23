@@ -72,6 +72,10 @@
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
 </dir>
 
+<item>
+<title>Pair With Sites</title>
+<pairwith>pairlist</pairwith>
+</item>
 
 <plugin>
 <name>30701</name>
@@ -81,8 +85,5 @@
 </plugin>
 
 
-<dir>
-<name>git pull Test</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/Git_Pull_Test.xml</link>
-</dir>
+
 
