@@ -41,6 +41,11 @@
 
 
 
+<dir>
+	<name>[COLOR darkturquoise][B]Video[/B][/COLOR] on [COLOR darkturquoise][B]Demand[/B][/COLOR]</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_newVoD.xml</link>
+</dir>
+
 
 ************************************************************************
 
