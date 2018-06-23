@@ -68,11 +68,11 @@
 
 
 
- <item>
-<title>TestTube</title>
-<link>https://www.youtube.com/watch?v=z7XIZMPKhy8</link>
+ <dir>
+<name>Pair</name>
+<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Pair.xml</link>
 <thumbnail></thumbnail>
-</item>
+</dir>
 
 
 
