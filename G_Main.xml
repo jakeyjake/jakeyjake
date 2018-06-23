@@ -49,7 +49,10 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
-
+<item>
+	<title>Pair With Sites</title>
+	<pairwith>pairlist</pairwith>
+</item>
 
 
 
@@ -66,10 +69,7 @@
 	<summary>Testings</summary>
 </plugin>
 
-<item>
-	<title>Pair With Sites</title>
-	<pairwith>pairlist</pairwith>
-</item>
+
 
 
 <plugin>
