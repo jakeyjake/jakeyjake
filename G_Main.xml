@@ -68,12 +68,18 @@
 
 
 
- <dir>
+<dir>
 <name>Pair</name>
 <link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Pair.xml</link>
 <thumbnail></thumbnail>
 </dir>
 
 
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>search</summary>
+</plugin>
 
 
