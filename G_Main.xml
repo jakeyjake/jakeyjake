@@ -49,13 +49,6 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
-<item>
-	<title>Pair With Sites</title>
-	<pairwith>pairlist</pairwith>
-</item>
-
-
-
 <dir>
 	<name>[COLOR darkturquoise][B]A[/B][/COLOR]nimation</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
@@ -70,14 +63,11 @@
 </plugin>
 
 
-
-
 <plugin>
-	<name>30701</name>
+	<name>[COLOR mediumslateblue][B]S[/B][/COLOR]ettings</name>
 	<link>plugin://plugin.video.getger/?action=openSettings</link>
 	<thumbnail></thumbnail>
 	<summary>Settings</summary>
 </plugin>
-
 
 
