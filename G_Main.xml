@@ -3,6 +3,16 @@
 <poster>G_Main</poster>
 #######################################################################################################################################
 
+<item>
+    <title>Pair With Sites</title>
+    <pairwith>pairlist</pairwith>
+</item>
+
+ <item>
+    <title>JEN: Customization</title>
+    <mysettings>0/0</mysettings>
+    <info>Open the Settings for the addon on the Customization tab</info>
+</item>
 
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
@@ -71,13 +81,3 @@
 </plugin>
 
 
-<item>
-    <title>Pair With Sites</title>
-    <pairwith>pairlist</pairwith>
-</item>
-
- <item>
-    <title>JEN: Customization</title>
-    <mysettings>0/0</mysettings>
-    <info>Open the Settings for the addon on the Customization tab</info>
-</item>
