@@ -1,13 +1,4 @@
-#######################################################################################################################################
-<poster>G_Main</poster>
-#######################################################################################################################################
 
-<plugin>
-	<name>[COLOR mediumslateblue][B]S[/B][/COLOR]ettings</name>
-	<link>plugin://plugin.video.getger/?action=openSettings</link>
-	<thumbnail></thumbnail>
-	<summary>Settings</summary>
-</plugin>
 
 
 
