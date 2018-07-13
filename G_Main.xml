@@ -2,16 +2,8 @@
 
 
 
-<item>
-	<title>Pair With Sites</title>
-	<pairwith>pairlist</pairwith>
-</item>
 
-<item>
-	<title>JEN: Customization</title>
-	<mysettings>0/0</mysettings>
-	<info>Open the Settings for the addon on the Customization tab</info>
-</item>
+
 
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
@@ -58,19 +50,30 @@
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
 </dir>
 
+
 <dir>
-	<name>[COLOR darkturquoise][B]Animation[/B][/COLOR]</name>
+	<name>[COLOR mediumslateblue][B]A[/B][/COLOR]nimation</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
 </dir>
 
 
 <plugin>
-	<name>[COLOR darkturquoise][B]Channels[/B][/COLOR]</name>
+	<name>[COLOR mediumslateblue][B]C[/B][/COLOR]hannels</name>
 	<link>plugin://plugin.video.getger/?action=developer</link>
 	<thumbnail></thumbnail>
 	<summary>Testings</summary>
 </plugin>
 
 
+<item>
+	<title>[COLOR darkturquoise][B]Settings[/B][/COLOR]</title>
+	<pairwith>pairlist</pairwith>
+</item>
 
+
+<item>
+	<title>[COLOR darkturquoise][B]Settings[/B][/COLOR]</title>
+	<mysettings>0/0</mysettings>
+	<info>Open the Settings for the addon on the Customization tab</info>
+</item>
 
