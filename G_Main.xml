@@ -75,3 +75,9 @@
     <title>Pair With Sites</title>
     <pairwith>pairlist</pairwith>
 </item>
+
+ <item>
+    <title>JEN: Customization</title>
+    <mysettings>0/0</mysettings>
+    <info>Open the Settings for the addon on the Customization tab</info>
+</item>
