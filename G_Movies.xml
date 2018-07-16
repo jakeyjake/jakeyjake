@@ -1,7 +1,11 @@
 #######################################################################################################################################
-<poster>jake</poster>
+<poster>G_Movies</poster>
 #######################################################################################################################################
 
+<dir>
+<name>[COLOR mediumslateblue][B]O[/B][/COLOR]n Demand Movies</name>
+<link>file://VOD_movies.xml</link>
+</dir>
 
 <dir>
   <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Movies</title>
@@ -43,7 +47,7 @@
 </dir>
 
 <dir>
-<title>BNW Movies</title>
+<title>[COLOR mediumslateblue][B]B[/B][/COLOR]NW Movies</title>
 <bnw>movies</bnw>
 </dir>
 
