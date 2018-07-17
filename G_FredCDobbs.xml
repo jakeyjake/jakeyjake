@@ -64,6 +64,7 @@
                 <year>2017</year>
         </meta>
         <link>
+				<sublink>https://youtu.be/rrZk9sSgRyQ</sublink>
 				<sublink>https://stream.moe/embed2/fbc5c00347654001</sublink>
                 <sublink>search</sublink>
                 <sublink>searchsd</sublink>
@@ -74,6 +75,46 @@
         <fanart></fanart>
 </item>
 
+<item>
+        <title> Blade Runner 2036: Nexus Dawn (Luke Scott)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt7326248</imdb>
+                <title>2036: Nexus Dawn</title>
+                <year>2017</year>
+        </meta>
+        <link>
+				<sublink>https://youtu.be/UgsS3nhRRzQ</sublink>
+				<sublink>https://openload.co/f/Pv5EkQdO6Hk</sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://image.tmdb.org/t/p/original/1cq6zJB0ljEFvHBDwOLP3avtkJD.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
+
+
+<item>
+        <title> Blade Runner 2048: Nowhere to Run (Luke Scott)</title>
+        <meta>
+                <content>movie</content>
+                <imdb>tt7387408</imdb>
+                <title>2048: Nowhere to Run</title>
+                <year>2017</year>
+        </meta>
+        <link>
+				<sublink>https://youtu.be/aZ9Os8cP_gg</sublink>
+				<sublink>https://openload.co/f/P2E4XU3Gk8w</sublink>
+                <sublink>search</sublink>
+                <sublink>searchsd</sublink>
+        </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BZDFjMDZjYTEtMTYzMy00ZjFmLWE4NGMtMDA1YjlkZTg1ZDRlXkEyXkFqcGdeQXVyMjY2NDYyODQ@._V1_SY1000_CR0,0,714,1000_AL_.jpg</thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</item>
 
 <item>
         <title>Blade Runner 2049 (Denis Villeneuve 2017)</title>
