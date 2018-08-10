@@ -45,3 +45,14 @@
     <name>[B][COLOR tan]Classic Movies[/COLOR] [/B][I]The Dogs[/I]</name>
 	<link>plugin://plugin.video.thedogsbollocks/?fanart=https%3a%2f%2fwallpaperscraft.com%2fimage%2fpuppy_fold_bulldog_cute_dog_51167_1920x1080.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLORwhite%5dClassic%20Movies%20Pre%201970%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=http%3a%2f%2fsupremacy.org.uk%2ftombraider%2fdogsbollocks%2fgoldenoldies.txt&quot;,return)</link>
 </plugin>
+
+
+<plugin>
+<name>Search Movies - Death Streams</name>
+<link>plugin://plugin.video.blamo/?mode=search&amp;section=Movies&quot;,return)</link>
+</plugin>
+
+<plugin>
+<name>Search TV- Death Streams</name>
+<link>plugin://plugin.video.blamo/?mode=search&amp;section=TV&quot;,return)</link>
+</plugin>
