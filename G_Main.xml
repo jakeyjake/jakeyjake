@@ -3,6 +3,10 @@
 #######################################################################################################################################
 
 
+<dir>
+<name>Test5</name>
+<link>file://NewtestMain.xml</link>
+</dir>
 
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
