@@ -3,67 +3,72 @@
 #######################################################################################################################################
 
 <dir>
-  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Movies</title>
-  <trakt>https://api.trakt.tv/movies/trending</trakt>
+	<title>Upcoming Movie Trailers </title>
+	<imdburl>moviecalendar/US</imdburl>
+</dir>
+
+<dir>
+	<title>[COLOR mediumslateblue][B]T[/B][/COLOR]rending Movies</title>
+	<trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing</title>
-  <tmdb>movies/now_playing</tmdb>
+	<title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing</title>
+	<tmdb>movies/now_playing</tmdb>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular</title>
-  <tmdb>movies/popular</tmdb>
+	<title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular</title>
+	<tmdb>movies/popular</tmdb>
 </dir>
 
 
 <dir>
-  <title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated</title>
-  <tmdb>movies/top_rated</tmdb>
+	<title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated</title>
+	<tmdb>movies/top_rated</tmdb>
 </dir>
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Collections</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
-<thumbnail></thumbnail>
-<summary></summary>
+	<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Collections</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_MovieCollections.xml</link>
+	<thumbnail></thumbnail>
+	<summary></summary>
 </dir>
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Genres</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_genre_movies.xml</link>
-<thumbnail></thumbnail>
-<summary></summary>
+	<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovie Genres</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_genre_movies.xml</link>
+	<thumbnail></thumbnail>
+	<summary></summary>
 </dir>
 
 <dir>
-<title>[COLOR mediumslateblue][B]B[/B][/COLOR]NW Movies</title>
-<bnw>movies</bnw>
+	<title>[COLOR mediumslateblue][B]B[/B][/COLOR]NW Movies</title>
+	<bnw>movies</bnw>
 </dir>
 
 
 <dir>
-<name>[COLOR mediumslateblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
-<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
-<thumbnail></thumbnail>
-<summary>Some Favourite Films</summary>
+	<name>[COLOR mediumslateblue][B]T[/B][/COLOR]he Fred C Dobbs Film Awards</name>
+	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_FredCDobbs.xml</link>
+	<thumbnail></thumbnail>
+	<summary>Some Favourite Films</summary>
 </dir>
 
 
 
 <plugin>
-    <name>[COLOR mediumslateblue][B]A[/B][/COLOR]dd/[COLOR mediumslateblue][B]R[/B][/COLOR]emove items from Movie Watchlist - Trakt</name>
+	<name>[COLOR mediumslateblue][B]A[/B][/COLOR]dd/[COLOR mediumslateblue][B]R[/B][/COLOR]emove items from Movie Watchlist - Trakt</name>
 	<link>plugin://plugin.video.blamo/?mode=browse&amp;section=Movies&quot;,return)</link>
 </plugin>
 
 <dir>
-    <title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist - Trakt</title>
-    <trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
+	<title>[COLOR mediumslateblue][B]My[/B][/COLOR] Movie Watchlist - Trakt</title>
+	<trakt>https://api.trakt.tv/sync/watchlist/movies</trakt>
 </dir>
 
 
