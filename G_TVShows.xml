@@ -69,7 +69,7 @@
 
 <plugin>
     <name>[COLOR mediumslateblue][B]A[/B][/COLOR]dd/[COLOR mediumslateblue][B]R[/B][/COLOR]emove items from TV Watchlist - Trakt</name>
-	<link>plugin://plugin.video.blamo/?mode=browse&amp;section=TV&quot;,return)</link>
+	<link>plugin://plugin.video.jor-el/?action=mytvliteNavigator&quot;,return)</link>
 </plugin>
 
 
