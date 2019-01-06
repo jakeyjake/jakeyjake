@@ -27,6 +27,12 @@
 	<trakt>search</trakt>
 </dir>
 
+<dir>
+	<name>[B][COLOR tan]Search - Jor-El[/COLOR][/B]</name>
+	<link>plugin://plugin.video.jor-el/?action=searchNavigator&quot;,return)</link>
+</dir>
+
+
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
