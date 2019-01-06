@@ -16,6 +16,12 @@
 </dir>
 
 
+
+<dir>
+    <name>[COLOR mediumslateblue][B]O[/B][/COLOR]nly Fools & Horses - Luvvy Jubbly</name>
+    <link>plugin://plugin.video.delboy/?content_type=video&quot;,return)</link>
+</dir>
+
 <dir>
   <title>[COLOR mediumslateblue][B]O[/B][/COLOR]ldies Tv Shows</title>
   <trakt>https://api.trakt.tv/users/meerkat78/lists/meerkatoldies/items</trakt>
