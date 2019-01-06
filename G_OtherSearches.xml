@@ -29,8 +29,8 @@
 </plugin>
 
 <plugin>
-    <name>[B][COLOR tan]Rerun Century[/COLOR][/B] [I]All Shows[/I]</name>
-	<link>plugin://plugin.video.reruncentury/?mode=3&amp;name=All%20Shows%20(Alphabetical)&amp;url=http%3a%2f%2fwww.reruncentury.com%2fia%2f&amp;sf_options=meta%3Dvotes%253D0%2526label%253DAll%252BShows%252B%252528Alphabetical%252529%2526title%253DAll%252BShows%252B%252528Alphabetical%252529%26_options_sf&quot;,return)</link>
+    <name>[B][COLOR tan]Open Rerun Century[/COLOR][/B] [I]All Shows[/I]</name>
+	<link>plugin://plugin.video.reruncentury/&quot;,return</link>
 </plugin>
 
 

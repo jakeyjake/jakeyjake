@@ -2,8 +2,10 @@
 <poster>G_Movies</poster>
 #######################################################################################################################################
 
+
+
 <dir>
-	<title>Upcoming Movie Trailers </title>
+	<title>[COLOR mediumslateblue][B]U[/B][/COLOR]pcoming Movie Trailers</title>
 	<imdburl>moviecalendar/US</imdburl>
 </dir>
 
