@@ -23,6 +23,11 @@
 </dir>
 
 <dir>
+<name>The Phil Silvers Show</name>
+<link>file://Phil_Silvers_Show.xml</link>
+</dir>
+
+<dir>
   <title>[COLOR mediumslateblue][B]O[/B][/COLOR]ldies Tv Shows</title>
   <trakt>https://api.trakt.tv/users/meerkat78/lists/meerkatoldies/items</trakt>
 </dir>
