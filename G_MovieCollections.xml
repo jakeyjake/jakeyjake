@@ -88,14 +88,14 @@
 
 
 <plugin>
-<title>Timeless Classic Movies</title>
+<title>[COLOR mediumslateblue][B]T[/B][/COLOR]imeless Classic Movies</title>
 <link>plugin://plugin.video.youtube/channel/UCOg0aMAXmF3o5m243PxhE5g/playlists/</link>
 <thumbnail></thumbnail>
 </plugin>
 
 
 <dir>
-      <title>Time Travel Movies</title>
+      <title>[COLOR mediumslateblue][B]T[/B][/COLOR]ime Travel Movies</title>
       <tmdb>keyword/movies/4379</tmdb>
 </dir>
 
