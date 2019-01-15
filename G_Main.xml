@@ -4,27 +4,29 @@
 
 
 
-<dir>
+<!-- <dir>
 	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
 	<imdburl>searchmovies</imdburl>
 	<thumbnail></thumbnail>
-</dir>
+</dir> -->
 
-<dir>
+<!-- <dir>
 	<title>[B][COLOR tan]Search[/COLOR] TV Shows[/B] IMDb</title>
 	<imdburl>searchseries</imdburl>
 	<thumbnail></thumbnail>
-</dir>
+</dir> -->
 
 
-<dir>
-	<title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
-	<tmdb>search</tmdb>
-</dir>
+
 
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] All[/B] Trakt</title>
 	<trakt>search</trakt>
+</dir>
+
+<dir>
+	<title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
+	<tmdb>search</tmdb>
 </dir>
 
 <dir>
