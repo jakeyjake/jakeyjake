@@ -29,6 +29,11 @@
 </plugin>
 
 <plugin>
+    <name>[B][COLOR tan]Open DeathStar[/COLOR][/B]</name>
+	<link>plugin://plugin.video.ds/?content_type=video&quot;,return)</link>
+</plugin>
+
+<plugin>
     <name>[B][COLOR tan]Open Rerun Century[/COLOR][/B] [I]All Shows[/I]</name>
 	<link>plugin://plugin.video.reruncentury/&quot;,return</link>
 </plugin>
