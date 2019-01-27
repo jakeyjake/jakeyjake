@@ -45,6 +45,11 @@
 	<link>plugin://plugin.video.13clowns/?action=tvSearch&quot;,return)</link>
 </dir>
 
+<dir>
+	<name>[B][COLOR tan]Search [/COLOR][/B]Poached</name>
+	<link>plugin://plugin.video.Poached/?action=searchNavigator&quot;,return)</link>
+</dir>
+
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
