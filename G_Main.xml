@@ -46,8 +46,8 @@
 </dir>
 
 <dir>
-	<name>[B][COLOR tan]Search [/COLOR][/B]Poached</name>
-	<link>plugin://plugin.video.Poached/?action=searchNavigator&quot;,return)</link>
+	<name>[B][COLOR tan]Search [/COLOR][/B]Overeasy</name>
+	<link>plugin://plugin.video.overeasy/&quot;,return)</link>
 </dir>
 
 
