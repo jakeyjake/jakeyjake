@@ -4,19 +4,6 @@
 
 
 
-<!-- <dir>
-	<title>[B][COLOR tan]Search[/COLOR] Movies[/B] IMDb</title>
-	<imdburl>searchmovies</imdburl>
-	<thumbnail></thumbnail>
-</dir> -->
-
-<!-- <dir>
-	<title>[B][COLOR tan]Search[/COLOR] TV Shows[/B] IMDb</title>
-	<imdburl>searchseries</imdburl>
-	<thumbnail></thumbnail>
-</dir> -->
-
-
 
 
 <dir>
@@ -36,17 +23,17 @@
 
 
 <dir>
-	<name>[B][COLOR tan]Search Movies[/COLOR][/B] 13Clowns</name>
+	<name>[B][COLOR tan]Search[/COLOR] Movies[/B] 13Clowns</name>
 	<link>plugin://plugin.video.13clowns/?action=movieSearch&quot;,return)</link>
 </dir>
 
 <dir>
-	<name>[B][COLOR tan]Search TVShows[/COLOR][/B] 13Clowns</name>
+	<name>[B][COLOR tan]Search[/COLOR] TVShows[/B] 13Clowns</name>
 	<link>plugin://plugin.video.13clowns/?action=tvSearch&quot;,return)</link>
 </dir>
 
 <dir>
-	<name>[B][COLOR tan]Search [/COLOR][/B]Overeasy</name>
+	<name>[B][COLOR tan]Search[/COLOR][/B] Overeasy</name>
 	<link>plugin://plugin.video.overeasy/&quot;,return)</link>
 </dir>
 
@@ -83,12 +70,6 @@
 	<thumbnail></thumbnail>
 	<summary>Testings</summary>
 </plugin>
-
-
-<item>
-	<title>[COLOR darkturquoise][B]Pair[/B][/COLOR]</title>
-	<pairwith>pairlist</pairwith>
-</item>
 
 
 <item>
