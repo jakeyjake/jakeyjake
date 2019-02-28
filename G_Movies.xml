@@ -3,7 +3,7 @@
 #######################################################################################################################################
 
 <dir>
-  <title>[COLOR mediumslateblue][B]L[/B][/COLOR]atest Releases<title>
+  <title>[COLOR mediumslateblue][B]L[/B][/COLOR]atest Releases</title>
   <trakt>https://api.trakt.tv/users/giladg/lists/latest-releases/items</trakt>
   <thumbnail></thumbnail>
 </dir>
