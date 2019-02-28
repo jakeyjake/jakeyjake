@@ -3,9 +3,8 @@
 #######################################################################################################################################
 
 <dir>
-  <title>[COLOR mediumslateblue][B]L[/B][/COLOR]atest Releases</title>
-  <trakt>https://api.trakt.tv/users/giladg/lists/latest-releases?sort=added,asc/items</trakt>
-  <thumbnail></thumbnail>
+	<name>[COLOR mediumslateblue][B]L[/B][/COLOR]atest Movie Releases</name>
+	<link>plugin://plugin.video.jor-el/?action=movies&amp;url=http%3a%2f%2fapi.trakt.tv%2fusers%2fgiladg%2flists%2flatest-releases%2fitems&quot;,return)</link>
 </dir>
 
 <dir>
@@ -20,19 +19,19 @@
 
 
 <dir>
-	<title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing</title>
+	<title>[COLOR mediumslateblue][B]N[/B][/COLOR]ow Playing Movies</title>
 	<tmdb>movies/now_playing</tmdb>
 </dir>
 
 
 <dir>
-	<title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular</title>
+	<title>[COLOR mediumslateblue][B]P[/B][/COLOR]opular Movies</title>
 	<tmdb>movies/popular</tmdb>
 </dir>
 
 
 <dir>
-	<title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated</title>
+	<title>[COLOR mediumslateblue][B]T[/B][/COLOR]op Rated Movies</title>
 	<tmdb>movies/top_rated</tmdb>
 </dir>
 
