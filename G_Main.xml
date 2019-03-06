@@ -23,16 +23,6 @@
 
 
 <dir>
-	<name>[B][COLOR tan]Search[/COLOR] Movies[/B] 13Clowns</name>
-	<link>plugin://plugin.video.13clowns/?action=movieSearch&quot;,return)</link>
-</dir>
-
-<dir>
-	<name>[B][COLOR tan]Search[/COLOR] TVShows[/B] 13Clowns</name>
-	<link>plugin://plugin.video.13clowns/?action=tvSearch&quot;,return)</link>
-</dir>
-
-<dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Overeasy</name>
 	<link>plugin://plugin.video.overeasy/&quot;,return)</link>
 </dir>
