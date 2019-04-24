@@ -5,6 +5,7 @@
 <plugin>
 	<name>[COLOR mediumslateblue][B]L[/B][/COLOR]atest Movie Releases</name>
 	<link>plugin://plugin.video.jor-el/?action=movies&amp;url=http%3a%2f%2fapi.trakt.tv%2fusers%2fgiladg%2flists%2flatest-releases%2fitems&quot;,return)</link>
+	<fanart>https://i.imgur.com/0SgLNJ9.jpg</fanart>
 </plugin>
 
 <dir>
