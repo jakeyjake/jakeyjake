@@ -32,7 +32,7 @@
 
 <dir>
 	<name>[B][COLOR tan]Search TvShows[/COLOR][/B] Supremacy</name>
-	<link>plugin://plugin.video.supremacy/?action=tvNavigator&quot;,return)</link>
+	<link>plugin://plugin.video.supremacy/?action=tvSearch&quot;,return)</link>
 </dir>
 
 
