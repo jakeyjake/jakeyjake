@@ -43,3 +43,9 @@
     <name>[B][COLOR tan]Open Internet Archive[/COLOR][/B]</name>
 	<link>plugin://plugin.video.internetarchive/&quot;,return)</link>
 </plugin>
+
+
+<plugin>
+    <name>[B][COLOR tan]Open Supremacy[/COLOR][/B]</name>
+	<link>plugin://plugin.video.supremacy/&quot;,return)</link>
+</plugin>

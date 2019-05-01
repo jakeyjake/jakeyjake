@@ -22,11 +22,24 @@
 </dir>
 
 
+
+
+
+<dir>
+	<name>[B][COLOR tan]Search Movies[/COLOR][/B] Supremacy</name>
+	<link>plugin://plugin.video.supremacy/?action=movieSearch&quot;,return)</link>
+</dir>
+
+<dir>
+	<name>[B][COLOR tan]Search TvShows[/COLOR][/B] Supremacy</name>
+	<link>plugin://plugin.video.supremacy/?action=tvNavigator&quot;,return)</link>
+</dir>
+
+
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Overeasy</name>
 	<link>plugin://plugin.video.overeasy/&quot;,return)</link>
 </dir>
-
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
@@ -57,13 +70,6 @@
 <plugin>
 	<name>[COLOR mediumslateblue][B]C[/B][/COLOR]hannels</name>
 	<link>plugin://plugin.video.getger/?action=developer</link>
-	<thumbnail></thumbnail>
-	<summary>Testings</summary>
-</plugin>
-
-<plugin>
-	<name>[COLOR mediumslateblue][B]C[/B][/COLOR]hannels -Jen</name>
-	<link>plugin://plugin.videojen/?action=developer</link>
 	<thumbnail></thumbnail>
 	<summary>Testings</summary>
 </plugin>
