@@ -9,6 +9,8 @@
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] All[/B] Trakt</title>
 	<trakt>search</trakt>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 <dir>
