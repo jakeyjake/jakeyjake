@@ -16,11 +16,15 @@
 <dir>
 	<title>[B][COLOR tan]Search[/COLOR] All[/B] TMDB</title>
 	<tmdb>search</tmdb>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Jor-El</name>
 	<link>plugin://plugin.video.jor-el/?action=searchNavigator&quot;,return)</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
@@ -30,22 +34,30 @@
 <dir>
 	<name>[B][COLOR tan]Search Movies[/COLOR][/B] Supremacy</name>
 	<link>plugin://plugin.video.supremacy/?action=movieSearch&quot;,return)</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 <dir>
 	<name>[B][COLOR tan]Search TvShows[/COLOR][/B] Supremacy</name>
 	<link>plugin://plugin.video.supremacy/?action=tvSearch&quot;,return)</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Overeasy</name>
 	<link>plugin://plugin.video.overeasy/&quot;,return)</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 <dir>
 	<name>[B][COLOR tan]Search[/COLOR][/B] Others</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_OtherSearches.xml</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
@@ -54,32 +66,40 @@
 <dir>
 	<name>[COLOR mediumslateblue][B]M[/B][/COLOR]ovies</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_Movies.xml</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
 <dir>
 	<name>[COLOR mediumslateblue][B]TV[/B][/COLOR]Shows</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_TVShows.xml</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
 <dir>
 	<name>[COLOR mediumslateblue][B]A[/B][/COLOR]nimation</name>
 	<link>https://raw.githubusercontent.com/jakeyjake/jakeyjake/master/G_animation.xml</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 </dir>
 
 
-<plugin>
+<dir>
 	<name>[COLOR mediumslateblue][B]C[/B][/COLOR]hannels</name>
-	<link>plugin://plugin.video.getger/?action=developer</link>
-	<thumbnail></thumbnail>
-	<summary>Testings</summary>
-</plugin>
+	<link>file://tesings.xml</link>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
+</dir>
 
 
 <item>
 	<title>[COLOR darkturquoise][B]Settings[/B][/COLOR]</title>
 	<mysettings>0/0</mysettings>
+	<thumbnail>special://home/media/Getger_icon.png</thumbnail>
+	<fanart>special://home/media/Getger_fanart.jpg</fanart>
 	<info>Open the Settings for the addon on the Customization tab</info>
 </item>
 
