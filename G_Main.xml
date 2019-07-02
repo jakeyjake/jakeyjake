@@ -73,7 +73,7 @@
 
         <item>
             <title>My file</title>
-            <passreq>test|file://testings.xml</passreq>
+            <passreq>dGVzdHxmaWxlOi8vdGVzdGluZ3MueG1s</passreq>
         </item>
 
 
