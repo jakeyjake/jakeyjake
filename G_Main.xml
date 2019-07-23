@@ -28,7 +28,12 @@
 </dir>
 
 
-
+<plugin>
+<name>30702(Search Getger)</name>
+<link>plugin://plugin.video.getger/?action=search</link>
+<thumbnail></thumbnail>
+<summary>search</summary>
+</plugin>
 
 
 <dir>
