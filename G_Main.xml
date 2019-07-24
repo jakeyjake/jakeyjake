@@ -29,7 +29,7 @@
 
 
 <plugin>
-<name>30702(Search Getger)</name>
+<name>30702</name>
 <link>plugin://plugin.video.getger/?action=search</link>
 <thumbnail></thumbnail>
 <summary>search</summary>
