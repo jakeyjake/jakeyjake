@@ -3,11 +3,17 @@
 #######################################################################################################################################
 
 
-
 	<dir>
-    <title>Von - Current Shows</title>
-    <tmdb>list/124694</tmdb>
+	  <title>Selected Movies</title>
+	  <tmdb>list/125300</tmdb>
 	</dir>
+	
+	<dir>
+	  <title>Current TV Shows</title>
+	  <tmdb>list/124694</tmdb>
+	</dir>
+	
+
 
 	<dir>
 	  <title>TMDB List: Animal Kingdom</title>
